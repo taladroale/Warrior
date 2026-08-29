@@ -107,7 +107,7 @@
       "items": [
         {
           "title": "Barreda",
-          "posterUrl": "https://image.tmdb.org/t/p/original/i3UlAZgZrKiKonmMfliu17i6jnF.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/sJJ0Kh6x39jjFN02A0fLhLFlouL.jpg",
           "slug": "barreda",
           "type": "movie",
           "tmdbId": "1471168"
@@ -141,11 +141,11 @@
           "tmdbId": "1729723"
         },
         {
-          "title": "It Ends",
-          "posterUrl": "https://image.tmdb.org/t/p/original/x76Fsd65aUwS3W8S1L6NClpmhWP.jpg",
-          "slug": "it-ends",
+          "title": "La constelación del perro",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
+          "slug": "la-constelacion-del-perro",
           "type": "movie",
-          "tmdbId": "1422011"
+          "tmdbId": "1384216"
         },
         {
           "title": "La captura",
@@ -153,6 +153,13 @@
           "slug": "la-captura",
           "type": "movie",
           "tmdbId": "1621552"
+        },
+        {
+          "title": "It Ends",
+          "posterUrl": "https://image.tmdb.org/t/p/original/x76Fsd65aUwS3W8S1L6NClpmhWP.jpg",
+          "slug": "it-ends",
+          "type": "movie",
+          "tmdbId": "1422011"
         },
         {
           "title": "Infierno bajo cero",
@@ -167,13 +174,6 @@
           "slug": "chompoo-la-nina-desaparecida-y-olvidada",
           "type": "movie",
           "tmdbId": "1741201"
-        },
-        {
-          "title": "Coyote vs. Acme",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uD8uCTTdrsfFmRI468vB8FMoe9T.jpg",
-          "slug": "coyote-vs-acme",
-          "type": "movie",
-          "tmdbId": "1204680"
         }
       ]
     },
@@ -182,6 +182,20 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "La constelación del perro",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
+          "slug": "la-constelacion-del-perro",
+          "type": "movie",
+          "tmdbId": "1384216"
+        },
+        {
+          "title": "Coyote vs. Acme",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uD8uCTTdrsfFmRI468vB8FMoe9T.jpg",
+          "slug": "coyote-vs-acme",
+          "type": "movie",
+          "tmdbId": "1204680"
+        },
         {
           "title": "Susurran tu nombre",
           "posterUrl": "https://image.tmdb.org/t/p/original/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
@@ -198,7 +212,7 @@
         },
         {
           "title": "Barreda",
-          "posterUrl": "https://image.tmdb.org/t/p/original/i3UlAZgZrKiKonmMfliu17i6jnF.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/sJJ0Kh6x39jjFN02A0fLhLFlouL.jpg",
           "slug": "barreda",
           "type": "movie",
           "tmdbId": "1471168"
@@ -216,13 +230,6 @@
           "slug": "gohan",
           "type": "movie",
           "tmdbId": "1319522"
-        },
-        {
-          "title": "Coyote vs. Acme",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uD8uCTTdrsfFmRI468vB8FMoe9T.jpg",
-          "slug": "coyote-vs-acme",
-          "type": "movie",
-          "tmdbId": "1204680"
         },
         {
           "title": "The Mortuary Assistant",
@@ -244,13 +251,6 @@
           "slug": "grand-theft-auto-vi-an-extended-look",
           "type": "movie",
           "tmdbId": "1744462"
-        },
-        {
-          "title": "Un hijo propio",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3QylEx2tqfX8MXswK4oGdJUOExB.jpg",
-          "slug": "un-hijo-propio",
-          "type": "movie",
-          "tmdbId": "1616131"
         }
       ]
     }
