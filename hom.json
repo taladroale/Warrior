@@ -51,28 +51,20 @@
   ],
   "seriesHero": [
     {
-      "title": "Silo",
-      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "slug": "silo",
-      "tmdbId": "125988"
-    },
-    {
-      "title": "Bleach",
-      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "slug": "bleach",
-      "tmdbId": "30984"
-    },
-    {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó",
       "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
       "slug": "linternas",
       "tmdbId": "95350"
+    },
+    {
+      "title": "Silo",
+      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "slug": "silo",
+      "tmdbId": "125988"
     },
     {
       "title": "Reacher",
@@ -83,6 +75,14 @@
       "tmdbId": "108978"
     },
     {
+      "title": "Bleach",
+      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "slug": "bleach",
+      "tmdbId": "30984"
+    },
+    {
       "title": "Materia oscura",
       "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
       "posterUrl": "https://image.tmdb.org/t/p/original/iiSoJN7jTE33iQH2OOwkT4M6C96.jpg",
@@ -91,12 +91,12 @@
       "tmdbId": "196322"
     },
     {
-      "title": "Ratonera",
-      "synopsis": "Un escritor solitario despierta un día y descubre que le han robado la identidad, de modo que se alía con un despiadado usurero para recuperar su vida de las manos de «La Rata».",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vLA4OPULuoycF64ugkNXGURvp08.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/bYtQiIibQzvMeXvLMKVcZ5DlT31.jpg",
-      "slug": "ratonera",
-      "tmdbId": "290193"
+      "title": "Ted Lasso",
+      "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "slug": "ted-lasso",
+      "tmdbId": "97546"
     }
   ],
   "movieSections": [
@@ -106,6 +106,13 @@
       "seeMoreSlug": "estrenos",
       "items": [
         {
+          "title": "Una mujer sin pasado",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yOtIiIqKVlg5QH0pF88kJSI6c6K.jpg",
+          "slug": "una-mujer-sin-pasado",
+          "type": "movie",
+          "tmdbId": "1631807"
+        },
+        {
           "title": "Barreda",
           "posterUrl": "https://image.tmdb.org/t/p/original/sJJ0Kh6x39jjFN02A0fLhLFlouL.jpg",
           "slug": "barreda",
@@ -113,18 +120,18 @@
           "tmdbId": "1471168"
         },
         {
-          "title": "Grand Theft Auto VI: An Extended Look",
-          "posterUrl": "https://image.tmdb.org/t/p/original/32scX7wVONMtuQpnPkJjS72MUEI.jpg",
-          "slug": "grand-theft-auto-vi-an-extended-look",
-          "type": "movie",
-          "tmdbId": "1744462"
-        },
-        {
           "title": "Susurran tu nombre",
           "posterUrl": "https://image.tmdb.org/t/p/original/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
           "slug": "susurran-tu-nombre",
           "type": "movie",
           "tmdbId": "860508"
+        },
+        {
+          "title": "Grand Theft Auto VI: An Extended Look",
+          "posterUrl": "https://image.tmdb.org/t/p/original/32scX7wVONMtuQpnPkJjS72MUEI.jpg",
+          "slug": "grand-theft-auto-vi-an-extended-look",
+          "type": "movie",
+          "tmdbId": "1744462"
         },
         {
           "title": "Sunrise. El último amanecer",
@@ -148,13 +155,6 @@
           "tmdbId": "1384216"
         },
         {
-          "title": "La captura",
-          "posterUrl": "https://image.tmdb.org/t/p/original/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
-          "slug": "la-captura",
-          "type": "movie",
-          "tmdbId": "1621552"
-        },
-        {
           "title": "It Ends",
           "posterUrl": "https://image.tmdb.org/t/p/original/x76Fsd65aUwS3W8S1L6NClpmhWP.jpg",
           "slug": "it-ends",
@@ -162,18 +162,18 @@
           "tmdbId": "1422011"
         },
         {
+          "title": "La captura",
+          "posterUrl": "https://image.tmdb.org/t/p/original/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+          "slug": "la-captura",
+          "type": "movie",
+          "tmdbId": "1621552"
+        },
+        {
           "title": "Infierno bajo cero",
           "posterUrl": "https://image.tmdb.org/t/p/original/dQyyx00wZSiJlJEAT0oIo9NZVjn.jpg",
           "slug": "ice-skater",
           "type": "movie",
           "tmdbId": "1424965"
-        },
-        {
-          "title": "Chompoo: La niña desaparecida y olvidada",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pGodPfJIUkoXOnBM4RVSXHHeqby.jpg",
-          "slug": "chompoo-la-nina-desaparecida-y-olvidada",
-          "type": "movie",
-          "tmdbId": "1741201"
         }
       ]
     },
@@ -182,6 +182,13 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Una mujer sin pasado",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yOtIiIqKVlg5QH0pF88kJSI6c6K.jpg",
+          "slug": "una-mujer-sin-pasado",
+          "type": "movie",
+          "tmdbId": "1631807"
+        },
         {
           "title": "La constelación del perro",
           "posterUrl": "https://image.tmdb.org/t/p/original/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
@@ -244,13 +251,6 @@
           "slug": "el-quaterback-y-yo",
           "type": "movie",
           "tmdbId": "957119"
-        },
-        {
-          "title": "Grand Theft Auto VI: An Extended Look",
-          "posterUrl": "https://image.tmdb.org/t/p/original/32scX7wVONMtuQpnPkJjS72MUEI.jpg",
-          "slug": "grand-theft-auto-vi-an-extended-look",
-          "type": "movie",
-          "tmdbId": "1744462"
         }
       ]
     }
