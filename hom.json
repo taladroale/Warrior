@@ -1,0 +1,414 @@
+{
+  "movieHero": [
+    {
+      "title": "Susurran tu nombre",
+      "synopsis": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "slug": "susurran-tu-nombre",
+      "tmdbId": "860508"
+    },
+    {
+      "title": "La Odisea",
+      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentar",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "slug": "la-odisea-1368337",
+      "tmdbId": "1368337"
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681"
+    },
+    {
+      "title": "El motín",
+      "synopsis": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir u",
+      "posterUrl": "https://image.tmdb.org/t/p/original/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "slug": "el-motin",
+      "tmdbId": "1288445"
+    },
+    {
+      "title": "Sunrise. El último amanecer",
+      "synopsis": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a viv",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/tvY4QPyopLVaRkPVOQb3Y1dyy7f.jpg",
+      "slug": "sunrise-el-ultimo-amanecer",
+      "tmdbId": "1516698"
+    },
+    {
+      "title": "Obsesión",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
+      "posterUrl": "https://image.tmdb.org/t/p/original/wnyUBssII8ZRDjDRlUyXt6tX9rt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713"
+    }
+  ],
+  "seriesHero": [
+    {
+      "title": "Silo",
+      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "slug": "silo",
+      "tmdbId": "125988"
+    },
+    {
+      "title": "Linternas",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó",
+      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "slug": "linternas",
+      "tmdbId": "95350"
+    },
+    {
+      "title": "Reacher",
+      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "slug": "reacher",
+      "tmdbId": "108978"
+    },
+    {
+      "title": "Bleach",
+      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "slug": "bleach",
+      "tmdbId": "30984"
+    },
+    {
+      "title": "Materia oscura",
+      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/iiSoJN7jTE33iQH2OOwkT4M6C96.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/lcyaTfX6KEMpWNnzPoGPKp7LwwC.jpg",
+      "slug": "materia-oscura",
+      "tmdbId": "196322"
+    },
+    {
+      "title": "Ratonera",
+      "synopsis": "Un escritor solitario despierta un día y descubre que le han robado la identidad, de modo que se alía con un despiadado usurero para recuperar su vida de las manos de «La Rata».",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vLA4OPULuoycF64ugkNXGURvp08.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/bYtQiIibQzvMeXvLMKVcZ5DlT31.jpg",
+      "slug": "ratonera",
+      "tmdbId": "290193"
+    }
+  ],
+  "movieSections": [
+    {
+      "title": "Estrenos",
+      "type": "movie",
+      "seeMoreSlug": "estrenos",
+      "items": [
+        {
+          "title": "Barreda",
+          "posterUrl": "https://image.tmdb.org/t/p/original/i3UlAZgZrKiKonmMfliu17i6jnF.jpg",
+          "slug": "barreda",
+          "type": "movie",
+          "tmdbId": "1471168"
+        },
+        {
+          "title": "Grand Theft Auto VI: An Extended Look",
+          "posterUrl": "https://image.tmdb.org/t/p/original/32scX7wVONMtuQpnPkJjS72MUEI.jpg",
+          "slug": "grand-theft-auto-vi-an-extended-look",
+          "type": "movie",
+          "tmdbId": "1744462"
+        },
+        {
+          "title": "Susurran tu nombre",
+          "posterUrl": "https://image.tmdb.org/t/p/original/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
+          "slug": "susurran-tu-nombre",
+          "type": "movie",
+          "tmdbId": "860508"
+        },
+        {
+          "title": "Sunrise. El último amanecer",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
+          "slug": "sunrise-el-ultimo-amanecer",
+          "type": "movie",
+          "tmdbId": "1516698"
+        },
+        {
+          "title": "Los Simpson: Yellow Mirror: la realidad paralela de Homero",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9jkXiMrYWAbiuLDzt6DfBPARdzY.jpg",
+          "slug": "los-simpson-yellow-mirror-la-realidad-paralela-de-homero",
+          "type": "movie",
+          "tmdbId": "1729723"
+        },
+        {
+          "title": "It Ends",
+          "posterUrl": "https://image.tmdb.org/t/p/original/x76Fsd65aUwS3W8S1L6NClpmhWP.jpg",
+          "slug": "it-ends",
+          "type": "movie",
+          "tmdbId": "1422011"
+        },
+        {
+          "title": "La captura",
+          "posterUrl": "https://image.tmdb.org/t/p/original/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+          "slug": "la-captura",
+          "type": "movie",
+          "tmdbId": "1621552"
+        },
+        {
+          "title": "Infierno bajo cero",
+          "posterUrl": "https://image.tmdb.org/t/p/original/dQyyx00wZSiJlJEAT0oIo9NZVjn.jpg",
+          "slug": "ice-skater",
+          "type": "movie",
+          "tmdbId": "1424965"
+        },
+        {
+          "title": "Chompoo: La niña desaparecida y olvidada",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pGodPfJIUkoXOnBM4RVSXHHeqby.jpg",
+          "slug": "chompoo-la-nina-desaparecida-y-olvidada",
+          "type": "movie",
+          "tmdbId": "1741201"
+        },
+        {
+          "title": "Coyote vs. Acme",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uD8uCTTdrsfFmRI468vB8FMoe9T.jpg",
+          "slug": "coyote-vs-acme",
+          "type": "movie",
+          "tmdbId": "1204680"
+        }
+      ]
+    },
+    {
+      "title": "Últimas publicadas",
+      "type": "movie",
+      "seeMoreSlug": "ultimas",
+      "items": [
+        {
+          "title": "Susurran tu nombre",
+          "posterUrl": "https://image.tmdb.org/t/p/original/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
+          "slug": "susurran-tu-nombre",
+          "type": "movie",
+          "tmdbId": "860508"
+        },
+        {
+          "title": "Uno vuelve siempre",
+          "posterUrl": "https://image.tmdb.org/t/p/original/8chgdtCD2SYkJqI7FC6fgfyzuyj.jpg",
+          "slug": "uno-vuelve-siempre",
+          "type": "movie",
+          "tmdbId": "1521051"
+        },
+        {
+          "title": "Barreda",
+          "posterUrl": "https://image.tmdb.org/t/p/original/i3UlAZgZrKiKonmMfliu17i6jnF.jpg",
+          "slug": "barreda",
+          "type": "movie",
+          "tmdbId": "1471168"
+        },
+        {
+          "title": "Once Upon a Time in the Middle East",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
+          "slug": "once-upon-a-time-in-the-middle-east",
+          "type": "movie",
+          "tmdbId": "1391021"
+        },
+        {
+          "title": "Gohan",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bUmlrkJe411RzdVKBKLbRSJChem.jpg",
+          "slug": "gohan",
+          "type": "movie",
+          "tmdbId": "1319522"
+        },
+        {
+          "title": "Coyote vs. Acme",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uD8uCTTdrsfFmRI468vB8FMoe9T.jpg",
+          "slug": "coyote-vs-acme",
+          "type": "movie",
+          "tmdbId": "1204680"
+        },
+        {
+          "title": "The Mortuary Assistant",
+          "posterUrl": "https://image.tmdb.org/t/p/original/3loVbnQ9hmay4OA6QjV6yMpHRYf.jpg",
+          "slug": "the-mortuary-assistant",
+          "type": "movie",
+          "tmdbId": "1470130"
+        },
+        {
+          "title": "El quarterback y yo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6DJdWUrXWaekvLvKLdfZxGyBOZj.jpg",
+          "slug": "el-quaterback-y-yo",
+          "type": "movie",
+          "tmdbId": "957119"
+        },
+        {
+          "title": "Grand Theft Auto VI: An Extended Look",
+          "posterUrl": "https://image.tmdb.org/t/p/original/32scX7wVONMtuQpnPkJjS72MUEI.jpg",
+          "slug": "grand-theft-auto-vi-an-extended-look",
+          "type": "movie",
+          "tmdbId": "1744462"
+        },
+        {
+          "title": "Un hijo propio",
+          "posterUrl": "https://image.tmdb.org/t/p/original/3QylEx2tqfX8MXswK4oGdJUOExB.jpg",
+          "slug": "un-hijo-propio",
+          "type": "movie",
+          "tmdbId": "1616131"
+        }
+      ]
+    }
+  ],
+  "episodeSections": [
+    {
+      "title": "Últimas publicadas",
+      "type": "series",
+      "seeMoreSlug": "ultimas-series",
+      "items": [
+        {
+          "title": "Ratonera",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vLA4OPULuoycF64ugkNXGURvp08.jpg",
+          "slug": "ratonera",
+          "type": "series",
+          "tmdbId": "290193"
+        },
+        {
+          "title": "Toda la verdad de mis mentiras",
+          "posterUrl": "https://image.tmdb.org/t/p/original/dAISEl3uXtw64jlkTCm1H1XnQ4W.jpg",
+          "slug": "toda-la-verdad-de-mis-mentiras",
+          "type": "series",
+          "tmdbId": "292558"
+        },
+        {
+          "title": "Leanne",
+          "posterUrl": "https://image.tmdb.org/t/p/original/sILKrYhFK6bedXgDggQD3GmGUUV.jpg",
+          "slug": "leanne",
+          "type": "series",
+          "tmdbId": "252751"
+        },
+        {
+          "title": "Silo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
+          "slug": "silo",
+          "type": "series",
+          "tmdbId": "125988"
+        },
+        {
+          "title": "Stuart no consigue salvar el universo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
+          "slug": "stuart-no-consigue-salvar-el-universo",
+          "type": "series",
+          "tmdbId": "287620"
+        },
+        {
+          "title": "Adults",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5Qx7Apsmtte1LOD4VQDWHnHmljM.jpg",
+          "slug": "adults",
+          "type": "series",
+          "tmdbId": "260458"
+        },
+        {
+          "title": "Boston Blue",
+          "posterUrl": "https://image.tmdb.org/t/p/original/81IhL3ckAgJ9J8vHazlUA5BNs8G.jpg",
+          "slug": "boston-blue",
+          "type": "series",
+          "tmdbId": "284736"
+        },
+        {
+          "title": "Materia oscura",
+          "posterUrl": "https://image.tmdb.org/t/p/original/iiSoJN7jTE33iQH2OOwkT4M6C96.jpg",
+          "slug": "materia-oscura",
+          "type": "series",
+          "tmdbId": "196322"
+        },
+        {
+          "title": "Beauty in Black",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
+          "slug": "beauty-in-black",
+          "type": "series",
+          "tmdbId": "246246"
+        },
+        {
+          "title": "The Shards",
+          "posterUrl": "https://image.tmdb.org/t/p/original/78AYtwPTxWL7Q4Oe9e2TKHxPZLZ.jpg",
+          "slug": "the-shards",
+          "type": "series",
+          "tmdbId": "298168"
+        }
+      ]
+    },
+    {
+      "title": "Estrenos",
+      "type": "series",
+      "seeMoreSlug": "estrenos-series",
+      "items": [
+        {
+          "title": "Toda la verdad de mis mentiras",
+          "posterUrl": "https://image.tmdb.org/t/p/original/dAISEl3uXtw64jlkTCm1H1XnQ4W.jpg",
+          "slug": "toda-la-verdad-de-mis-mentiras",
+          "type": "series",
+          "tmdbId": "292558"
+        },
+        {
+          "title": "Ratonera",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vLA4OPULuoycF64ugkNXGURvp08.jpg",
+          "slug": "ratonera",
+          "type": "series",
+          "tmdbId": "290193"
+        },
+        {
+          "title": "Gutiérrez Is mai neim",
+          "posterUrl": "https://image.tmdb.org/t/p/original/sCjOLNZPeh067D2d7aXBeuwMGmn.jpg",
+          "slug": "gutierrez-is-mai-neim",
+          "type": "series",
+          "tmdbId": "275224"
+        },
+        {
+          "title": "Sacrificio de sangre",
+          "posterUrl": "https://image.tmdb.org/t/p/original/whKEwZcYVM0kzKHsS8LtS5SyD1c.jpg",
+          "slug": "sacrificio-de-sangre",
+          "type": "series",
+          "tmdbId": "303351"
+        },
+        {
+          "title": "S&X",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vHp5N6Tq2fzEVp7eZ7vK04SRmzM.jpg",
+          "slug": "sx",
+          "type": "series",
+          "tmdbId": "312523"
+        },
+        {
+          "title": "Linternas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+          "slug": "linternas",
+          "type": "series",
+          "tmdbId": "95350"
+        },
+        {
+          "title": "El peso de la ley",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xzpYlmAdRCpFT5BVaqAmdMn9Q5O.jpg",
+          "slug": "el-peso-de-la-ley",
+          "type": "series",
+          "tmdbId": "331650"
+        },
+        {
+          "title": "Moria",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5T0cYK9C5UDVlqYGIYB8hcxq65T.jpg",
+          "slug": "moria",
+          "type": "series",
+          "tmdbId": "322428"
+        },
+        {
+          "title": "Mi brillante carrera",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fwZSe7xoeRux9NUsjT5j4yM2NOo.jpg",
+          "slug": "mi-brillante-carrera",
+          "type": "series",
+          "tmdbId": "309798"
+        },
+        {
+          "title": "Operación Safed Sagar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6ZBudmDt59JHCPXFuwWz0sjAMwV.jpg",
+          "slug": "operacion-safed-sagar",
+          "type": "series",
+          "tmdbId": "284753"
+        }
+      ]
+    }
+  ]
+}
