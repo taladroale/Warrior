@@ -33,31 +33,23 @@
       "tmdbId": "1288445"
     },
     {
-      "title": "Sunrise. El último amanecer",
-      "synopsis": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a viv",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/tvY4QPyopLVaRkPVOQb3Y1dyy7f.jpg",
-      "slug": "sunrise-el-ultimo-amanecer",
-      "tmdbId": "1516698"
-    },
-    {
       "title": "Motor City",
       "synopsis": "En el Detroit de los años 70, el romántico de clase trabajadora John Miller es incriminado por un despiadado gángster tras enamorarse de su novia. Tras pasar años en prisión, regresa con una única mis",
       "posterUrl": "https://image.tmdb.org/t/p/original/9CatrE52P66ODUQmrMlBO7L0D5c.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
       "slug": "motor-city",
       "tmdbId": "87513"
+    },
+    {
+      "title": "Backrooms",
+      "synopsis": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "slug": "backrooms",
+      "tmdbId": "1083381"
     }
   ],
   "seriesHero": [
-    {
-      "title": "Linternas",
-      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó",
-      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-      "slug": "linternas",
-      "tmdbId": "95350"
-    },
     {
       "title": "Silo",
       "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
@@ -65,6 +57,14 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "slug": "silo",
       "tmdbId": "125988"
+    },
+    {
+      "title": "Bleach",
+      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "slug": "bleach",
+      "tmdbId": "30984"
     },
     {
       "title": "Reacher",
@@ -75,12 +75,12 @@
       "tmdbId": "108978"
     },
     {
-      "title": "Bleach",
-      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "slug": "bleach",
-      "tmdbId": "30984"
+      "title": "Linternas",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó",
+      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "slug": "linternas",
+      "tmdbId": "95350"
     },
     {
       "title": "Materia oscura",
