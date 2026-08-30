@@ -25,6 +25,14 @@
       "tmdbId": "969681"
     },
     {
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
+      "posterUrl": "https://image.tmdb.org/t/p/original/uD8uCTTdrsfFmRI468vB8FMoe9T.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680"
+    },
+    {
       "title": "El motín",
       "synopsis": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir u",
       "posterUrl": "https://image.tmdb.org/t/p/original/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
@@ -33,20 +41,12 @@
       "tmdbId": "1288445"
     },
     {
-      "title": "Motor City",
-      "synopsis": "En el Detroit de los años 70, el romántico de clase trabajadora John Miller es incriminado por un despiadado gángster tras enamorarse de su novia. Tras pasar años en prisión, regresa con una única mis",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9CatrE52P66ODUQmrMlBO7L0D5c.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/l7asYmqOad01F2u0oCMM8nQjoEP.jpg",
-      "slug": "motor-city",
-      "tmdbId": "87513"
-    },
-    {
-      "title": "Backrooms",
-      "synopsis": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "slug": "backrooms",
-      "tmdbId": "1083381"
+      "title": "Obsesión",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
+      "posterUrl": "https://image.tmdb.org/t/p/original/wnyUBssII8ZRDjDRlUyXt6tX9rt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713"
     }
   ],
   "seriesHero": [
