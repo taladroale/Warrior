@@ -262,6 +262,34 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Operaciones Especiales: Lioness",
+          "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+          "slug": "operaciones-especiales-lioness",
+          "type": "series",
+          "tmdbId": "113962"
+        },
+        {
+          "title": "Tribus de Europa",
+          "posterUrl": "https://image.tmdb.org/t/p/original/epm87meDcnss6OO8eJfe8xw3lbg.jpg",
+          "slug": "tribus-de-europa",
+          "type": "series",
+          "tmdbId": "93808"
+        },
+        {
+          "title": "The Undeclared War",
+          "posterUrl": "https://image.tmdb.org/t/p/original/3jBI62Gtl18CbMHSq4LRGilxxdC.jpg",
+          "slug": "the-undeclared-war",
+          "type": "series",
+          "tmdbId": "156988"
+        },
+        {
+          "title": "Dalliance",
+          "posterUrl": "https://image.tmdb.org/t/p/original/oUwy6xIffGNp94bkiqowBDM9W1S.jpg",
+          "slug": "dalliance",
+          "type": "series",
+          "tmdbId": "330540"
+        },
+        {
           "title": "El médico del fin del mundo",
           "posterUrl": "https://image.tmdb.org/t/p/original/jdwk9XFHEAyNGbHuxThwl0DJ7e6.jpg",
           "slug": "el-medico-del-fin-del-mundo",
@@ -302,34 +330,6 @@
           "slug": "silo",
           "type": "series",
           "tmdbId": "125988"
-        },
-        {
-          "title": "Stuart no consigue salvar el universo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
-          "slug": "stuart-no-consigue-salvar-el-universo",
-          "type": "series",
-          "tmdbId": "287620"
-        },
-        {
-          "title": "Adults",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5Qx7Apsmtte1LOD4VQDWHnHmljM.jpg",
-          "slug": "adults",
-          "type": "series",
-          "tmdbId": "260458"
-        },
-        {
-          "title": "Boston Blue",
-          "posterUrl": "https://image.tmdb.org/t/p/original/81IhL3ckAgJ9J8vHazlUA5BNs8G.jpg",
-          "slug": "boston-blue",
-          "type": "series",
-          "tmdbId": "284736"
-        },
-        {
-          "title": "Materia oscura",
-          "posterUrl": "https://image.tmdb.org/t/p/original/iiSoJN7jTE33iQH2OOwkT4M6C96.jpg",
-          "slug": "materia-oscura",
-          "type": "series",
-          "tmdbId": "196322"
         }
       ]
     },
