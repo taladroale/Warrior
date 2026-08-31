@@ -25,6 +25,14 @@
       "tmdbId": "969681"
     },
     {
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
+      "posterUrl": "https://image.tmdb.org/t/p/original/uD8uCTTdrsfFmRI468vB8FMoe9T.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680"
+    },
+    {
       "title": "El motín",
       "synopsis": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir u",
       "posterUrl": "https://image.tmdb.org/t/p/original/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
@@ -39,14 +47,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/tvY4QPyopLVaRkPVOQb3Y1dyy7f.jpg",
       "slug": "sunrise-el-ultimo-amanecer",
       "tmdbId": "1516698"
-    },
-    {
-      "title": "Obsesión",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
-      "posterUrl": "https://image.tmdb.org/t/p/original/wnyUBssII8ZRDjDRlUyXt6tX9rt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713"
     }
   ],
   "seriesHero": [
@@ -67,20 +67,20 @@
       "tmdbId": "125988"
     },
     {
-      "title": "Bleach",
-      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "slug": "bleach",
-      "tmdbId": "30984"
-    },
-    {
       "title": "Reacher",
       "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p",
       "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "slug": "reacher",
       "tmdbId": "108978"
+    },
+    {
+      "title": "Bleach",
+      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "slug": "bleach",
+      "tmdbId": "30984"
     },
     {
       "title": "Materia oscura",
@@ -114,7 +114,7 @@
         },
         {
           "title": "Barreda",
-          "posterUrl": "https://image.tmdb.org/t/p/original/sJJ0Kh6x39jjFN02A0fLhLFlouL.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/i3UlAZgZrKiKonmMfliu17i6jnF.jpg",
           "slug": "barreda",
           "type": "movie",
           "tmdbId": "1471168"
@@ -127,8 +127,8 @@
           "tmdbId": "860508"
         },
         {
-          "title": "Grand Theft Auto VI: An Extended Look",
-          "posterUrl": "https://image.tmdb.org/t/p/original/32scX7wVONMtuQpnPkJjS72MUEI.jpg",
+          "title": "Grand Theft Auto VI: Una mirada extendida",
+          "posterUrl": "https://image.tmdb.org/t/p/original/923Rlahei29QkKDFSKXoGAu6Uj7.jpg",
           "slug": "grand-theft-auto-vi-an-extended-look",
           "type": "movie",
           "tmdbId": "1744462"
@@ -262,6 +262,20 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "El médico del fin del mundo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jdwk9XFHEAyNGbHuxThwl0DJ7e6.jpg",
+          "slug": "el-medico-del-fin-del-mundo",
+          "type": "series",
+          "tmdbId": "287009"
+        },
+        {
+          "title": "Muertos de amor",
+          "posterUrl": "https://image.tmdb.org/t/p/original/74gzuJ9CFLPfgYpQNJmFEsNAeyD.jpg",
+          "slug": "muertos-de-amor",
+          "type": "series",
+          "tmdbId": "298610"
+        },
+        {
           "title": "Ratonera",
           "posterUrl": "https://image.tmdb.org/t/p/original/vLA4OPULuoycF64ugkNXGURvp08.jpg",
           "slug": "ratonera",
@@ -316,20 +330,6 @@
           "slug": "materia-oscura",
           "type": "series",
           "tmdbId": "196322"
-        },
-        {
-          "title": "Beauty in Black",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
-          "slug": "beauty-in-black",
-          "type": "series",
-          "tmdbId": "246246"
-        },
-        {
-          "title": "The Shards",
-          "posterUrl": "https://image.tmdb.org/t/p/original/78AYtwPTxWL7Q4Oe9e2TKHxPZLZ.jpg",
-          "slug": "the-shards",
-          "type": "series",
-          "tmdbId": "298168"
         }
       ]
     },
