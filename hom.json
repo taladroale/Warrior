@@ -262,6 +262,13 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Mentes brillantes",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6zdb8C4mn1OLDqY5jQScnjBeXQ9.jpg",
+          "slug": "brilliant-minds",
+          "type": "series",
+          "tmdbId": "237748"
+        },
+        {
           "title": "Operaciones Especiales: Lioness",
           "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
           "slug": "operaciones-especiales-lioness",
@@ -323,13 +330,6 @@
           "slug": "leanne",
           "type": "series",
           "tmdbId": "252751"
-        },
-        {
-          "title": "Silo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
-          "slug": "silo",
-          "type": "series",
-          "tmdbId": "125988"
         }
       ]
     },
