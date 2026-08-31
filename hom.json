@@ -33,31 +33,23 @@
       "tmdbId": "1204680"
     },
     {
-      "title": "Sunrise. El último amanecer",
-      "synopsis": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a viv",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-      "slug": "sunrise-el-ultimo-amanecer",
-      "tmdbId": "1516698"
+      "title": "Obsesión",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713"
     },
     {
-      "title": "Backrooms",
-      "synopsis": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "slug": "backrooms",
-      "tmdbId": "1083381"
+      "title": "El motín",
+      "synopsis": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir u",
+      "posterUrl": "https://image.tmdb.org/t/p/original/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "slug": "el-motin",
+      "tmdbId": "1288445"
     }
   ],
   "seriesHero": [
-    {
-      "title": "Silo",
-      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "slug": "silo",
-      "tmdbId": "125988"
-    },
     {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó",
@@ -67,20 +59,12 @@
       "tmdbId": "95350"
     },
     {
-      "title": "Materia oscura",
-      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/iiSoJN7jTE33iQH2OOwkT4M6C96.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/lcyaTfX6KEMpWNnzPoGPKp7LwwC.jpg",
-      "slug": "materia-oscura",
-      "tmdbId": "196322"
-    },
-    {
-      "title": "Reacher",
-      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "slug": "reacher",
-      "tmdbId": "108978"
+      "title": "Silo",
+      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "slug": "silo",
+      "tmdbId": "125988"
     },
     {
       "title": "Bleach",
@@ -91,12 +75,28 @@
       "tmdbId": "30984"
     },
     {
-      "title": "Operaciones Especiales: Lioness",
-      "synopsis": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe",
-      "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "slug": "operaciones-especiales-lioness",
-      "tmdbId": "113962"
+      "title": "Reacher",
+      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "slug": "reacher",
+      "tmdbId": "108978"
+    },
+    {
+      "title": "Materia oscura",
+      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/iiSoJN7jTE33iQH2OOwkT4M6C96.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/lcyaTfX6KEMpWNnzPoGPKp7LwwC.jpg",
+      "slug": "materia-oscura",
+      "tmdbId": "196322"
+    },
+    {
+      "title": "Ratonera",
+      "synopsis": "Un escritor solitario despierta un día y descubre que le han robado la identidad, de modo que se alía con un despiadado usurero para recuperar su vida de las manos de «La Rata».",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vLA4OPULuoycF64ugkNXGURvp08.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
+      "slug": "ratonera",
+      "tmdbId": "290193"
     }
   ],
   "movieSections": [
@@ -190,6 +190,13 @@
           "tmdbId": "1433367"
         },
         {
+          "title": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
+          "posterUrl": "https://image.tmdb.org/t/p/original/nc6N2gh2fjlnY6q4R8ufLqDf10X.jpg",
+          "slug": "mobile-suit-gundam-hathaway-the-sorcery-of-nymph-circe",
+          "type": "movie",
+          "tmdbId": "910850"
+        },
+        {
           "title": "Gintama: Yoshiwara en llamas",
           "posterUrl": "https://image.tmdb.org/t/p/original/qL5xIPoloSWgTGSH4ZuuwWbhQ6A.jpg",
           "slug": "gintama-yoshiwara-in-flames",
@@ -244,13 +251,6 @@
           "slug": "once-upon-a-time-in-the-middle-east",
           "type": "movie",
           "tmdbId": "1391021"
-        },
-        {
-          "title": "Gohan",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bUmlrkJe411RzdVKBKLbRSJChem.jpg",
-          "slug": "gohan",
-          "type": "movie",
-          "tmdbId": "1319522"
         }
       ]
     }
@@ -339,6 +339,13 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
+          "title": "Ratonera",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vLA4OPULuoycF64ugkNXGURvp08.jpg",
+          "slug": "ratonera",
+          "type": "series",
+          "tmdbId": "290193"
+        },
+        {
           "title": "Toda la verdad de mis mentiras",
           "posterUrl": "https://image.tmdb.org/t/p/original/dAISEl3uXtw64jlkTCm1H1XnQ4W.jpg",
           "slug": "toda-la-verdad-de-mis-mentiras",
@@ -346,11 +353,11 @@
           "tmdbId": "292558"
         },
         {
-          "title": "Ratonera",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vLA4OPULuoycF64ugkNXGURvp08.jpg",
-          "slug": "ratonera",
+          "title": "Dalliance",
+          "posterUrl": "https://image.tmdb.org/t/p/original/oUwy6xIffGNp94bkiqowBDM9W1S.jpg",
+          "slug": "dalliance",
           "type": "series",
-          "tmdbId": "290193"
+          "tmdbId": "330540"
         },
         {
           "title": "Gutiérrez Is mai neim",
@@ -381,13 +388,6 @@
           "tmdbId": "95350"
         },
         {
-          "title": "El peso de la ley",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xzpYlmAdRCpFT5BVaqAmdMn9Q5O.jpg",
-          "slug": "el-peso-de-la-ley",
-          "type": "series",
-          "tmdbId": "331650"
-        },
-        {
           "title": "Moria",
           "posterUrl": "https://image.tmdb.org/t/p/original/5T0cYK9C5UDVlqYGIYB8hcxq65T.jpg",
           "slug": "moria",
@@ -395,18 +395,18 @@
           "tmdbId": "322428"
         },
         {
+          "title": "El peso de la ley",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xzpYlmAdRCpFT5BVaqAmdMn9Q5O.jpg",
+          "slug": "el-peso-de-la-ley",
+          "type": "series",
+          "tmdbId": "331650"
+        },
+        {
           "title": "Mi brillante carrera",
           "posterUrl": "https://image.tmdb.org/t/p/original/fwZSe7xoeRux9NUsjT5j4yM2NOo.jpg",
           "slug": "mi-brillante-carrera",
           "type": "series",
           "tmdbId": "309798"
-        },
-        {
-          "title": "Operación Safed Sagar",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6ZBudmDt59JHCPXFuwWz0sjAMwV.jpg",
-          "slug": "operacion-safed-sagar",
-          "type": "series",
-          "tmdbId": "284753"
         }
       ]
     }
