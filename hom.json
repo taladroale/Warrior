@@ -41,12 +41,12 @@
       "tmdbId": "1339713"
     },
     {
-      "title": "El motín",
-      "synopsis": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir u",
-      "posterUrl": "https://image.tmdb.org/t/p/original/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
-      "slug": "el-motin",
-      "tmdbId": "1288445"
+      "title": "Sunrise. El último amanecer",
+      "synopsis": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a viv",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+      "slug": "sunrise-el-ultimo-amanecer",
+      "tmdbId": "1516698"
     }
   ],
   "seriesHero": [
@@ -91,12 +91,12 @@
       "tmdbId": "108978"
     },
     {
-      "title": "Furious",
-      "synopsis": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea e",
-      "posterUrl": "https://image.tmdb.org/t/p/original/yfcCHbWg1XtFvqcp6cWmEnYWA7r.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "slug": "furious",
-      "tmdbId": "287238"
+      "title": "Ratonera",
+      "synopsis": "Un escritor solitario despierta un día y descubre que le han robado la identidad, de modo que se alía con un despiadado usurero para recuperar su vida de las manos de «La Rata».",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vLA4OPULuoycF64ugkNXGURvp08.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
+      "slug": "ratonera",
+      "tmdbId": "290193"
     }
   ],
   "movieSections": [
