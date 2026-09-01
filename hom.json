@@ -25,12 +25,12 @@
       "tmdbId": "969681"
     },
     {
-      "title": "Coyote vs. Acme",
-      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
-      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-      "slug": "coyote-vs-acme",
-      "tmdbId": "1204680"
+      "title": "Sunrise. El último amanecer",
+      "synopsis": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a viv",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+      "slug": "sunrise-el-ultimo-amanecer",
+      "tmdbId": "1516698"
     },
     {
       "title": "El motín",
@@ -41,12 +41,12 @@
       "tmdbId": "1288445"
     },
     {
-      "title": "Sunrise. El último amanecer",
-      "synopsis": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a viv",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-      "slug": "sunrise-el-ultimo-amanecer",
-      "tmdbId": "1516698"
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
+      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680"
     }
   ],
   "seriesHero": [
@@ -127,11 +127,25 @@
           "tmdbId": "860508"
         },
         {
+          "title": "Buddy",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
+          "slug": "buddy",
+          "type": "movie",
+          "tmdbId": "1514026"
+        },
+        {
           "title": "Grand Theft Auto VI: Una mirada extendida",
           "posterUrl": "https://image.tmdb.org/t/p/original/923Rlahei29QkKDFSKXoGAu6Uj7.jpg",
           "slug": "grand-theft-auto-vi-an-extended-look",
           "type": "movie",
           "tmdbId": "1744462"
+        },
+        {
+          "title": "La constelación del perro",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
+          "slug": "la-constelacion-del-perro",
+          "type": "movie",
+          "tmdbId": "1384216"
         },
         {
           "title": "Sunrise. El último amanecer",
@@ -148,13 +162,6 @@
           "tmdbId": "1729723"
         },
         {
-          "title": "La constelación del perro",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
-          "slug": "la-constelacion-del-perro",
-          "type": "movie",
-          "tmdbId": "1384216"
-        },
-        {
           "title": "It Ends",
           "posterUrl": "https://image.tmdb.org/t/p/original/x76Fsd65aUwS3W8S1L6NClpmhWP.jpg",
           "slug": "it-ends",
@@ -167,13 +174,6 @@
           "slug": "la-captura",
           "type": "movie",
           "tmdbId": "1621552"
-        },
-        {
-          "title": "Infierno bajo cero",
-          "posterUrl": "https://image.tmdb.org/t/p/original/dQyyx00wZSiJlJEAT0oIo9NZVjn.jpg",
-          "slug": "ice-skater",
-          "type": "movie",
-          "tmdbId": "1424965"
         }
       ]
     },
@@ -182,6 +182,41 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Amor es amor",
+          "posterUrl": "https://image.tmdb.org/t/p/original/klwPK4U79XyZxfUJmXmqsK4ppor.jpg",
+          "slug": "amor-es-amor",
+          "type": "movie",
+          "tmdbId": "772506"
+        },
+        {
+          "title": "Curse of the Shark",
+          "posterUrl": "https://image.tmdb.org/t/p/original/8dnJvqZ2e2C2MxfBlq0E9FjKPsY.jpg",
+          "slug": "curse-of-the-shark",
+          "type": "movie",
+          "tmdbId": "1741207"
+        },
+        {
+          "title": "Buddy",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
+          "slug": "buddy",
+          "type": "movie",
+          "tmdbId": "1514026"
+        },
+        {
+          "title": "Miss You, Love You",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rSyzo9gfS0wdUZl0u9WqRRFNUXv.jpg",
+          "slug": "miss-you-love-you",
+          "type": "movie",
+          "tmdbId": "1232667"
+        },
+        {
+          "title": "Havana",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2SKyShVg8PajC1JEwKrAaIlmxx0.jpg",
+          "slug": "havana",
+          "type": "movie",
+          "tmdbId": "956728"
+        },
         {
           "title": "Una noche al año",
           "posterUrl": "https://image.tmdb.org/t/p/original/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
@@ -216,41 +251,6 @@
           "slug": "una-mujer-sin-pasado",
           "type": "movie",
           "tmdbId": "1631807"
-        },
-        {
-          "title": "La constelación del perro",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
-          "slug": "la-constelacion-del-perro",
-          "type": "movie",
-          "tmdbId": "1384216"
-        },
-        {
-          "title": "Susurran tu nombre",
-          "posterUrl": "https://image.tmdb.org/t/p/original/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-          "slug": "susurran-tu-nombre",
-          "type": "movie",
-          "tmdbId": "860508"
-        },
-        {
-          "title": "Uno vuelve siempre",
-          "posterUrl": "https://image.tmdb.org/t/p/original/8chgdtCD2SYkJqI7FC6fgfyzuyj.jpg",
-          "slug": "uno-vuelve-siempre",
-          "type": "movie",
-          "tmdbId": "1521051"
-        },
-        {
-          "title": "Barreda",
-          "posterUrl": "https://image.tmdb.org/t/p/original/i3UlAZgZrKiKonmMfliu17i6jnF.jpg",
-          "slug": "barreda",
-          "type": "movie",
-          "tmdbId": "1471168"
-        },
-        {
-          "title": "Once Upon a Time in the Middle East",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-          "slug": "once-upon-a-time-in-the-middle-east",
-          "type": "movie",
-          "tmdbId": "1391021"
         }
       ]
     }
@@ -261,6 +261,62 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Hotel Todo Incluido",
+          "posterUrl": "https://image.tmdb.org/t/p/original/r7CJuUXoIl8lgISfTwt5zzGWeQG.jpg",
+          "slug": "hotel-todo-incluido",
+          "type": "series",
+          "tmdbId": "333096"
+        },
+        {
+          "title": "El Joven de la Foto",
+          "posterUrl": "https://image.tmdb.org/t/p/original/8IyYReUdK5nDRRyR1YVMt3dGsq0.jpg",
+          "slug": "el-joven-de-la-foto",
+          "type": "series",
+          "tmdbId": "318138"
+        },
+        {
+          "title": "El método Scaloni",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wQ3i7GOo5KCisTKPvTUyomJLjRB.jpg",
+          "slug": "el-metodo-scaloni",
+          "type": "series",
+          "tmdbId": "325535"
+        },
+        {
+          "title": "Furious",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yfcCHbWg1XtFvqcp6cWmEnYWA7r.jpg",
+          "slug": "furious",
+          "type": "series",
+          "tmdbId": "287238"
+        },
+        {
+          "title": "Cuatro manos, dos sonatas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hzr5KVD2DCASbK6lqa3v07wa0ri.jpg",
+          "slug": "cuatro-manos-dos-sonatas",
+          "type": "series",
+          "tmdbId": "305644"
+        },
+        {
+          "title": "Nueva vida en Ransom Canyon",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1efzyMfIe3WauOCWk7Gn56gj7sL.jpg",
+          "slug": "nueva-vida-en-ransom-canyon",
+          "type": "series",
+          "tmdbId": "240993"
+        },
+        {
+          "title": "Pompeya antes del desastre, con Tom Hiddleston",
+          "posterUrl": "https://image.tmdb.org/t/p/original/q9WgNd9MHM6ToJovvyMseZGRJui.jpg",
+          "slug": "pompeya-antes-del-desastre-con-tom-hiddleston",
+          "type": "series",
+          "tmdbId": "277640"
+        },
+        {
+          "title": "Linternas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+          "slug": "linternas",
+          "type": "series",
+          "tmdbId": "95350"
+        },
         {
           "title": "Mentes brillantes",
           "posterUrl": "https://image.tmdb.org/t/p/original/6zdb8C4mn1OLDqY5jQScnjBeXQ9.jpg",
@@ -274,62 +330,6 @@
           "slug": "operaciones-especiales-lioness",
           "type": "series",
           "tmdbId": "113962"
-        },
-        {
-          "title": "Tribus de Europa",
-          "posterUrl": "https://image.tmdb.org/t/p/original/epm87meDcnss6OO8eJfe8xw3lbg.jpg",
-          "slug": "tribus-de-europa",
-          "type": "series",
-          "tmdbId": "93808"
-        },
-        {
-          "title": "The Undeclared War",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3jBI62Gtl18CbMHSq4LRGilxxdC.jpg",
-          "slug": "the-undeclared-war",
-          "type": "series",
-          "tmdbId": "156988"
-        },
-        {
-          "title": "Dalliance",
-          "posterUrl": "https://image.tmdb.org/t/p/original/oUwy6xIffGNp94bkiqowBDM9W1S.jpg",
-          "slug": "dalliance",
-          "type": "series",
-          "tmdbId": "330540"
-        },
-        {
-          "title": "El médico del fin del mundo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jdwk9XFHEAyNGbHuxThwl0DJ7e6.jpg",
-          "slug": "el-medico-del-fin-del-mundo",
-          "type": "series",
-          "tmdbId": "287009"
-        },
-        {
-          "title": "Muertos de amor",
-          "posterUrl": "https://image.tmdb.org/t/p/original/74gzuJ9CFLPfgYpQNJmFEsNAeyD.jpg",
-          "slug": "muertos-de-amor",
-          "type": "series",
-          "tmdbId": "298610"
-        },
-        {
-          "title": "Ratonera",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vLA4OPULuoycF64ugkNXGURvp08.jpg",
-          "slug": "ratonera",
-          "type": "series",
-          "tmdbId": "290193"
-        },
-        {
-          "title": "Toda la verdad de mis mentiras",
-          "posterUrl": "https://image.tmdb.org/t/p/original/dAISEl3uXtw64jlkTCm1H1XnQ4W.jpg",
-          "slug": "toda-la-verdad-de-mis-mentiras",
-          "type": "series",
-          "tmdbId": "292558"
-        },
-        {
-          "title": "Leanne",
-          "posterUrl": "https://image.tmdb.org/t/p/original/sILKrYhFK6bedXgDggQD3GmGUUV.jpg",
-          "slug": "leanne",
-          "type": "series",
-          "tmdbId": "252751"
         }
       ]
     },
