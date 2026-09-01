@@ -17,14 +17,6 @@
       "tmdbId": "1368337"
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681"
-    },
-    {
       "title": "Coyote vs. Acme",
       "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
       "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
@@ -33,12 +25,12 @@
       "tmdbId": "1204680"
     },
     {
-      "title": "Obsesión",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713"
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681"
     },
     {
       "title": "Sunrise. El último amanecer",
@@ -47,6 +39,14 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
       "slug": "sunrise-el-ultimo-amanecer",
       "tmdbId": "1516698"
+    },
+    {
+      "title": "El motín",
+      "synopsis": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir u",
+      "posterUrl": "https://image.tmdb.org/t/p/original/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "slug": "el-motin",
+      "tmdbId": "1288445"
     }
   ],
   "seriesHero": [
@@ -57,6 +57,14 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
       "slug": "linternas",
       "tmdbId": "95350"
+    },
+    {
+      "title": "Materia oscura",
+      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/iiSoJN7jTE33iQH2OOwkT4M6C96.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/lcyaTfX6KEMpWNnzPoGPKp7LwwC.jpg",
+      "slug": "materia-oscura",
+      "tmdbId": "196322"
     },
     {
       "title": "Silo",
@@ -73,14 +81,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
       "slug": "bleach",
       "tmdbId": "30984"
-    },
-    {
-      "title": "Materia oscura",
-      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/iiSoJN7jTE33iQH2OOwkT4M6C96.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/lcyaTfX6KEMpWNnzPoGPKp7LwwC.jpg",
-      "slug": "materia-oscura",
-      "tmdbId": "196322"
     },
     {
       "title": "Reacher",
