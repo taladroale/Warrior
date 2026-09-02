@@ -9,6 +9,14 @@
       "tmdbId": "860508"
     },
     {
+      "title": "La Odisea",
+      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentar",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "slug": "la-odisea-1368337",
+      "tmdbId": "1368337"
+    },
+    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
       "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
@@ -25,14 +33,6 @@
       "tmdbId": "1204680"
     },
     {
-      "title": "La Odisea",
-      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentar",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-      "slug": "la-odisea-1368337",
-      "tmdbId": "1368337"
-    },
-    {
       "title": "Obsesión",
       "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
       "posterUrl": "https://image.tmdb.org/t/p/original/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
@@ -41,12 +41,12 @@
       "tmdbId": "1339713"
     },
     {
-      "title": "Sunrise. El último amanecer",
-      "synopsis": "Basada en la aclamada novela, SUNRISE. El último amanecer presenta a Ry, una estudiante con una enfermedad crónica durante un verano en Mallorca con su madre. Tras enamorarse de Julián y empezar a viv",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-      "slug": "sunrise-el-ultimo-amanecer",
-      "tmdbId": "1516698"
+      "title": "El motín",
+      "synopsis": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir u",
+      "posterUrl": "https://image.tmdb.org/t/p/original/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "slug": "el-motin",
+      "tmdbId": "1288445"
     }
   ],
   "seriesHero": [
@@ -67,22 +67,6 @@
       "tmdbId": "125988"
     },
     {
-      "title": "Reacher",
-      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "slug": "reacher",
-      "tmdbId": "108978"
-    },
-    {
-      "title": "Furious",
-      "synopsis": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea e",
-      "posterUrl": "https://image.tmdb.org/t/p/original/yfcCHbWg1XtFvqcp6cWmEnYWA7r.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "slug": "furious",
-      "tmdbId": "287238"
-    },
-    {
       "title": "Bleach",
       "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
       "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
@@ -91,12 +75,28 @@
       "tmdbId": "30984"
     },
     {
+      "title": "Reacher",
+      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "slug": "reacher",
+      "tmdbId": "108978"
+    },
+    {
       "title": "Materia oscura",
       "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
       "posterUrl": "https://image.tmdb.org/t/p/original/iiSoJN7jTE33iQH2OOwkT4M6C96.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/lcyaTfX6KEMpWNnzPoGPKp7LwwC.jpg",
       "slug": "materia-oscura",
       "tmdbId": "196322"
+    },
+    {
+      "title": "Ted Lasso",
+      "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "slug": "ted-lasso",
+      "tmdbId": "97546"
     }
   ],
   "movieSections": [
