@@ -9,20 +9,20 @@
       "tmdbId": "860508"
     },
     {
-      "title": "Coyote vs. Acme",
-      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
-      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-      "slug": "coyote-vs-acme",
-      "tmdbId": "1204680"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
       "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
       "slug": "spider-man-brand-new-day",
       "tmdbId": "969681"
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
+      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680"
     },
     {
       "title": "La Odisea",
@@ -33,12 +33,12 @@
       "tmdbId": "1368337"
     },
     {
-      "title": "El motín",
-      "synopsis": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir u",
-      "posterUrl": "https://image.tmdb.org/t/p/original/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
-      "slug": "el-motin",
-      "tmdbId": "1288445"
+      "title": "Obsesión",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713"
     },
     {
       "title": "Sunrise. El último amanecer",
@@ -59,6 +59,14 @@
       "tmdbId": "95350"
     },
     {
+      "title": "Silo",
+      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "slug": "silo",
+      "tmdbId": "125988"
+    },
+    {
       "title": "Reacher",
       "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p",
       "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
@@ -67,12 +75,12 @@
       "tmdbId": "108978"
     },
     {
-      "title": "Silo",
-      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ak7NFISSaROyoWjSOIjamhpt1LB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "slug": "silo",
-      "tmdbId": "125988"
+      "title": "Furious",
+      "synopsis": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea e",
+      "posterUrl": "https://image.tmdb.org/t/p/original/yfcCHbWg1XtFvqcp6cWmEnYWA7r.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+      "slug": "furious",
+      "tmdbId": "287238"
     },
     {
       "title": "Bleach",
@@ -89,14 +97,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/lcyaTfX6KEMpWNnzPoGPKp7LwwC.jpg",
       "slug": "materia-oscura",
       "tmdbId": "196322"
-    },
-    {
-      "title": "Ratonera",
-      "synopsis": "Un escritor solitario despierta un día y descubre que le han robado la identidad, de modo que se alía con un despiadado usurero para recuperar su vida de las manos de «La Rata».",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vLA4OPULuoycF64ugkNXGURvp08.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
-      "slug": "ratonera",
-      "tmdbId": "290193"
     }
   ],
   "movieSections": [
