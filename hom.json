@@ -113,6 +113,13 @@
           "tmdbId": "1744876"
         },
         {
+          "title": "Gandhari",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+          "slug": "gandhari",
+          "type": "movie",
+          "tmdbId": "1355228"
+        },
+        {
           "title": "A la carrera",
           "posterUrl": "https://image.tmdb.org/t/p/original/dn0Vqfcd6T7xpiOnTpiAQRF1tXi.jpg",
           "slug": "a-la-carrera",
@@ -127,18 +134,18 @@
           "tmdbId": "1731694"
         },
         {
+          "title": "Mayday",
+          "posterUrl": "https://image.tmdb.org/t/p/original/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
+          "slug": "mayday",
+          "type": "movie",
+          "tmdbId": "1137844"
+        },
+        {
           "title": "Vertigo 2: Punto muerto",
           "posterUrl": "https://image.tmdb.org/t/p/original/xQlESgkDM7rczAWySdB0WBomh39.jpg",
           "slug": "vertigo-2-punto-muerto",
           "type": "movie",
           "tmdbId": "1101412"
-        },
-        {
-          "title": "Barreda",
-          "posterUrl": "https://image.tmdb.org/t/p/original/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
-          "slug": "barreda",
-          "type": "movie",
-          "tmdbId": "1471168"
         },
         {
           "title": "Una mujer sin pasado",
@@ -148,18 +155,11 @@
           "tmdbId": "1631807"
         },
         {
-          "title": "Susurran tu nombre",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hViXtdkJ6PwCUjCpwuULKsGlidK.jpg",
-          "slug": "susurran-tu-nombre",
+          "title": "Barreda",
+          "posterUrl": "https://image.tmdb.org/t/p/original/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+          "slug": "barreda",
           "type": "movie",
-          "tmdbId": "860508"
-        },
-        {
-          "title": "Buddy",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
-          "slug": "buddy",
-          "type": "movie",
-          "tmdbId": "1514026"
+          "tmdbId": "1471168"
         },
         {
           "title": "Grand Theft Auto VI: Una mirada extendida",
@@ -169,11 +169,11 @@
           "tmdbId": "1744462"
         },
         {
-          "title": "Sunrise. El último amanecer",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
-          "slug": "sunrise-el-ultimo-amanecer",
+          "title": "Susurran tu nombre",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hViXtdkJ6PwCUjCpwuULKsGlidK.jpg",
+          "slug": "susurran-tu-nombre",
           "type": "movie",
-          "tmdbId": "1516698"
+          "tmdbId": "860508"
         }
       ]
     },
@@ -284,7 +284,7 @@
         },
         {
           "title": "Chad Powers",
-          "posterUrl": "https://image.tmdb.org/t/p/original/sS95o7rCnHeOLE0AxyysmIBI2Ko.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/A0xADJotz0h8NtNWjzGpbzhVf62.jpg",
           "slug": "chad-powers",
           "type": "series",
           "tmdbId": "247168"
