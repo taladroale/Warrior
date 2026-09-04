@@ -1,14 +1,6 @@
 {
   "movieHero": [
     {
-      "title": "A la carrera",
-      "synopsis": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Pa",
-      "posterUrl": "https://image.tmdb.org/t/p/original/dn0Vqfcd6T7xpiOnTpiAQRF1tXi.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3MHeqsDjo9d5AAbhdvyUB32kwGK.jpg",
-      "slug": "a-la-carrera",
-      "tmdbId": "1386315"
-    },
-    {
       "title": "Susurran tu nombre",
       "synopsis": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
       "posterUrl": "https://image.tmdb.org/t/p/original/hViXtdkJ6PwCUjCpwuULKsGlidK.jpg",
@@ -17,12 +9,20 @@
       "tmdbId": "860508"
     },
     {
-      "title": "Coyote vs. Acme",
-      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
-      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-      "slug": "coyote-vs-acme",
-      "tmdbId": "1204680"
+      "title": "A la carrera",
+      "synopsis": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Pa",
+      "posterUrl": "https://image.tmdb.org/t/p/original/dn0Vqfcd6T7xpiOnTpiAQRF1tXi.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3MHeqsDjo9d5AAbhdvyUB32kwGK.jpg",
+      "slug": "a-la-carrera",
+      "tmdbId": "1386315"
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681"
     },
     {
       "title": "La Odisea",
@@ -33,12 +33,12 @@
       "tmdbId": "1368337"
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681"
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
+      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680"
     },
     {
       "title": "Obsesión",
@@ -183,6 +183,20 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Mayday",
+          "posterUrl": "https://image.tmdb.org/t/p/original/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
+          "slug": "mayday",
+          "type": "movie",
+          "tmdbId": "1137844"
+        },
+        {
+          "title": "Gandhari",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+          "slug": "gandhari",
+          "type": "movie",
+          "tmdbId": "1355228"
+        },
+        {
           "title": "Una Película de Amor y Guerra",
           "posterUrl": "https://image.tmdb.org/t/p/original/yhfi58TToaIm1UUkohlzL0HwnPE.jpg",
           "slug": "una-pelicula-de-amor-y-guerra",
@@ -237,20 +251,6 @@
           "slug": "a-la-carrera",
           "type": "movie",
           "tmdbId": "1386315"
-        },
-        {
-          "title": "Once Upon a Time in the Middle East",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-          "slug": "once-upon-a-time-in-the-middle-east",
-          "type": "movie",
-          "tmdbId": "1391021"
-        },
-        {
-          "title": "Escape from the Outland",
-          "posterUrl": "https://image.tmdb.org/t/p/original/v8JNXoPcQRoEvUNYZYSOcYZvKEf.jpg",
-          "slug": "escape-from-the-outland",
-          "type": "movie",
-          "tmdbId": "1325866"
         }
       ]
     }
@@ -261,6 +261,27 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "The Gentlemen: La serie",
+          "posterUrl": "https://image.tmdb.org/t/p/original/tbDjST2OOauVEOm8jdokj3zTVp2.jpg",
+          "slug": "the-gentlemen-la-serie",
+          "type": "series",
+          "tmdbId": "236235"
+        },
+        {
+          "title": "Diarra from Detroit",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ljiBWwDIWcQxEjRPNsB3fusv34n.jpg",
+          "slug": "diarra-from-detroit",
+          "type": "series",
+          "tmdbId": "247796"
+        },
+        {
+          "title": "Materia oscura",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+          "slug": "materia-oscura",
+          "type": "series",
+          "tmdbId": "196322"
+        },
         {
           "title": "The Shards",
           "posterUrl": "https://image.tmdb.org/t/p/original/78AYtwPTxWL7Q4Oe9e2TKHxPZLZ.jpg",
@@ -309,27 +330,6 @@
           "slug": "the-husband",
           "type": "series",
           "tmdbId": "300954"
-        },
-        {
-          "title": "Las azules",
-          "posterUrl": "https://image.tmdb.org/t/p/original/oknR2tQjcuyHOl2lfIewbSwuUnS.jpg",
-          "slug": "las-azules",
-          "type": "series",
-          "tmdbId": "253983"
-        },
-        {
-          "title": "Presidente Curtis",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vnGkkbbpTcdxLKB9DupMg5KcYp4.jpg",
-          "slug": "presidente-curtis",
-          "type": "series",
-          "tmdbId": "296756"
-        },
-        {
-          "title": "Hotel Todo Incluido",
-          "posterUrl": "https://image.tmdb.org/t/p/original/r7CJuUXoIl8lgISfTwt5zzGWeQG.jpg",
-          "slug": "hotel-todo-incluido",
-          "type": "series",
-          "tmdbId": "333096"
         }
       ]
     },
@@ -382,7 +382,7 @@
         },
         {
           "title": "Gutiérrez Is mai neim",
-          "posterUrl": "https://image.tmdb.org/t/p/original/sCjOLNZPeh067D2d7aXBeuwMGmn.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/piKGYQc6slW2OHtzr6hWdKpfqMT.jpg",
           "slug": "gutierrez-is-mai-neim",
           "type": "series",
           "tmdbId": "275224"
