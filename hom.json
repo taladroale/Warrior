@@ -106,8 +106,22 @@
       "seeMoreSlug": "estrenos",
       "items": [
         {
+          "title": "Fito Páez: El mundo cabe en una canción",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+          "slug": "fito-paez-el-mundo-cabe-en-una-cancion",
+          "type": "movie",
+          "tmdbId": "1744876"
+        },
+        {
+          "title": "A la carrera",
+          "posterUrl": "https://image.tmdb.org/t/p/original/dn0Vqfcd6T7xpiOnTpiAQRF1tXi.jpg",
+          "slug": "a-la-carrera",
+          "type": "movie",
+          "tmdbId": "1386315"
+        },
+        {
           "title": "LEGO Star Wars: The Mandalorian",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yng4wYjB9cjX7np9c9YqfJjX52o.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6sUsn029xHGQxO8VAJXfYcHmKB7.jpg",
           "slug": "lego-star-wars-the-mandalorian",
           "type": "movie",
           "tmdbId": "1731694"
@@ -120,13 +134,6 @@
           "tmdbId": "1101412"
         },
         {
-          "title": "Una mujer sin pasado",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yOtIiIqKVlg5QH0pF88kJSI6c6K.jpg",
-          "slug": "una-mujer-sin-pasado",
-          "type": "movie",
-          "tmdbId": "1631807"
-        },
-        {
           "title": "Barreda",
           "posterUrl": "https://image.tmdb.org/t/p/original/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
           "slug": "barreda",
@@ -134,11 +141,11 @@
           "tmdbId": "1471168"
         },
         {
-          "title": "Grand Theft Auto VI: Una mirada extendida",
-          "posterUrl": "https://image.tmdb.org/t/p/original/923Rlahei29QkKDFSKXoGAu6Uj7.jpg",
-          "slug": "grand-theft-auto-vi-an-extended-look",
+          "title": "Una mujer sin pasado",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yOtIiIqKVlg5QH0pF88kJSI6c6K.jpg",
+          "slug": "una-mujer-sin-pasado",
           "type": "movie",
-          "tmdbId": "1744462"
+          "tmdbId": "1631807"
         },
         {
           "title": "Susurran tu nombre",
@@ -155,25 +162,18 @@
           "tmdbId": "1514026"
         },
         {
+          "title": "Grand Theft Auto VI: Una mirada extendida",
+          "posterUrl": "https://image.tmdb.org/t/p/original/923Rlahei29QkKDFSKXoGAu6Uj7.jpg",
+          "slug": "grand-theft-auto-vi-an-extended-look",
+          "type": "movie",
+          "tmdbId": "1744462"
+        },
+        {
           "title": "Sunrise. El último amanecer",
           "posterUrl": "https://image.tmdb.org/t/p/original/xf85WDNB5ICqlOqRAHxIdMi3jdZ.jpg",
           "slug": "sunrise-el-ultimo-amanecer",
           "type": "movie",
           "tmdbId": "1516698"
-        },
-        {
-          "title": "Los Simpson: Yellow Mirror: la realidad paralela de Homero",
-          "posterUrl": "https://image.tmdb.org/t/p/original/9jkXiMrYWAbiuLDzt6DfBPARdzY.jpg",
-          "slug": "los-simpson-yellow-mirror-la-realidad-paralela-de-homero",
-          "type": "movie",
-          "tmdbId": "1729723"
-        },
-        {
-          "title": "La constelación del perro",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
-          "slug": "la-constelacion-del-perro",
-          "type": "movie",
-          "tmdbId": "1384216"
         }
       ]
     },
@@ -182,6 +182,20 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Kangaroo: Una aventura en Australia",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9n7jV2Xt8AE9nAKSJojRcSZBV1N.jpg",
+          "slug": "kangaroo-una-aventura-en-australia",
+          "type": "movie",
+          "tmdbId": "1214028"
+        },
+        {
+          "title": "Fito Páez: El mundo cabe en una canción",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+          "slug": "fito-paez-el-mundo-cabe-en-una-cancion",
+          "type": "movie",
+          "tmdbId": "1744876"
+        },
         {
           "title": "Un buen chico",
           "posterUrl": "https://image.tmdb.org/t/p/original/lrwd5yxWuBjSpnCrzZM1N7obe3K.jpg",
@@ -237,20 +251,6 @@
           "slug": "yo-no-morire-de-amor",
           "type": "movie",
           "tmdbId": "1446301"
-        },
-        {
-          "title": "The Brink of War",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
-          "slug": "the-brink-of-war",
-          "type": "movie",
-          "tmdbId": "192139"
-        },
-        {
-          "title": "Amor es amor",
-          "posterUrl": "https://image.tmdb.org/t/p/original/klwPK4U79XyZxfUJmXmqsK4ppor.jpg",
-          "slug": "amor-es-amor",
-          "type": "movie",
-          "tmdbId": "772506"
         }
       ]
     }
@@ -261,6 +261,34 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "The Shards",
+          "posterUrl": "https://image.tmdb.org/t/p/original/78AYtwPTxWL7Q4Oe9e2TKHxPZLZ.jpg",
+          "slug": "the-shards",
+          "type": "series",
+          "tmdbId": "298168"
+        },
+        {
+          "title": "Reacher",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+          "slug": "reacher",
+          "type": "series",
+          "tmdbId": "108978"
+        },
+        {
+          "title": "Star Trek: Strange New Worlds",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9qoBo0n7BHVKv9juhqtjBCExJCi.jpg",
+          "slug": "star-trek-strange-new-worlds",
+          "type": "series",
+          "tmdbId": "103516"
+        },
+        {
+          "title": "Chad Powers",
+          "posterUrl": "https://image.tmdb.org/t/p/original/sS95o7rCnHeOLE0AxyysmIBI2Ko.jpg",
+          "slug": "chad-powers",
+          "type": "series",
+          "tmdbId": "247168"
+        },
         {
           "title": "Mal de amores",
           "posterUrl": "https://image.tmdb.org/t/p/original/ee6yRTxGSsFKcynzvSJDziBmclz.jpg",
@@ -302,34 +330,6 @@
           "slug": "hotel-todo-incluido",
           "type": "series",
           "tmdbId": "333096"
-        },
-        {
-          "title": "El Joven de la Foto",
-          "posterUrl": "https://image.tmdb.org/t/p/original/8IyYReUdK5nDRRyR1YVMt3dGsq0.jpg",
-          "slug": "el-joven-de-la-foto",
-          "type": "series",
-          "tmdbId": "318138"
-        },
-        {
-          "title": "El método Scaloni",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wQ3i7GOo5KCisTKPvTUyomJLjRB.jpg",
-          "slug": "el-metodo-scaloni",
-          "type": "series",
-          "tmdbId": "325535"
-        },
-        {
-          "title": "Furious",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yfcCHbWg1XtFvqcp6cWmEnYWA7r.jpg",
-          "slug": "furious",
-          "type": "series",
-          "tmdbId": "287238"
-        },
-        {
-          "title": "Cuatro manos, dos sonatas",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hzr5KVD2DCASbK6lqa3v07wa0ri.jpg",
-          "slug": "cuatro-manos-dos-sonatas",
-          "type": "series",
-          "tmdbId": "305644"
         }
       ]
     },
