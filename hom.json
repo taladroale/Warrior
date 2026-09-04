@@ -59,20 +59,28 @@
       "tmdbId": "125988"
     },
     {
-      "title": "Linternas",
-      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó",
-      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-      "slug": "linternas",
-      "tmdbId": "95350"
-    },
-    {
       "title": "The Gentlemen: La serie",
       "synopsis": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
       "posterUrl": "https://image.tmdb.org/t/p/original/tbDjST2OOauVEOm8jdokj3zTVp2.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/PqIW7PA74YBURz5slZkxc0K5Pl.jpg",
       "slug": "the-gentlemen-la-serie",
       "tmdbId": "236235"
+    },
+    {
+      "title": "Materia oscura",
+      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+      "slug": "materia-oscura",
+      "tmdbId": "196322"
+    },
+    {
+      "title": "Linternas",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó",
+      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "slug": "linternas",
+      "tmdbId": "95350"
     },
     {
       "title": "Reacher",
@@ -83,20 +91,12 @@
       "tmdbId": "108978"
     },
     {
-      "title": "Materia oscura",
-      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/iiSoJN7jTE33iQH2OOwkT4M6C96.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/lcyaTfX6KEMpWNnzPoGPKp7LwwC.jpg",
-      "slug": "materia-oscura",
-      "tmdbId": "196322"
-    },
-    {
-      "title": "Ratonera",
-      "synopsis": "Un escritor solitario despierta un día y descubre que le han robado la identidad, de modo que se alía con un despiadado usurero para recuperar su vida de las manos de «La Rata».",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vLA4OPULuoycF64ugkNXGURvp08.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
-      "slug": "ratonera",
-      "tmdbId": "290193"
+      "title": "Bleach",
+      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "slug": "bleach",
+      "tmdbId": "30984"
     }
   ],
   "movieSections": [
@@ -262,6 +262,13 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Silo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
+          "slug": "silo",
+          "type": "series",
+          "tmdbId": "125988"
+        },
+        {
           "title": "The Gentlemen: La serie",
           "posterUrl": "https://image.tmdb.org/t/p/original/tbDjST2OOauVEOm8jdokj3zTVp2.jpg",
           "slug": "the-gentlemen-la-serie",
@@ -311,7 +318,7 @@
           "tmdbId": "247168"
         },
         {
-          "title": "Mal de amores",
+          "title": "Mal de Amores",
           "posterUrl": "https://image.tmdb.org/t/p/original/ee6yRTxGSsFKcynzvSJDziBmclz.jpg",
           "slug": "mal-de-amores",
           "type": "series",
@@ -323,13 +330,6 @@
           "slug": "ted-lasso",
           "type": "series",
           "tmdbId": "97546"
-        },
-        {
-          "title": "El esposo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/nRTpRToUtfizkt4luZLfb7LTIEe.jpg",
-          "slug": "the-husband",
-          "type": "series",
-          "tmdbId": "300954"
         }
       ]
     },
@@ -339,7 +339,7 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
-          "title": "Mal de amores",
+          "title": "Mal de Amores",
           "posterUrl": "https://image.tmdb.org/t/p/original/ee6yRTxGSsFKcynzvSJDziBmclz.jpg",
           "slug": "mal-de-amores",
           "type": "series",
