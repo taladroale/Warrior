@@ -3,15 +3,15 @@
     {
       "title": "A la carrera",
       "synopsis": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Pa",
-      "posterUrl": "https://image.tmdb.org/t/p/original/dn0Vqfcd6T7xpiOnTpiAQRF1tXi.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3MHeqsDjo9d5AAbhdvyUB32kwGK.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
       "slug": "a-la-carrera",
       "tmdbId": "1386315"
     },
     {
       "title": "Susurran tu nombre",
       "synopsis": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hViXtdkJ6PwCUjCpwuULKsGlidK.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
       "slug": "susurran-tu-nombre",
       "tmdbId": "860508"
@@ -28,7 +28,7 @@
       "title": "Coyote vs. Acme",
       "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
       "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
       "slug": "coyote-vs-acme",
       "tmdbId": "1204680"
     },
@@ -183,6 +183,34 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "N121: Última parada",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xPaoGDyb7C30rBVDqLidUNl8Ef1.jpg",
+          "slug": "n121-ultima-parada",
+          "type": "movie",
+          "tmdbId": "1433929"
+        },
+        {
+          "title": "En el camino",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9rgxz1O2kRUYfyyD4jiypaz6IDw.jpg",
+          "slug": "en-el-camino-1517123",
+          "type": "movie",
+          "tmdbId": "1517123"
+        },
+        {
+          "title": "Bajo tus pies",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zk3GVxrKLTDqQsLuL2k7uOmz4ej.jpg",
+          "slug": "bajo-tus-pies",
+          "type": "movie",
+          "tmdbId": "1180894"
+        },
+        {
+          "title": "Batman: Knightfall Part 1: Knightfall",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fXvnylD29aoKx4ai3wBlHRXMSVp.jpg",
+          "slug": "batman-knightfall-part-1-knightfall",
+          "type": "movie",
+          "tmdbId": "1560520"
+        },
+        {
           "title": "Mayday",
           "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
           "slug": "mayday",
@@ -223,34 +251,6 @@
           "slug": "un-buen-chico",
           "type": "movie",
           "tmdbId": "1381027"
-        },
-        {
-          "title": "Dear You",
-          "posterUrl": "https://image.tmdb.org/t/p/original/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
-          "slug": "dear-you",
-          "type": "movie",
-          "tmdbId": "1671548"
-        },
-        {
-          "title": "Vertigo 2: Punto muerto",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xQlESgkDM7rczAWySdB0WBomh39.jpg",
-          "slug": "vertigo-2-punto-muerto",
-          "type": "movie",
-          "tmdbId": "1101412"
-        },
-        {
-          "title": "LEGO Star Wars: The Mandalorian",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6sUsn029xHGQxO8VAJXfYcHmKB7.jpg",
-          "slug": "lego-star-wars-the-mandalorian",
-          "type": "movie",
-          "tmdbId": "1731694"
-        },
-        {
-          "title": "A la carrera",
-          "posterUrl": "https://image.tmdb.org/t/p/original/dn0Vqfcd6T7xpiOnTpiAQRF1tXi.jpg",
-          "slug": "a-la-carrera",
-          "type": "movie",
-          "tmdbId": "1386315"
         }
       ]
     }
