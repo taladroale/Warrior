@@ -17,20 +17,20 @@
       "tmdbId": "860508"
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681"
-    },
-    {
       "title": "La Odisea",
       "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentar",
       "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
       "slug": "la-odisea-1368337",
       "tmdbId": "1368337"
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681"
     },
     {
       "title": "Coyote vs. Acme",
@@ -59,6 +59,14 @@
       "tmdbId": "125988"
     },
     {
+      "title": "The Gentlemen: La serie",
+      "synopsis": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/tbDjST2OOauVEOm8jdokj3zTVp2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/PqIW7PA74YBURz5slZkxc0K5Pl.jpg",
+      "slug": "the-gentlemen-la-serie",
+      "tmdbId": "236235"
+    },
+    {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó",
       "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
@@ -73,14 +81,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "slug": "reacher",
       "tmdbId": "108978"
-    },
-    {
-      "title": "The Gentlemen: La serie",
-      "synopsis": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/tbDjST2OOauVEOm8jdokj3zTVp2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/PqIW7PA74YBURz5slZkxc0K5Pl.jpg",
-      "slug": "the-gentlemen-la-serie",
-      "tmdbId": "236235"
     },
     {
       "title": "Materia oscura",
@@ -183,6 +183,13 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Ikatan Darah",
+          "posterUrl": "https://image.tmdb.org/t/p/original/lF9amilOGIudUIq6NgDnz2YrPPa.jpg",
+          "slug": "ikatan-darah",
+          "type": "movie",
+          "tmdbId": "1421155"
+        },
+        {
           "title": "N121: Última parada",
           "posterUrl": "https://image.tmdb.org/t/p/original/xPaoGDyb7C30rBVDqLidUNl8Ef1.jpg",
           "slug": "n121-ultima-parada",
@@ -244,13 +251,6 @@
           "slug": "fito-paez-el-mundo-cabe-en-una-cancion",
           "type": "movie",
           "tmdbId": "1744876"
-        },
-        {
-          "title": "Un buen chico",
-          "posterUrl": "https://image.tmdb.org/t/p/original/lrwd5yxWuBjSpnCrzZM1N7obe3K.jpg",
-          "slug": "un-buen-chico",
-          "type": "movie",
-          "tmdbId": "1381027"
         }
       ]
     }
@@ -261,6 +261,20 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Bloody Smart",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pbLhglL1Mn4ooioGXD58MJKOgXA.jpg",
+          "slug": "bloody-smart",
+          "type": "series",
+          "tmdbId": "300259"
+        },
+        {
+          "title": "Reborn Rookie",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fncnCnQX2pcrAQSCiyLjaf7UQCB.jpg",
+          "slug": "reborn-rookie",
+          "type": "series",
+          "tmdbId": "299365"
+        },
         {
           "title": "Silo",
           "posterUrl": "https://image.tmdb.org/t/p/original/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
@@ -316,20 +330,6 @@
           "slug": "chad-powers",
           "type": "series",
           "tmdbId": "247168"
-        },
-        {
-          "title": "Mal de Amores",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ee6yRTxGSsFKcynzvSJDziBmclz.jpg",
-          "slug": "mal-de-amores",
-          "type": "series",
-          "tmdbId": "290234"
-        },
-        {
-          "title": "Ted Lasso",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-          "slug": "ted-lasso",
-          "type": "series",
-          "tmdbId": "97546"
         }
       ]
     },
