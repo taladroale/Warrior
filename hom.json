@@ -9,12 +9,12 @@
       "tmdbId": "1386315"
     },
     {
-      "title": "Coyote vs. Acme",
-      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
-      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
-      "slug": "coyote-vs-acme",
-      "tmdbId": "1204680"
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681"
     },
     {
       "title": "La Odisea",
@@ -33,20 +33,20 @@
       "tmdbId": "860508"
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681"
-    },
-    {
       "title": "Obsesión",
       "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
       "posterUrl": "https://image.tmdb.org/t/p/original/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "slug": "obsesion-1339713",
       "tmdbId": "1339713"
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
+      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680"
     }
   ],
   "seriesHero": [
@@ -67,6 +67,14 @@
       "tmdbId": "95350"
     },
     {
+      "title": "The Gentlemen: La serie",
+      "synopsis": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/tbDjST2OOauVEOm8jdokj3zTVp2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/PqIW7PA74YBURz5slZkxc0K5Pl.jpg",
+      "slug": "the-gentlemen-la-serie",
+      "tmdbId": "236235"
+    },
+    {
       "title": "Bleach",
       "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
       "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
@@ -83,20 +91,12 @@
       "tmdbId": "108978"
     },
     {
-      "title": "The Gentlemen: La serie",
-      "synopsis": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/tbDjST2OOauVEOm8jdokj3zTVp2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/PqIW7PA74YBURz5slZkxc0K5Pl.jpg",
-      "slug": "the-gentlemen-la-serie",
-      "tmdbId": "236235"
-    },
-    {
-      "title": "Furious",
-      "synopsis": "Alice Black, una agente del FBI, persigue a una misteriosa y metódica asesina en serie. Ambas recorren su propio camino hacia la justicia y, a medida que sus vidas comienzan a entrelazarse, la línea e",
-      "posterUrl": "https://image.tmdb.org/t/p/original/yfcCHbWg1XtFvqcp6cWmEnYWA7r.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
-      "slug": "furious",
-      "tmdbId": "287238"
+      "title": "Operaciones Especiales: Lioness",
+      "synopsis": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe",
+      "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "slug": "operaciones-especiales-lioness",
+      "tmdbId": "113962"
     }
   ],
   "movieSections": [
@@ -148,6 +148,13 @@
           "tmdbId": "1380417"
         },
         {
+          "title": "Aniquilación",
+          "posterUrl": "https://image.tmdb.org/t/p/original/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
+          "slug": "aniquilacion-1284046",
+          "type": "movie",
+          "tmdbId": "1284046"
+        },
+        {
           "title": "Fall 2: Punto muerto",
           "posterUrl": "https://image.tmdb.org/t/p/original/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
           "slug": "vertigo-2-punto-muerto",
@@ -167,13 +174,6 @@
           "slug": "una-mujer-sin-pasado",
           "type": "movie",
           "tmdbId": "1631807"
-        },
-        {
-          "title": "Grand Theft Auto VI: Una mirada extendida",
-          "posterUrl": "https://image.tmdb.org/t/p/original/923Rlahei29QkKDFSKXoGAu6Uj7.jpg",
-          "slug": "grand-theft-auto-vi-an-extended-look",
-          "type": "movie",
-          "tmdbId": "1744462"
         }
       ]
     },
@@ -262,6 +262,13 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Cuatro manos, dos sonatas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/d1EaBYk2EAd9LiAEM4hX7uJraTF.jpg",
+          "slug": "cuatro-manos-dos-sonatas",
+          "type": "series",
+          "tmdbId": "305644"
+        },
+        {
           "title": "Bloody Smart",
           "posterUrl": "https://image.tmdb.org/t/p/original/pbLhglL1Mn4ooioGXD58MJKOgXA.jpg",
           "slug": "bloody-smart",
@@ -284,7 +291,7 @@
         },
         {
           "title": "The Gentlemen: La serie",
-          "posterUrl": "https://image.tmdb.org/t/p/original/tbDjST2OOauVEOm8jdokj3zTVp2.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
           "slug": "the-gentlemen-la-serie",
           "type": "series",
           "tmdbId": "236235"
@@ -323,13 +330,6 @@
           "slug": "star-trek-strange-new-worlds",
           "type": "series",
           "tmdbId": "103516"
-        },
-        {
-          "title": "Chad Powers",
-          "posterUrl": "https://image.tmdb.org/t/p/original/A0xADJotz0h8NtNWjzGpbzhVf62.jpg",
-          "slug": "chad-powers",
-          "type": "series",
-          "tmdbId": "247168"
         }
       ]
     },
@@ -347,7 +347,7 @@
         },
         {
           "title": "Cuatro manos, dos sonatas",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hzr5KVD2DCASbK6lqa3v07wa0ri.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/d1EaBYk2EAd9LiAEM4hX7uJraTF.jpg",
           "slug": "cuatro-manos-dos-sonatas",
           "type": "series",
           "tmdbId": "305644"
