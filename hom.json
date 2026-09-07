@@ -184,7 +184,7 @@
       "items": [
         {
           "title": "Colony",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pQIpfeenClb2ws9G0kMg3HREjoA.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bWzwORubAQ40nvzsTZidle19Dbm.jpg",
           "slug": "colony",
           "type": "movie",
           "tmdbId": "1375646"
@@ -262,6 +262,20 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Presidente Curtis",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vnGkkbbpTcdxLKB9DupMg5KcYp4.jpg",
+          "slug": "presidente-curtis",
+          "type": "series",
+          "tmdbId": "296756"
+        },
+        {
+          "title": "Linternas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+          "slug": "linternas",
+          "type": "series",
+          "tmdbId": "95350"
+        },
+        {
           "title": "El experimento estadounidense",
           "posterUrl": "https://image.tmdb.org/t/p/original/xpp6e3uobvlmWrhhXrmhmoXFdb5.jpg",
           "slug": "el-experimento-estadounidense",
@@ -316,20 +330,6 @@
           "slug": "diarra-from-detroit",
           "type": "series",
           "tmdbId": "247796"
-        },
-        {
-          "title": "Materia oscura",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-          "slug": "materia-oscura",
-          "type": "series",
-          "tmdbId": "196322"
-        },
-        {
-          "title": "The Shards",
-          "posterUrl": "https://image.tmdb.org/t/p/original/78AYtwPTxWL7Q4Oe9e2TKHxPZLZ.jpg",
-          "slug": "the-shards",
-          "type": "series",
-          "tmdbId": "298168"
         }
       ]
     },
