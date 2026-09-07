@@ -51,20 +51,20 @@
   ],
   "seriesHero": [
     {
-      "title": "Linternas",
-      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó",
-      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-      "slug": "linternas",
-      "tmdbId": "95350"
-    },
-    {
       "title": "Silo",
       "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
       "posterUrl": "https://image.tmdb.org/t/p/original/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "slug": "silo",
       "tmdbId": "125988"
+    },
+    {
+      "title": "Linternas",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó",
+      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "slug": "linternas",
+      "tmdbId": "95350"
     },
     {
       "title": "The Gentlemen: La serie",
@@ -183,6 +183,13 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Colony",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pQIpfeenClb2ws9G0kMg3HREjoA.jpg",
+          "slug": "colony",
+          "type": "movie",
+          "tmdbId": "1375646"
+        },
+        {
           "title": "Aniquilación",
           "posterUrl": "https://image.tmdb.org/t/p/original/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
           "slug": "aniquilacion-1284046",
@@ -244,13 +251,6 @@
           "slug": "batman-knightfall-part-1-knightfall",
           "type": "movie",
           "tmdbId": "1560520"
-        },
-        {
-          "title": "Mayday",
-          "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
-          "slug": "mayday",
-          "type": "movie",
-          "tmdbId": "1137844"
         }
       ]
     }
@@ -261,6 +261,20 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "El experimento estadounidense",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xpp6e3uobvlmWrhhXrmhmoXFdb5.jpg",
+          "slug": "el-experimento-estadounidense",
+          "type": "series",
+          "tmdbId": "322427"
+        },
+        {
+          "title": "Operaciones Especiales: Lioness",
+          "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+          "slug": "operaciones-especiales-lioness",
+          "type": "series",
+          "tmdbId": "113962"
+        },
         {
           "title": "Cuatro manos, dos sonatas",
           "posterUrl": "https://image.tmdb.org/t/p/original/d1EaBYk2EAd9LiAEM4hX7uJraTF.jpg",
@@ -316,20 +330,6 @@
           "slug": "the-shards",
           "type": "series",
           "tmdbId": "298168"
-        },
-        {
-          "title": "Reacher",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-          "slug": "reacher",
-          "type": "series",
-          "tmdbId": "108978"
-        },
-        {
-          "title": "Star Trek: Strange New Worlds",
-          "posterUrl": "https://image.tmdb.org/t/p/original/9qoBo0n7BHVKv9juhqtjBCExJCi.jpg",
-          "slug": "star-trek-strange-new-worlds",
-          "type": "series",
-          "tmdbId": "103516"
         }
       ]
     },
