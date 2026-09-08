@@ -9,6 +9,14 @@
       "tmdbId": "1386315"
     },
     {
+      "title": "Vaiana",
+      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para de",
+      "posterUrl": "https://image.tmdb.org/t/p/original/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
+      "slug": "vaiana-1108427",
+      "tmdbId": "1108427"
+    },
+    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
       "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
@@ -39,14 +47,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "slug": "obsesion-1339713",
       "tmdbId": "1339713"
-    },
-    {
-      "title": "Susurran tu nombre",
-      "synopsis": "Tras la desaparición de su hijo, un viudo pide ayuda a su distanciado padre, un inspector jubilado que encarceló al asesino en serie relacionado con el caso.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/63n3rBWRs9Bvlo0nJ8oP2ayuusA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/xSJJQeAp9GBFmiKusysTRG6jQjt.jpg",
-      "slug": "susurran-tu-nombre",
-      "tmdbId": "860508"
     }
   ],
   "seriesHero": [
@@ -91,12 +91,12 @@
       "tmdbId": "30984"
     },
     {
-      "title": "One Piece",
-      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el O",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "slug": "one-piece",
-      "tmdbId": "37854"
+      "title": "Operaciones Especiales: Lioness",
+      "synopsis": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe",
+      "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "slug": "operaciones-especiales-lioness",
+      "tmdbId": "113962"
     }
   ],
   "movieSections": [
@@ -183,6 +183,34 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "El hombre que desafió al rey",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+          "slug": "el-hombre-que-desafio-al-rey",
+          "type": "movie",
+          "tmdbId": "977942"
+        },
+        {
+          "title": "Penelope 2",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vO5lPMcJJutpbbSXPUmQG0JVDiZ.jpg",
+          "slug": "penelope-2",
+          "type": "movie",
+          "tmdbId": "1555116"
+        },
+        {
+          "title": "Pizza Movies",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9mM5O5wWuBlD47y0lAqnPX28U0S.jpg",
+          "slug": "pizza-movies",
+          "type": "movie",
+          "tmdbId": "1436219"
+        },
+        {
+          "title": "Vaiana",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+          "slug": "vaiana-1108427",
+          "type": "movie",
+          "tmdbId": "1108427"
+        },
+        {
           "title": "Colony",
           "posterUrl": "https://image.tmdb.org/t/p/original/bWzwORubAQ40nvzsTZidle19Dbm.jpg",
           "slug": "colony",
@@ -223,34 +251,6 @@
           "slug": "ikatan-darah",
           "type": "movie",
           "tmdbId": "1421155"
-        },
-        {
-          "title": "N121: Última parada",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xPaoGDyb7C30rBVDqLidUNl8Ef1.jpg",
-          "slug": "n121-ultima-parada",
-          "type": "movie",
-          "tmdbId": "1433929"
-        },
-        {
-          "title": "En el camino",
-          "posterUrl": "https://image.tmdb.org/t/p/original/9rgxz1O2kRUYfyyD4jiypaz6IDw.jpg",
-          "slug": "en-el-camino-1517123",
-          "type": "movie",
-          "tmdbId": "1517123"
-        },
-        {
-          "title": "Bajo tus pies",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zk3GVxrKLTDqQsLuL2k7uOmz4ej.jpg",
-          "slug": "bajo-tus-pies",
-          "type": "movie",
-          "tmdbId": "1180894"
-        },
-        {
-          "title": "Batman: Knightfall Part 1: Knightfall",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fXvnylD29aoKx4ai3wBlHRXMSVp.jpg",
-          "slug": "batman-knightfall-part-1-knightfall",
-          "type": "movie",
-          "tmdbId": "1560520"
         }
       ]
     }
