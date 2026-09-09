@@ -1,14 +1,6 @@
 {
   "movieHero": [
     {
-      "title": "Vaiana",
-      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para de",
-      "posterUrl": "https://image.tmdb.org/t/p/original/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
-      "slug": "vaiana-1108427",
-      "tmdbId": "1108427"
-    },
-    {
       "title": "A la carrera",
       "synopsis": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Pa",
       "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
@@ -17,12 +9,28 @@
       "tmdbId": "1386315"
     },
     {
-      "title": "Mayday",
-      "synopsis": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag",
-      "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
-      "slug": "mayday",
-      "tmdbId": "1137844"
+      "title": "Vaiana",
+      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para de",
+      "posterUrl": "https://image.tmdb.org/t/p/original/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
+      "slug": "vaiana-1108427",
+      "tmdbId": "1108427"
+    },
+    {
+      "title": "La Odisea",
+      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentar",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
+      "slug": "la-odisea-1368337",
+      "tmdbId": "1368337"
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
+      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680"
     },
     {
       "title": "Spider-Man: Brand New Day",
@@ -33,20 +41,12 @@
       "tmdbId": "969681"
     },
     {
-      "title": "Obsesión",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713"
-    },
-    {
-      "title": "La Odisea",
-      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentar",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
-      "slug": "la-odisea-1368337",
-      "tmdbId": "1368337"
+      "title": "Mayday",
+      "synopsis": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag",
+      "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+      "slug": "mayday",
+      "tmdbId": "1137844"
     }
   ],
   "seriesHero": [
@@ -83,20 +83,20 @@
       "tmdbId": "108978"
     },
     {
-      "title": "Materia oscura",
-      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-      "slug": "materia-oscura",
-      "tmdbId": "196322"
-    },
-    {
       "title": "Bleach",
       "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
       "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
       "slug": "bleach",
       "tmdbId": "30984"
+    },
+    {
+      "title": "Ted Lasso",
+      "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "slug": "ted-lasso",
+      "tmdbId": "97546"
     }
   ],
   "movieSections": [
