@@ -262,6 +262,13 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "La granja de Clarkson",
+          "posterUrl": "https://image.tmdb.org/t/p/original/paROknFgVk8WJZwhKE85n5I2QEO.jpg",
+          "slug": "la-granja-de-clarkson",
+          "type": "series",
+          "tmdbId": "117648"
+        },
+        {
           "title": "Te encontraré",
           "posterUrl": "https://image.tmdb.org/t/p/original/yvZlBI21f8CqRiqVfTjMDPK1NYk.jpg",
           "slug": "te-encontrare",
@@ -323,13 +330,6 @@
           "slug": "silo",
           "type": "series",
           "tmdbId": "125988"
-        },
-        {
-          "title": "The Gentlemen: La serie",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-          "slug": "the-gentlemen-la-serie",
-          "type": "series",
-          "tmdbId": "236235"
         }
       ]
     },
