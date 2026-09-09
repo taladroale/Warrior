@@ -51,20 +51,20 @@
   ],
   "seriesHero": [
     {
-      "title": "Silo",
-      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "slug": "silo",
-      "tmdbId": "125988"
-    },
-    {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó",
       "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "slug": "linternas",
       "tmdbId": "95350"
+    },
+    {
+      "title": "Silo",
+      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "slug": "silo",
+      "tmdbId": "125988"
     },
     {
       "title": "The Gentlemen: La serie",
@@ -83,12 +83,12 @@
       "tmdbId": "108978"
     },
     {
-      "title": "Chad Powers",
-      "synopsis": "Ocho años después de que un error imperdonable echara por tierra su prometedora carrera en el fútbol universitario, el quarterback de primera Russ Holliday busca revivir sus sueños disfrazándose de Ch",
-      "posterUrl": "https://image.tmdb.org/t/p/original/A0xADJotz0h8NtNWjzGpbzhVf62.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wGmJg0wHBpifiHFsC6VgAOlQTge.jpg",
-      "slug": "chad-powers",
-      "tmdbId": "247168"
+      "title": "Materia oscura",
+      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+      "slug": "materia-oscura",
+      "tmdbId": "196322"
     },
     {
       "title": "Bleach",
