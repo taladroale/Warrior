@@ -106,11 +106,18 @@
       "seeMoreSlug": "estrenos",
       "items": [
         {
-          "title": "A la carrera",
-          "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
-          "slug": "a-la-carrera",
+          "title": "Enfrentados : Marfil",
+          "posterUrl": "https://image.tmdb.org/t/p/original/umlft1ztFbUcnHf960pXJocjpdv.jpg",
+          "slug": "enfrentados-marfil",
           "type": "movie",
-          "tmdbId": "1386315"
+          "tmdbId": "1440098"
+        },
+        {
+          "title": "¿Por qué me casé otra vez?",
+          "posterUrl": "https://image.tmdb.org/t/p/original/exWdEF4PJsGpX9HeLQsedBgTkj8.jpg",
+          "slug": "por-que-me-case-otra-vez",
+          "type": "movie",
+          "tmdbId": "1522689"
         },
         {
           "title": "Fito Páez: El mundo cabe en una canción",
@@ -127,11 +134,11 @@
           "tmdbId": "1355228"
         },
         {
-          "title": "Momentos decisivos: Generación 11-S",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
-          "slug": "momentos-decisivos-generacion-11-s",
+          "title": "A la carrera",
+          "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
+          "slug": "a-la-carrera",
           "type": "movie",
-          "tmdbId": "1752159"
+          "tmdbId": "1386315"
         },
         {
           "title": "A cualquier precio",
@@ -141,11 +148,18 @@
           "tmdbId": "1380417"
         },
         {
-          "title": "Mayday",
-          "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
-          "slug": "mayday",
+          "title": "Aniquilación",
+          "posterUrl": "https://image.tmdb.org/t/p/original/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
+          "slug": "aniquilacion-1284046",
           "type": "movie",
-          "tmdbId": "1137844"
+          "tmdbId": "1284046"
+        },
+        {
+          "title": "Momentos decisivos: Generación 11-S",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
+          "slug": "momentos-decisivos-generacion-11-s",
+          "type": "movie",
+          "tmdbId": "1752159"
         },
         {
           "title": "LEGO Star Wars: The Mandalorian",
@@ -155,25 +169,11 @@
           "tmdbId": "1731694"
         },
         {
-          "title": "Aniquilación",
-          "posterUrl": "https://image.tmdb.org/t/p/original/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
-          "slug": "aniquilacion-1284046",
+          "title": "Mayday",
+          "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
+          "slug": "mayday",
           "type": "movie",
-          "tmdbId": "1284046"
-        },
-        {
-          "title": "Fall 2: Punto muerto",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7ODJFeX9gp4QfK6aFItw4CCrPfr.jpg",
-          "slug": "vertigo-2-punto-muerto",
-          "type": "movie",
-          "tmdbId": "1101412"
-        },
-        {
-          "title": "Barreda",
-          "posterUrl": "https://image.tmdb.org/t/p/original/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
-          "slug": "barreda",
-          "type": "movie",
-          "tmdbId": "1471168"
+          "tmdbId": "1137844"
         }
       ]
     },
@@ -182,6 +182,62 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Quantum Supremacy",
+          "posterUrl": "https://image.tmdb.org/t/p/original/oU9td2mvEu04rLGlynziVmNo16b.jpg",
+          "slug": "quantum-supremacy",
+          "type": "movie",
+          "tmdbId": "1297311"
+        },
+        {
+          "title": "La Patrulla Canina: La dino película",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
+          "slug": "la-patrulla-canina-la-dino-pelicula",
+          "type": "movie",
+          "tmdbId": "1185806"
+        },
+        {
+          "title": "Eldarnir",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1Knvd73GFfW50F6wFEqQAQDqyUa.jpg",
+          "slug": "eldarnir",
+          "type": "movie",
+          "tmdbId": "1307384"
+        },
+        {
+          "title": "Zip Wire",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+          "slug": "zip-wire",
+          "type": "movie",
+          "tmdbId": "1482547"
+        },
+        {
+          "title": "Spider Island",
+          "posterUrl": "https://image.tmdb.org/t/p/original/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
+          "slug": "spider-island",
+          "type": "movie",
+          "tmdbId": "1462861"
+        },
+        {
+          "title": "The Wrong Girls",
+          "posterUrl": "https://image.tmdb.org/t/p/original/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+          "slug": "the-wrong-girls",
+          "type": "movie",
+          "tmdbId": "1226699"
+        },
+        {
+          "title": "¿Por qué me casé otra vez?",
+          "posterUrl": "https://image.tmdb.org/t/p/original/exWdEF4PJsGpX9HeLQsedBgTkj8.jpg",
+          "slug": "por-que-me-case-otra-vez",
+          "type": "movie",
+          "tmdbId": "1522689"
+        },
+        {
+          "title": "Enfrentados : Marfil",
+          "posterUrl": "https://image.tmdb.org/t/p/original/umlft1ztFbUcnHf960pXJocjpdv.jpg",
+          "slug": "enfrentados-marfil",
+          "type": "movie",
+          "tmdbId": "1440098"
+        },
         {
           "title": "Fiordo",
           "posterUrl": "https://image.tmdb.org/t/p/original/9L7ND90Rl6RANG5l0Z5ZfsI3RET.jpg",
@@ -195,62 +251,6 @@
           "slug": "alpha-1122030",
           "type": "movie",
           "tmdbId": "1122030"
-        },
-        {
-          "title": "Una noche al año",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
-          "slug": "una-noche-al-ano",
-          "type": "movie",
-          "tmdbId": "1433367"
-        },
-        {
-          "title": "Momentos decisivos: Generación 11-S",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fSPbxVI1q5sCS4fegzoFByzE749.jpg",
-          "slug": "momentos-decisivos-generacion-11-s",
-          "type": "movie",
-          "tmdbId": "1752159"
-        },
-        {
-          "title": "El hombre que desafió al rey",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-          "slug": "el-hombre-que-desafio-al-rey",
-          "type": "movie",
-          "tmdbId": "977942"
-        },
-        {
-          "title": "Penelope 2",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vO5lPMcJJutpbbSXPUmQG0JVDiZ.jpg",
-          "slug": "penelope-2",
-          "type": "movie",
-          "tmdbId": "1555116"
-        },
-        {
-          "title": "Pizza Movies",
-          "posterUrl": "https://image.tmdb.org/t/p/original/9mM5O5wWuBlD47y0lAqnPX28U0S.jpg",
-          "slug": "pizza-movies",
-          "type": "movie",
-          "tmdbId": "1436219"
-        },
-        {
-          "title": "Vaiana",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
-          "slug": "vaiana-1108427",
-          "type": "movie",
-          "tmdbId": "1108427"
-        },
-        {
-          "title": "Colony",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bWzwORubAQ40nvzsTZidle19Dbm.jpg",
-          "slug": "colony",
-          "type": "movie",
-          "tmdbId": "1375646"
-        },
-        {
-          "title": "Aniquilación",
-          "posterUrl": "https://image.tmdb.org/t/p/original/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
-          "slug": "aniquilacion-1284046",
-          "type": "movie",
-          "tmdbId": "1284046"
         }
       ]
     }
@@ -261,6 +261,13 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Colisión",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4loiHfZZx027yP0CtErtCPbkTc1.jpg",
+          "slug": "colision",
+          "type": "series",
+          "tmdbId": "331033"
+        },
         {
           "title": "La granja de Clarkson",
           "posterUrl": "https://image.tmdb.org/t/p/original/paROknFgVk8WJZwhKE85n5I2QEO.jpg",
@@ -323,13 +330,6 @@
           "slug": "reborn-rookie",
           "type": "series",
           "tmdbId": "299365"
-        },
-        {
-          "title": "Silo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-          "slug": "silo",
-          "type": "series",
-          "tmdbId": "125988"
         }
       ]
     },
