@@ -9,14 +9,6 @@
       "tmdbId": "1108427"
     },
     {
-      "title": "A la carrera",
-      "synopsis": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Pa",
-      "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-      "slug": "a-la-carrera",
-      "tmdbId": "1386315"
-    },
-    {
       "title": "Mayday",
       "synopsis": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag",
       "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
@@ -25,12 +17,12 @@
       "tmdbId": "1137844"
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681"
+      "title": "A la carrera",
+      "synopsis": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Pa",
+      "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+      "slug": "a-la-carrera",
+      "tmdbId": "1386315"
     },
     {
       "title": "La Odisea",
@@ -41,12 +33,20 @@
       "tmdbId": "1368337"
     },
     {
-      "title": "Coyote vs. Acme",
-      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rxat0c5S2UlLY7rTBU8MElKP1Vk.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
-      "slug": "coyote-vs-acme",
-      "tmdbId": "1204680"
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681"
+    },
+    {
+      "title": "Una noche al año",
+      "synopsis": "Dos extraños tratan de encontrar a alguien con quien acostarse en la única noche del año en la que es legal el sexo prematrimonial.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
+      "slug": "una-noche-al-ano",
+      "tmdbId": "1433367"
     }
   ],
   "seriesHero": [
@@ -67,20 +67,20 @@
       "tmdbId": "95350"
     },
     {
-      "title": "The Gentlemen: La serie",
-      "synopsis": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "slug": "the-gentlemen-la-serie",
-      "tmdbId": "236235"
-    },
-    {
       "title": "Reacher",
       "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p",
       "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "slug": "reacher",
       "tmdbId": "108978"
+    },
+    {
+      "title": "The Gentlemen: La serie",
+      "synopsis": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+      "slug": "the-gentlemen-la-serie",
+      "tmdbId": "236235"
     },
     {
       "title": "Causa abierta",
@@ -91,12 +91,12 @@
       "tmdbId": "258230"
     },
     {
-      "title": "One Piece",
-      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el O",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "slug": "one-piece",
-      "tmdbId": "37854"
+      "title": "La timonel",
+      "synopsis": "Tras un humillante escándalo familiar que trunca su vida, Teagan, una prometedora deportista de remo, se ve obligada a empezar de cero en un exclusivo instituto. Al descubrir que no hay equipo femenin",
+      "posterUrl": "https://image.tmdb.org/t/p/original/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
+      "slug": "la-timonel",
+      "tmdbId": "300507"
     }
   ],
   "movieSections": [
@@ -183,6 +183,34 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Llama a mi agente: La Pelicula",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4eD5LRzDW1BG3FWSz7yLEprMWZE.jpg",
+          "slug": "llama-a-mi-agente-la-pelicula",
+          "type": "movie",
+          "tmdbId": "1365884"
+        },
+        {
+          "title": "Killer Whale",
+          "posterUrl": "https://image.tmdb.org/t/p/original/x8lIphxDZ0CIvyBCvYS0FwjyHco.jpg",
+          "slug": "killer-whale",
+          "type": "movie",
+          "tmdbId": "1412598"
+        },
+        {
+          "title": "Just Play Dead",
+          "posterUrl": "https://image.tmdb.org/t/p/original/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
+          "slug": "just-play-dead",
+          "type": "movie",
+          "tmdbId": "1480574"
+        },
+        {
+          "title": "Hope",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ptqlN6mDIAqJjVA86J5eOoG82zc.jpg",
+          "slug": "hope-1058424",
+          "type": "movie",
+          "tmdbId": "1058424"
+        },
+        {
           "title": "Quantum Supremacy",
           "posterUrl": "https://image.tmdb.org/t/p/original/gytLKZR6X3w8iwpgPuzILY77Wda.jpg",
           "slug": "quantum-supremacy",
@@ -191,7 +219,7 @@
         },
         {
           "title": "La Patrulla Canina: La dino película",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fcBc0yfACuTU9oX9cm54IrFJzEW.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5aYdIHHt8WbtYzuhCSFfJC6NYHK.jpg",
           "slug": "la-patrulla-canina-la-dino-pelicula",
           "type": "movie",
           "tmdbId": "1185806"
@@ -223,34 +251,6 @@
           "slug": "the-wrong-girls",
           "type": "movie",
           "tmdbId": "1226699"
-        },
-        {
-          "title": "¿Por qué me casé otra vez?",
-          "posterUrl": "https://image.tmdb.org/t/p/original/exWdEF4PJsGpX9HeLQsedBgTkj8.jpg",
-          "slug": "por-que-me-case-otra-vez",
-          "type": "movie",
-          "tmdbId": "1522689"
-        },
-        {
-          "title": "Enfrentados : Marfil",
-          "posterUrl": "https://image.tmdb.org/t/p/original/umlft1ztFbUcnHf960pXJocjpdv.jpg",
-          "slug": "enfrentados-marfil",
-          "type": "movie",
-          "tmdbId": "1440098"
-        },
-        {
-          "title": "Fiordo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/9L7ND90Rl6RANG5l0Z5ZfsI3RET.jpg",
-          "slug": "fiordo",
-          "type": "movie",
-          "tmdbId": "1401459"
-        },
-        {
-          "title": "Alpha",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
-          "slug": "alpha-1122030",
-          "type": "movie",
-          "tmdbId": "1122030"
         }
       ]
     }
@@ -261,6 +261,20 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "The Shards",
+          "posterUrl": "https://image.tmdb.org/t/p/original/78AYtwPTxWL7Q4Oe9e2TKHxPZLZ.jpg",
+          "slug": "the-shards",
+          "type": "series",
+          "tmdbId": "298168"
+        },
+        {
+          "title": "Star Trek: Strange New Worlds",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9qoBo0n7BHVKv9juhqtjBCExJCi.jpg",
+          "slug": "star-trek-strange-new-worlds",
+          "type": "series",
+          "tmdbId": "103516"
+        },
         {
           "title": "La timonel",
           "posterUrl": "https://image.tmdb.org/t/p/original/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
@@ -316,20 +330,6 @@
           "slug": "historia-de-dos-ciudades",
           "type": "series",
           "tmdbId": "301626"
-        },
-        {
-          "title": "Colisión",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4loiHfZZx027yP0CtErtCPbkTc1.jpg",
-          "slug": "colision",
-          "type": "series",
-          "tmdbId": "331033"
-        },
-        {
-          "title": "La granja de Clarkson",
-          "posterUrl": "https://image.tmdb.org/t/p/original/paROknFgVk8WJZwhKE85n5I2QEO.jpg",
-          "slug": "la-granja-de-clarkson",
-          "type": "series",
-          "tmdbId": "117648"
         }
       ]
     },
