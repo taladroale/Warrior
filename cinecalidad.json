@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-11T20:05:26Z",
+  "source": "cinecalidad",
+  "peliculas": {
+    "353486": {
+      "slug": "jumanji-en-la-selva",
+      "title": "Jumanji: En la selva"
+    },
+    "76600": {
+      "slug": "avatar-el-camino-del-agua-online-gratis-en-cinecalidad",
+      "title": "Avatar: El camino del agua"
+    },
+    "1572": {
+      "slug": "duro-de-matar-3-la-venganza",
+      "title": "Duro de matar 3: La venganza"
+    }
+  },
+  "series": {
+    "113962": {
+      "slug": "operativo-lioness",
+      "title": "Operativo: Lioness"
+    },
+    "79086": {
+      "slug": "el-padrino-de-harlem",
+      "title": "El Padrino de Harlem"
+    }
+  }
+}
