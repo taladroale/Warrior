@@ -9,20 +9,20 @@
       "tmdbId": "1108427"
     },
     {
-      "title": "Mayday",
-      "synopsis": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag",
-      "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
-      "slug": "mayday",
-      "tmdbId": "1137844"
-    },
-    {
       "title": "A la carrera",
       "synopsis": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Pa",
       "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
       "slug": "a-la-carrera",
       "tmdbId": "1386315"
+    },
+    {
+      "title": "Mayday",
+      "synopsis": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag",
+      "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+      "slug": "mayday",
+      "tmdbId": "1137844"
     },
     {
       "title": "La Odisea",
@@ -41,23 +41,15 @@
       "tmdbId": "969681"
     },
     {
-      "title": "Una noche al año",
-      "synopsis": "Dos extraños tratan de encontrar a alguien con quien acostarse en la única noche del año en la que es legal el sexo prematrimonial.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/bpll0oy6gHwLvypfFNfT2QI4VkT.jpg",
-      "slug": "una-noche-al-ano",
-      "tmdbId": "1433367"
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
+      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713"
     }
   ],
   "seriesHero": [
-    {
-      "title": "Silo",
-      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "slug": "silo",
-      "tmdbId": "125988"
-    },
     {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó",
@@ -65,6 +57,14 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
       "slug": "linternas",
       "tmdbId": "95350"
+    },
+    {
+      "title": "Silo",
+      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "slug": "silo",
+      "tmdbId": "125988"
     },
     {
       "title": "Reacher",
@@ -83,20 +83,20 @@
       "tmdbId": "236235"
     },
     {
+      "title": "Bleach",
+      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "slug": "bleach",
+      "tmdbId": "30984"
+    },
+    {
       "title": "Causa abierta",
       "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
       "posterUrl": "https://image.tmdb.org/t/p/original/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/84PKxwkBn0OoH5Qj4uq97Nua0Q9.jpg",
       "slug": "causa-abierta",
       "tmdbId": "258230"
-    },
-    {
-      "title": "La timonel",
-      "synopsis": "Tras un humillante escándalo familiar que trunca su vida, Teagan, una prometedora deportista de remo, se ve obligada a empezar de cero en un exclusivo instituto. Al descubrir que no hay equipo femenin",
-      "posterUrl": "https://image.tmdb.org/t/p/original/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
-      "slug": "la-timonel",
-      "tmdbId": "300507"
     }
   ],
   "movieSections": [
