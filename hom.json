@@ -9,22 +9,6 @@
       "tmdbId": "1108427"
     },
     {
-      "title": "A la carrera",
-      "synopsis": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Pa",
-      "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-      "slug": "a-la-carrera",
-      "tmdbId": "1386315"
-    },
-    {
-      "title": "Mayday",
-      "synopsis": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag",
-      "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
-      "slug": "mayday",
-      "tmdbId": "1137844"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
       "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
@@ -41,12 +25,28 @@
       "tmdbId": "1368337"
     },
     {
-      "title": "El motín",
-      "synopsis": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir u",
-      "posterUrl": "https://image.tmdb.org/t/p/original/5zmLk7K4wHWG68OlniFzrNrZjJE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "slug": "el-motin",
-      "tmdbId": "1288445"
+      "title": "Mayday",
+      "synopsis": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag",
+      "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+      "slug": "mayday",
+      "tmdbId": "1137844"
+    },
+    {
+      "title": "A la carrera",
+      "synopsis": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Pa",
+      "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+      "slug": "a-la-carrera",
+      "tmdbId": "1386315"
+    },
+    {
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
+      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713"
     }
   ],
   "seriesHero": [
@@ -183,6 +183,20 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Prácticamente magia 2",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
+          "slug": "practicamente-magia-2",
+          "type": "movie",
+          "tmdbId": "1302904"
+        },
+        {
+          "title": "La chica que lloraba perlas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cjOHwqWD0bMlKI8CuRIK7q1cMTU.jpg",
+          "slug": "la-chica-que-lloraba-perlas",
+          "type": "movie",
+          "tmdbId": "1142149"
+        },
+        {
           "title": "Llama a mi agente: La Pelicula",
           "posterUrl": "https://image.tmdb.org/t/p/original/4eD5LRzDW1BG3FWSz7yLEprMWZE.jpg",
           "slug": "llama-a-mi-agente-la-pelicula",
@@ -237,20 +251,6 @@
           "slug": "zip-wire",
           "type": "movie",
           "tmdbId": "1482547"
-        },
-        {
-          "title": "Spider Island",
-          "posterUrl": "https://image.tmdb.org/t/p/original/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
-          "slug": "spider-island",
-          "type": "movie",
-          "tmdbId": "1462861"
-        },
-        {
-          "title": "The Wrong Girls",
-          "posterUrl": "https://image.tmdb.org/t/p/original/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
-          "slug": "the-wrong-girls",
-          "type": "movie",
-          "tmdbId": "1226699"
         }
       ]
     }
