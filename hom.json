@@ -83,12 +83,12 @@
       "tmdbId": "236235"
     },
     {
-      "title": "Bleach",
-      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "slug": "bleach",
-      "tmdbId": "30984"
+      "title": "Materia oscura",
+      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+      "slug": "materia-oscura",
+      "tmdbId": "196322"
     },
     {
       "title": "Causa abierta",
@@ -113,6 +113,13 @@
           "tmdbId": "977942"
         },
         {
+          "title": "Prácticamente magia 2",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
+          "slug": "practicamente-magia-2",
+          "type": "movie",
+          "tmdbId": "1302904"
+        },
+        {
           "title": "Enfrentados: Marfil",
           "posterUrl": "https://image.tmdb.org/t/p/original/umlft1ztFbUcnHf960pXJocjpdv.jpg",
           "slug": "enfrentados-marfil",
@@ -127,18 +134,18 @@
           "tmdbId": "1522689"
         },
         {
+          "title": "Mayday",
+          "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
+          "slug": "mayday",
+          "type": "movie",
+          "tmdbId": "1137844"
+        },
+        {
           "title": "A la carrera",
           "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
           "slug": "a-la-carrera",
           "type": "movie",
           "tmdbId": "1386315"
-        },
-        {
-          "title": "Gandhari",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-          "slug": "gandhari",
-          "type": "movie",
-          "tmdbId": "1355228"
         },
         {
           "title": "Fito Páez: El mundo cabe en una canción",
@@ -148,11 +155,11 @@
           "tmdbId": "1744876"
         },
         {
-          "title": "Mayday",
-          "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
-          "slug": "mayday",
+          "title": "Gandhari",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+          "slug": "gandhari",
           "type": "movie",
-          "tmdbId": "1137844"
+          "tmdbId": "1355228"
         },
         {
           "title": "LEGO Star Wars: The Mandalorian",
@@ -167,13 +174,6 @@
           "slug": "a-cualquier-precio-1380417",
           "type": "movie",
           "tmdbId": "1380417"
-        },
-        {
-          "title": "Aniquilación",
-          "posterUrl": "https://image.tmdb.org/t/p/original/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
-          "slug": "aniquilacion-1284046",
-          "type": "movie",
-          "tmdbId": "1284046"
         }
       ]
     },
