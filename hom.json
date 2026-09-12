@@ -9,6 +9,14 @@
       "tmdbId": "1108427"
     },
     {
+      "title": "Mayday",
+      "synopsis": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag",
+      "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+      "slug": "mayday",
+      "tmdbId": "1137844"
+    },
+    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
       "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
@@ -25,14 +33,6 @@
       "tmdbId": "1368337"
     },
     {
-      "title": "Mayday",
-      "synopsis": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exag",
-      "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
-      "slug": "mayday",
-      "tmdbId": "1137844"
-    },
-    {
       "title": "A la carrera",
       "synopsis": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Pa",
       "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
@@ -41,12 +41,12 @@
       "tmdbId": "1386315"
     },
     {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
-      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713"
+      "title": "Prácticamente magia 2",
+      "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+      "slug": "practicamente-magia-2",
+      "tmdbId": "1302904"
     }
   ],
   "seriesHero": [
@@ -83,20 +83,20 @@
       "tmdbId": "236235"
     },
     {
-      "title": "Materia oscura",
-      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-      "slug": "materia-oscura",
-      "tmdbId": "196322"
+      "title": "One Piece",
+      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el O",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "slug": "one-piece",
+      "tmdbId": "37854"
     },
     {
-      "title": "Causa abierta",
-      "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/84PKxwkBn0OoH5Qj4uq97Nua0Q9.jpg",
-      "slug": "causa-abierta",
-      "tmdbId": "258230"
+      "title": "Operaciones Especiales: Lioness",
+      "synopsis": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe",
+      "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "slug": "operaciones-especiales-lioness",
+      "tmdbId": "113962"
     }
   ],
   "movieSections": [
@@ -262,6 +262,27 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "The Paper",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
+          "slug": "the-paper",
+          "type": "series",
+          "tmdbId": "253941"
+        },
+        {
+          "title": "El club gastronómico",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg",
+          "slug": "el-club-gastronomico",
+          "type": "series",
+          "tmdbId": "325755"
+        },
+        {
+          "title": "Krypto Saves the Day!",
+          "posterUrl": "https://image.tmdb.org/t/p/original/g0mWNUELRT1Oa2Phqt0YrqJeXX1.jpg",
+          "slug": "krypto-saves-the-day",
+          "type": "series",
+          "tmdbId": "320096"
+        },
+        {
           "title": "The Shards",
           "posterUrl": "https://image.tmdb.org/t/p/original/78AYtwPTxWL7Q4Oe9e2TKHxPZLZ.jpg",
           "slug": "the-shards",
@@ -309,27 +330,6 @@
           "slug": "las-azules",
           "type": "series",
           "tmdbId": "253983"
-        },
-        {
-          "title": "Causa abierta",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-          "slug": "causa-abierta",
-          "type": "series",
-          "tmdbId": "258230"
-        },
-        {
-          "title": "DANG!",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-          "slug": "dang",
-          "type": "series",
-          "tmdbId": "314478"
-        },
-        {
-          "title": "Historia de dos ciudades",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cHWIztU7qYEDFE2eAQsWFdGS19d.jpg",
-          "slug": "historia-de-dos-ciudades",
-          "type": "series",
-          "tmdbId": "301626"
         }
       ]
     },
@@ -338,6 +338,13 @@
       "type": "series",
       "seeMoreSlug": "estrenos-series",
       "items": [
+        {
+          "title": "El club gastronómico",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg",
+          "slug": "el-club-gastronomico",
+          "type": "series",
+          "tmdbId": "325755"
+        },
         {
           "title": "La timonel",
           "posterUrl": "https://image.tmdb.org/t/p/original/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
@@ -400,13 +407,6 @@
           "slug": "ratonera",
           "type": "series",
           "tmdbId": "290193"
-        },
-        {
-          "title": "Hotel Todo Incluido",
-          "posterUrl": "https://image.tmdb.org/t/p/original/r7CJuUXoIl8lgISfTwt5zzGWeQG.jpg",
-          "slug": "hotel-todo-incluido",
-          "type": "series",
-          "tmdbId": "333096"
         }
       ]
     }
