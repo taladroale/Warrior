@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updatedAt": "2026-09-13T23:32:00Z",
-  "source": "tioplus",
+  "source": "tpls",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
     "12": {"slug": "buscando-a-nemo"},
