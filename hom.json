@@ -262,6 +262,27 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "James.",
+          "posterUrl": "https://image.tmdb.org/t/p/original/be7cg7V1R8QcfRI5N1pAMwJo62r.jpg",
+          "slug": "james",
+          "type": "series",
+          "tmdbId": "321596"
+        },
+        {
+          "title": "Cuatro manos, dos sonatas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/d1EaBYk2EAd9LiAEM4hX7uJraTF.jpg",
+          "slug": "cuatro-manos-dos-sonatas",
+          "type": "series",
+          "tmdbId": "305644"
+        },
+        {
+          "title": "En Coma",
+          "posterUrl": "https://image.tmdb.org/t/p/original/PXTBzvEgxXT49RYSurT6xkNZU7.jpg",
+          "slug": "en-coma",
+          "type": "series",
+          "tmdbId": "332863"
+        },
+        {
           "title": "Stuart no consigue salvar el universo",
           "posterUrl": "https://image.tmdb.org/t/p/original/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
           "slug": "stuart-no-consigue-salvar-el-universo",
@@ -309,27 +330,6 @@
           "slug": "el-club-gastronomico",
           "type": "series",
           "tmdbId": "325755"
-        },
-        {
-          "title": "Krypto Saves the Day!",
-          "posterUrl": "https://image.tmdb.org/t/p/original/g0mWNUELRT1Oa2Phqt0YrqJeXX1.jpg",
-          "slug": "krypto-saves-the-day",
-          "type": "series",
-          "tmdbId": "320096"
-        },
-        {
-          "title": "The Shards",
-          "posterUrl": "https://image.tmdb.org/t/p/original/78AYtwPTxWL7Q4Oe9e2TKHxPZLZ.jpg",
-          "slug": "the-shards",
-          "type": "series",
-          "tmdbId": "298168"
-        },
-        {
-          "title": "Star Trek: Strange New Worlds",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5xORQi93Nuyexx1DXv3bjxZOFZ2.jpg",
-          "slug": "star-trek-strange-new-worlds",
-          "type": "series",
-          "tmdbId": "103516"
         }
       ]
     },
