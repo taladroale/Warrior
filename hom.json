@@ -75,14 +75,6 @@
       "tmdbId": "125988"
     },
     {
-      "title": "The Gentlemen: La serie",
-      "synopsis": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "slug": "the-gentlemen-la-serie",
-      "tmdbId": "236235"
-    },
-    {
       "title": "Bleach",
       "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
       "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
@@ -91,12 +83,20 @@
       "tmdbId": "30984"
     },
     {
-      "title": "Materia oscura",
-      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/572uSrnXM5uPVYMVqsxfNA41cT8.jpg",
-      "slug": "materia-oscura",
-      "tmdbId": "196322"
+      "title": "The Gentlemen: La serie",
+      "synopsis": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+      "slug": "the-gentlemen-la-serie",
+      "tmdbId": "236235"
+    },
+    {
+      "title": "Causa abierta",
+      "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
+      "slug": "causa-abierta",
+      "tmdbId": "258230"
     }
   ],
   "movieSections": [
@@ -141,6 +141,20 @@
           "tmdbId": "1522689"
         },
         {
+          "title": "Entrega al límite",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+          "slug": "entrega-al-limite",
+          "type": "movie",
+          "tmdbId": "1377237"
+        },
+        {
+          "title": "Fito Páez: El mundo cabe en una canción",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+          "slug": "fito-paez-el-mundo-cabe-en-una-cancion",
+          "type": "movie",
+          "tmdbId": "1744876"
+        },
+        {
           "title": "Gandhari",
           "posterUrl": "https://image.tmdb.org/t/p/original/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
           "slug": "gandhari",
@@ -160,20 +174,6 @@
           "slug": "a-la-carrera",
           "type": "movie",
           "tmdbId": "1386315"
-        },
-        {
-          "title": "Fito Páez: El mundo cabe en una canción",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
-          "slug": "fito-paez-el-mundo-cabe-en-una-cancion",
-          "type": "movie",
-          "tmdbId": "1744876"
-        },
-        {
-          "title": "LEGO Star Wars: The Mandalorian",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6sUsn029xHGQxO8VAJXfYcHmKB7.jpg",
-          "slug": "lego-star-wars-the-mandalorian",
-          "type": "movie",
-          "tmdbId": "1731694"
         }
       ]
     },
