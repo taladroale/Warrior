@@ -262,6 +262,13 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Linternas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+          "slug": "linternas",
+          "type": "series",
+          "tmdbId": "95350"
+        },
+        {
           "title": "Operaciones Especiales: Lioness",
           "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
           "slug": "operaciones-especiales-lioness",
@@ -323,13 +330,6 @@
           "slug": "materia-oscura",
           "type": "series",
           "tmdbId": "196322"
-        },
-        {
-          "title": "Clásico americano",
-          "posterUrl": "https://image.tmdb.org/t/p/original/nQoTcFVB9xO6tLnoSARRViitPQF.jpg",
-          "slug": "american-classic",
-          "type": "series",
-          "tmdbId": "283228"
         }
       ]
     },
