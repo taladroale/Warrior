@@ -141,11 +141,25 @@
           "tmdbId": "1522689"
         },
         {
+          "title": "Secretos del deporte: Mr. T",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+          "slug": "secretos-del-deporte-mr-t",
+          "type": "movie",
+          "tmdbId": "1739206"
+        },
+        {
           "title": "Entrega al límite",
           "posterUrl": "https://image.tmdb.org/t/p/original/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
           "slug": "entrega-al-limite",
           "type": "movie",
           "tmdbId": "1377237"
+        },
+        {
+          "title": "A la carrera",
+          "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
+          "slug": "a-la-carrera",
+          "type": "movie",
+          "tmdbId": "1386315"
         },
         {
           "title": "Fito Páez: El mundo cabe en una canción",
@@ -160,20 +174,6 @@
           "slug": "gandhari",
           "type": "movie",
           "tmdbId": "1355228"
-        },
-        {
-          "title": "Mayday",
-          "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
-          "slug": "mayday",
-          "type": "movie",
-          "tmdbId": "1137844"
-        },
-        {
-          "title": "A la carrera",
-          "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
-          "slug": "a-la-carrera",
-          "type": "movie",
-          "tmdbId": "1386315"
         }
       ]
     },
@@ -182,6 +182,34 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Tumbal Proyek",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wdOa8jWX8u1YNSlWyRvoNCc9y7S.jpg",
+          "slug": "tumbal-proyek",
+          "type": "movie",
+          "tmdbId": "1469930"
+        },
+        {
+          "title": "Operación Teherán",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
+          "slug": "operacion-teheran",
+          "type": "movie",
+          "tmdbId": "1228834"
+        },
+        {
+          "title": "Secretos del deporte: Mr. T",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+          "slug": "secretos-del-deporte-mr-t",
+          "type": "movie",
+          "tmdbId": "1739206"
+        },
+        {
+          "title": "Aves de Corral",
+          "posterUrl": "https://image.tmdb.org/t/p/original/aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
+          "slug": "aves-de-corral",
+          "type": "movie",
+          "tmdbId": "1275215"
+        },
         {
           "title": "Hasta el fin del mundo",
           "posterUrl": "https://image.tmdb.org/t/p/original/1aCGJVkBZch6UN62yk44TGYU5Or.jpg",
@@ -223,34 +251,6 @@
           "slug": "erase-una-vez-en-un-ring",
           "type": "movie",
           "tmdbId": "1535809"
-        },
-        {
-          "title": "Hechizo de amor: La magia continúa",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
-          "slug": "practicamente-magia-2",
-          "type": "movie",
-          "tmdbId": "1302904"
-        },
-        {
-          "title": "La chica que lloraba perlas",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cjOHwqWD0bMlKI8CuRIK7q1cMTU.jpg",
-          "slug": "la-chica-que-lloraba-perlas",
-          "type": "movie",
-          "tmdbId": "1142149"
-        },
-        {
-          "title": "Llama a mi agente: La Pelicula",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4eD5LRzDW1BG3FWSz7yLEprMWZE.jpg",
-          "slug": "llama-a-mi-agente-la-pelicula",
-          "type": "movie",
-          "tmdbId": "1365884"
-        },
-        {
-          "title": "Killer Whale",
-          "posterUrl": "https://image.tmdb.org/t/p/original/x8lIphxDZ0CIvyBCvYS0FwjyHco.jpg",
-          "slug": "killer-whale",
-          "type": "movie",
-          "tmdbId": "1412598"
         }
       ]
     }
@@ -261,6 +261,41 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "El mago oscuro",
+          "posterUrl": "https://image.tmdb.org/t/p/original/phkGAfV7NTYCIv4jIFYTbCMb9xC.jpg",
+          "slug": "el-mago-oscuro",
+          "type": "series",
+          "tmdbId": "316527"
+        },
+        {
+          "title": "Colisión",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4loiHfZZx027yP0CtErtCPbkTc1.jpg",
+          "slug": "colision",
+          "type": "series",
+          "tmdbId": "331033"
+        },
+        {
+          "title": "Presidente Curtis",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vnGkkbbpTcdxLKB9DupMg5KcYp4.jpg",
+          "slug": "presidente-curtis",
+          "type": "series",
+          "tmdbId": "296756"
+        },
+        {
+          "title": "Historias corrientes: Las cintas perdidas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fQX1grWHT7W603p2GRQCUGaPs3J.jpg",
+          "slug": "historias-corrientes-las-cintas-perdidas",
+          "type": "series",
+          "tmdbId": "256695"
+        },
+        {
+          "title": "Un amor distinto al tuyo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
+          "slug": "un-amor-distinto-al-tuyo",
+          "type": "series",
+          "tmdbId": "314939"
+        },
         {
           "title": "Linternas",
           "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
@@ -295,41 +330,6 @@
           "slug": "cuatro-manos-dos-sonatas",
           "type": "series",
           "tmdbId": "305644"
-        },
-        {
-          "title": "En Coma",
-          "posterUrl": "https://image.tmdb.org/t/p/original/PXTBzvEgxXT49RYSurT6xkNZU7.jpg",
-          "slug": "en-coma",
-          "type": "series",
-          "tmdbId": "332863"
-        },
-        {
-          "title": "Stuart no consigue salvar el universo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
-          "slug": "stuart-no-consigue-salvar-el-universo",
-          "type": "series",
-          "tmdbId": "287620"
-        },
-        {
-          "title": "El juicio",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bFg26U2rS3TmcYRPSYY7FRkVWHc.jpg",
-          "slug": "el-juicio-260249",
-          "type": "series",
-          "tmdbId": "260249"
-        },
-        {
-          "title": "Extracted",
-          "posterUrl": "https://image.tmdb.org/t/p/original/u1ueclY9XgEn4nDBCfNhXVei7Ur.jpg",
-          "slug": "extracted",
-          "type": "series",
-          "tmdbId": "278639"
-        },
-        {
-          "title": "Materia oscura",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-          "slug": "materia-oscura",
-          "type": "series",
-          "tmdbId": "196322"
         }
       ]
     },
@@ -339,11 +339,11 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
-          "title": "En Coma",
-          "posterUrl": "https://image.tmdb.org/t/p/original/PXTBzvEgxXT49RYSurT6xkNZU7.jpg",
-          "slug": "en-coma",
+          "title": "Un amor distinto al tuyo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
+          "slug": "un-amor-distinto-al-tuyo",
           "type": "series",
-          "tmdbId": "332863"
+          "tmdbId": "314939"
         },
         {
           "title": "El juicio",
@@ -353,11 +353,11 @@
           "tmdbId": "260249"
         },
         {
-          "title": "El club gastronómico",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg",
-          "slug": "el-club-gastronomico",
+          "title": "En Coma",
+          "posterUrl": "https://image.tmdb.org/t/p/original/PXTBzvEgxXT49RYSurT6xkNZU7.jpg",
+          "slug": "en-coma",
           "type": "series",
-          "tmdbId": "325755"
+          "tmdbId": "332863"
         },
         {
           "title": "La timonel",
@@ -365,6 +365,13 @@
           "slug": "la-timonel",
           "type": "series",
           "tmdbId": "300507"
+        },
+        {
+          "title": "El club gastronómico",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg",
+          "slug": "el-club-gastronomico",
+          "type": "series",
+          "tmdbId": "325755"
         },
         {
           "title": "Causa abierta",
@@ -400,13 +407,6 @@
           "slug": "mal-de-amores",
           "type": "series",
           "tmdbId": "290234"
-        },
-        {
-          "title": "Cuatro manos, dos sonatas",
-          "posterUrl": "https://image.tmdb.org/t/p/original/d1EaBYk2EAd9LiAEM4hX7uJraTF.jpg",
-          "slug": "cuatro-manos-dos-sonatas",
-          "type": "series",
-          "tmdbId": "305644"
         }
       ]
     }
