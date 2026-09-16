@@ -17,14 +17,6 @@
       "tmdbId": "1108427"
     },
     {
-      "title": "Enfrentados: Marfil",
-      "synopsis": "Marfil Cortés, la hija de un poderoso empresario español, ve como su perfecta vida en Nueva York da un vuelco cuando es repentinamente secuestrada y liberada sin aparente explicación. Su padre decide ",
-      "posterUrl": "https://image.tmdb.org/t/p/original/umlft1ztFbUcnHf960pXJocjpdv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-      "slug": "enfrentados-marfil",
-      "tmdbId": "1440098"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
       "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
@@ -47,6 +39,14 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
       "slug": "mayday",
       "tmdbId": "1137844"
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rxat0c5S2UlLY7rTBU8MElKP1Vk.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680"
     }
   ],
   "seriesHero": [
@@ -184,7 +184,7 @@
       "items": [
         {
           "title": "The Highest Stakes",
-          "posterUrl": "https://image.tmdb.org/t/p/original/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/sY6ETYWBPBnRzRRdxuCPyMEaZMB.jpg",
           "slug": "the-highest-stakes",
           "type": "movie",
           "tmdbId": "1444249"
