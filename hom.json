@@ -59,28 +59,20 @@
       "tmdbId": "95350"
     },
     {
-      "title": "Reacher",
-      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "slug": "reacher",
-      "tmdbId": "108978"
-    },
-    {
-      "title": "Causa abierta",
-      "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
-      "slug": "causa-abierta",
-      "tmdbId": "258230"
-    },
-    {
       "title": "Silo",
       "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
       "posterUrl": "https://image.tmdb.org/t/p/original/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "slug": "silo",
       "tmdbId": "125988"
+    },
+    {
+      "title": "Reacher",
+      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "slug": "reacher",
+      "tmdbId": "108978"
     },
     {
       "title": "Operaciones Especiales: Lioness",
@@ -91,12 +83,20 @@
       "tmdbId": "113962"
     },
     {
-      "title": "The Gentlemen: La serie",
-      "synopsis": "Cuando Eddie hereda la finca de su aristocrática familia, descubre que alberga una enorme plantación de marihuana... y que sus propietarios no piensan marcharse.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ia3jqovfKDRlIwbXjiWY6mKUA18.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "slug": "the-gentlemen-la-serie",
-      "tmdbId": "236235"
+      "title": "Bleach",
+      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "slug": "bleach",
+      "tmdbId": "30984"
+    },
+    {
+      "title": "La maldición de Widow's Bay",
+      "synopsis": "Un alcalde de Nueva Inglaterra intenta fomentar el turismo, pero se enfrenta a extraños acontecimientos que sugieren que la isla está encantada.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+      "slug": "la-maldicion-de-widows-bay",
+      "tmdbId": "270476"
     }
   ],
   "movieSections": [
@@ -183,6 +183,20 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "The Highest Stakes",
+          "posterUrl": "https://image.tmdb.org/t/p/original/41BvXOzzLDZSpJ9zekmzWi8imKZ.jpg",
+          "slug": "the-highest-stakes",
+          "type": "movie",
+          "tmdbId": "1444249"
+        },
+        {
+          "title": "Hugo 24",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5zRjTzZEd8yrC7crED3WOHr6mF6.jpg",
+          "slug": "hugo-24",
+          "type": "movie",
+          "tmdbId": "1506747"
+        },
+        {
           "title": "Tumbal Proyek",
           "posterUrl": "https://image.tmdb.org/t/p/original/wdOa8jWX8u1YNSlWyRvoNCc9y7S.jpg",
           "slug": "tumbal-proyek",
@@ -237,20 +251,6 @@
           "slug": "xana-y-el-secreto-del-tiempo",
           "type": "movie",
           "tmdbId": "1155234"
-        },
-        {
-          "title": "Gracias, equipo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/aVGaBCt8g0Q990jKW85wTJKotev.jpg",
-          "slug": "gracias-equipo",
-          "type": "movie",
-          "tmdbId": "1558568"
-        },
-        {
-          "title": "Érase una vez en un Ring",
-          "posterUrl": "https://image.tmdb.org/t/p/original/1fiX9aLIIs0WGfxC8IhVuidVo8X.jpg",
-          "slug": "erase-una-vez-en-un-ring",
-          "type": "movie",
-          "tmdbId": "1535809"
         }
       ]
     }
