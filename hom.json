@@ -9,20 +9,20 @@
       "tmdbId": "1101383"
     },
     {
-      "title": "Vaiana",
-      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para de",
-      "posterUrl": "https://image.tmdb.org/t/p/original/dWQwKbh3pmTXTICZWljlGdI8NTq.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "slug": "vaiana-1108427",
-      "tmdbId": "1108427"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
       "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "slug": "spider-man-brand-new-day",
       "tmdbId": "969681"
+    },
+    {
+      "title": "Vaiana",
+      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para de",
+      "posterUrl": "https://image.tmdb.org/t/p/original/dWQwKbh3pmTXTICZWljlGdI8NTq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "slug": "vaiana-1108427",
+      "tmdbId": "1108427"
     },
     {
       "title": "La Odisea",
@@ -41,12 +41,12 @@
       "tmdbId": "1137844"
     },
     {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
-      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713"
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rxat0c5S2UlLY7rTBU8MElKP1Vk.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680"
     }
   ],
   "seriesHero": [
@@ -70,17 +70,9 @@
       "title": "Slow Horses",
       "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del e",
       "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wrMY8LMEnPiM9dokAUZCGGKLWrm.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
       "slug": "slow-horses",
       "tmdbId": "95480"
-    },
-    {
-      "title": "Ted Lasso",
-      "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con su",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "slug": "ted-lasso",
-      "tmdbId": "97546"
     },
     {
       "title": "Causa abierta",
@@ -91,12 +83,20 @@
       "tmdbId": "258230"
     },
     {
-      "title": "Silo",
-      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "slug": "silo",
-      "tmdbId": "125988"
+      "title": "Operaciones Especiales: Lioness",
+      "synopsis": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe",
+      "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "slug": "operaciones-especiales-lioness",
+      "tmdbId": "113962"
+    },
+    {
+      "title": "El club gastronómico",
+      "synopsis": "Luego de que uno de ellos muere en un incendio, cuatro parejas que parecían perfectas se ven forzadas a cuestionar todo lo que creían saber los unos de los otros.",
+      "posterUrl": "https://image.tmdb.org/t/p/original/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
+      "slug": "el-club-gastronomico",
+      "tmdbId": "325755"
     }
   ],
   "movieSections": [
