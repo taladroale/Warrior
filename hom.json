@@ -114,7 +114,7 @@
     {
       "title": "Reacher",
       "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
-      "rating": 8.11,
+      "rating": 8.12,
       "year": "2022",
       "genres": [
         "Acción",
@@ -126,6 +126,23 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "slug": "reacher",
       "tmdbId": "108978",
+      "type": "series"
+    },
+    {
+      "title": "Neagley",
+      "synopsis": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
+      "rating": 7.3,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Crimen"
+      ],
+      "cast": "Maria Sten, Greyston Holt, Adeline Rudolph, Matthew Del Negro, Damon Herriman",
+      "posterUrl": "https://image.tmdb.org/t/p/original/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+      "slug": "neagley",
+      "tmdbId": "273207",
       "type": "series"
     },
     {
@@ -147,37 +164,19 @@
       "type": "series"
     },
     {
-      "title": "South Park",
-      "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
-      "rating": 8.3,
-      "year": "1997",
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.35,
+      "year": "2025",
       "genres": [
-        "Animación",
-        "Comedia"
+        "Crimen",
+        "Drama"
       ],
-      "cast": "Matt Stone, Mona Marshall, Jennifer Howell",
-      "posterUrl": "https://image.tmdb.org/t/p/original/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "slug": "south-park",
-      "tmdbId": "2190",
-      "type": "series"
-    },
-    {
-      "title": "One Piece",
-      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
-      "rating": 8.8,
-      "year": "1999",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Comedia",
-        "Animación"
-      ],
-      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "slug": "one-piece",
-      "tmdbId": "37854",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -198,19 +197,20 @@
       "type": "series"
     },
     {
-      "title": "Operaciones Especiales: Lioness",
-      "synopsis": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
-      "rating": 8.17,
+      "title": "Silo",
+      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+      "rating": 8.21,
       "year": "2023",
       "genres": [
-        "Drama",
-        "Guerra"
+        "Ciencia ficción",
+        "Fantasía",
+        "Drama"
       ],
-      "cast": "Zoe Saldaña, Laysla De Oliveira, Dave Annable, Jill Wagner, LaMonica Garrett",
-      "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "slug": "operaciones-especiales-lioness",
-      "tmdbId": "113962",
+      "cast": "Rebecca Ferguson, Common, Chinaza Uche, Ashley Zukerman, Shane McRae",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "slug": "silo",
+      "tmdbId": "125988",
       "type": "series"
     }
   ],
@@ -578,6 +578,134 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Te conozco",
+          "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Melis Sezen, Elçin Sangu, Ozan Dolunay, Cemal Hünal, Efe Taşdelen",
+          "posterUrl": "https://image.tmdb.org/t/p/original/tgBRNtynz81e0DE4bWo8XwTbCw9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vPQ4Ctn8MS6NBP73duf0GHtbziU.jpg",
+          "slug": "te-conozco",
+          "tmdbId": "320760",
+          "type": "series"
+        },
+        {
+          "title": "Mínima Seguridad",
+          "synopsis": "Bienvenidos a la prisión de Chenoise, un lugar que, en teoría, garantiza el orden y la disciplina… salvo que aquí los responsables son los primeros en incumplir las normas. Entre una directora que trata a los reclusos como si fueran sus hijos, un subdirector obsesionado con la autoridad, una guardia que lo da todo y una nueva recluta decidida a demostrar su valía, la gestión diaria se basa en la improvisación, las decisiones precipitadas y las ideas descabelladas. Un estado de caos constante que, contra todo pronóstico, funciona. Pero, ¿hasta cuándo?",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Audrey Lamy, Jean-Pascal Zadi, Benjamin Tranié, Eva Huault, Jérémy Nadeau",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hfywmnPG8YWpEqNxU6ipfU8sYSC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/aAWDj71XRCHhSrE0dnU6YrquMMY.jpg",
+          "slug": "minima-seguridad",
+          "tmdbId": "299255",
+          "type": "series"
+        },
+        {
+          "title": "Golden Axe",
+          "synopsis": "Legendary warriors Ax Battler, Tyris Flare, and Gilius Thunderhead reunite to save Yuria from the evil giant Death Adder, who just won't seem to stay dead. Their quest is complicated by Hampton Squib, an inexperienced and wildly underprepared adventurer whose dream of heroism far exceeds his abilities. Forced to work together despite their flaws, they must find a way to stop Death Adder once and for all.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Matthew Rhys, Danny Pudi, Lisa Gilroy, Liam McIntyre, Carl Tart",
+          "posterUrl": "https://image.tmdb.org/t/p/original/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
+          "slug": "golden-axe",
+          "tmdbId": "252105",
+          "type": "series"
+        },
+        {
+          "title": "Amores inesperados",
+          "synopsis": "Una colección de episodios unitarios en los que Bossi encarna un personaje diferente en cada entrega. Todos, sin embargo, están en busca de lo mismo: una inesperada historia de amor.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Martín Bossi, Darío Miño, Julieta Cardinali, Jorgelina Aruzzi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/n5QzgAh5QNscYqmp9vekgvKBp2e.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nBXRiBabzBE6U6He4BnMNULTREC.jpg",
+          "slug": "amores-inesperados",
+          "tmdbId": "316488",
+          "type": "series"
+        },
+        {
+          "title": "Reacher",
+          "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+          "rating": 8.12,
+          "year": "2022",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Crimen"
+          ],
+          "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+          "slug": "reacher",
+          "tmdbId": "108978",
+          "type": "series"
+        },
+        {
+          "title": "The Drop: A Snowfall Saga",
+          "synopsis": "En el Los Ángeles de los años 90, Wanda y Leon luchan por llevar el rap de la Costa Oeste al público general, mientras estallan guerras de pandillas y las discográficas se mueven para explotar la cultura del hip hop en su propio beneficio",
+          "rating": 6.2,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Gail Bean, Isaiah John, Asante Blackk, Peyton Alex Smith, Simmie Sims III",
+          "posterUrl": "https://image.tmdb.org/t/p/original/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
+          "slug": "the-drop-a-snowfall-saga",
+          "tmdbId": "304842",
+          "type": "series"
+        },
+        {
+          "title": "Route 187",
+          "synopsis": "Citizens combat urban violence until a bus driver and student's murders by thugs spark outrage, leading authorities to hunt the culprits captured on video.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Rico Ball, Clark Moore, Cuyle Carvin, Christopher Livingstone, Josef Cannon",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yfP9A3IaKE00U1ap1y7wAoZRzeC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/Agx8RmlBBDJrlH9MyUOd5JYYZPS.jpg",
+          "slug": "route-187",
+          "tmdbId": "332657",
+          "type": "series"
+        },
+        {
+          "title": "Neagley",
+          "synopsis": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
+          "rating": 7.3,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio",
+            "Crimen"
+          ],
+          "cast": "Maria Sten, Greyston Holt, Adeline Rudolph, Matthew Del Negro, Damon Herriman",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+          "slug": "neagley",
+          "tmdbId": "273207",
+          "type": "series"
+        },
+        {
           "title": "La muñeca",
           "synopsis": "Cuando Stanislaw se enamora de la aristocrática Izabela, dedica su vida entera a conquistarla.",
           "rating": 5.5,
@@ -608,21 +736,122 @@
           "slug": "objetivo-paris",
           "tmdbId": "232018",
           "type": "series"
+        }
+      ]
+    },
+    {
+      "title": "Estrenos",
+      "type": "series",
+      "seeMoreSlug": "estrenos-series",
+      "items": [
+        {
+          "title": "Te conozco",
+          "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Melis Sezen, Elçin Sangu, Ozan Dolunay, Cemal Hünal, Efe Taşdelen",
+          "posterUrl": "https://image.tmdb.org/t/p/original/tgBRNtynz81e0DE4bWo8XwTbCw9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vPQ4Ctn8MS6NBP73duf0GHtbziU.jpg",
+          "slug": "te-conozco",
+          "tmdbId": "320760",
+          "type": "series"
         },
         {
-          "title": "El rostro de la venganza",
-          "synopsis": "Tras cuatro años en coma, Nozomi despierta y descubre que su hijo ha muerto y su marido se casó. El accidente fue provocado y busca venganza.",
-          "rating": 9,
+          "title": "Catedrales",
+          "synopsis": "A 17-year-old girl is found burned and dismembered in an empty lot in a middle-class neighborhood of Santiago, Chile. Due to police negligence, the crime goes unpunished until thirty years later, when the family manages to piece together the murder puzzle, revealing a forbidden relationship and a cruel truth.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Alfredo Castro, Paulina García, Octavia Bernasconi, Ignacia Baeza, Vivianne Dietz",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lXfOj4JcnyW0KdfMLrLTLegju5I.jpg",
+          "slug": "catedrales",
+          "tmdbId": "330302",
+          "type": "series"
+        },
+        {
+          "title": "Mínima Seguridad",
+          "synopsis": "Bienvenidos a la prisión de Chenoise, un lugar que, en teoría, garantiza el orden y la disciplina… salvo que aquí los responsables son los primeros en incumplir las normas. Entre una directora que trata a los reclusos como si fueran sus hijos, un subdirector obsesionado con la autoridad, una guardia que lo da todo y una nueva recluta decidida a demostrar su valía, la gestión diaria se basa en la improvisación, las decisiones precipitadas y las ideas descabelladas. Un estado de caos constante que, contra todo pronóstico, funciona. Pero, ¿hasta cuándo?",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Audrey Lamy, Jean-Pascal Zadi, Benjamin Tranié, Eva Huault, Jérémy Nadeau",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hfywmnPG8YWpEqNxU6ipfU8sYSC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/aAWDj71XRCHhSrE0dnU6YrquMMY.jpg",
+          "slug": "minima-seguridad",
+          "tmdbId": "299255",
+          "type": "series"
+        },
+        {
+          "title": "Neagley",
+          "synopsis": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
+          "rating": 7.3,
           "year": "2026",
           "genres": [
             "Drama",
-            "Misterio"
+            "Misterio",
+            "Crimen"
           ],
-          "cast": "堀未央奈, 石川恋, Riki Matsui, 飯島寛騎",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pN4PB0dU9rzJkuwk3RNuGg2dnjm.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/36GPahqFqgVPQEMjN2qZK5Y8ptm.jpg",
-          "slug": "el-rostro-de-la-venganza",
-          "tmdbId": "316205",
+          "cast": "Maria Sten, Greyston Holt, Adeline Rudolph, Matthew Del Negro, Damon Herriman",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+          "slug": "neagley",
+          "tmdbId": "273207",
+          "type": "series"
+        },
+        {
+          "title": "Golden Axe",
+          "synopsis": "Legendary warriors Ax Battler, Tyris Flare, and Gilius Thunderhead reunite to save Yuria from the evil giant Death Adder, who just won't seem to stay dead. Their quest is complicated by Hampton Squib, an inexperienced and wildly underprepared adventurer whose dream of heroism far exceeds his abilities. Forced to work together despite their flaws, they must find a way to stop Death Adder once and for all.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Matthew Rhys, Danny Pudi, Lisa Gilroy, Liam McIntyre, Carl Tart",
+          "posterUrl": "https://image.tmdb.org/t/p/original/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
+          "slug": "golden-axe",
+          "tmdbId": "252105",
+          "type": "series"
+        },
+        {
+          "title": "La muñeca",
+          "synopsis": "Cuando Stanislaw se enamora de la aristocrática Izabela, dedica su vida entera a conquistarla.",
+          "rating": 5.5,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Sandra Drzymalska, Tomasz Schuchardt, Dariusz Chojnacki, Jacek Braciak, Julia Wyszyńska",
+          "posterUrl": "https://image.tmdb.org/t/p/original/72pRBOj8S52NbT1F8OkMxD9OnjY.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg",
+          "slug": "la-muneca",
+          "tmdbId": "295089",
+          "type": "series"
+        },
+        {
+          "title": "Route 187",
+          "synopsis": "Citizens combat urban violence until a bus driver and student's murders by thugs spark outrage, leading authorities to hunt the culprits captured on video.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Rico Ball, Clark Moore, Cuyle Carvin, Christopher Livingstone, Josef Cannon",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yfP9A3IaKE00U1ap1y7wAoZRzeC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/Agx8RmlBBDJrlH9MyUOd5JYYZPS.jpg",
+          "slug": "route-187",
+          "tmdbId": "332657",
           "type": "series"
         },
         {
@@ -641,135 +870,19 @@
           "type": "series"
         },
         {
-          "title": "Made in Korea",
-          "synopsis": "Un hombre movido por la ambición de riqueza y poder, y un fiscal que lo sacrifica todo para detenerlo: una historia que se desarrolla en el torbellino de una época turbulenta.",
-          "rating": 8.2,
-          "year": "2025",
-          "genres": [
-            "Crimen",
-            "Drama"
-          ],
-          "cast": "현빈, 정우성, 차희, 이세호",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7sTnLKLRyOL91WNKJeOHjdddiTk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3GmRS3efCTp6jumogKOxYBrV5mO.jpg",
-          "slug": "made-in-korea",
-          "tmdbId": "246473",
-          "type": "series"
-        },
-        {
-          "title": "Las azules",
-          "synopsis": "En 1971, cuatro mujeres desafían las normas ultraconservadoras y se unen a la primera fuerza policial femenina de México, pero descubren que se trata de un truco publicitario para distraer a los medios de un asesino en serie. A medida que aumenta el número de cadáveres, hacen un pacto para llevar al asesino ante la justicia.",
-          "rating": 7.3,
-          "year": "2024",
-          "genres": [
-            "Crimen",
-            "Drama"
-          ],
-          "cast": "Bárbara Mori, Ximena Sariñana, Natalia Téllez, Amorita Rasgado, Miguel Rodarte",
-          "posterUrl": "https://image.tmdb.org/t/p/original/oknR2tQjcuyHOl2lfIewbSwuUnS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/v713kGiwYw2amhk6v9lfxvAYncv.jpg",
-          "slug": "las-azules",
-          "tmdbId": "253983",
-          "type": "series"
-        },
-        {
-          "title": "Catedrales",
-          "synopsis": "A 17-year-old girl is found burned and dismembered in an empty lot in a middle-class neighborhood of Santiago, Chile. Due to police negligence, the crime goes unpunished until thirty years later, when the family manages to piece together the murder puzzle, revealing a forbidden relationship and a cruel truth.",
-          "rating": 0,
+          "title": "Amores inesperados",
+          "synopsis": "Una colección de episodios unitarios en los que Bossi encarna un personaje diferente en cada entrega. Todos, sin embargo, están en busca de lo mismo: una inesperada historia de amor.",
+          "rating": 10,
           "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Alfredo Castro, Paulina García, Octavia Bernasconi, Ignacia Baeza, Vivianne Dietz",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lXfOj4JcnyW0KdfMLrLTLegju5I.jpg",
-          "slug": "catedrales",
-          "tmdbId": "330302",
-          "type": "series"
-        },
-        {
-          "title": "Slow Horses",
-          "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-          "rating": 8,
-          "year": "2022",
-          "genres": [
-            "Crimen",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wrMY8LMEnPiM9dokAUZCGGKLWrm.jpg",
-          "slug": "slow-horses",
-          "tmdbId": "95480",
-          "type": "series"
-        },
-        {
-          "title": "Ted Lasso",
-          "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-          "rating": 8.37,
-          "year": "2020",
           "genres": [
             "Drama",
             "Comedia"
           ],
-          "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-          "slug": "ted-lasso",
-          "tmdbId": "97546",
-          "type": "series"
-        },
-        {
-          "title": "El mago oscuro",
-          "synopsis": "Dean Potter, el escalador, saltador de base y caminante de altura rompedor y, a la vez, divisivo, logra asombrosas hazañas mientras se enfrenta a sus problemas personales.",
-          "rating": 8.63,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Dean Potter, Dean Fidelman, Timmy O'Neill, Cedar Wright, Dan Duane",
-          "posterUrl": "https://image.tmdb.org/t/p/original/phkGAfV7NTYCIv4jIFYTbCMb9xC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7it9nEObNN6dfsJH92QlJZd2Chx.jpg",
-          "slug": "el-mago-oscuro",
-          "tmdbId": "316527",
-          "type": "series"
-        }
-      ]
-    },
-    {
-      "title": "Estrenos",
-      "type": "series",
-      "seeMoreSlug": "estrenos-series",
-      "items": [
-        {
-          "title": "City of Blood",
-          "synopsis": "Berlín, una ciudad-estado al límite. La criminalidad conforma la vida cotidiana en un mundo destrozado por el cambio climático. Mientras unos pocos privilegiados viven bajo una cúpula totalmente climatizada, el resto de la ciudad se hunde en la corrupción y la violencia. Las hermanas Bea y Phoebe se separaron de niñas por un giro del destino. Bea, enferma crónica, creció protegida con su madre adoptiva, mientras Phoebe luchaba por sobrevivir en las calles de Berlín. Cuando sus mundos colisionan de nuevo la víspera de unas elecciones decisivas, descubren una verdad aterradora: los vampiros controlan el crimen organizado y están decididos a hacerse con el poder político. La sangre se ha convertido en la verdadera moneda de la ciudad. Atrapadas entre fuerzas rivales, Bea y Phoebe deben enfrentarse a la pregunta clave: ¿quién presenta la mayor amenaza: los humanos o los vampiros?",
-          "rating": 10,
-          "year": "2026",
-          "genres": [
-            "Misterio"
-          ],
-          "cast": "Lea Drinda, Soma Pysall, Franz Hartwig, David Schütter, Mouataz Alshaltouh",
-          "posterUrl": "https://image.tmdb.org/t/p/original/dfCSK88iG2Z2V9u6sXZkruiygq7.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nAEIr2b9M9ya8SXOTA1bDDMjhCA.jpg",
-          "slug": "city-of-blood",
-          "tmdbId": "332401",
-          "type": "series"
-        },
-        {
-          "title": "Catedrales",
-          "synopsis": "A 17-year-old girl is found burned and dismembered in an empty lot in a middle-class neighborhood of Santiago, Chile. Due to police negligence, the crime goes unpunished until thirty years later, when the family manages to piece together the murder puzzle, revealing a forbidden relationship and a cruel truth.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Alfredo Castro, Paulina García, Octavia Bernasconi, Ignacia Baeza, Vivianne Dietz",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lXfOj4JcnyW0KdfMLrLTLegju5I.jpg",
-          "slug": "catedrales",
-          "tmdbId": "330302",
+          "cast": "Martín Bossi, Darío Miño, Julieta Cardinali, Jorgelina Aruzzi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/n5QzgAh5QNscYqmp9vekgvKBp2e.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nBXRiBabzBE6U6He4BnMNULTREC.jpg",
+          "slug": "amores-inesperados",
+          "tmdbId": "316488",
           "type": "series"
         },
         {
@@ -786,115 +899,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
           "slug": "un-amor-distinto-al-tuyo",
           "tmdbId": "314939",
-          "type": "series"
-        },
-        {
-          "title": "El juicio",
-          "synopsis": "Una joven y su padre buscan justicia después de que ella fuese víctima de abuso sexual. Además de lidiar con las secuelas del delito, ambos luchan contra un fallido sistema judicial y el propio padre del joven agresor: un exitoso hombre dispuesto a usar todo su poder para proteger a su hijo y evitar que pague por su crimen.",
-          "rating": 10,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Eugenio Derbez, Pedro Alonso, Karla Gaytán, Íker Sánchez Solano, Sergio Gava",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bFg26U2rS3TmcYRPSYY7FRkVWHc.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/bLcF9mcinphgFlXEfk7RkCSfqCv.jpg",
-          "slug": "el-juicio-260249",
-          "tmdbId": "260249",
-          "type": "series"
-        },
-        {
-          "title": "En Coma",
-          "synopsis": "Luego de que una explosión dejara a Anabel en coma, Rafael —un enfermero que escucha a los muertos— debe ayudarla a mantenerse con vida antes de que sus enemigos la encuentren.",
-          "rating": 10,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Rami Herrera, Jerónimo Cantillo, Paola Moreno, Julián Trujillo, Marcela Carvajal",
-          "posterUrl": "https://image.tmdb.org/t/p/original/PXTBzvEgxXT49RYSurT6xkNZU7.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg",
-          "slug": "en-coma",
-          "tmdbId": "332863",
-          "type": "series"
-        },
-        {
-          "title": "La timonel",
-          "synopsis": "Tras un escándalo familiar, la adolescente Teagan Tao se muda a una pequeña localidad y se une a un equipo masculino de élite, donde despierta rivalidades… y pasiones.",
-          "rating": 7.75,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Miku Martineau, Jessica Paré, Samuel Braun, Kyle Clark, Thomas Cadrot",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
-          "slug": "la-timonel",
-          "tmdbId": "300507",
-          "type": "series"
-        },
-        {
-          "title": "El club gastronómico",
-          "synopsis": "Luego de que uno de ellos muere en un incendio, cuatro parejas que parecían perfectas se ven forzadas a cuestionar todo lo que creían saber los unos de los otros.",
-          "rating": 6.2,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Loes Haverkort, Remko Vrijdag, Noortje Herlaar, Edwin Jonker, Rifka Lodeizen",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
-          "slug": "el-club-gastronomico",
-          "tmdbId": "325755",
-          "type": "series"
-        },
-        {
-          "title": "Causa abierta",
-          "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
-          "rating": 8.9,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Patrick Brammall, Brendan Cowell, Maxine Peake, Daniel Henshall, Jessica Wren",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
-          "slug": "causa-abierta",
-          "tmdbId": "258230",
-          "type": "series"
-        },
-        {
-          "title": "DANG!",
-          "synopsis": "Sexo. Drogas. Síndrome del colon irritable. Los hermanos Dang tienen sus problemas, pero ahora que vuelven a estar juntos podrán poner orden en sus vidas. O quizá no.",
-          "rating": 8.25,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Comedia"
-          ],
-          "cast": "Stephanie Hsu, Poppy Liu",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg",
-          "slug": "dang",
-          "tmdbId": "314478",
-          "type": "series"
-        },
-        {
-          "title": "Colisión",
-          "synopsis": "Muerto el magnate Miguel Ángel en un misterioso accidente, su hija Zoé y su esposa separada Belén luchan por su empresa.",
-          "rating": 5.33,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Margarita Rosa de Francisco, Macarena Achaga, Diego Klein, Christian Vázquez, Juan Pablo Castaneda",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4loiHfZZx027yP0CtErtCPbkTc1.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
-          "slug": "colision",
-          "tmdbId": "331033",
           "type": "series"
         }
       ]
