@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T00:08:53Z",
-  "source": "tpls",
+  "updatedAt": "2026-09-17T20:41:28Z",
+  "source": "tioplus",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
     "12": {"slug": "buscando-a-nemo"},
@@ -11206,6 +11206,7 @@
     "1426964": {"slug": "hermandad-estado-de-terror"},
     "1428210": {"slug": "aquella-cancion"},
     "1428213": {"slug": "academia-de-villanos"},
+    "1428226": {"slug": "hasta-el-fin-del-mundo"},
     "1428264": {"slug": "semi-soeter"},
     "1428862": {"slug": "cortafuego"},
     "1428907": {"slug": "white-trash"},
@@ -13491,6 +13492,7 @@
     "259837": {"slug": "los-superfrikis"},
     "259882": {"slug": "golden-kamuy-en-busca-de-los-prisioneros-de-hokkaido"},
     "259909": {"slug": "dexter-resurreccion"},
+    "260249": {"slug": "el-juicio"},
     "260458": {"slug": "adults"},
     "260471": {"slug": "cambiando%20de%20marcha"},
     "260592": {"slug": "todos-nuestros-anos"},
@@ -13693,6 +13695,7 @@
     "301507": {"slug": "mas-que-rivales"},
     "301612": {"slug": "cenas-de-um-crime"},
     "301625": {"slug": "sin-frenos"},
+    "301626": {"slug": "historia-de-dos-ciudades"},
     "302074": {"slug": "rj-decker"},
     "302463": {"slug": "dinastia-casillas"},
     "302540": {"slug": "los-tipos-malos-malos-comienzos"},
@@ -13764,8 +13767,10 @@
     "329394": {"slug": "el-otro-padre"},
     "331033": {"slug": "colision"},
     "331616": {"slug": "la-muerte-de-la-esposa-del-pastor"},
+    "332863": {"slug": "en-coma"},
     "333096": {"slug": "hotel-todo-incluido"},
-    "333410": {"slug": "escort-boys"}
+    "333410": {"slug": "escort-boys"},
+    "334859": {"slug": "chavez-vs-chavez"}
   },
   "animes": {
     "890": {"slug": "neon-genesis-evangelion"},
@@ -14050,6 +14055,7 @@
     "222623": {"slug": "the-elusive-samurai"},
     "223564": {"slug": "las-100-novias-que-de-verdad-te-aman"},
     "231677": {"slug": "buenas-noches-mundo"},
+    "232230": {"slug": "senor-de-los-misterios"},
     "236994": {"slug": "dragon-ball-daima"},
     "237529": {"slug": "medalist"},
     "240411": {"slug": "dan-da-dan"},
