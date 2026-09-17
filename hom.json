@@ -2,101 +2,218 @@
   "movieHero": [
     {
       "title": "El final de Oak Street",
-      "synopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervive",
+      "synopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "rating": 6.9,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Suspenso"
+      ],
+      "cast": "Anne Hathaway, Ewan McGregor, Maisy Stella, Christian Convery, Jordan Alexa Davis",
       "posterUrl": "https://image.tmdb.org/t/p/original/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "slug": "el-final-de-oak-street",
-      "tmdbId": "1101383"
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama.",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681"
+      "tmdbId": "1101383",
+      "type": "movie",
+      "duration": "100 min"
     },
     {
       "title": "Vaiana",
-      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para de",
-      "posterUrl": "https://image.tmdb.org/t/p/original/dWQwKbh3pmTXTICZWljlGdI8NTq.jpg",
+      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
+      "rating": 7.3,
+      "year": "2026",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia",
+        "Aventura"
+      ],
+      "cast": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xUUksaUc30wX5orsYytApurKbX.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "slug": "vaiana-1108427",
-      "tmdbId": "1108427"
+      "tmdbId": "1108427",
+      "type": "movie",
+      "duration": "115 min"
     },
     {
       "title": "La Odisea",
-      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentar",
+      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "rating": 8,
+      "year": "2026",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ],
+      "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
       "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "slug": "la-odisea-1368337",
-      "tmdbId": "1368337"
+      "tmdbId": "1368337",
+      "type": "movie",
+      "duration": "172 min"
     },
     {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una",
-      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713"
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 7.86,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681",
+      "type": "movie",
+      "duration": "144 min"
     },
     {
       "title": "Coyote vs. Acme",
-      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demand",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rxat0c5S2UlLY7rTBU8MElKP1Vk.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/l9mFW9HQnAZ4r1ChZJHoOT3jaal.jpg",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "rating": 7.58,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ],
+      "cast": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly",
+      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
       "slug": "coyote-vs-acme",
-      "tmdbId": "1204680"
+      "tmdbId": "1204680",
+      "type": "movie",
+      "duration": "103 min"
+    },
+    {
+      "title": "Mayday",
+      "synopsis": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
+      "rating": 7.98,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "cast": "Ryan Reynolds, Kenneth Branagh, Marcin Dorociński, Maria Bakalova, David Morse",
+      "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+      "slug": "mayday",
+      "tmdbId": "1137844",
+      "type": "movie",
+      "duration": "111 min"
     }
   ],
   "seriesHero": [
     {
       "title": "Reacher",
-      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y p",
+      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "rating": 8.11,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Crimen"
+      ],
+      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
       "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "slug": "reacher",
-      "tmdbId": "108978"
+      "tmdbId": "108978",
+      "type": "series"
     },
     {
       "title": "Linternas",
-      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazó",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "rating": 8.28,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Garret Dillahunt, Poorna Jagannathan",
       "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "slug": "linternas",
-      "tmdbId": "95350"
+      "tmdbId": "95350",
+      "type": "series"
     },
     {
       "title": "Slow Horses",
-      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del e",
+      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "rating": 8,
+      "year": "2022",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
       "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/wrMY8LMEnPiM9dokAUZCGGKLWrm.jpg",
       "slug": "slow-horses",
-      "tmdbId": "95480"
+      "tmdbId": "95480",
+      "type": "series"
+    },
+    {
+      "title": "South Park",
+      "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+      "rating": 8.3,
+      "year": "1997",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ],
+      "cast": "Matt Stone, Mona Marshall, Jennifer Howell",
+      "posterUrl": "https://image.tmdb.org/t/p/original/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "slug": "south-park",
+      "tmdbId": "2190",
+      "type": "series"
     },
     {
       "title": "Silo",
-      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen qu",
+      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
+      "rating": 8.21,
+      "year": "2023",
+      "genres": [
+        "Ciencia ficción",
+        "Fantasía",
+        "Drama"
+      ],
+      "cast": "Rebecca Ferguson, Common, Chinaza Uche, Ashley Zukerman, Shane McRae",
       "posterUrl": "https://image.tmdb.org/t/p/original/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "slug": "silo",
-      "tmdbId": "125988"
+      "tmdbId": "125988",
+      "type": "series"
     },
     {
-      "title": "Operaciones Especiales: Lioness",
-      "synopsis": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe",
-      "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "slug": "operaciones-especiales-lioness",
-      "tmdbId": "113962"
-    },
-    {
-      "title": "Bleach",
-      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del D",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "slug": "bleach",
-      "tmdbId": "30984"
+      "title": "Stranger Things: Relatos del 85",
+      "synopsis": "Hawkins. Invierno de 1985. En un pueblo lleno de secretos, unos héroes se enfrentan a nuevos misterios... y a una nueva y extraña amenaza.",
+      "rating": 7.6,
+      "year": "2026",
+      "genres": [
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía",
+        "Misterio",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ssls8OpHHXtHcvIy7AiXipBddQX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/krRJcoEVbkT2fPZDqmj9zWp9ZQR.jpg",
+      "slug": "stranger-things-relatos-del-85",
+      "tmdbId": "224263",
+      "type": "series"
     }
   ],
   "movieSections": [
@@ -107,73 +224,176 @@
       "items": [
         {
           "title": "Gracias, equipo",
+          "synopsis": "Nos contará la historia de la empresa Tío Mochales, antaño reina indiscutible del queso español. Hoy es una empresa un poco oxidada pero empeñada en mantener la imagen. Su última gran idea: organizar un team building rural en el pueblo donde la empresa se fundó. Pero lo que debía ser un retiro para reconectar con los valores de siempre, se convierte en una encerrona cuando descubren que se vienen despidos, y muchos, seguida de una batalla campal de peloteo, traiciones y filtraciones",
+          "rating": 6.3,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Alexandra Jiménez, Maribel Verdú, Pedro Casablanc, Pepe Viyuela, Raúl Tejón",
           "posterUrl": "https://image.tmdb.org/t/p/original/aVGaBCt8g0Q990jKW85wTJKotev.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
           "slug": "gracias-equipo",
+          "tmdbId": "1558568",
           "type": "movie",
-          "tmdbId": "1558568"
+          "duration": "93 min"
         },
         {
           "title": "Operación Teherán",
+          "synopsis": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
+          "rating": 9,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Suspenso"
+          ],
+          "cast": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban",
           "posterUrl": "https://image.tmdb.org/t/p/original/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
           "slug": "operacion-teheran",
+          "tmdbId": "1228834",
           "type": "movie",
-          "tmdbId": "1228834"
+          "duration": "142 min"
         },
         {
           "title": "El hombre que desafió al rey",
+          "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Acción",
+            "Historia"
+          ],
+          "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Tom Hollander, Cosmo Jarvis",
           "posterUrl": "https://image.tmdb.org/t/p/original/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
           "slug": "el-hombre-que-desafio-al-rey",
+          "tmdbId": "977942",
           "type": "movie",
-          "tmdbId": "977942"
+          "duration": "128 min"
         },
         {
           "title": "Enfrentados: Marfil",
+          "synopsis": "Marfil Cortés, la hija de un poderoso empresario español, ve como su perfecta vida en Nueva York da un vuelco cuando es repentinamente secuestrada y liberada sin aparente explicación. Su padre decide entonces contratar al enigmático Sebastián Moore como guardaespaldas. Forzados a pasar cada minuto juntos y aunque inicialmente choquen por el espíritu indomable de ella y el carácter reservado de él, surgirá una irremediable atracción entre ambos. Al volver a España, con las amenazas intensificándose, deberán moverse en un mundo donde nadie es quien dice ser y nada es lo que parece.",
+          "rating": 7.05,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Drama",
+            "Suspenso"
+          ],
+          "cast": "Ester Expósito, Hugo Diego Garcia, Eric Masip, Pablo Molinero, Zoe Bonafonte",
           "posterUrl": "https://image.tmdb.org/t/p/original/umlft1ztFbUcnHf960pXJocjpdv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/i65y7cMae36K0giN0GRaMjAHUru.jpg",
           "slug": "enfrentados-marfil",
+          "tmdbId": "1440098",
           "type": "movie",
-          "tmdbId": "1440098"
+          "duration": "104 min"
         },
         {
           "title": "Hechizo de amor: La magia continúa",
+          "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+          "rating": 6.3,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Fantasía",
+            "Comedia"
+          ],
+          "cast": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña",
           "posterUrl": "https://image.tmdb.org/t/p/original/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
           "slug": "practicamente-magia-2",
+          "tmdbId": "1302904",
           "type": "movie",
-          "tmdbId": "1302904"
+          "duration": "130 min"
         },
         {
           "title": "¿Por qué me casé, entonces?",
+          "synopsis": "Las parejas se reencuentran para la boda de la hija de Marcus y Angela y traen consigo viejos y nuevos dramas mientras se preguntan: «¿Por qué nos casamos otra vez?».",
+          "rating": 6.7,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Tyler Perry, Taraji P. Henson, Jill Scott, Richard T. Jones, Tasha Smith",
           "posterUrl": "https://image.tmdb.org/t/p/original/exWdEF4PJsGpX9HeLQsedBgTkj8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
           "slug": "por-que-me-case-otra-vez",
+          "tmdbId": "1522689",
           "type": "movie",
-          "tmdbId": "1522689"
+          "duration": "112 min"
         },
         {
           "title": "Secretos del deporte: Mr. T",
+          "synopsis": "Mr. T conquistó el mundo como icono de los 80. Este documental desvela, de su propia mano, la historia que se esconde tras su cresta, sus cadenas y su frase característica.",
+          "rating": 7.8,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Mr. T, Terry Crews, Dirk Benedict, Sylvester Stallone, Ronald Reagan",
           "posterUrl": "https://image.tmdb.org/t/p/original/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
           "slug": "secretos-del-deporte-mr-t",
+          "tmdbId": "1739206",
           "type": "movie",
-          "tmdbId": "1739206"
+          "duration": "48 min"
         },
         {
           "title": "Entrega al límite",
+          "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+          "rating": 7.8,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Comedia",
+            "Suspenso"
+          ],
+          "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Adriana Barraza",
           "posterUrl": "https://image.tmdb.org/t/p/original/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
           "slug": "entrega-al-limite",
+          "tmdbId": "1377237",
           "type": "movie",
-          "tmdbId": "1377237"
+          "duration": "97 min"
         },
         {
           "title": "A la carrera",
+          "synopsis": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Para recuperarlo, debe seguir corriendo, cumplir todas las órdenes despiadadas y no confiar en nadie. Cada segundo es una prueba de hasta dónde puede llegar una madre para salvar a su hijo.",
+          "rating": 6.71,
+          "year": "2026",
+          "genres": [
+            "Suspenso",
+            "Acción"
+          ],
+          "cast": "Gal Gadot, Damian Lewis, Rory Wilmot, Alfred Enoch, Phoenix Di Sebastiani",
           "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
           "slug": "a-la-carrera",
+          "tmdbId": "1386315",
           "type": "movie",
-          "tmdbId": "1386315"
+          "duration": "86 min"
         },
         {
           "title": "Fito Páez: El mundo cabe en una canción",
+          "synopsis": "Una película documental que observa, escucha e interactúa con Fito Páez desde un lugar de profunda intimidad.",
+          "rating": 5.11,
+          "year": "2026",
+          "genres": [
+            "Documental",
+            "Música"
+          ],
+          "cast": "Fito Páez, Mariela Vitale, Eugenia Kolodziej, Charly García, Luis Alberto Spinetta",
           "posterUrl": "https://image.tmdb.org/t/p/original/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
           "slug": "fito-paez-el-mundo-cabe-en-una-cancion",
+          "tmdbId": "1744876",
           "type": "movie",
-          "tmdbId": "1744876"
+          "duration": "112 min"
         }
       ]
     },
@@ -184,73 +404,173 @@
       "items": [
         {
           "title": "The Highest Stakes",
+          "synopsis": "Cinco desconocidos son invitados una noche a un lujoso hotel para una partida de póquer de alto riesgo. Lo que comienza como un concurso de fortuna se convierte rápidamente en algo mucho más peligroso. A medida que aumenta la tensión y afloran los secretos, los jugadores se dan cuenta de que lo que está en juego no es sólo el dinero, sino la supervivencia. En una noche de peligro creciente, la confianza se convierte en un arma, y cada elección puede sellar su destino.",
+          "rating": 5.9,
+          "year": "2026",
+          "genres": [
+            "Suspenso"
+          ],
+          "cast": "Seth Green, Kevin Dillon, Dylan Walsh, Charlie Weber, Dan Bucatinsky",
           "posterUrl": "https://image.tmdb.org/t/p/original/sY6ETYWBPBnRzRRdxuCPyMEaZMB.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/r6pDlw34R6gm66f4EP7CUPlB9nd.jpg",
           "slug": "the-highest-stakes",
+          "tmdbId": "1444249",
           "type": "movie",
-          "tmdbId": "1444249"
+          "duration": "101 min"
         },
         {
           "title": "Hugo 24",
+          "synopsis": "En las 24 horas previas a su cumpleaños, Hugo, un joven perdido entre la inmadurez y el vértigo a crecer, se enfrenta a un inminente deshaucio y a la sensación constante de abandono. Con la ayuda de su mejor amigo, emprende una carrera contrarreloj para salvar su hogar y, sin saberlo, dar el primer paso hacia la madurez.",
+          "rating": 6,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Suspenso"
+          ],
+          "cast": "Arón Piper, Marco Cáceres, Marta Etura, Greta Fernández, Javier Pereira",
           "posterUrl": "https://image.tmdb.org/t/p/original/5zRjTzZEd8yrC7crED3WOHr6mF6.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9twQ0xc8nl8QVzhf0Y0gfHde8pP.jpg",
           "slug": "hugo-24",
+          "tmdbId": "1506747",
           "type": "movie",
-          "tmdbId": "1506747"
+          "duration": "91 min"
         },
         {
           "title": "Tumbal Proyek",
+          "synopsis": "While investigating their father’s death inside a major bridge construction company, Yuda and his family attempt to prove that the frequent, deadly workplace accidents are actually human sacrifices.",
+          "rating": 3.83,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Suspenso"
+          ],
+          "cast": "Callista Arum, Kiesha Alvaro, Karina Suwandi, Eduwart Manalu, Fuad Idris",
           "posterUrl": "https://image.tmdb.org/t/p/original/wdOa8jWX8u1YNSlWyRvoNCc9y7S.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/k3Nc57fdRkzleHjodta45mGJV2C.jpg",
           "slug": "tumbal-proyek",
+          "tmdbId": "1469930",
           "type": "movie",
-          "tmdbId": "1469930"
+          "duration": "106 min"
         },
         {
           "title": "Operación Teherán",
+          "synopsis": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
+          "rating": 9,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Suspenso"
+          ],
+          "cast": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban",
           "posterUrl": "https://image.tmdb.org/t/p/original/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
           "slug": "operacion-teheran",
+          "tmdbId": "1228834",
           "type": "movie",
-          "tmdbId": "1228834"
+          "duration": "142 min"
         },
         {
           "title": "Secretos del deporte: Mr. T",
+          "synopsis": "Mr. T conquistó el mundo como icono de los 80. Este documental desvela, de su propia mano, la historia que se esconde tras su cresta, sus cadenas y su frase característica.",
+          "rating": 7.8,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Mr. T, Terry Crews, Dirk Benedict, Sylvester Stallone, Ronald Reagan",
           "posterUrl": "https://image.tmdb.org/t/p/original/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
           "slug": "secretos-del-deporte-mr-t",
+          "tmdbId": "1739206",
           "type": "movie",
-          "tmdbId": "1739206"
+          "duration": "48 min"
         },
         {
           "title": "Aves de Corral",
+          "synopsis": "Aves de corral está protagonizada por Diego Anido, Pedro Casablanc, Olivia Baglivi, Chechu Salgado, Antonio, Durán “Morris”, Jose Luis García-Pérez, Roberto Enríquez, Belén Écija, Daniel Ibáñez, Clara Alvarado, Álvaro Díaz, Ramón Robles, Roberto Hoyo, Roberto García, Lukas Cantó, Helena Kaittani, Lydia Ramírez, Román Rymar, Cristina Brondo, Laura Delgado, Antonio Chamorro. El filme cuenta con la dirección de fotografía de Alberto Pareja.  En la película, una peculiar banda criminal planea asesinar a un dirigente del CNI, pero el plan de fin de semana de una pareja de novios se cruza en su camino.",
+          "rating": 4.5,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Diego Anido, Pedro Casablanc, Olivia Baglivi, José Luis García Pérez, Antonio 'Morris' Durán",
           "posterUrl": "https://image.tmdb.org/t/p/original/aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
+          "backdropUrl": null,
           "slug": "aves-de-corral",
-          "type": "movie",
-          "tmdbId": "1275215"
+          "tmdbId": "1275215",
+          "type": "movie"
         },
         {
           "title": "Hasta el fin del mundo",
+          "synopsis": "La vida de Manuel da un vuelco cuando Esmeralda, su amor perdido de hace quince años, lo llama inesperadamente. A pesar de estar a punto de casarse con otra persona, él se reencontrará con Esmeralda y ambos se darán cuenta de que su amor trasciende el tiempo.",
+          "rating": 6.4,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Mauricio Ochmann, Aislinn Derbez, Daniel Pérez Prada, Melina Figueroa, Miguel Ángel Jiménez",
           "posterUrl": "https://image.tmdb.org/t/p/original/1aCGJVkBZch6UN62yk44TGYU5Or.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hmoNULa9OEIM5pCzXr1XnuTVgUT.jpg",
           "slug": "hasta-el-fin-del-mundo-1428226",
+          "tmdbId": "1428226",
           "type": "movie",
-          "tmdbId": "1428226"
+          "duration": "98 min"
         },
         {
           "title": "Entrega al límite",
+          "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+          "rating": 7.8,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Comedia",
+            "Suspenso"
+          ],
+          "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Adriana Barraza",
           "posterUrl": "https://image.tmdb.org/t/p/original/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
           "slug": "entrega-al-limite",
+          "tmdbId": "1377237",
           "type": "movie",
-          "tmdbId": "1377237"
+          "duration": "97 min"
         },
         {
           "title": "Moscas",
+          "synopsis": "Olga lleva una vida estrictamente controlada y sin ataduras en un enorme edificio de apartamentos. Cuando, por necesidad económica, alquila una habitación a un hombre que también introduce a escondidas a su hijo de nueve años, surge un vínculo inesperado.",
+          "rating": 7.17,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Bastián Escobar, Teresa Sánchez, Hugo Ramirez, Enrique Arreola",
           "posterUrl": "https://image.tmdb.org/t/p/original/zBwSaw3sEwqH9vSijiPbUdbHNQz.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
           "slug": "moscas-1437703",
+          "tmdbId": "1437703",
           "type": "movie",
-          "tmdbId": "1437703"
+          "duration": "99 min"
         },
         {
           "title": "Xana y el secreto del tiempo",
+          "synopsis": "En la China de los años 30, Xana, una chica de un humilde pueblo pesquero, consigue un misterioso dispositivo que le otorga la capacidad de controlar el tiempo, pero que también atrae la atención de una poderosa organización decidida a darle caza. Mientras la joven intenta eludir a sus implacables perseguidores, se encuentra con Diecisiete, un miembro de la organización criminal con quien acabará compartiendo aventuras por la ciudad.",
+          "rating": 9.12,
+          "year": "2025",
+          "genres": [
+            "Romance",
+            "Animación",
+            "Fantasía",
+            "Aventura"
+          ],
+          "cast": "王俊凯, 刘校妤, 周深, 黄渤, 贾冰",
           "posterUrl": "https://image.tmdb.org/t/p/original/i2KkK6QyU2R4FRVvVZXRNCACFiF.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/fXxssjwHHxkOHAYVOGteCFTijHj.jpg",
           "slug": "xana-y-el-secreto-del-tiempo",
+          "tmdbId": "1155234",
           "type": "movie",
-          "tmdbId": "1155234"
+          "duration": "107 min"
         }
       ]
     }
@@ -263,73 +583,168 @@
       "items": [
         {
           "title": "Slow Horses",
+          "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+          "rating": 8,
+          "year": "2022",
+          "genres": [
+            "Crimen",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
           "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wrMY8LMEnPiM9dokAUZCGGKLWrm.jpg",
           "slug": "slow-horses",
-          "type": "series",
-          "tmdbId": "95480"
+          "tmdbId": "95480",
+          "type": "series"
         },
         {
           "title": "Ted Lasso",
+          "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+          "rating": 8.37,
+          "year": "2020",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
           "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
           "slug": "ted-lasso",
-          "type": "series",
-          "tmdbId": "97546"
+          "tmdbId": "97546",
+          "type": "series"
         },
         {
           "title": "El mago oscuro",
+          "synopsis": "Dean Potter, el escalador, saltador de base y caminante de altura rompedor y, a la vez, divisivo, logra asombrosas hazañas mientras se enfrenta a sus problemas personales.",
+          "rating": 8.63,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Dean Potter, Dean Fidelman, Timmy O'Neill, Cedar Wright, Dan Duane",
           "posterUrl": "https://image.tmdb.org/t/p/original/phkGAfV7NTYCIv4jIFYTbCMb9xC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7it9nEObNN6dfsJH92QlJZd2Chx.jpg",
           "slug": "el-mago-oscuro",
-          "type": "series",
-          "tmdbId": "316527"
+          "tmdbId": "316527",
+          "type": "series"
         },
         {
           "title": "Colisión",
+          "synopsis": "Muerto el magnate Miguel Ángel en un misterioso accidente, su hija Zoé y su esposa separada Belén luchan por su empresa.",
+          "rating": 5.33,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Margarita Rosa de Francisco, Macarena Achaga, Diego Klein, Christian Vázquez, Juan Pablo Castaneda",
           "posterUrl": "https://image.tmdb.org/t/p/original/4loiHfZZx027yP0CtErtCPbkTc1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
           "slug": "colision",
-          "type": "series",
-          "tmdbId": "331033"
+          "tmdbId": "331033",
+          "type": "series"
         },
         {
           "title": "Presidente Curtis",
+          "synopsis": "El presidente Curtis sigue al Comandante en Jefe y su excéntrico equipo en investigaciones paranormales y fenómenos inexplicables.",
+          "rating": 6.52,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Comedia"
+          ],
+          "cast": "Keith David, Stephanie Beatriz, Jim Rash",
           "posterUrl": "https://image.tmdb.org/t/p/original/vnGkkbbpTcdxLKB9DupMg5KcYp4.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
           "slug": "presidente-curtis",
-          "type": "series",
-          "tmdbId": "296756"
+          "tmdbId": "296756",
+          "type": "series"
         },
         {
           "title": "Historias corrientes: Las cintas perdidas",
+          "synopsis": "Mordecai y Rigby son buenos amigos y viven y trabajan en un parque local. Inexplicablemente, su terrenal trabajo siempre acaba siendo un caos surrealista, para disgusto de su jefe y sus compañeros de trabajo.",
+          "rating": 9.61,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Comedia",
+            "Acción",
+            "Aventura",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "William Salyers, Sam Marin, Mark Hamill",
           "posterUrl": "https://image.tmdb.org/t/p/original/fQX1grWHT7W603p2GRQCUGaPs3J.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/Zk5UmvJ634LhA56R18h8RfipFG.jpg",
           "slug": "historias-corrientes-las-cintas-perdidas",
-          "type": "series",
-          "tmdbId": "256695"
+          "tmdbId": "256695",
+          "type": "series"
         },
         {
           "title": "Un amor distinto al tuyo",
+          "synopsis": "Una historia de amor realista, emocional y cercana sobre una pareja en su décimo año de relación, que ve cómo sentimientos desconocidos ponen a prueba su estabilidad.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "서강준, 안은진, 이주안, 조아람, 이민재",
           "posterUrl": "https://image.tmdb.org/t/p/original/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
           "slug": "un-amor-distinto-al-tuyo",
-          "type": "series",
-          "tmdbId": "314939"
+          "tmdbId": "314939",
+          "type": "series"
         },
         {
           "title": "Linternas",
+          "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+          "rating": 8.28,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Garret Dillahunt, Poorna Jagannathan",
           "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
           "slug": "linternas",
-          "type": "series",
-          "tmdbId": "95350"
+          "tmdbId": "95350",
+          "type": "series"
         },
         {
           "title": "Operaciones Especiales: Lioness",
+          "synopsis": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
+          "rating": 8.17,
+          "year": "2023",
+          "genres": [
+            "Drama",
+            "Guerra"
+          ],
+          "cast": "Zoe Saldaña, Laysla De Oliveira, Dave Annable, Jill Wagner, LaMonica Garrett",
           "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
           "slug": "operaciones-especiales-lioness",
-          "type": "series",
-          "tmdbId": "113962"
+          "tmdbId": "113962",
+          "type": "series"
         },
         {
           "title": "Historia de dos ciudades",
+          "synopsis": "Londres, 1782. La tensión es máxima en la guerra entre Francia e Inglaterra. La vida de una joven, Lucie Manette, da un vuelco cuando recibe un mensaje de París: su padre, al que se creía muerto desde hace casi 20 años, podría estar vivo. El mensajero, el idealista emigrado francés Charles Darnay, es arrestado y acusado de traición. Lucie buscará la ayuda de un brillante pero inestable joven abogado, Sydney Carton, para liberar a Darnay con la esperanza de que la lleve a París para encontrar a su padre. El encuentro de Lucie con Darnay y Carton desata un poderoso y complejo triángulo amoroso, y los dos hombres lucharán por ser dignos del amor de la mujer mientras ella se debate entre uno u otro.",
+          "rating": 8.1,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "François Civil, Mirren Mack, Kit Harington, Sharon Duncan-Brewster, Guillaume Gallienne",
           "posterUrl": "https://image.tmdb.org/t/p/original/cHWIztU7qYEDFE2eAQsWFdGS19d.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
           "slug": "historia-de-dos-ciudades",
-          "type": "series",
-          "tmdbId": "301626"
+          "tmdbId": "301626",
+          "type": "series"
         }
       ]
     },
@@ -340,73 +755,159 @@
       "items": [
         {
           "title": "Un amor distinto al tuyo",
+          "synopsis": "Una historia de amor realista, emocional y cercana sobre una pareja en su décimo año de relación, que ve cómo sentimientos desconocidos ponen a prueba su estabilidad.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "서강준, 안은진, 이주안, 조아람, 이민재",
           "posterUrl": "https://image.tmdb.org/t/p/original/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
           "slug": "un-amor-distinto-al-tuyo",
-          "type": "series",
-          "tmdbId": "314939"
+          "tmdbId": "314939",
+          "type": "series"
         },
         {
           "title": "El juicio",
+          "synopsis": "Una joven y su padre buscan justicia después de que ella fuese víctima de abuso sexual. Además de lidiar con las secuelas del delito, ambos luchan contra un fallido sistema judicial y el propio padre del joven agresor: un exitoso hombre dispuesto a usar todo su poder para proteger a su hijo y evitar que pague por su crimen.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Eugenio Derbez, Pedro Alonso, Karla Gaytán, Íker Sánchez Solano, Sergio Gava",
           "posterUrl": "https://image.tmdb.org/t/p/original/bFg26U2rS3TmcYRPSYY7FRkVWHc.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/bLcF9mcinphgFlXEfk7RkCSfqCv.jpg",
           "slug": "el-juicio-260249",
-          "type": "series",
-          "tmdbId": "260249"
+          "tmdbId": "260249",
+          "type": "series"
         },
         {
           "title": "En Coma",
+          "synopsis": "Luego de que una explosión dejara a Anabel en coma, Rafael —un enfermero que escucha a los muertos— debe ayudarla a mantenerse con vida antes de que sus enemigos la encuentren.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Rami Herrera, Jerónimo Cantillo, Paola Moreno, Julián Trujillo, Marcela Carvajal",
           "posterUrl": "https://image.tmdb.org/t/p/original/PXTBzvEgxXT49RYSurT6xkNZU7.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg",
           "slug": "en-coma",
-          "type": "series",
-          "tmdbId": "332863"
+          "tmdbId": "332863",
+          "type": "series"
         },
         {
           "title": "La timonel",
+          "synopsis": "Tras un escándalo familiar, la adolescente Teagan Tao se muda a una pequeña localidad y se une a un equipo masculino de élite, donde despierta rivalidades… y pasiones.",
+          "rating": 7.75,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Miku Martineau, Jessica Paré, Samuel Braun, Kyle Clark, Thomas Cadrot",
           "posterUrl": "https://image.tmdb.org/t/p/original/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
           "slug": "la-timonel",
-          "type": "series",
-          "tmdbId": "300507"
+          "tmdbId": "300507",
+          "type": "series"
         },
         {
           "title": "El club gastronómico",
+          "synopsis": "Luego de que uno de ellos muere en un incendio, cuatro parejas que parecían perfectas se ven forzadas a cuestionar todo lo que creían saber los unos de los otros.",
+          "rating": 6.2,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Loes Haverkort, Remko Vrijdag, Noortje Herlaar, Edwin Jonker, Rifka Lodeizen",
           "posterUrl": "https://image.tmdb.org/t/p/original/wmKOX8g6iE4jmf4B2mr3yo6Qg2P.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
           "slug": "el-club-gastronomico",
-          "type": "series",
-          "tmdbId": "325755"
+          "tmdbId": "325755",
+          "type": "series"
         },
         {
           "title": "Causa abierta",
+          "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
+          "rating": 8.9,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Patrick Brammall, Brendan Cowell, Maxine Peake, Daniel Henshall, Jessica Wren",
           "posterUrl": "https://image.tmdb.org/t/p/original/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
           "slug": "causa-abierta",
-          "type": "series",
-          "tmdbId": "258230"
+          "tmdbId": "258230",
+          "type": "series"
         },
         {
           "title": "DANG!",
+          "synopsis": "Sexo. Drogas. Síndrome del colon irritable. Los hermanos Dang tienen sus problemas, pero ahora que vuelven a estar juntos podrán poner orden en sus vidas. O quizá no.",
+          "rating": 8.25,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Comedia"
+          ],
+          "cast": "Stephanie Hsu, Poppy Liu",
           "posterUrl": "https://image.tmdb.org/t/p/original/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xcjvlbVkVvGodPdfv3c6NzknMIB.jpg",
           "slug": "dang",
-          "type": "series",
-          "tmdbId": "314478"
+          "tmdbId": "314478",
+          "type": "series"
         },
         {
           "title": "Colisión",
+          "synopsis": "Muerto el magnate Miguel Ángel en un misterioso accidente, su hija Zoé y su esposa separada Belén luchan por su empresa.",
+          "rating": 5.33,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Margarita Rosa de Francisco, Macarena Achaga, Diego Klein, Christian Vázquez, Juan Pablo Castaneda",
           "posterUrl": "https://image.tmdb.org/t/p/original/4loiHfZZx027yP0CtErtCPbkTc1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
           "slug": "colision",
-          "type": "series",
-          "tmdbId": "331033"
+          "tmdbId": "331033",
+          "type": "series"
         },
         {
           "title": "Historia de dos ciudades",
+          "synopsis": "Londres, 1782. La tensión es máxima en la guerra entre Francia e Inglaterra. La vida de una joven, Lucie Manette, da un vuelco cuando recibe un mensaje de París: su padre, al que se creía muerto desde hace casi 20 años, podría estar vivo. El mensajero, el idealista emigrado francés Charles Darnay, es arrestado y acusado de traición. Lucie buscará la ayuda de un brillante pero inestable joven abogado, Sydney Carton, para liberar a Darnay con la esperanza de que la lleve a París para encontrar a su padre. El encuentro de Lucie con Darnay y Carton desata un poderoso y complejo triángulo amoroso, y los dos hombres lucharán por ser dignos del amor de la mujer mientras ella se debate entre uno u otro.",
+          "rating": 8.1,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "François Civil, Mirren Mack, Kit Harington, Sharon Duncan-Brewster, Guillaume Gallienne",
           "posterUrl": "https://image.tmdb.org/t/p/original/cHWIztU7qYEDFE2eAQsWFdGS19d.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
           "slug": "historia-de-dos-ciudades",
-          "type": "series",
-          "tmdbId": "301626"
+          "tmdbId": "301626",
+          "type": "series"
         },
         {
           "title": "Mal de Amores",
+          "synopsis": "En plena Revolución mexicana, Emilia Sauri desafía las convenciones sociales para cumplir su sueño de ejercer la medicina y encontrar el amor, su lugar y la libertad.",
+          "rating": 7.63,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Renata Vaca, Juan Pablo Fuentes, Alejandro Puente, Diana Bovio, Iván Amozurrutia",
           "posterUrl": "https://image.tmdb.org/t/p/original/ee6yRTxGSsFKcynzvSJDziBmclz.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg",
           "slug": "mal-de-amores",
-          "type": "series",
-          "tmdbId": "290234"
+          "tmdbId": "290234",
+          "type": "series"
         }
       ]
     }
