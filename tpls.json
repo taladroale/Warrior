@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T20:41:28Z",
+  "updatedAt": "2026-09-17T20:50:34Z",
   "source": "tioplus",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -13697,6 +13697,7 @@
     "301625": {"slug": "sin-frenos"},
     "301626": {"slug": "historia-de-dos-ciudades"},
     "302074": {"slug": "rj-decker"},
+    "302162": {"slug": "la-cancion-del-samurai"},
     "302463": {"slug": "dinastia-casillas"},
     "302540": {"slug": "los-tipos-malos-malos-comienzos"},
     "302635": {"slug": "los-39"},
@@ -13934,6 +13935,7 @@
     "82879": {"slug": "radiant"},
     "83100": {"slug": "dororo"},
     "83105": {"slug": "revisions"},
+    "83238": {"slug": "ingreso"},
     "83962": {"slug": "carole-y-tuesday"},
     "84646": {"slug": "hero-mask"},
     "85844": {"slug": "kenja-no-mago"},
@@ -14050,6 +14052,7 @@
     "212766": {"slug": "new-saga"},
     "215401": {"slug": "bulletbullet"},
     "215799": {"slug": "ranger-reject"},
+    "218843": {"slug": "los-siete-pecados-capitales-los-cuatro-jinetes-del-apocalipsis"},
     "220150": {"slug": "horizontes-pokemon"},
     "220542": {"slug": "los-diarios-de-la-boticaria"},
     "222623": {"slug": "the-elusive-samurai"},
