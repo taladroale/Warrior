@@ -218,190 +218,79 @@
   ],
   "movieSections": [
     {
-      "title": "Estrenos",
-      "type": "movie",
-      "seeMoreSlug": "estrenos",
-      "items": [
-        {
-          "title": "Gracias, equipo",
-          "synopsis": "Nos contará la historia de la empresa Tío Mochales, antaño reina indiscutible del queso español. Hoy es una empresa un poco oxidada pero empeñada en mantener la imagen. Su última gran idea: organizar un team building rural en el pueblo donde la empresa se fundó. Pero lo que debía ser un retiro para reconectar con los valores de siempre, se convierte en una encerrona cuando descubren que se vienen despidos, y muchos, seguida de una batalla campal de peloteo, traiciones y filtraciones",
-          "rating": 6.3,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Alexandra Jiménez, Maribel Verdú, Pedro Casablanc, Pepe Viyuela, Raúl Tejón",
-          "posterUrl": "https://image.tmdb.org/t/p/original/aVGaBCt8g0Q990jKW85wTJKotev.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
-          "slug": "gracias-equipo",
-          "tmdbId": "1558568",
-          "type": "movie",
-          "duration": "93 min"
-        },
-        {
-          "title": "Operación Teherán",
-          "synopsis": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
-          "rating": 9,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Suspenso"
-          ],
-          "cast": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-          "slug": "operacion-teheran",
-          "tmdbId": "1228834",
-          "type": "movie",
-          "duration": "142 min"
-        },
-        {
-          "title": "El hombre que desafió al rey",
-          "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Acción",
-            "Historia"
-          ],
-          "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Tom Hollander, Cosmo Jarvis",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
-          "slug": "el-hombre-que-desafio-al-rey",
-          "tmdbId": "977942",
-          "type": "movie",
-          "duration": "128 min"
-        },
-        {
-          "title": "Enfrentados: Marfil",
-          "synopsis": "Marfil Cortés, la hija de un poderoso empresario español, ve como su perfecta vida en Nueva York da un vuelco cuando es repentinamente secuestrada y liberada sin aparente explicación. Su padre decide entonces contratar al enigmático Sebastián Moore como guardaespaldas. Forzados a pasar cada minuto juntos y aunque inicialmente choquen por el espíritu indomable de ella y el carácter reservado de él, surgirá una irremediable atracción entre ambos. Al volver a España, con las amenazas intensificándose, deberán moverse en un mundo donde nadie es quien dice ser y nada es lo que parece.",
-          "rating": 7.05,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Drama",
-            "Suspenso"
-          ],
-          "cast": "Ester Expósito, Hugo Diego Garcia, Eric Masip, Pablo Molinero, Zoe Bonafonte",
-          "posterUrl": "https://image.tmdb.org/t/p/original/umlft1ztFbUcnHf960pXJocjpdv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-          "slug": "enfrentados-marfil",
-          "tmdbId": "1440098",
-          "type": "movie",
-          "duration": "104 min"
-        },
-        {
-          "title": "Hechizo de amor: La magia continúa",
-          "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
-          "rating": 6.3,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Fantasía",
-            "Comedia"
-          ],
-          "cast": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-          "slug": "practicamente-magia-2",
-          "tmdbId": "1302904",
-          "type": "movie",
-          "duration": "130 min"
-        },
-        {
-          "title": "¿Por qué me casé, entonces?",
-          "synopsis": "Las parejas se reencuentran para la boda de la hija de Marcus y Angela y traen consigo viejos y nuevos dramas mientras se preguntan: «¿Por qué nos casamos otra vez?».",
-          "rating": 6.7,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Tyler Perry, Taraji P. Henson, Jill Scott, Richard T. Jones, Tasha Smith",
-          "posterUrl": "https://image.tmdb.org/t/p/original/exWdEF4PJsGpX9HeLQsedBgTkj8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-          "slug": "por-que-me-case-otra-vez",
-          "tmdbId": "1522689",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
-          "title": "Secretos del deporte: Mr. T",
-          "synopsis": "Mr. T conquistó el mundo como icono de los 80. Este documental desvela, de su propia mano, la historia que se esconde tras su cresta, sus cadenas y su frase característica.",
-          "rating": 7.8,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Mr. T, Terry Crews, Dirk Benedict, Sylvester Stallone, Ronald Reagan",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
-          "slug": "secretos-del-deporte-mr-t",
-          "tmdbId": "1739206",
-          "type": "movie",
-          "duration": "48 min"
-        },
-        {
-          "title": "Entrega al límite",
-          "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-          "rating": 7.8,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Comedia",
-            "Suspenso"
-          ],
-          "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Adriana Barraza",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-          "slug": "entrega-al-limite",
-          "tmdbId": "1377237",
-          "type": "movie",
-          "duration": "97 min"
-        },
-        {
-          "title": "A la carrera",
-          "synopsis": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Para recuperarlo, debe seguir corriendo, cumplir todas las órdenes despiadadas y no confiar en nadie. Cada segundo es una prueba de hasta dónde puede llegar una madre para salvar a su hijo.",
-          "rating": 6.71,
-          "year": "2026",
-          "genres": [
-            "Suspenso",
-            "Acción"
-          ],
-          "cast": "Gal Gadot, Damian Lewis, Rory Wilmot, Alfred Enoch, Phoenix Di Sebastiani",
-          "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
-          "slug": "a-la-carrera",
-          "tmdbId": "1386315",
-          "type": "movie",
-          "duration": "86 min"
-        },
-        {
-          "title": "Fito Páez: El mundo cabe en una canción",
-          "synopsis": "Una película documental que observa, escucha e interactúa con Fito Páez desde un lugar de profunda intimidad.",
-          "rating": 5.11,
-          "year": "2026",
-          "genres": [
-            "Documental",
-            "Música"
-          ],
-          "cast": "Fito Páez, Mariela Vitale, Eugenia Kolodziej, Charly García, Luis Alberto Spinetta",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
-          "slug": "fito-paez-el-mundo-cabe-en-una-cancion",
-          "tmdbId": "1744876",
-          "type": "movie",
-          "duration": "112 min"
-        }
-      ]
-    },
-    {
       "title": "Últimas publicadas",
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "El final de Oak Street",
+          "synopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+          "rating": 6.9,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Misterio",
+            "Suspenso"
+          ],
+          "cast": "Anne Hathaway, Ewan McGregor, Maisy Stella, Christian Convery, Jordan Alexa Davis",
+          "posterUrl": "https://image.tmdb.org/t/p/original/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+          "slug": "el-final-de-oak-street",
+          "tmdbId": "1101383",
+          "type": "movie",
+          "duration": "100 min"
+        },
+        {
+          "title": "La ambición de los Savage",
+          "synopsis": "En la Inglaterra del siglo XVIII, durante el brote de viruela y el levantamiento jacobita, Sir Chauncey y Lady Savage buscan una vida mejor entre la irónica decadencia y el derramamiento de sangre.",
+          "rating": 6.93,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Richard E. Grant, Claire Foy, Jack Farthing, Bel Powley, Kíla Lord Cassidy",
+          "posterUrl": "https://image.tmdb.org/t/p/original/nZobH7JvGEZj8gaauVHRPU2JHI3.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9ZzJxEg9zyyGIZx3eplHojYsZ5k.jpg",
+          "slug": "savage-house",
+          "tmdbId": "1245859",
+          "type": "movie",
+          "duration": "114 min"
+        },
+        {
+          "title": "Lector omnisciente: La profecía",
+          "synopsis": "La novela favorita de Dokja se hace ominosamente realidad; utilizando sus intrincados conocimientos sobre la inminente historia apocalíptica, el oficinista cambia el destino.",
+          "rating": 7.1,
+          "year": "2025",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Fantasía"
+          ],
+          "cast": "Ahn Hyo Seop, Lee Min-ho, 채수빈, 신승호, 나나",
+          "posterUrl": "https://image.tmdb.org/t/p/original/tithUTyMVsBZwqIEw4BU9YppeCr.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mZGsJUzQ4dONUBccxhImBqxaSQt.jpg",
+          "slug": "omniscient-reader-the-prophecy",
+          "tmdbId": "1131759",
+          "type": "movie",
+          "duration": "116 min"
+        },
+        {
+          "title": "Un hijo",
+          "synopsis": "María, una psicóloga escolar sin experiencia, intuye que, tras la aparente felicidad de un niño de 8 años recién llegado al cole, se esconde un drama de terribles consecuencias. Para averiguarlo deberá descifrar lo que la mente de Guille traduce en dibujos y, además, vencer la agresiva resistencia de su padre.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Macarena García, Ian Cortegoso, Hugo Silva, Jesús Carroza, Chema del Barco",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9Za5Q0DtFaLq8RZZ6TjmE20RguW.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/tlAT4zOqxGv0MCkDvuxJDx3nvKK.jpg",
+          "slug": "un-hijo",
+          "tmdbId": "1396368",
+          "type": "movie",
+          "duration": "95 min"
+        },
         {
           "title": "The Highest Stakes",
           "synopsis": "Cinco desconocidos son invitados una noche a un lujoso hotel para una partida de póquer de alto riesgo. Lo que comienza como un concurso de fortuna se convierte rápidamente en algo mucho más peligroso. A medida que aumenta la tensión y afloran los secretos, los jugadores se dan cuenta de que lo que está en juego no es sólo el dinero, sino la supervivencia. En una noche de peligro creciente, la confianza se convierte en un arma, y cada elección puede sellar su destino.",
@@ -438,7 +327,7 @@
         {
           "title": "Tumbal Proyek",
           "synopsis": "While investigating their father’s death inside a major bridge construction company, Yuda and his family attempt to prove that the frequent, deadly workplace accidents are actually human sacrifices.",
-          "rating": 3.83,
+          "rating": 3.8,
           "year": "2026",
           "genres": [
             "Terror",
@@ -472,7 +361,7 @@
         {
           "title": "Secretos del deporte: Mr. T",
           "synopsis": "Mr. T conquistó el mundo como icono de los 80. Este documental desvela, de su propia mano, la historia que se esconde tras su cresta, sus cadenas y su frase característica.",
-          "rating": 7.8,
+          "rating": 7.78,
           "year": "2026",
           "genres": [
             "Documental"
@@ -501,22 +390,133 @@
           "slug": "aves-de-corral",
           "tmdbId": "1275215",
           "type": "movie"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Estrenos",
+      "type": "movie",
+      "seeMoreSlug": "estrenos",
+      "items": [
         {
-          "title": "Hasta el fin del mundo",
-          "synopsis": "La vida de Manuel da un vuelco cuando Esmeralda, su amor perdido de hace quince años, lo llama inesperadamente. A pesar de estar a punto de casarse con otra persona, él se reencontrará con Esmeralda y ambos se darán cuenta de que su amor trasciende el tiempo.",
-          "rating": 6.4,
+          "title": "Gracias, equipo",
+          "synopsis": "Nos contará la historia de la empresa Tío Mochales, antaño reina indiscutible del queso español. Hoy es una empresa un poco oxidada pero empeñada en mantener la imagen. Su última gran idea: organizar un team building rural en el pueblo donde la empresa se fundó. Pero lo que debía ser un retiro para reconectar con los valores de siempre, se convierte en una encerrona cuando descubren que se vienen despidos, y muchos, seguida de una batalla campal de peloteo, traiciones y filtraciones",
+          "rating": 6.2,
           "year": "2026",
           "genres": [
+            "Comedia"
+          ],
+          "cast": "Alexandra Jiménez, Maribel Verdú, Pedro Casablanc, Raúl Tejón, Blanca Martínez",
+          "posterUrl": "https://image.tmdb.org/t/p/original/aVGaBCt8g0Q990jKW85wTJKotev.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
+          "slug": "gracias-equipo",
+          "tmdbId": "1558568",
+          "type": "movie",
+          "duration": "93 min"
+        },
+        {
+          "title": "Operación Teherán",
+          "synopsis": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
+          "rating": 9,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Suspenso"
+          ],
+          "cast": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+          "slug": "operacion-teheran",
+          "tmdbId": "1228834",
+          "type": "movie",
+          "duration": "142 min"
+        },
+        {
+          "title": "El hombre que desafió al rey",
+          "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
+          "rating": 7.09,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Historia",
             "Drama"
           ],
-          "cast": "Mauricio Ochmann, Aislinn Derbez, Daniel Pérez Prada, Melina Figueroa, Miguel Ángel Jiménez",
-          "posterUrl": "https://image.tmdb.org/t/p/original/1aCGJVkBZch6UN62yk44TGYU5Or.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hmoNULa9OEIM5pCzXr1XnuTVgUT.jpg",
-          "slug": "hasta-el-fin-del-mundo-1428226",
-          "tmdbId": "1428226",
+          "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Tom Hollander, Cosmo Jarvis",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fiFdny17lnjrwH6TmuxrhNy1Ol2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+          "slug": "el-hombre-que-desafio-al-rey",
+          "tmdbId": "977942",
           "type": "movie",
-          "duration": "98 min"
+          "duration": "128 min"
+        },
+        {
+          "title": "Enfrentados: Marfil",
+          "synopsis": "Parte 1 de la saga Enfrentados. Marfil, hija de un poderoso empresario español, ve cómo su vida en Nueva York da un vuelco al ser secuestrada y liberada sin explicación. Su padre contrata a Sebastian Moore como guardaespaldas y, forzados a pasar cada minuto juntos, surgirá una irremediable atracción en un mundo donde nada es lo que parece. Basada en la novela de Mercedes Ron, saga Culpables",
+          "rating": 6.68,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Suspenso"
+          ],
+          "cast": "Ester Expósito, Hugo Diego Garcia, Pablo Molinero, Lluís Homar, Joaquín Ferreira",
+          "posterUrl": "https://image.tmdb.org/t/p/original/umlft1ztFbUcnHf960pXJocjpdv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+          "slug": "enfrentados-marfil",
+          "tmdbId": "1440098",
+          "type": "movie",
+          "duration": "104 min"
+        },
+        {
+          "title": "Prácticamente magia 2",
+          "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+          "rating": 6.1,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Fantasía",
+            "Comedia"
+          ],
+          "cast": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+          "slug": "practicamente-magia-2",
+          "tmdbId": "1302904",
+          "type": "movie",
+          "duration": "130 min"
+        },
+        {
+          "title": "¿Por qué me casé, entonces?",
+          "synopsis": "Las parejas se reencuentran para la boda de la hija de Marcus y Angela y traen consigo viejos y nuevos dramas mientras se preguntan: «¿Por qué nos casamos otra vez?».",
+          "rating": 7,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Romance",
+            "Drama"
+          ],
+          "cast": "Tyler Perry, Taraji P. Henson, Jill Scott, Richard T. Jones, Tasha Smith",
+          "posterUrl": "https://image.tmdb.org/t/p/original/exWdEF4PJsGpX9HeLQsedBgTkj8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+          "slug": "por-que-me-case-otra-vez",
+          "tmdbId": "1522689",
+          "type": "movie",
+          "duration": "112 min"
+        },
+        {
+          "title": "Secretos del deporte: Mr. T",
+          "synopsis": "Mr. T conquistó el mundo como icono de los 80. Este documental desvela, de su propia mano, la historia que se esconde tras su cresta, sus cadenas y su frase característica.",
+          "rating": 7.78,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Mr. T, Terry Crews, Dirk Benedict, Sylvester Stallone, Ronald Reagan",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
+          "slug": "secretos-del-deporte-mr-t",
+          "tmdbId": "1739206",
+          "type": "movie",
+          "duration": "48 min"
         },
         {
           "title": "Entrega al límite",
@@ -528,8 +528,8 @@
             "Comedia",
             "Suspenso"
           ],
-          "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Adriana Barraza",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+          "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
           "slug": "entrega-al-limite",
           "tmdbId": "1377237",
@@ -537,40 +537,38 @@
           "duration": "97 min"
         },
         {
-          "title": "Moscas",
-          "synopsis": "Olga lleva una vida estrictamente controlada y sin ataduras en un enorme edificio de apartamentos. Cuando, por necesidad económica, alquila una habitación a un hombre que también introduce a escondidas a su hijo de nueve años, surge un vínculo inesperado.",
-          "rating": 7.17,
+          "title": "A la carrera",
+          "synopsis": "En el thriller psicológico A la carrera, Maia Marten, una brillante abogada londinense, ve cómo su vida se desmorona tras recibir una llamada durante su carrera matutina: han secuestrado a su hijo. Para recuperarlo, debe seguir corriendo, cumplir todas las órdenes despiadadas y no confiar en nadie. Cada segundo es una prueba de hasta dónde puede llegar una madre para salvar a su hijo.",
+          "rating": 6.77,
           "year": "2026",
           "genres": [
-            "Drama",
-            "Comedia"
+            "Suspenso",
+            "Acción"
           ],
-          "cast": "Bastián Escobar, Teresa Sánchez, Hugo Ramirez, Enrique Arreola",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zBwSaw3sEwqH9vSijiPbUdbHNQz.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
-          "slug": "moscas-1437703",
-          "tmdbId": "1437703",
+          "cast": "Gal Gadot, Damian Lewis, Rory Wilmot, Alfred Enoch, Phoenix Di Sebastiani",
+          "posterUrl": "https://image.tmdb.org/t/p/original/aBzKyfruwaUgU2qYYtMO7vC1Pv2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+          "slug": "a-la-carrera",
+          "tmdbId": "1386315",
           "type": "movie",
-          "duration": "99 min"
+          "duration": "86 min"
         },
         {
-          "title": "Xana y el secreto del tiempo",
-          "synopsis": "En la China de los años 30, Xana, una chica de un humilde pueblo pesquero, consigue un misterioso dispositivo que le otorga la capacidad de controlar el tiempo, pero que también atrae la atención de una poderosa organización decidida a darle caza. Mientras la joven intenta eludir a sus implacables perseguidores, se encuentra con Diecisiete, un miembro de la organización criminal con quien acabará compartiendo aventuras por la ciudad.",
-          "rating": 9.12,
-          "year": "2025",
+          "title": "Fito Páez: El mundo cabe en una canción",
+          "synopsis": "Una película documental que observa, escucha e interactúa con Fito Páez desde un lugar de profunda intimidad.",
+          "rating": 5.1,
+          "year": "2026",
           "genres": [
-            "Romance",
-            "Animación",
-            "Fantasía",
-            "Aventura"
+            "Documental",
+            "Música"
           ],
-          "cast": "王俊凯, 刘校妤, 周深, 黄渤, 贾冰",
-          "posterUrl": "https://image.tmdb.org/t/p/original/i2KkK6QyU2R4FRVvVZXRNCACFiF.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/fXxssjwHHxkOHAYVOGteCFTijHj.jpg",
-          "slug": "xana-y-el-secreto-del-tiempo",
-          "tmdbId": "1155234",
+          "cast": "Fito Páez, Mariela Vitale, Eugenia Kolodziej, Charly García, Luis Alberto Spinetta",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
+          "slug": "fito-paez-el-mundo-cabe-en-una-cancion",
+          "tmdbId": "1744876",
           "type": "movie",
-          "duration": "107 min"
+          "duration": "112 min"
         }
       ]
     }
@@ -754,6 +752,21 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
+          "title": "Catedrales",
+          "synopsis": "A 17-year-old girl is found burned and dismembered in an empty lot in a middle-class neighborhood of Santiago, Chile. Due to police negligence, the crime goes unpunished until thirty years later, when the family manages to piece together the murder puzzle, revealing a forbidden relationship and a cruel truth.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Alfredo Castro, Paulina García, Octavia Bernasconi, Ignacia Baeza, Vivianne Dietz",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lXfOj4JcnyW0KdfMLrLTLegju5I.jpg",
+          "slug": "catedrales",
+          "tmdbId": "330302",
+          "type": "series"
+        },
+        {
           "title": "Un amor distinto al tuyo",
           "synopsis": "Una historia de amor realista, emocional y cercana sobre una pareja en su décimo año de relación, que ve cómo sentimientos desconocidos ponen a prueba su estabilidad.",
           "rating": 8,
@@ -770,21 +783,6 @@
           "type": "series"
         },
         {
-          "title": "El juicio",
-          "synopsis": "Una joven y su padre buscan justicia después de que ella fuese víctima de abuso sexual. Además de lidiar con las secuelas del delito, ambos luchan contra un fallido sistema judicial y el propio padre del joven agresor: un exitoso hombre dispuesto a usar todo su poder para proteger a su hijo y evitar que pague por su crimen.",
-          "rating": 10,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Eugenio Derbez, Pedro Alonso, Karla Gaytán, Íker Sánchez Solano, Sergio Gava",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bFg26U2rS3TmcYRPSYY7FRkVWHc.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/bLcF9mcinphgFlXEfk7RkCSfqCv.jpg",
-          "slug": "el-juicio-260249",
-          "tmdbId": "260249",
-          "type": "series"
-        },
-        {
           "title": "En Coma",
           "synopsis": "Luego de que una explosión dejara a Anabel en coma, Rafael —un enfermero que escucha a los muertos— debe ayudarla a mantenerse con vida antes de que sus enemigos la encuentren.",
           "rating": 10,
@@ -798,6 +796,21 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg",
           "slug": "en-coma",
           "tmdbId": "332863",
+          "type": "series"
+        },
+        {
+          "title": "El juicio",
+          "synopsis": "Una joven y su padre buscan justicia después de que ella fuese víctima de abuso sexual. Además de lidiar con las secuelas del delito, ambos luchan contra un fallido sistema judicial y el propio padre del joven agresor: un exitoso hombre dispuesto a usar todo su poder para proteger a su hijo y evitar que pague por su crimen.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Eugenio Derbez, Pedro Alonso, Karla Gaytán, Íker Sánchez Solano, Sergio Gava",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bFg26U2rS3TmcYRPSYY7FRkVWHc.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/bLcF9mcinphgFlXEfk7RkCSfqCv.jpg",
+          "slug": "el-juicio-260249",
+          "tmdbId": "260249",
           "type": "series"
         },
         {
@@ -892,21 +905,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
           "slug": "historia-de-dos-ciudades",
           "tmdbId": "301626",
-          "type": "series"
-        },
-        {
-          "title": "Mal de Amores",
-          "synopsis": "En plena Revolución mexicana, Emilia Sauri desafía las convenciones sociales para cumplir su sueño de ejercer la medicina y encontrar el amor, su lugar y la libertad.",
-          "rating": 7.63,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Renata Vaca, Juan Pablo Fuentes, Alejandro Puente, Diana Bovio, Iván Amozurrutia",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ee6yRTxGSsFKcynzvSJDziBmclz.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg",
-          "slug": "mal-de-amores",
-          "tmdbId": "290234",
           "type": "series"
         }
       ]
