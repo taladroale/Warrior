@@ -128,17 +128,8 @@ def main():
 
     # Secciones de películas
     movie_sections = []
-    estrenos_json = fetch_json(build_id, "/estrenos")
-    if estrenos_json:
-        items = parse_movies(estrenos_json, type_="movie", limit=SECTION_LIMIT)
-        movie_sections.append({
-            "title": "Estrenos",
-            "type": "movie",
-            "seeMoreSlug": "estrenos",
-            "items": items
-        })
-        print(f"   Sección Estrenos: {len(items)} items")
 
+    # 🔄 Últimas películas (PRIMERO)
     pelis_json = fetch_json(build_id, "/peliculas")
     if pelis_json:
         items = parse_movies(pelis_json, type_="movie", limit=SECTION_LIMIT)
@@ -149,6 +140,18 @@ def main():
             "items": items
         })
         print(f"   Sección Últimas películas: {len(items)} items")
+
+    # 🔄 Estrenos (SEGUNDO)
+    estrenos_json = fetch_json(build_id, "/estrenos")
+    if estrenos_json:
+        items = parse_movies(estrenos_json, type_="movie", limit=SECTION_LIMIT)
+        movie_sections.append({
+            "title": "Estrenos",
+            "type": "movie",
+            "seeMoreSlug": "estrenos",
+            "items": items
+        })
+        print(f"   Sección Estrenos: {len(items)} items")
 
     # Secciones de series
     series_sections = []
