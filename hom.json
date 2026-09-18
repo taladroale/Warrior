@@ -3,7 +3,7 @@
     {
       "title": "El final de Oak Street",
       "synopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "rating": 6.9,
+      "rating": 6.93,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -74,24 +74,6 @@
       "duration": "172 min"
     },
     {
-      "title": "Hope",
-      "synopsis": "Tras un extraño hallazgo cerca de una aislada ciudad portuaria, los habitantes se ven envueltos en una desesperada lucha por la supervivencia.",
-      "rating": 7.4,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Misterio",
-        "Acción"
-      ],
-      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hHPIefotew38oJm3YCJPAzpi26c.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
-      "slug": "hope-1058424",
-      "tmdbId": "1058424",
-      "type": "movie",
-      "duration": "157 min"
-    },
-    {
       "title": "Obsession",
       "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
       "rating": 8.2,
@@ -107,13 +89,31 @@
       "tmdbId": "1339713",
       "type": "movie",
       "duration": "100 min"
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "rating": 7.58,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ],
+      "cast": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly",
+      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680",
+      "type": "movie",
+      "duration": "103 min"
     }
   ],
   "seriesHero": [
     {
       "title": "Monstruo: La historia de Lizzie Borden",
       "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-      "rating": 8,
+      "rating": 7.9,
       "year": "2026",
       "genres": [
         "Drama",
@@ -124,6 +124,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
       "slug": "monstruo-la-historia-de-lizzie-borden",
       "tmdbId": "299939",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.35,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -158,22 +174,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "slug": "reacher",
       "tmdbId": "108978",
-      "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.35,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -219,9 +219,91 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Tú+Yo - Solos contra todos",
+          "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
+          "rating": 5.5,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Drama"
+          ],
+          "cast": "Vittoria Di Savoia, Lucas Barski, Aymeric Fougeron, Zoé Garcia, Léo Legrand",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mzgqiEhujCAZiaD6jNVYSXdqFXs.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+          "slug": "tuyo-solos-contra-todos",
+          "tmdbId": "1641629",
+          "type": "movie",
+          "duration": "93 min"
+        },
+        {
+          "title": "Oro negro",
+          "synopsis": "Ramiro se reencuentra con Damián después de años sin verse. Damián siempre tiene algún asunto turbio en marcha. Esta vez quiere ir en busca de cierto tesoro escondido en un convento abandonado. Lara, la novia de Ramiro, no confía en Damián y decide acompañarlos. Lo que no saben es que llevarse ese objeto de allí podría desatar un curso que los perseguirá por siempre, a menos que lo devuelvan tal y como lo encontraron.",
+          "rating": 3,
+          "year": "2024",
+          "genres": [
+            "Terror"
+          ],
+          "cast": "Magui Bravi, Facundo R. Salomon, Agustin Olcese, Roly Serrano, Gabriela Boccalandro",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cULEEfczauEprB8IX1S6c62x4E9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8IXRm88SZZQHEWTNHaYC8PNYXj0.jpg",
+          "slug": "oro-negro",
+          "tmdbId": "1386238",
+          "type": "movie",
+          "duration": "64 min"
+        },
+        {
+          "title": "La señal del apocalipsis",
+          "synopsis": "En un futuro caótico, Jemma, agente de una unidad especial internacional, sufre visiones inquietantes. Cuando niños desaparecen en todo el mundo, descubre un patrón ligado a una antigua profecía apocalíptica. Con el caos en aumento, deberá descifrar sus visiones para evitar una catástrofe global.",
+          "rating": 6.57,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Ciencia ficción",
+            "Suspenso"
+          ],
+          "cast": "Andrea Tivadar, Jord Knotter, Jack McEvoy, Elijah Rowen, Małgorzata Klara",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vK9tTyWlVKlBGPTFp1e4WPGMJ7w.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
+          "slug": "la-senal-del-apocalipsis",
+          "tmdbId": "1323244",
+          "type": "movie",
+          "duration": "106 min"
+        },
+        {
+          "title": "Después de Kim",
+          "synopsis": "Juan y Gloria, divorciados y distanciados desde hace 20 años, han de viajar desde Buenos Aires a España al recibir la noticia de que Kim, la hija de ambos, con la que hace tiempo perdieron el contacto, ha aparecido muerta. A su llegada descubren que la fallecida ha dejado un nieto que se encuentra en paradero desconocido, un descubrimiento que les hace quedarse en España para encontrarle.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [],
+          "cast": "Adriana Ozores, Darío Grandinetti, Christina Rosenvinge, Karina Kolokolchykova",
+          "posterUrl": "https://image.tmdb.org/t/p/original/p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
+          "slug": "despues-de-kim",
+          "tmdbId": "1577498",
+          "type": "movie",
+          "duration": "90 min"
+        },
+        {
+          "title": "Sultana",
+          "synopsis": "Meral, la reina indiscutible del club Sultana de Estambul, acoge bajo su protección a Anna, una bailarina con mucho talento. Pronto se da cuenta de que ha creado una poderosa rival que podría ocupar su lugar. Entonces comienza una despiadada lucha por el poder entre ambas mujeres.",
+          "rating": 5.5,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Música"
+          ],
+          "cast": "Tuba Büyüküstün, Derya Pınar Ak, Seray Kaya, Begüm Akkaya, Rojbin Erden",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wDebpR4NplIM8EteAGfd51Zdisu.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/29XMlo2zt5LTA0YMjA3hubbM942.jpg",
+          "slug": "sultana",
+          "tmdbId": "1656489",
+          "type": "movie",
+          "duration": "120 min"
+        },
+        {
           "title": "El final de Oak Street",
           "synopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-          "rating": 6.9,
+          "rating": 6.93,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
@@ -302,90 +384,6 @@
           "tmdbId": "1444249",
           "type": "movie",
           "duration": "101 min"
-        },
-        {
-          "title": "Hugo 24",
-          "synopsis": "En las 24 horas previas a su cumpleaños, Hugo, un joven perdido entre la inmadurez y el vértigo a crecer, se enfrenta a un inminente deshaucio y a la sensación constante de abandono. Con la ayuda de su mejor amigo, emprende una carrera contrarreloj para salvar su hogar y, sin saberlo, dar el primer paso hacia la madurez.",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Suspenso"
-          ],
-          "cast": "Arón Piper, Marco Cáceres, Marta Etura, Greta Fernández, Javier Pereira",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5zRjTzZEd8yrC7crED3WOHr6mF6.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/9twQ0xc8nl8QVzhf0Y0gfHde8pP.jpg",
-          "slug": "hugo-24",
-          "tmdbId": "1506747",
-          "type": "movie",
-          "duration": "91 min"
-        },
-        {
-          "title": "Tumbal Proyek",
-          "synopsis": "While investigating their father’s death inside a major bridge construction company, Yuda and his family attempt to prove that the frequent, deadly workplace accidents are actually human sacrifices.",
-          "rating": 3.8,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Callista Arum, Kiesha Alvaro, Karina Suwandi, Eduwart Manalu, Fuad Idris",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wdOa8jWX8u1YNSlWyRvoNCc9y7S.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/k3Nc57fdRkzleHjodta45mGJV2C.jpg",
-          "slug": "tumbal-proyek",
-          "tmdbId": "1469930",
-          "type": "movie",
-          "duration": "106 min"
-        },
-        {
-          "title": "Operación Teherán",
-          "synopsis": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
-          "rating": 9,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Suspenso"
-          ],
-          "cast": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-          "slug": "operacion-teheran",
-          "tmdbId": "1228834",
-          "type": "movie",
-          "duration": "142 min"
-        },
-        {
-          "title": "Secretos del deporte: Mr. T",
-          "synopsis": "Mr. T conquistó el mundo como icono de los 80. Este documental desvela, de su propia mano, la historia que se esconde tras su cresta, sus cadenas y su frase característica.",
-          "rating": 7.78,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Mr. T, Terry Crews, Dirk Benedict, Sylvester Stallone, Ronald Reagan",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bUWHsZqPiYl8GwxhXA1nCdKRZbn.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/tCxXRtEn4nQVtxQzaH32ZUjoX3C.jpg",
-          "slug": "secretos-del-deporte-mr-t",
-          "tmdbId": "1739206",
-          "type": "movie",
-          "duration": "48 min"
-        },
-        {
-          "title": "Aves de Corral",
-          "synopsis": "Aves de corral está protagonizada por Diego Anido, Pedro Casablanc, Olivia Baglivi, Chechu Salgado, Antonio, Durán “Morris”, Jose Luis García-Pérez, Roberto Enríquez, Belén Écija, Daniel Ibáñez, Clara Alvarado, Álvaro Díaz, Ramón Robles, Roberto Hoyo, Roberto García, Lukas Cantó, Helena Kaittani, Lydia Ramírez, Román Rymar, Cristina Brondo, Laura Delgado, Antonio Chamorro. El filme cuenta con la dirección de fotografía de Alberto Pareja.  En la película, una peculiar banda criminal planea asesinar a un dirigente del CNI, pero el plan de fin de semana de una pareja de novios se cruza en su camino.",
-          "rating": 4.5,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Crimen",
-            "Drama"
-          ],
-          "cast": "Diego Anido, Pedro Casablanc, Olivia Baglivi, José Luis García Pérez, Antonio 'Morris' Durán",
-          "posterUrl": "https://image.tmdb.org/t/p/original/aUD3zcISx2XgrxZsncG0bo3NEdP.jpg",
-          "backdropUrl": null,
-          "slug": "aves-de-corral",
-          "tmdbId": "1275215",
-          "type": "movie"
         }
       ]
     },
@@ -578,7 +576,7 @@
         {
           "title": "Monstruo: La historia de Lizzie Borden",
           "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-          "rating": 8,
+          "rating": 7.9,
           "year": "2026",
           "genres": [
             "Drama",
@@ -749,7 +747,7 @@
         {
           "title": "Monstruo: La historia de Lizzie Borden",
           "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-          "rating": 8,
+          "rating": 7.9,
           "year": "2026",
           "genres": [
             "Drama",
