@@ -3,7 +3,7 @@
     {
       "title": "El final de Oak Street",
       "synopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "rating": 6.9,
+      "rating": 6.87,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -74,40 +74,38 @@
       "duration": "172 min"
     },
     {
-      "title": "Coyote vs. Acme",
-      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "rating": 7.58,
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.2,
       "year": "2026",
       "genres": [
-        "Comedia",
-        "Aventura",
-        "Familia"
+        "Terror",
+        "Suspenso"
       ],
-      "cast": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly",
-      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-      "slug": "coyote-vs-acme",
-      "tmdbId": "1204680",
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
       "type": "movie",
-      "duration": "103 min"
+      "duration": "100 min"
     },
     {
-      "title": "Hope",
-      "synopsis": "Tras un extraño hallazgo cerca de una aislada ciudad portuaria, los habitantes se ven envueltos en una desesperada lucha por la supervivencia.",
-      "rating": 7.4,
+      "title": "Mayday",
+      "synopsis": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
+      "rating": 7.98,
       "year": "2026",
       "genres": [
-        "Ciencia ficción",
-        "Misterio",
-        "Acción"
+        "Acción",
+        "Comedia"
       ],
-      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hHPIefotew38oJm3YCJPAzpi26c.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
-      "slug": "hope-1058424",
-      "tmdbId": "1058424",
+      "cast": "Ryan Reynolds, Kenneth Branagh, Marcin Dorociński, Maria Bakalova, David Morse",
+      "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+      "slug": "mayday",
+      "tmdbId": "1137844",
       "type": "movie",
-      "duration": "157 min"
+      "duration": "111 min"
     }
   ],
   "seriesHero": [
@@ -223,7 +221,7 @@
         {
           "title": "El final de Oak Street",
           "synopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-          "rating": 6.9,
+          "rating": 6.87,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
@@ -578,6 +576,26 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Stranger Things: Relatos del 85",
+          "synopsis": "Hawkins. Invierno de 1985. En un pueblo lleno de secretos, unos héroes se enfrentan a nuevos misterios... y a una nueva y extraña amenaza.",
+          "rating": 7.6,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Ciencia ficción",
+            "Fantasía",
+            "Misterio",
+            "Acción",
+            "Aventura"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ssls8OpHHXtHcvIy7AiXipBddQX.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
+          "slug": "stranger-things-relatos-del-85",
+          "tmdbId": "224263",
+          "type": "series"
+        },
+        {
           "title": "Te conozco",
           "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
           "rating": 0,
@@ -718,23 +736,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg",
           "slug": "la-muneca",
           "tmdbId": "295089",
-          "type": "series"
-        },
-        {
-          "title": "Objetivo: París",
-          "synopsis": "Un grupo terrorista liderado por Jacob Pierce, excapitán de la Legión Francesa, irrumpe en un importante evento organizado en la embajada británica en París. Su objetivo es el ministro de Defensa francés, pero su guardaespaldas, Vincent Taleb, y una agente del MI6, Zara Taylor, frustran sus planes. Sin embargo, este asalto no es más que el primer ataque en un plan perfectamente construido.",
-          "rating": 7,
-          "year": "2024",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Guerra"
-          ],
-          "cast": "Tewfik Jallab, Ritu Arya, Ross Anderson, Agung Bagus, Ben Cura",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2Gs0L3x1S5w7A10Iv2MShgiwxZl.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/v0eBR7tZIWQKNtb2MyJtAji5OjA.jpg",
-          "slug": "objetivo-paris",
-          "tmdbId": "232018",
           "type": "series"
         }
       ]
