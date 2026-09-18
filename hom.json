@@ -3,7 +3,7 @@
     {
       "title": "El final de Oak Street",
       "synopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "rating": 6.87,
+      "rating": 6.9,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -37,24 +37,6 @@
       "duration": "144 min"
     },
     {
-      "title": "La Odisea",
-      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 8,
-      "year": "2026",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Fantasía"
-      ],
-      "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-      "slug": "la-odisea-1368337",
-      "tmdbId": "1368337",
-      "type": "movie",
-      "duration": "172 min"
-    },
-    {
       "title": "Vaiana",
       "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
       "rating": 7.3,
@@ -74,6 +56,42 @@
       "duration": "115 min"
     },
     {
+      "title": "La Odisea",
+      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "rating": 8,
+      "year": "2026",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ],
+      "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "slug": "la-odisea-1368337",
+      "tmdbId": "1368337",
+      "type": "movie",
+      "duration": "172 min"
+    },
+    {
+      "title": "Hope",
+      "synopsis": "Tras un extraño hallazgo cerca de una aislada ciudad portuaria, los habitantes se ven envueltos en una desesperada lucha por la supervivencia.",
+      "rating": 7.4,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Acción"
+      ],
+      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hHPIefotew38oJm3YCJPAzpi26c.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+      "slug": "hope-1058424",
+      "tmdbId": "1058424",
+      "type": "movie",
+      "duration": "157 min"
+    },
+    {
       "title": "Obsession",
       "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
       "rating": 8.2,
@@ -89,58 +107,23 @@
       "tmdbId": "1339713",
       "type": "movie",
       "duration": "100 min"
-    },
-    {
-      "title": "Coyote vs. Acme",
-      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "rating": 7.58,
-      "year": "2026",
-      "genres": [
-        "Comedia",
-        "Aventura",
-        "Familia"
-      ],
-      "cast": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly",
-      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-      "slug": "coyote-vs-acme",
-      "tmdbId": "1204680",
-      "type": "movie",
-      "duration": "103 min"
     }
   ],
   "seriesHero": [
     {
       "title": "Monstruo: La historia de Lizzie Borden",
       "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-      "rating": 8.33,
+      "rating": 8,
       "year": "2026",
       "genres": [
         "Drama",
         "Crimen"
       ],
       "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xQRda2XDyEZMAkResYNW2HMjsK5.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3JVjgaqfX5MhxxHKpGWz05QV7Dz.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
       "slug": "monstruo-la-historia-de-lizzie-borden",
       "tmdbId": "299939",
-      "type": "series"
-    },
-    {
-      "title": "Reacher",
-      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
-      "rating": 8.12,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Crimen"
-      ],
-      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "slug": "reacher",
-      "tmdbId": "108978",
       "type": "series"
     },
     {
@@ -158,6 +141,23 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
       "slug": "neagley",
       "tmdbId": "273207",
+      "type": "series"
+    },
+    {
+      "title": "Reacher",
+      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "rating": 8.12,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Crimen"
+      ],
+      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "slug": "reacher",
+      "tmdbId": "108978",
       "type": "series"
     },
     {
@@ -221,7 +221,7 @@
         {
           "title": "El final de Oak Street",
           "synopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-          "rating": 6.87,
+          "rating": 6.9,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
