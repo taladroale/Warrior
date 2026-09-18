@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T20:27:43Z",
+  "updatedAt": "2026-09-18T14:35:31Z",
   "source": "cuepro",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -20130,6 +20130,7 @@
     "272947": {"slug": "art-detectives"},
     "273081": {"slug": "no-vengas-a-casa"},
     "273160": {"slug": "belleza-perfecta"},
+    "273207": {"slug": "neagley"},
     "273240": {"slug": "kiss-me"},
     "273247": {"slug": "the-lowdown"},
     "273414": {"slug": "ungeren"},
@@ -20497,6 +20498,7 @@
     "294966": {"slug": "barrio-esperanza"},
     "294968": {"slug": "los-protegidos-un-nuevo-poder"},
     "294972": {"slug": "viudas-negras-p-tas-y-chorras"},
+    "295089": {"slug": "lalka"},
     "295144": {"slug": "rubiales-vs-hermoso-the-world-cup-kiss"},
     "295532": {"slug": "dear-england"},
     "295778": {"slug": "scrubs"},
@@ -20594,6 +20596,7 @@
     "304530": {"slug": "fortnite-x-los-simpson"},
     "304597": {"slug": "dos-monedas"},
     "304790": {"slug": "hija-del-fuego-la-venganza-de-la-bastarda"},
+    "304842": {"slug": "the-drop-a-snowfall-saga"},
     "304849": {"slug": "50-segundos-el-caso-fernando-baez-sosa"},
     "304936": {"slug": "terrazza-sentimento"},
     "304995": {"slug": "high-horse-the-black-cowboy"},
@@ -20733,6 +20736,7 @@
     "331796": {"slug": "sua-mae-te-conhece"},
     "332079": {"slug": "los-enigmas-del-universo"},
     "332279": {"slug": "ninel-conde-sin-filtro"},
+    "332657": {"slug": "route-187"},
     "332863": {"slug": "en-coma"},
     "333096": {"slug": "hotel-todo-incluido"}
   }
