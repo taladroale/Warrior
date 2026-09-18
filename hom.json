@@ -19,25 +19,6 @@
       "duration": "100 min"
     },
     {
-      "title": "Vaiana",
-      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
-      "rating": 7.3,
-      "year": "2026",
-      "genres": [
-        "Familia",
-        "Fantasía",
-        "Comedia",
-        "Aventura"
-      ],
-      "cast": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "slug": "vaiana-1108427",
-      "tmdbId": "1108427",
-      "type": "movie",
-      "duration": "115 min"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 7.86,
@@ -74,6 +55,25 @@
       "duration": "172 min"
     },
     {
+      "title": "Vaiana",
+      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
+      "rating": 7.3,
+      "year": "2026",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia",
+        "Aventura"
+      ],
+      "cast": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xUUksaUc30wX5orsYytApurKbX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "slug": "vaiana-1108427",
+      "tmdbId": "1108427",
+      "type": "movie",
+      "duration": "115 min"
+    },
+    {
       "title": "Obsession",
       "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
       "rating": 8.2,
@@ -91,24 +91,41 @@
       "duration": "100 min"
     },
     {
-      "title": "Mayday",
-      "synopsis": "Cuando un piloto de la Marina estadounidense en misión ultrasecreta durante la Guerra Fría queda atrapado tras las líneas enemigas, su única oportunidad de sobrevivir es aliarse con un excéntrico exagente del KGB.",
-      "rating": 7.98,
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "rating": 7.58,
       "year": "2026",
       "genres": [
-        "Acción",
-        "Comedia"
+        "Comedia",
+        "Aventura",
+        "Familia"
       ],
-      "cast": "Ryan Reynolds, Kenneth Branagh, Marcin Dorociński, Maria Bakalova, David Morse",
-      "posterUrl": "https://image.tmdb.org/t/p/original/naKQcM3HRuaISCtsSx5ibVMTbDu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
-      "slug": "mayday",
-      "tmdbId": "1137844",
+      "cast": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly",
+      "posterUrl": "https://image.tmdb.org/t/p/original/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680",
       "type": "movie",
-      "duration": "111 min"
+      "duration": "103 min"
     }
   ],
   "seriesHero": [
+    {
+      "title": "Monstruo: La historia de Lizzie Borden",
+      "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+      "rating": 8.33,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xQRda2XDyEZMAkResYNW2HMjsK5.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3JVjgaqfX5MhxxHKpGWz05QV7Dz.jpg",
+      "slug": "monstruo-la-historia-de-lizzie-borden",
+      "tmdbId": "299939",
+      "type": "series"
+    },
     {
       "title": "Reacher",
       "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
@@ -144,6 +161,22 @@
       "type": "series"
     },
     {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.35,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "rating": 8.28,
@@ -162,22 +195,6 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.35,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
-    {
       "title": "Slow Horses",
       "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
       "rating": 8,
@@ -192,23 +209,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/wrMY8LMEnPiM9dokAUZCGGKLWrm.jpg",
       "slug": "slow-horses",
       "tmdbId": "95480",
-      "type": "series"
-    },
-    {
-      "title": "Silo",
-      "synopsis": "En un futuro ruinoso y tóxico, existe una comunidad en un gigantesco silo subterráneo que alcanza cientos de pisos de profundidad. Allí, las personas viven en una sociedad llena de normas que creen que están destinadas a protegerlas.",
-      "rating": 8.21,
-      "year": "2023",
-      "genres": [
-        "Ciencia ficción",
-        "Fantasía",
-        "Drama"
-      ],
-      "cast": "Rebecca Ferguson, Common, Chinaza Uche, Ashley Zukerman, Shane McRae",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4yRu8IRcMLbfoUsO4q9Yuci4F0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "slug": "silo",
-      "tmdbId": "125988",
       "type": "series"
     }
   ],
@@ -576,6 +576,22 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Monstruo: La historia de Lizzie Borden",
+          "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+          "rating": 8.33,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xQRda2XDyEZMAkResYNW2HMjsK5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3JVjgaqfX5MhxxHKpGWz05QV7Dz.jpg",
+          "slug": "monstruo-la-historia-de-lizzie-borden",
+          "tmdbId": "299939",
+          "type": "series"
+        },
+        {
           "title": "Stranger Things: Relatos del 85",
           "synopsis": "Hawkins. Invierno de 1985. En un pueblo lleno de secretos, unos héroes se enfrentan a nuevos misterios... y a una nueva y extraña amenaza.",
           "rating": 7.6,
@@ -722,21 +738,6 @@
           "slug": "neagley",
           "tmdbId": "273207",
           "type": "series"
-        },
-        {
-          "title": "La muñeca",
-          "synopsis": "Cuando Stanislaw se enamora de la aristocrática Izabela, dedica su vida entera a conquistarla.",
-          "rating": 5.5,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Sandra Drzymalska, Tomasz Schuchardt, Dariusz Chojnacki, Jacek Braciak, Julia Wyszyńska",
-          "posterUrl": "https://image.tmdb.org/t/p/original/72pRBOj8S52NbT1F8OkMxD9OnjY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg",
-          "slug": "la-muneca",
-          "tmdbId": "295089",
-          "type": "series"
         }
       ]
     },
@@ -745,6 +746,22 @@
       "type": "series",
       "seeMoreSlug": "estrenos-series",
       "items": [
+        {
+          "title": "Monstruo: La historia de Lizzie Borden",
+          "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+          "rating": 8.33,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xQRda2XDyEZMAkResYNW2HMjsK5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3JVjgaqfX5MhxxHKpGWz05QV7Dz.jpg",
+          "slug": "monstruo-la-historia-de-lizzie-borden",
+          "tmdbId": "299939",
+          "type": "series"
+        },
         {
           "title": "Te conozco",
           "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
@@ -758,53 +775,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/vPQ4Ctn8MS6NBP73duf0GHtbziU.jpg",
           "slug": "te-conozco",
           "tmdbId": "320760",
-          "type": "series"
-        },
-        {
-          "title": "Catedrales",
-          "synopsis": "A 17-year-old girl is found burned and dismembered in an empty lot in a middle-class neighborhood of Santiago, Chile. Due to police negligence, the crime goes unpunished until thirty years later, when the family manages to piece together the murder puzzle, revealing a forbidden relationship and a cruel truth.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Alfredo Castro, Paulina García, Octavia Bernasconi, Ignacia Baeza, Vivianne Dietz",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lXfOj4JcnyW0KdfMLrLTLegju5I.jpg",
-          "slug": "catedrales",
-          "tmdbId": "330302",
-          "type": "series"
-        },
-        {
-          "title": "Mínima Seguridad",
-          "synopsis": "Bienvenidos a la prisión de Chenoise, un lugar que, en teoría, garantiza el orden y la disciplina… salvo que aquí los responsables son los primeros en incumplir las normas. Entre una directora que trata a los reclusos como si fueran sus hijos, un subdirector obsesionado con la autoridad, una guardia que lo da todo y una nueva recluta decidida a demostrar su valía, la gestión diaria se basa en la improvisación, las decisiones precipitadas y las ideas descabelladas. Un estado de caos constante que, contra todo pronóstico, funciona. Pero, ¿hasta cuándo?",
-          "rating": 10,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Audrey Lamy, Jean-Pascal Zadi, Benjamin Tranié, Eva Huault, Jérémy Nadeau",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hfywmnPG8YWpEqNxU6ipfU8sYSC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/aAWDj71XRCHhSrE0dnU6YrquMMY.jpg",
-          "slug": "minima-seguridad",
-          "tmdbId": "299255",
-          "type": "series"
-        },
-        {
-          "title": "Neagley",
-          "synopsis": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
-          "rating": 7.3,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Misterio",
-            "Crimen"
-          ],
-          "cast": "Maria Sten, Greyston Holt, Adeline Rudolph, Matthew Del Negro, Damon Herriman",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-          "slug": "neagley",
-          "tmdbId": "273207",
           "type": "series"
         },
         {
@@ -825,6 +795,21 @@
           "type": "series"
         },
         {
+          "title": "Mínima Seguridad",
+          "synopsis": "Bienvenidos a la prisión de Chenoise, un lugar que, en teoría, garantiza el orden y la disciplina… salvo que aquí los responsables son los primeros en incumplir las normas. Entre una directora que trata a los reclusos como si fueran sus hijos, un subdirector obsesionado con la autoridad, una guardia que lo da todo y una nueva recluta decidida a demostrar su valía, la gestión diaria se basa en la improvisación, las decisiones precipitadas y las ideas descabelladas. Un estado de caos constante que, contra todo pronóstico, funciona. Pero, ¿hasta cuándo?",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Audrey Lamy, Jean-Pascal Zadi, Benjamin Tranié, Eva Huault, Jérémy Nadeau",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hfywmnPG8YWpEqNxU6ipfU8sYSC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/aAWDj71XRCHhSrE0dnU6YrquMMY.jpg",
+          "slug": "minima-seguridad",
+          "tmdbId": "299255",
+          "type": "series"
+        },
+        {
           "title": "La muñeca",
           "synopsis": "Cuando Stanislaw se enamora de la aristocrática Izabela, dedica su vida entera a conquistarla.",
           "rating": 5.5,
@@ -837,37 +822,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg",
           "slug": "la-muneca",
           "tmdbId": "295089",
-          "type": "series"
-        },
-        {
-          "title": "Route 187",
-          "synopsis": "Citizens combat urban violence until a bus driver and student's murders by thugs spark outrage, leading authorities to hunt the culprits captured on video.",
-          "rating": 10,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Drama"
-          ],
-          "cast": "Rico Ball, Clark Moore, Cuyle Carvin, Christopher Livingstone, Josef Cannon",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yfP9A3IaKE00U1ap1y7wAoZRzeC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/Agx8RmlBBDJrlH9MyUOd5JYYZPS.jpg",
-          "slug": "route-187",
-          "tmdbId": "332657",
-          "type": "series"
-        },
-        {
-          "title": "City of Blood",
-          "synopsis": "Berlín, una ciudad-estado al límite. La criminalidad conforma la vida cotidiana en un mundo destrozado por el cambio climático. Mientras unos pocos privilegiados viven bajo una cúpula totalmente climatizada, el resto de la ciudad se hunde en la corrupción y la violencia. Las hermanas Bea y Phoebe se separaron de niñas por un giro del destino. Bea, enferma crónica, creció protegida con su madre adoptiva, mientras Phoebe luchaba por sobrevivir en las calles de Berlín. Cuando sus mundos colisionan de nuevo la víspera de unas elecciones decisivas, descubren una verdad aterradora: los vampiros controlan el crimen organizado y están decididos a hacerse con el poder político. La sangre se ha convertido en la verdadera moneda de la ciudad. Atrapadas entre fuerzas rivales, Bea y Phoebe deben enfrentarse a la pregunta clave: ¿quién presenta la mayor amenaza: los humanos o los vampiros?",
-          "rating": 10,
-          "year": "2026",
-          "genres": [
-            "Misterio"
-          ],
-          "cast": "Lea Drinda, Soma Pysall, Franz Hartwig, David Schütter, Mouataz Alshaltouh",
-          "posterUrl": "https://image.tmdb.org/t/p/original/dfCSK88iG2Z2V9u6sXZkruiygq7.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
-          "slug": "city-of-blood",
-          "tmdbId": "332401",
           "type": "series"
         },
         {
@@ -887,19 +841,66 @@
           "type": "series"
         },
         {
-          "title": "Un amor distinto al tuyo",
-          "synopsis": "Una historia de amor realista, emocional y cercana sobre una pareja en su décimo año de relación, que ve cómo sentimientos desconocidos ponen a prueba su estabilidad.",
-          "rating": 8,
+          "title": "City of Blood",
+          "synopsis": "Berlín, una ciudad-estado al límite. La criminalidad conforma la vida cotidiana en un mundo destrozado por el cambio climático. Mientras unos pocos privilegiados viven bajo una cúpula totalmente climatizada, el resto de la ciudad se hunde en la corrupción y la violencia. Las hermanas Bea y Phoebe se separaron de niñas por un giro del destino. Bea, enferma crónica, creció protegida con su madre adoptiva, mientras Phoebe luchaba por sobrevivir en las calles de Berlín. Cuando sus mundos colisionan de nuevo la víspera de unas elecciones decisivas, descubren una verdad aterradora: los vampiros controlan el crimen organizado y están decididos a hacerse con el poder político. La sangre se ha convertido en la verdadera moneda de la ciudad. Atrapadas entre fuerzas rivales, Bea y Phoebe deben enfrentarse a la pregunta clave: ¿quién presenta la mayor amenaza: los humanos o los vampiros?",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Misterio"
+          ],
+          "cast": "Lea Drinda, Soma Pysall, Franz Hartwig, David Schütter, Mouataz Alshaltouh",
+          "posterUrl": "https://image.tmdb.org/t/p/original/dfCSK88iG2Z2V9u6sXZkruiygq7.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
+          "slug": "city-of-blood",
+          "tmdbId": "332401",
+          "type": "series"
+        },
+        {
+          "title": "Neagley",
+          "synopsis": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
+          "rating": 7.3,
           "year": "2026",
           "genres": [
             "Drama",
-            "Comedia"
+            "Misterio",
+            "Crimen"
           ],
-          "cast": "서강준, 안은진, 이주안, 조아람, 이민재",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
-          "slug": "un-amor-distinto-al-tuyo",
-          "tmdbId": "314939",
+          "cast": "Maria Sten, Greyston Holt, Adeline Rudolph, Matthew Del Negro, Damon Herriman",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+          "slug": "neagley",
+          "tmdbId": "273207",
+          "type": "series"
+        },
+        {
+          "title": "Catedrales",
+          "synopsis": "A 17-year-old girl is found burned and dismembered in an empty lot in a middle-class neighborhood of Santiago, Chile. Due to police negligence, the crime goes unpunished until thirty years later, when the family manages to piece together the murder puzzle, revealing a forbidden relationship and a cruel truth.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Alfredo Castro, Paulina García, Octavia Bernasconi, Ignacia Baeza, Vivianne Dietz",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lXfOj4JcnyW0KdfMLrLTLegju5I.jpg",
+          "slug": "catedrales",
+          "tmdbId": "330302",
+          "type": "series"
+        },
+        {
+          "title": "Route 187",
+          "synopsis": "Citizens combat urban violence until a bus driver and student's murders by thugs spark outrage, leading authorities to hunt the culprits captured on video.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Rico Ball, Clark Moore, Cuyle Carvin, Christopher Livingstone, Josef Cannon",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yfP9A3IaKE00U1ap1y7wAoZRzeC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/Agx8RmlBBDJrlH9MyUOd5JYYZPS.jpg",
+          "slug": "route-187",
+          "tmdbId": "332657",
           "type": "series"
         }
       ]
