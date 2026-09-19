@@ -37,23 +37,6 @@
       "duration": "93 min"
     },
     {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.2,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Suspenso"
-      ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
-      "type": "movie",
-      "duration": "100 min"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 7.86,
@@ -90,46 +73,47 @@
       "duration": "172 min"
     },
     {
-      "title": "Adolescencia, sexo y muerte en campamento Miasma",
-      "synopsis": "Tras años de secuelas chapuceras y una base de fans en declive, la franquicia de terror Camp Miasma se entrega a una joven y entusiasta directora para su resurrección. Pero cuando visita a la protagonista de la original, una actriz ahora recluida y envuelta en misterio, ambas mujeres se ven inmersas en un mundo sangriento de deseo, miedo y delirio.",
-      "rating": 6.7,
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.2,
       "year": "2026",
       "genres": [
-        "Comedia",
         "Terror",
-        "Romance"
+        "Suspenso"
       ],
-      "cast": "Hannah Einbinder, Gillian Anderson, Amanda Fix, Arthur Conti, Eva Victor",
-      "posterUrl": "https://image.tmdb.org/t/p/original/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
-      "slug": "adolescencia-sexo-y-muerte-en-campamento-miasma",
-      "tmdbId": "1240889",
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
       "type": "movie",
-      "duration": "106 min"
+      "duration": "100 min"
+    },
+    {
+      "title": "Vaiana",
+      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
+      "rating": 7.3,
+      "year": "2026",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia",
+        "Aventura"
+      ],
+      "cast": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xUUksaUc30wX5orsYytApurKbX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "slug": "vaiana-1108427",
+      "tmdbId": "1108427",
+      "type": "movie",
+      "duration": "115 min"
     }
   ],
   "seriesHero": [
     {
-      "title": "Neagley",
-      "synopsis": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
-      "rating": 7.8,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Crimen"
-      ],
-      "cast": "Maria Sten, Greyston Holt, Adeline Rudolph, Matthew Del Negro, Damon Herriman",
-      "posterUrl": "https://image.tmdb.org/t/p/original/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-      "slug": "neagley",
-      "tmdbId": "273207",
-      "type": "series"
-    },
-    {
       "title": "Monstruo: La historia de Lizzie Borden",
       "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-      "rating": 7.9,
+      "rating": 7.2,
       "year": "2026",
       "genres": [
         "Drama",
@@ -137,7 +121,7 @@
       ],
       "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
       "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hcoKwpW6W5jPIlIRop6dVab1XpR.jpg",
       "slug": "monstruo-la-historia-de-lizzie-borden",
       "tmdbId": "299939",
       "type": "series"
@@ -160,19 +144,20 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.4,
-      "year": "2025",
+      "title": "Neagley",
+      "synopsis": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
+      "rating": 7.8,
+      "year": "2026",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Drama",
+        "Misterio",
+        "Crimen"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Maria Sten, Greyston Holt, Adeline Rudolph, Matthew Del Negro, Damon Herriman",
+      "posterUrl": "https://image.tmdb.org/t/p/original/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+      "slug": "neagley",
+      "tmdbId": "273207",
       "type": "series"
     },
     {
@@ -191,6 +176,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "slug": "linternas",
       "tmdbId": "95350",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.4,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -776,7 +777,7 @@
         {
           "title": "Monstruo: La historia de Lizzie Borden",
           "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-          "rating": 7.9,
+          "rating": 7.2,
           "year": "2026",
           "genres": [
             "Drama",
@@ -784,7 +785,7 @@
           ],
           "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
           "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hcoKwpW6W5jPIlIRop6dVab1XpR.jpg",
           "slug": "monstruo-la-historia-de-lizzie-borden",
           "tmdbId": "299939",
           "type": "series"
@@ -792,7 +793,7 @@
         {
           "title": "Te conozco",
           "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
-          "rating": 6.5,
+          "rating": 5.67,
           "year": "2026",
           "genres": [
             "Drama"
@@ -824,7 +825,7 @@
         {
           "title": "Route 187",
           "synopsis": "Los ciudadanos luchan contra la violencia urbana hasta que los asesinatos de un conductor de autobús y de un estudiante a manos de unos matones desatan la indignación, lo que lleva a las autoridades a perseguir a los culpables, captados en vídeo.",
-          "rating": 7.8,
+          "rating": 7.1,
           "year": "2026",
           "genres": [
             "Crimen",
