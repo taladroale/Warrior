@@ -3,7 +3,7 @@
     {
       "title": "El final de Oak Street",
       "synopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "rating": 6.93,
+      "rating": 6.94,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -21,7 +21,7 @@
     {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.64,
+      "rating": 7.55,
       "year": "2026",
       "genres": [
         "Terror",
@@ -53,6 +53,25 @@
       "tmdbId": "969681",
       "type": "movie",
       "duration": "144 min"
+    },
+    {
+      "title": "Vaiana",
+      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
+      "rating": 7.34,
+      "year": "2026",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia",
+        "Aventura"
+      ],
+      "cast": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xUUksaUc30wX5orsYytApurKbX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "slug": "vaiana-1108427",
+      "tmdbId": "1108427",
+      "type": "movie",
+      "duration": "115 min"
     },
     {
       "title": "La Odisea",
@@ -88,25 +107,6 @@
       "tmdbId": "1339713",
       "type": "movie",
       "duration": "100 min"
-    },
-    {
-      "title": "Vaiana",
-      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
-      "rating": 7.3,
-      "year": "2026",
-      "genres": [
-        "Familia",
-        "Fantasía",
-        "Comedia",
-        "Aventura"
-      ],
-      "cast": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "slug": "vaiana-1108427",
-      "tmdbId": "1108427",
-      "type": "movie",
-      "duration": "115 min"
     }
   ],
   "seriesHero": [
@@ -127,23 +127,6 @@
       "type": "series"
     },
     {
-      "title": "Reacher",
-      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
-      "rating": 8.12,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Crimen"
-      ],
-      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "slug": "reacher",
-      "tmdbId": "108978",
-      "type": "series"
-    },
-    {
       "title": "Neagley",
       "synopsis": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
       "rating": 7.8,
@@ -158,6 +141,39 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
       "slug": "neagley",
       "tmdbId": "273207",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.4,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
+      "title": "Reacher",
+      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "rating": 8.12,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Crimen"
+      ],
+      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "slug": "reacher",
+      "tmdbId": "108978",
       "type": "series"
     },
     {
@@ -176,22 +192,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "slug": "linternas",
       "tmdbId": "95350",
-      "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.4,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -219,6 +219,42 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Sacrifice",
+          "synopsis": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
+          "rating": 4.9,
+          "year": "2026",
+          "genres": [
+            "Aventura",
+            "Comedia",
+            "Acción"
+          ],
+          "cast": "Chris Evans, Anya Taylor-Joy, Vincent Cassel, Salma Hayek Pinault, John Malkovich",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/1mImp4LczEYMx7c6LZUlUyAilJu.jpg",
+          "slug": "sacrifice-1284186",
+          "tmdbId": "1284186",
+          "type": "movie",
+          "duration": "103 min"
+        },
+        {
+          "title": "Resident Evil",
+          "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+          "rating": 7.55,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Ciencia ficción",
+            "Aventura"
+          ],
+          "cast": "Austin Abrams, Zach Cherry, Kali Reis, Paul Walter Hauser, Johnno Wilson",
+          "posterUrl": "https://image.tmdb.org/t/p/original/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+          "slug": "resident-evil-1423191",
+          "tmdbId": "1423191",
+          "type": "movie",
+          "duration": "93 min"
+        },
+        {
           "title": "The Restoration",
           "synopsis": "Marcia se despierta un día con la inquietante sensación de que su marido ha desaparecido. Ella decide tomar el asunto en sus propias manos para averiguar su paradero.",
           "rating": 0,
@@ -238,7 +274,7 @@
         {
           "title": "Cuatro historias de deseo 3",
           "synopsis": "Cuatro de los directores más importantes de la India analizan el amor, el sexo y las relaciones en la India actual. Una antología de cuatro historias que arroja luz sobre las relaciones modernas desde el punto de vista de la mujer india.",
-          "rating": 0,
+          "rating": 7,
           "year": "2026",
           "genres": [
             "Romance",
@@ -249,12 +285,13 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/ygMNjFOBuLVoInEoPzqPU2U0pfg.jpg",
           "slug": "cuatro-historias-de-deseo-3",
           "tmdbId": "1451944",
-          "type": "movie"
+          "type": "movie",
+          "duration": "165 min"
         },
         {
           "title": "Las mejores",
           "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
-          "rating": 0,
+          "rating": 6,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -266,6 +303,25 @@
           "tmdbId": "1514863",
           "type": "movie",
           "duration": "116 min"
+        },
+        {
+          "title": "Tiburón blanco: La bestia del mar",
+          "synopsis": "Un grupo de jóvenes soldados australianos naufraga en plena Segunda Guerra Mundial mientras cruza el mar de Timor. Atrapados en una balsa que se hace cada vez más pequeña, deberán sobrevivir a las aguas implacables, a sus propios conflictos, a los ataques enemigos y a la amenaza constante de un enorme y hambriento tiburón blanco.",
+          "rating": 6.2,
+          "year": "2025",
+          "genres": [
+            "Suspenso",
+            "Acción",
+            "Guerra",
+            "Terror"
+          ],
+          "cast": "Mark Coles Smith, Joel Nankervis, Sam Delich, Maximillian Johnson, Lee Tiger Halley",
+          "posterUrl": "https://image.tmdb.org/t/p/original/58xC3Vj5Td1UXhNaOQDOj2ygAH6.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gHdSsZ1Bs8dCcflFwZg7nFMTW73.jpg",
+          "slug": "tiburon-blanco-la-bestia-del-mar",
+          "tmdbId": "1244531",
+          "type": "movie",
+          "duration": "87 min"
         },
         {
           "title": "Bad Men Must Bleed",
@@ -286,27 +342,9 @@
           "duration": "111 min"
         },
         {
-          "title": "Resident Evil",
-          "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-          "rating": 7.64,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Ciencia ficción",
-            "Aventura"
-          ],
-          "cast": "Austin Abrams, Zach Cherry, Kali Reis, Paul Walter Hauser, Johnno Wilson",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
-          "slug": "resident-evil-1423191",
-          "tmdbId": "1423191",
-          "type": "movie",
-          "duration": "93 min"
-        },
-        {
           "title": "Tú+Yo - Solos contra todos",
           "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
-          "rating": 5.5,
+          "rating": 5.81,
           "year": "2026",
           "genres": [
             "Romance",
@@ -318,7 +356,7 @@
           "slug": "tuyo-solos-contra-todos",
           "tmdbId": "1641629",
           "type": "movie",
-          "duration": "93 min"
+          "duration": "94 min"
         },
         {
           "title": "Oro negro",
@@ -337,53 +375,21 @@
           "duration": "64 min"
         },
         {
-          "title": "La señal del apocalipsis",
-          "synopsis": "En un futuro caótico, Jemma, agente de una unidad especial internacional, sufre visiones inquietantes. Cuando niños desaparecen en todo el mundo, descubre un patrón ligado a una antigua profecía apocalíptica. Con el caos en aumento, deberá descifrar sus visiones para evitar una catástrofe global.",
-          "rating": 6.57,
+          "title": "Operación Teherán",
+          "synopsis": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
+          "rating": 8.2,
           "year": "2026",
           "genres": [
             "Acción",
-            "Ciencia ficción",
             "Suspenso"
           ],
-          "cast": "Andrea Tivadar, Jord Knotter, Jack McEvoy, Elijah Rowen, Małgorzata Klara",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vK9tTyWlVKlBGPTFp1e4WPGMJ7w.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
-          "slug": "la-senal-del-apocalipsis",
-          "tmdbId": "1323244",
+          "cast": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+          "slug": "operacion-teheran",
+          "tmdbId": "1228834",
           "type": "movie",
-          "duration": "106 min"
-        },
-        {
-          "title": "Después de Kim",
-          "synopsis": "Juan y Gloria, divorciados y distanciados desde hace 20 años, han de viajar desde Buenos Aires a España al recibir la noticia de que Kim, la hija de ambos, con la que hace tiempo perdieron el contacto, ha aparecido muerta. A su llegada descubren que la fallecida ha dejado un nieto que se encuentra en paradero desconocido, un descubrimiento que les hace quedarse en España para encontrarle.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [],
-          "cast": "Adriana Ozores, Darío Grandinetti, Christina Rosenvinge, Karina Kolokolchykova",
-          "posterUrl": "https://image.tmdb.org/t/p/original/p3vtustdUaMUI23rBZ1VYIiWMtE.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/r8pitetZPS8nJeEQooPMO8ku3Xi.jpg",
-          "slug": "despues-de-kim",
-          "tmdbId": "1577498",
-          "type": "movie",
-          "duration": "90 min"
-        },
-        {
-          "title": "Sultana",
-          "synopsis": "Meral, la reina indiscutible del club Sultana de Estambul, acoge bajo su protección a Anna, una bailarina con mucho talento. Pronto se da cuenta de que ha creado una poderosa rival que podría ocupar su lugar. Entonces comienza una despiadada lucha por el poder entre ambas mujeres.",
-          "rating": 5.5,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Música"
-          ],
-          "cast": "Tuba Büyüküstün, Derya Pınar Ak, Seray Kaya, Begüm Akkaya, Rojbin Erden",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wDebpR4NplIM8EteAGfd51Zdisu.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/29XMlo2zt5LTA0YMjA3hubbM942.jpg",
-          "slug": "sultana",
-          "tmdbId": "1656489",
-          "type": "movie",
-          "duration": "120 min"
+          "duration": "142 min"
         }
       ]
     },
@@ -395,7 +401,7 @@
         {
           "title": "Tú+Yo - Solos contra todos",
           "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
-          "rating": 5.5,
+          "rating": 5.81,
           "year": "2026",
           "genres": [
             "Romance",
@@ -407,12 +413,12 @@
           "slug": "tuyo-solos-contra-todos",
           "tmdbId": "1641629",
           "type": "movie",
-          "duration": "93 min"
+          "duration": "94 min"
         },
         {
           "title": "Cuatro historias de deseo 3",
           "synopsis": "Cuatro de los directores más importantes de la India analizan el amor, el sexo y las relaciones en la India actual. Una antología de cuatro historias que arroja luz sobre las relaciones modernas desde el punto de vista de la mujer india.",
-          "rating": 0,
+          "rating": 7,
           "year": "2026",
           "genres": [
             "Romance",
@@ -423,12 +429,13 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/ygMNjFOBuLVoInEoPzqPU2U0pfg.jpg",
           "slug": "cuatro-historias-de-deseo-3",
           "tmdbId": "1451944",
-          "type": "movie"
+          "type": "movie",
+          "duration": "165 min"
         },
         {
           "title": "Las mejores",
           "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
-          "rating": 0,
+          "rating": 6,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -444,7 +451,7 @@
         {
           "title": "Resident Evil",
           "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-          "rating": 7.64,
+          "rating": 7.55,
           "year": "2026",
           "genres": [
             "Terror",
@@ -462,7 +469,7 @@
         {
           "title": "Gracias, equipo",
           "synopsis": "Nos contará la historia de la empresa Tío Mochales, antaño reina indiscutible del queso español. Hoy es una empresa un poco oxidada pero empeñada en mantener la imagen. Su última gran idea: organizar un team building rural en el pueblo donde la empresa se fundó. Pero lo que debía ser un retiro para reconectar con los valores de siempre, se convierte en una encerrona cuando descubren que se vienen despidos, y muchos, seguida de una batalla campal de peloteo, traiciones y filtraciones",
-          "rating": 6.2,
+          "rating": 5.19,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -478,7 +485,7 @@
         {
           "title": "El hombre que desafió al rey",
           "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
-          "rating": 7.09,
+          "rating": 6.9,
           "year": "2026",
           "genres": [
             "Acción",
@@ -486,7 +493,7 @@
             "Drama"
           ],
           "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Tom Hollander, Cosmo Jarvis",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fiFdny17lnjrwH6TmuxrhNy1Ol2.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
           "slug": "el-hombre-que-desafio-al-rey",
           "tmdbId": "977942",
@@ -513,7 +520,7 @@
         {
           "title": "Enfrentados: Marfil",
           "synopsis": "Parte 1 de la saga Enfrentados. Marfil, hija de un poderoso empresario español, ve cómo su vida en Nueva York da un vuelco al ser secuestrada y liberada sin explicación. Su padre contrata a Sebastian Moore como guardaespaldas y, forzados a pasar cada minuto juntos, surgirá una irremediable atracción en un mundo donde nada es lo que parece. Basada en la novela de Mercedes Ron, saga Culpables",
-          "rating": 6.68,
+          "rating": 6.61,
           "year": "2026",
           "genres": [
             "Romance",
@@ -530,7 +537,7 @@
         {
           "title": "Prácticamente magia 2",
           "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
-          "rating": 6.1,
+          "rating": 6.05,
           "year": "2026",
           "genres": [
             "Romance",
@@ -548,7 +555,7 @@
         {
           "title": "¿Por qué me casé, entonces?",
           "synopsis": "Las parejas se reencuentran para la boda de la hija de Marcus y Angela y traen consigo viejos y nuevos dramas mientras se preguntan: «¿Por qué nos casamos otra vez?».",
-          "rating": 7,
+          "rating": 6.79,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -742,6 +749,21 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
+          "title": "El escándalo",
+          "synopsis": "En Joseon, una propuesta secreta desata pasiones prohibidas entre una noble brillante, un famoso seductor y una joven ajena al peligro del juego que los une.",
+          "rating": 6,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Son Ye-jin, 지창욱, 나나, 한선화, 신윤하",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1S2RIku5ECGN7USdE21Qw6yGuEr.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+          "slug": "el-escandalo",
+          "tmdbId": "275102",
+          "type": "series"
+        },
+        {
           "title": "Belleza plástica",
           "synopsis": "Una brillante cirujana de urgencias acaba ejerciendo la medicina estética y se enfrenta a una célebre doctora, dejando al descubierto un mundo dominado por el deseo y la codicia.",
           "rating": 7,
@@ -754,6 +776,21 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
           "slug": "belleza-plastica",
           "tmdbId": "298008",
+          "type": "series"
+        },
+        {
+          "title": "Te conozco",
+          "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
+          "rating": 5.67,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Melis Sezen, Elçin Sangu, Ozan Dolunay, Cemal Hünal, Efe Taşdelen",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hNIxYGmnnwtYDLsDq9U93XSwcLI.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
+          "slug": "te-conozco",
+          "tmdbId": "320760",
           "type": "series"
         },
         {
@@ -791,18 +828,18 @@
           "type": "series"
         },
         {
-          "title": "Te conozco",
-          "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
-          "rating": 5.67,
+          "title": "La muñeca",
+          "synopsis": "Cuando Stanislaw se enamora de la aristocrática Izabela, dedica su vida entera a conquistarla.",
+          "rating": 4.3,
           "year": "2026",
           "genres": [
             "Drama"
           ],
-          "cast": "Melis Sezen, Elçin Sangu, Ozan Dolunay, Cemal Hünal, Efe Taşdelen",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hNIxYGmnnwtYDLsDq9U93XSwcLI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
-          "slug": "te-conozco",
-          "tmdbId": "320760",
+          "cast": "Sandra Drzymalska, Tomasz Schuchardt, Dariusz Chojnacki, Jacek Braciak, Julia Wyszyńska",
+          "posterUrl": "https://image.tmdb.org/t/p/original/72pRBOj8S52NbT1F8OkMxD9OnjY.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg",
+          "slug": "la-muneca",
+          "tmdbId": "295089",
           "type": "series"
         },
         {
@@ -839,21 +876,6 @@
           "type": "series"
         },
         {
-          "title": "City of Blood",
-          "synopsis": "Berlín, una ciudad-estado al límite. La criminalidad conforma la vida cotidiana en un mundo destrozado por el cambio climático. Mientras unos pocos privilegiados viven bajo una cúpula totalmente climatizada, el resto de la ciudad se hunde en la corrupción y la violencia. Las hermanas Bea y Phoebe se separaron de niñas por un giro del destino. Bea, enferma crónica, creció protegida con su madre adoptiva, mientras Phoebe luchaba por sobrevivir en las calles de Berlín. Cuando sus mundos colisionan de nuevo la víspera de unas elecciones decisivas, descubren una verdad aterradora: los vampiros controlan el crimen organizado y están decididos a hacerse con el poder político. La sangre se ha convertido en la verdadera moneda de la ciudad. Atrapadas entre fuerzas rivales, Bea y Phoebe deben enfrentarse a la pregunta clave: ¿quién presenta la mayor amenaza: los humanos o los vampiros?",
-          "rating": 8.6,
-          "year": "2026",
-          "genres": [
-            "Misterio"
-          ],
-          "cast": "Lea Drinda, Soma Pysall, Franz Hartwig, David Schütter, Mouataz Alshaltouh",
-          "posterUrl": "https://image.tmdb.org/t/p/original/dfCSK88iG2Z2V9u6sXZkruiygq7.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
-          "slug": "city-of-blood",
-          "tmdbId": "332401",
-          "type": "series"
-        },
-        {
           "title": "Amores inesperados",
           "synopsis": "Una colección de episodios unitarios en los que Bossi encarna un personaje diferente en cada entrega. Todos, sin embargo, están en busca de lo mismo: una inesperada historia de amor.",
           "rating": 10,
@@ -867,21 +889,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/nBXRiBabzBE6U6He4BnMNULTREC.jpg",
           "slug": "amores-inesperados",
           "tmdbId": "316488",
-          "type": "series"
-        },
-        {
-          "title": "Catedrales",
-          "synopsis": "A 17-year-old girl is found burned and dismembered in an empty lot in a middle-class neighborhood of Santiago, Chile. Due to police negligence, the crime goes unpunished until thirty years later, when the family manages to piece together the murder puzzle, revealing a forbidden relationship and a cruel truth.",
-          "rating": 10,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Alfredo Castro, Paulina García, Octavia Bernasconi, Ignacia Baeza, Vivianne Dietz",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lXfOj4JcnyW0KdfMLrLTLegju5I.jpg",
-          "slug": "catedrales",
-          "tmdbId": "330302",
           "type": "series"
         },
         {
