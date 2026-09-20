@@ -1,24 +1,6 @@
 {
   "movieHero": [
     {
-      "title": "El final de Oak Street",
-      "synopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "rating": 6.94,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Misterio",
-        "Suspenso"
-      ],
-      "cast": "Anne Hathaway, Ewan McGregor, Maisy Stella, Christian Convery, Jordan Alexa Davis",
-      "posterUrl": "https://image.tmdb.org/t/p/original/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "slug": "el-final-de-oak-street",
-      "tmdbId": "1101383",
-      "type": "movie",
-      "duration": "100 min"
-    },
-    {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
       "rating": 7.55,
@@ -37,37 +19,20 @@
       "duration": "93 min"
     },
     {
-      "title": "Adolescencia, sexo y muerte en campamento Miasma",
-      "synopsis": "Tras años de secuelas chapuceras y una base de fans en declive, la franquicia de terror Camp Miasma se entrega a una joven y entusiasta directora para su resurrección. Pero cuando visita a la protagonista de la original, una actriz ahora recluida y envuelta en misterio, ambas mujeres se ven inmersas en un mundo sangriento de deseo, miedo y delirio.",
-      "rating": 6.7,
+      "title": "El final de Oak Street",
+      "synopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "rating": 6.94,
       "year": "2026",
       "genres": [
-        "Comedia",
-        "Terror",
-        "Romance"
-      ],
-      "cast": "Hannah Einbinder, Gillian Anderson, Amanda Fix, Arthur Conti, Eva Victor",
-      "posterUrl": "https://image.tmdb.org/t/p/original/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
-      "slug": "adolescencia-sexo-y-muerte-en-campamento-miasma",
-      "tmdbId": "1240889",
-      "type": "movie",
-      "duration": "106 min"
-    },
-    {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.2,
-      "year": "2026",
-      "genres": [
-        "Terror",
+        "Ciencia ficción",
+        "Misterio",
         "Suspenso"
       ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
+      "cast": "Anne Hathaway, Ewan McGregor, Maisy Stella, Christian Convery, Jordan Alexa Davis",
+      "posterUrl": "https://image.tmdb.org/t/p/original/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "slug": "el-final-de-oak-street",
+      "tmdbId": "1101383",
       "type": "movie",
       "duration": "100 min"
     },
@@ -90,42 +55,60 @@
       "duration": "144 min"
     },
     {
-      "title": "Vaiana",
-      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
-      "rating": 7.34,
+      "title": "La Odisea",
+      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "rating": 8,
       "year": "2026",
       "genres": [
-        "Familia",
-        "Fantasía",
-        "Comedia",
-        "Aventura"
+        "Aventura",
+        "Acción",
+        "Fantasía"
       ],
-      "cast": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "slug": "vaiana-1108427",
-      "tmdbId": "1108427",
+      "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "slug": "la-odisea-1368337",
+      "tmdbId": "1368337",
       "type": "movie",
-      "duration": "115 min"
+      "duration": "172 min"
+    },
+    {
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.2,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Suspenso"
+      ],
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
+      "type": "movie",
+      "duration": "100 min"
+    },
+    {
+      "title": "Adolescencia, sexo y muerte en campamento Miasma",
+      "synopsis": "Tras años de secuelas chapuceras y una base de fans en declive, la franquicia de terror Camp Miasma se entrega a una joven y entusiasta directora para su resurrección. Pero cuando visita a la protagonista de la original, una actriz ahora recluida y envuelta en misterio, ambas mujeres se ven inmersas en un mundo sangriento de deseo, miedo y delirio.",
+      "rating": 6.7,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Terror",
+        "Romance"
+      ],
+      "cast": "Hannah Einbinder, Gillian Anderson, Amanda Fix, Arthur Conti, Eva Victor",
+      "posterUrl": "https://image.tmdb.org/t/p/original/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
+      "slug": "adolescencia-sexo-y-muerte-en-campamento-miasma",
+      "tmdbId": "1240889",
+      "type": "movie",
+      "duration": "106 min"
     }
   ],
   "seriesHero": [
-    {
-      "title": "Monstruo: La historia de Lizzie Borden",
-      "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-      "rating": 7.2,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
-      "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hcoKwpW6W5jPIlIRop6dVab1XpR.jpg",
-      "slug": "monstruo-la-historia-de-lizzie-borden",
-      "tmdbId": "299939",
-      "type": "series"
-    },
     {
       "title": "Neagley",
       "synopsis": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
@@ -144,22 +127,6 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.4,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
-    {
       "title": "Reacher",
       "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
       "rating": 8.12,
@@ -174,6 +141,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "slug": "reacher",
       "tmdbId": "108978",
+      "type": "series"
+    },
+    {
+      "title": "Monstruo: La historia de Lizzie Borden",
+      "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+      "rating": 7.2,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
+      "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hcoKwpW6W5jPIlIRop6dVab1XpR.jpg",
+      "slug": "monstruo-la-historia-de-lizzie-borden",
+      "tmdbId": "299939",
       "type": "series"
     },
     {
@@ -195,20 +178,34 @@
       "type": "series"
     },
     {
-      "title": "Slow Horses",
-      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-      "rating": 8.03,
-      "year": "2022",
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.4,
+      "year": "2025",
       "genres": [
         "Crimen",
-        "Drama",
-        "Misterio"
+        "Drama"
       ],
-      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "slug": "slow-horses",
-      "tmdbId": "95480",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
+      "title": "El escándalo",
+      "synopsis": "En Joseon, una propuesta secreta desata pasiones prohibidas entre una noble brillante, un famoso seductor y una joven ajena al peligro del juego que los une.",
+      "rating": 6,
+      "year": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "cast": "Son Ye-jin, 지창욱, 나나, 한선화, 신윤하",
+      "posterUrl": "https://image.tmdb.org/t/p/original/1S2RIku5ECGN7USdE21Qw6yGuEr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+      "slug": "el-escandalo",
+      "tmdbId": "275102",
       "type": "series"
     }
   ],
@@ -221,7 +218,7 @@
         {
           "title": "Tony",
           "synopsis": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
-          "rating": 7.63,
+          "rating": 7.6,
           "year": "2026",
           "genres": [
             "Drama",
