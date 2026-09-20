@@ -92,21 +92,22 @@
       "duration": "172 min"
     },
     {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.2,
+      "title": "Adolescencia, sexo y muerte en campamento Miasma",
+      "synopsis": "Tras años de secuelas chapuceras y una base de fans en declive, la franquicia de terror Camp Miasma se entrega a una joven y entusiasta directora para su resurrección. Pero cuando visita a la protagonista de la original, una actriz ahora recluida y envuelta en misterio, ambas mujeres se ven inmersas en un mundo sangriento de deseo, miedo y delirio.",
+      "rating": 6.7,
       "year": "2026",
       "genres": [
+        "Comedia",
         "Terror",
-        "Suspenso"
+        "Romance"
       ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
+      "cast": "Hannah Einbinder, Gillian Anderson, Amanda Fix, Arthur Conti, Eva Victor",
+      "posterUrl": "https://image.tmdb.org/t/p/original/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
+      "slug": "adolescencia-sexo-y-muerte-en-campamento-miasma",
+      "tmdbId": "1240889",
       "type": "movie",
-      "duration": "100 min"
+      "duration": "106 min"
     }
   ],
   "seriesHero": [
@@ -144,22 +145,6 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.4,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
-    {
       "title": "Reacher",
       "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
       "rating": 8.12,
@@ -174,6 +159,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
       "slug": "reacher",
       "tmdbId": "108978",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.4,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -195,20 +196,18 @@
       "type": "series"
     },
     {
-      "title": "Slow Horses",
-      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-      "rating": 8.03,
-      "year": "2022",
+      "title": "El escándalo",
+      "synopsis": "En Joseon, una propuesta secreta desata pasiones prohibidas entre una noble brillante, un famoso seductor y una joven ajena al peligro del juego que los une.",
+      "rating": 6,
+      "year": "2026",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
+        "Drama"
       ],
-      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
-      "slug": "slow-horses",
-      "tmdbId": "95480",
+      "cast": "Son Ye-jin, 지창욱, 나나, 한선화, 신윤하",
+      "posterUrl": "https://image.tmdb.org/t/p/original/1S2RIku5ECGN7USdE21Qw6yGuEr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+      "slug": "el-escandalo",
+      "tmdbId": "275102",
       "type": "series"
     }
   ],
@@ -218,6 +217,23 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Tony",
+          "synopsis": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
+          "rating": 7.63,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Dominic Sessa, Antonio Banderas, Emilia Jones, Leo Woodall, Stavros Halkias",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
+          "slug": "tony",
+          "tmdbId": "1329016",
+          "type": "movie",
+          "duration": "106 min"
+        },
         {
           "title": "Sacrifice",
           "synopsis": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
@@ -373,23 +389,6 @@
           "tmdbId": "1386238",
           "type": "movie",
           "duration": "64 min"
-        },
-        {
-          "title": "Operación Teherán",
-          "synopsis": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
-          "rating": 8.2,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Suspenso"
-          ],
-          "cast": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-          "slug": "operacion-teheran",
-          "tmdbId": "1228834",
-          "type": "movie",
-          "duration": "142 min"
         }
       ]
     },
@@ -580,6 +579,52 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "En Coma",
+          "synopsis": "Luego de que una explosión dejara a Anabel en coma, Rafael —un enfermero que escucha a los muertos— debe ayudarla a mantenerse con vida antes de que sus enemigos la encuentren.",
+          "rating": 5.7,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Rami Herrera, Jerónimo Cantillo, Paola Moreno, Julián Trujillo, Marcela Carvajal",
+          "posterUrl": "https://image.tmdb.org/t/p/original/PXTBzvEgxXT49RYSurT6xkNZU7.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg",
+          "slug": "en-coma",
+          "tmdbId": "332863",
+          "type": "series"
+        },
+        {
+          "title": "Cautiva",
+          "synopsis": "Miniserie de televisión dramática argentina coproducida por TNT y FLOW. Sigue la vida de una monja que después de quince años logra escapar de un convento de clausura, donde fue víctima de violencia psicológica y retenida en contra de su voluntad. Protagonizada por Carolina Kopelioff, Lorena Vega, Rita Cortese y Julieta Zylberberg.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Carolina Kopelioff, Lorena Vega, Valeria Lois, Tomás Wicz, Lautaro Bettoni",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uWCL01IPrfDTjO2VTzMwZvVPzXv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
+          "slug": "cautiva",
+          "tmdbId": "333631",
+          "type": "series"
+        },
+        {
+          "title": "El escándalo",
+          "synopsis": "En Joseon, una propuesta secreta desata pasiones prohibidas entre una noble brillante, un famoso seductor y una joven ajena al peligro del juego que los une.",
+          "rating": 6,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Son Ye-jin, 지창욱, 나나, 한선화, 신윤하",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1S2RIku5ECGN7USdE21Qw6yGuEr.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+          "slug": "el-escandalo",
+          "tmdbId": "275102",
+          "type": "series"
+        },
+        {
           "title": "Los solucionadores",
           "synopsis": "Un antiguo gánster de capa caída se alía con el hijo de un astuto político para lidiar con los sucios secretos de importantes clientes de ambos lados de la ley.",
           "rating": 8,
@@ -689,57 +734,6 @@
           "slug": "materia-oscura",
           "tmdbId": "196322",
           "type": "series"
-        },
-        {
-          "title": "Monstruo: La historia de Lizzie Borden",
-          "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-          "rating": 7.2,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Crimen"
-          ],
-          "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
-          "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hcoKwpW6W5jPIlIRop6dVab1XpR.jpg",
-          "slug": "monstruo-la-historia-de-lizzie-borden",
-          "tmdbId": "299939",
-          "type": "series"
-        },
-        {
-          "title": "Stranger Things: Relatos del 85",
-          "synopsis": "Hawkins. Invierno de 1985. En un pueblo lleno de secretos, unos héroes se enfrentan a nuevos misterios... y a una nueva y extraña amenaza.",
-          "rating": 7.6,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Ciencia ficción",
-            "Fantasía",
-            "Misterio",
-            "Acción",
-            "Aventura"
-          ],
-          "cast": "Brooklyn Davey Norstedt, Jolie Hoang-Rappaport, Luca Diaz, Elisha Williams, Braxton Quinney",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ssls8OpHHXtHcvIy7AiXipBddQX.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
-          "slug": "stranger-things-relatos-del-85",
-          "tmdbId": "224263",
-          "type": "series"
-        },
-        {
-          "title": "Te conozco",
-          "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
-          "rating": 5.67,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Melis Sezen, Elçin Sangu, Ozan Dolunay, Cemal Hünal, Efe Taşdelen",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hNIxYGmnnwtYDLsDq9U93XSwcLI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
-          "slug": "te-conozco",
-          "tmdbId": "320760",
-          "type": "series"
         }
       ]
     },
@@ -761,6 +755,37 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
           "slug": "el-escandalo",
           "tmdbId": "275102",
+          "type": "series"
+        },
+        {
+          "title": "Cautiva",
+          "synopsis": "Miniserie de televisión dramática argentina coproducida por TNT y FLOW. Sigue la vida de una monja que después de quince años logra escapar de un convento de clausura, donde fue víctima de violencia psicológica y retenida en contra de su voluntad. Protagonizada por Carolina Kopelioff, Lorena Vega, Rita Cortese y Julieta Zylberberg.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Carolina Kopelioff, Lorena Vega, Valeria Lois, Tomás Wicz, Lautaro Bettoni",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uWCL01IPrfDTjO2VTzMwZvVPzXv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
+          "slug": "cautiva",
+          "tmdbId": "333631",
+          "type": "series"
+        },
+        {
+          "title": "Monstruo: La historia de Lizzie Borden",
+          "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+          "rating": 7.2,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
+          "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hcoKwpW6W5jPIlIRop6dVab1XpR.jpg",
+          "slug": "monstruo-la-historia-de-lizzie-borden",
+          "tmdbId": "299939",
           "type": "series"
         },
         {
@@ -812,19 +837,18 @@
           "type": "series"
         },
         {
-          "title": "Monstruo: La historia de Lizzie Borden",
-          "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-          "rating": 7.2,
+          "title": "City of Blood",
+          "synopsis": "Berlín, una ciudad-estado al límite. La criminalidad conforma la vida cotidiana en un mundo destrozado por el cambio climático. Mientras unos pocos privilegiados viven bajo una cúpula totalmente climatizada, el resto de la ciudad se hunde en la corrupción y la violencia. Las hermanas Bea y Phoebe se separaron de niñas por un giro del destino. Bea, enferma crónica, creció protegida con su madre adoptiva, mientras Phoebe luchaba por sobrevivir en las calles de Berlín. Cuando sus mundos colisionan de nuevo la víspera de unas elecciones decisivas, descubren una verdad aterradora: los vampiros controlan el crimen organizado y están decididos a hacerse con el poder político. La sangre se ha convertido en la verdadera moneda de la ciudad. Atrapadas entre fuerzas rivales, Bea y Phoebe deben enfrentarse a la pregunta clave: ¿quién presenta la mayor amenaza: los humanos o los vampiros?",
+          "rating": 8.6,
           "year": "2026",
           "genres": [
-            "Drama",
-            "Crimen"
+            "Misterio"
           ],
-          "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
-          "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hcoKwpW6W5jPIlIRop6dVab1XpR.jpg",
-          "slug": "monstruo-la-historia-de-lizzie-borden",
-          "tmdbId": "299939",
+          "cast": "Lea Drinda, Soma Pysall, Franz Hartwig, David Schütter, Mouataz Alshaltouh",
+          "posterUrl": "https://image.tmdb.org/t/p/original/dfCSK88iG2Z2V9u6sXZkruiygq7.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
+          "slug": "city-of-blood",
+          "tmdbId": "332401",
           "type": "series"
         },
         {
@@ -873,39 +897,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/Agx8RmlBBDJrlH9MyUOd5JYYZPS.jpg",
           "slug": "route-187",
           "tmdbId": "332657",
-          "type": "series"
-        },
-        {
-          "title": "Amores inesperados",
-          "synopsis": "Una colección de episodios unitarios en los que Bossi encarna un personaje diferente en cada entrega. Todos, sin embargo, están en busca de lo mismo: una inesperada historia de amor.",
-          "rating": 10,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Martín Bossi, Darío Miño, Julieta Cardinali, Jorgelina Aruzzi",
-          "posterUrl": "https://image.tmdb.org/t/p/original/n5QzgAh5QNscYqmp9vekgvKBp2e.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nBXRiBabzBE6U6He4BnMNULTREC.jpg",
-          "slug": "amores-inesperados",
-          "tmdbId": "316488",
-          "type": "series"
-        },
-        {
-          "title": "Golden Axe",
-          "synopsis": "Los legendarios guerreros Ax Battler, Tyris Flare y Gilius Thunderhead se reúnen para salvar a Yuria del malvado gigante Death Adder, que parece no querer quedarse muerto. Su misión se complica por Hampton Squib, un aventurero inexperto y tremendamente mal preparado cuyo sueño de heroísmo supera con creces sus habilidades. Obligados a trabajar juntos a pesar de sus defectos, deben encontrar la manera de detener a Death Adder de una vez por todas.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Matthew Rhys, Danny Pudi, Lisa Gilroy, Liam McIntyre, Carl Tart",
-          "posterUrl": "https://image.tmdb.org/t/p/original/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
-          "slug": "golden-axe",
-          "tmdbId": "252105",
           "type": "series"
         }
       ]
