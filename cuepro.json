@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T13:39:30Z",
+  "updatedAt": "2026-09-20T16:15:57Z",
   "source": "cuepro",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -15980,6 +15980,7 @@
     "1375831": {"slug": "diabolic"},
     "1376434": {"slug": "depredador-cazador-de-asesinos"},
     "1376439": {"slug": "los-miserables-el-origen"},
+    "1376831": {"slug": "un-altre-home"},
     "1377237": {"slug": "entrega-al-limite"},
     "1377365": {"slug": "the-betrayed"},
     "1377413": {"slug": "el-dia-de-la-masacre"},
@@ -16791,6 +16792,7 @@
     "1715492": {"slug": "shipwrecked-nightmare-at-sea"},
     "1716513": {"slug": "los-simpson-extreme-makeover-edicion-homero"},
     "1717197": {"slug": "messi-la-cinta-olvidada"},
+    "1721914": {"slug": "ni-contigo-ni-sin-mi"},
     "1722713": {"slug": "miguel-angel-blanco-las-48-horas-que-lo-cambiaron-todo"},
     "1723460": {"slug": "a-toxic-love-story"},
     "1724637": {"slug": "to-your-island"},
@@ -20756,6 +20758,7 @@
     "332282": {"slug": "habilidad-fisica-100-mexico"},
     "332657": {"slug": "route-187"},
     "332863": {"slug": "en-coma"},
-    "333096": {"slug": "hotel-todo-incluido"}
+    "333096": {"slug": "hotel-todo-incluido"},
+    "333631": {"slug": "cautiva"}
   }
 }
