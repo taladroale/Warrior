@@ -55,6 +55,24 @@
       "duration": "144 min"
     },
     {
+      "title": "La Odisea",
+      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "rating": 8,
+      "year": "2026",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ],
+      "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "slug": "la-odisea-1368337",
+      "tmdbId": "1368337",
+      "type": "movie",
+      "duration": "172 min"
+    },
+    {
       "title": "Obsession",
       "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
       "rating": 8.2,
@@ -88,43 +106,24 @@
       "tmdbId": "1240889",
       "type": "movie",
       "duration": "106 min"
-    },
-    {
-      "title": "La Odisea",
-      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 8,
-      "year": "2026",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Fantasía"
-      ],
-      "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-      "slug": "la-odisea-1368337",
-      "tmdbId": "1368337",
-      "type": "movie",
-      "duration": "172 min"
     }
   ],
   "seriesHero": [
     {
-      "title": "Linternas",
-      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.24,
+      "title": "Neagley",
+      "synopsis": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
+      "rating": 7.8,
       "year": "2026",
       "genres": [
         "Drama",
         "Misterio",
-        "Ciencia ficción",
-        "Fantasía"
+        "Crimen"
       ],
-      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Garret Dillahunt, Poorna Jagannathan",
-      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "slug": "linternas",
-      "tmdbId": "95350",
+      "cast": "Maria Sten, Greyston Holt, Adeline Rudolph, Matthew Del Negro, Damon Herriman",
+      "posterUrl": "https://image.tmdb.org/t/p/original/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+      "slug": "neagley",
+      "tmdbId": "273207",
       "type": "series"
     },
     {
@@ -144,36 +143,37 @@
       "type": "series"
     },
     {
-      "title": "Neagley",
-      "synopsis": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
-      "rating": 7.8,
+      "title": "Linternas",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "rating": 8.24,
       "year": "2026",
       "genres": [
         "Drama",
         "Misterio",
-        "Crimen"
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Maria Sten, Greyston Holt, Adeline Rudolph, Matthew Del Negro, Damon Herriman",
-      "posterUrl": "https://image.tmdb.org/t/p/original/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
-      "slug": "neagley",
-      "tmdbId": "273207",
+      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Garret Dillahunt, Poorna Jagannathan",
+      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "slug": "linternas",
+      "tmdbId": "95350",
       "type": "series"
     },
     {
-      "title": "Operaciones Especiales: Lioness",
-      "synopsis": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
-      "rating": 8.2,
-      "year": "2023",
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.4,
+      "year": "2025",
       "genres": [
-        "Drama",
-        "Guerra"
+        "Crimen",
+        "Drama"
       ],
-      "cast": "Zoe Saldaña, Laysla De Oliveira, Dave Annable, Jill Wagner, LaMonica Garrett",
-      "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
-      "slug": "operaciones-especiales-lioness",
-      "tmdbId": "113962",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -194,19 +194,18 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.4,
-      "year": "2025",
+      "title": "El escándalo",
+      "synopsis": "En Joseon, una propuesta secreta desata pasiones prohibidas entre una noble brillante, un famoso seductor y una joven ajena al peligro del juego que los une.",
+      "rating": 6,
+      "year": "2026",
       "genres": [
-        "Crimen",
         "Drama"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Son Ye-jin, 지창욱, 나나, 한선화, 신윤하",
+      "posterUrl": "https://image.tmdb.org/t/p/original/1S2RIku5ECGN7USdE21Qw6yGuEr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+      "slug": "el-escandalo",
+      "tmdbId": "275102",
       "type": "series"
     }
   ],
@@ -223,7 +222,8 @@
           "year": "2026",
           "genres": [
             "Drama",
-            "Comedia"
+            "Comedia",
+            "Romance"
           ],
           "cast": "Dominic Sessa, Antonio Banderas, Emilia Jones, Leo Woodall, Stavros Halkias",
           "posterUrl": "https://image.tmdb.org/t/p/original/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
@@ -397,21 +397,22 @@
       "seeMoreSlug": "estrenos",
       "items": [
         {
-          "title": "Tú+Yo - Solos contra todos",
-          "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
-          "rating": 5.81,
+          "title": "En el corazón de la bestia",
+          "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+          "rating": 7.67,
           "year": "2026",
           "genres": [
-            "Romance",
+            "Aventura",
+            "Suspenso",
             "Drama"
           ],
-          "cast": "Vittoria Di Savoia, Lucas Barski, Aymeric Fougeron, Zoé Garcia, Léo Legrand",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mzgqiEhujCAZiaD6jNVYSXdqFXs.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-          "slug": "tuyo-solos-contra-todos",
-          "tmdbId": "1641629",
+          "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Olivia Hamilton, Brad Pitt",
+          "posterUrl": "https://image.tmdb.org/t/p/original/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+          "slug": "en-el-corazon-de-la-bestia",
+          "tmdbId": "1263337",
           "type": "movie",
-          "duration": "94 min"
+          "duration": "101 min"
         },
         {
           "title": "Cuatro historias de deseo 3",
@@ -429,6 +430,23 @@
           "tmdbId": "1451944",
           "type": "movie",
           "duration": "165 min"
+        },
+        {
+          "title": "Tú+Yo - Solos contra todos",
+          "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
+          "rating": 5.81,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Drama"
+          ],
+          "cast": "Vittoria Di Savoia, Lucas Barski, Aymeric Fougeron, Zoé Garcia, Léo Legrand",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mzgqiEhujCAZiaD6jNVYSXdqFXs.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+          "slug": "tuyo-solos-contra-todos",
+          "tmdbId": "1641629",
+          "type": "movie",
+          "duration": "94 min"
         },
         {
           "title": "Las mejores",
@@ -481,6 +499,43 @@
           "duration": "93 min"
         },
         {
+          "title": "Operación Teherán",
+          "synopsis": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
+          "rating": 8.2,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Suspenso"
+          ],
+          "cast": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+          "slug": "operacion-teheran",
+          "tmdbId": "1228834",
+          "type": "movie",
+          "duration": "142 min"
+        },
+        {
+          "title": "La isla olvidada",
+          "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+          "rating": 8.5,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Aventura",
+            "Fantasía",
+            "Comedia",
+            "Familia"
+          ],
+          "cast": "H.E.R., Liza Soberano, Dave Franco, Lea Salonga, Jenny Slate",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+          "slug": "la-isla-olvidada",
+          "tmdbId": "1465063",
+          "type": "movie",
+          "duration": "109 min"
+        },
+        {
           "title": "El hombre que desafió al rey",
           "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
           "rating": 6.9,
@@ -499,23 +554,6 @@
           "duration": "128 min"
         },
         {
-          "title": "Operación Teherán",
-          "synopsis": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
-          "rating": 8.2,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Suspenso"
-          ],
-          "cast": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-          "slug": "operacion-teheran",
-          "tmdbId": "1228834",
-          "type": "movie",
-          "duration": "142 min"
-        },
-        {
           "title": "Enfrentados: Marfil",
           "synopsis": "Parte 1 de la saga Enfrentados. Marfil, hija de un poderoso empresario español, ve cómo su vida en Nueva York da un vuelco al ser secuestrada y liberada sin explicación. Su padre contrata a Sebastian Moore como guardaespaldas y, forzados a pasar cada minuto juntos, surgirá una irremediable atracción en un mundo donde nada es lo que parece. Basada en la novela de Mercedes Ron, saga Culpables",
           "rating": 6.61,
@@ -531,42 +569,6 @@
           "tmdbId": "1440098",
           "type": "movie",
           "duration": "104 min"
-        },
-        {
-          "title": "Prácticamente magia 2",
-          "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
-          "rating": 6.05,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Fantasía",
-            "Comedia"
-          ],
-          "cast": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-          "slug": "practicamente-magia-2",
-          "tmdbId": "1302904",
-          "type": "movie",
-          "duration": "130 min"
-        },
-        {
-          "title": "¿Por qué me casé, entonces?",
-          "synopsis": "Las parejas se reencuentran para la boda de la hija de Marcus y Angela y traen consigo viejos y nuevos dramas mientras se preguntan: «¿Por qué nos casamos otra vez?».",
-          "rating": 6.79,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Romance",
-            "Drama"
-          ],
-          "cast": "Tyler Perry, Taraji P. Henson, Jill Scott, Richard T. Jones, Tasha Smith",
-          "posterUrl": "https://image.tmdb.org/t/p/original/exWdEF4PJsGpX9HeLQsedBgTkj8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-          "slug": "por-que-me-case-otra-vez",
-          "tmdbId": "1522689",
-          "type": "movie",
-          "duration": "112 min"
         }
       ]
     }
@@ -577,6 +579,55 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Linternas",
+          "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+          "rating": 8.27,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
+          "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+          "slug": "linternas",
+          "tmdbId": "95350",
+          "type": "series"
+        },
+        {
+          "title": "Operaciones Especiales: Lioness",
+          "synopsis": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
+          "rating": 8.22,
+          "year": "2023",
+          "genres": [
+            "Drama",
+            "Guerra"
+          ],
+          "cast": "Zoe Saldaña, Laysla De Oliveira, Dave Annable, Jill Wagner, LaMonica Garrett",
+          "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+          "slug": "operaciones-especiales-lioness",
+          "tmdbId": "113962",
+          "type": "series"
+        },
+        {
+          "title": "Cuatro manos, dos sonatas",
+          "synopsis": "Cuando dos jóvenes pianistas de mundos completamente diferentes se conocen en una prestigiosa escuela de música, las melodías de sus vidas se entrelazan íntimamente.",
+          "rating": 9.36,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "송강, 이준영, 장규리, 윤세아, 정진영",
+          "posterUrl": "https://image.tmdb.org/t/p/original/d1EaBYk2EAd9LiAEM4hX7uJraTF.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
+          "slug": "cuatro-manos-dos-sonatas",
+          "tmdbId": "305644",
+          "type": "series"
+        },
         {
           "title": "En Coma",
           "synopsis": "Luego de que una explosión dejara a Anabel en coma, Rafael —un enfermero que escucha a los muertos— debe ayudarla a mantenerse con vida antes de que sus enemigos la encuentren.",
@@ -687,51 +738,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
           "slug": "star-trek-strange-new-worlds",
           "tmdbId": "103516",
-          "type": "series"
-        },
-        {
-          "title": "Mira: La vida después del divorcio",
-          "synopsis": "La vida aparentemente perfecta de Mira se hace añicos cuando su marido decide de repente divorciarse de ella. Ante una decisión que nunca esperó, debe encontrar la manera de valerse por sí misma y reconstruir su vida.",
-          "rating": 7.5,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Nehir Erdoğan, Yiğit Özşener, Nezaket Erden",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bCoLLuCXN4crruP5tPzagoTb2WH.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8JZdwnnwLPu3l7zCzw9CivHG5ni.jpg",
-          "slug": "mira-la-vida-despues-del-divorcio",
-          "tmdbId": "316474",
-          "type": "series"
-        },
-        {
-          "title": "Habilidad física: 100-México",
-          "synopsis": "Reality Competition show adaptación del formato original coreano.",
-          "rating": 7,
-          "year": "2026",
-          "genres": [],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/1XlmHy8pD2XQg0cttKA5xHt5sYh.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg",
-          "slug": "habilidad-fisica-100-mexico",
-          "tmdbId": "332282",
-          "type": "series"
-        },
-        {
-          "title": "Materia oscura",
-          "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-          "rating": 7.79,
-          "year": "2024",
-          "genres": [
-            "Ciencia ficción",
-            "Fantasía",
-            "Drama"
-          ],
-          "cast": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson, Dayo Okeniyi",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-          "slug": "materia-oscura",
-          "tmdbId": "196322",
           "type": "series"
         }
       ]
