@@ -1,0 +1,840 @@
+{
+  "home": {
+    "homeJsonUrl": "https://taladroale.github.io/Warrior/hom.json"
+ },
+ "excludedLanguages": [
+  "Multilenguaje [CC]"
+],
+"serverOrder": [
+  "Cinecalidad",
+  "Hackstore",
+  "PelisPlus",
+  "Cuevana Fo",
+  "PoseidonHD",
+  "TioPlus",
+  "Cuevana Bid",
+  "AllCalidad"
+],
+
+"streamResolver": {
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+  "timeoutMs": 12000,
+  "jsEvalDelayMs": 2000,
+  "poseidonReferer": "https://player.poseidonhd2.co/",
+  "adBlockList": [
+    "doo.lat",
+    "/public/video.mp4"
+  ],
+  "streamPatterns": [
+    "file:\\s*\"(https?://[^\"]+)\"",
+    "file:\\s*'(https?://[^']+)'",
+    "\"file\"\\s*:\\s*\"(https?://[^\"]+)\"",
+    "https?://[^\"'\\s]+\\.m3u8[^\"'\\s]*",
+    "https?://[^\"'\\s]+\\.mp4[^\"'\\s]*",
+    "https?://[^\"'\\s]+master\\.txt[^\"'\\s]*",
+    "<source[^>]+src=\"(https?://[^\"]+)\"",
+    "\"src\"\\s*:\\s*\"(https?://[^\"]+)\""
+  ]
+},
+  "excludedServers": [
+    "Voe (null)",
+    "netu",
+	"netu (HD)",
+	"netu (SRC)",
+	"netu (CAM)",
+	"Netu",
+	"Netu - Opción 2",
+	"Netu - Opción 3",
+	"Netu - Opción 4",
+	"Netu - Opción 5",
+	"Netu - Opción 6",
+	"Netu - Opción 7",
+	"Cdnwish",
+	"wolfstream",
+	"wolfstream (HD)",
+	"Goodstream (Dual 1080p)",
+	"Goodstream(1080p)",
+	"goodstream (Dual 1080p)",
+	"Goodstream (Full HD)",
+	"Goodstream (null)",
+	"goodstream",
+	"Goodstream",
+	"(null)",
+	"Sbanh (Full HD)",
+	"Streamsb (Full HD)",
+	"filemoon (HD)",
+	"Filemoon (Full HD)",
+	"filemoon ",
+	"Filemoon ",
+	"Filemoon (SCR)",
+	"Sbchill (Full HD)",
+	"Sbface (Full HD)",
+	"Hlswish (Full HD)",
+	"Hlswish",
+	"Jawcloud.co (Full HD)",
+	"Fembed (Full HD)",
+	"Servidor Eclipse",
+	"Sbrapid (Full HD)",
+	"Diasfem (Full HD)",
+    "streamtape (HD)"
+  ],
+  "cuevana_fo": {
+    "enabled": true,
+    "priority": 1,
+    "homeUrl": "https://cuevana.fo",
+    "useNextData": true,
+    "nextDataUrlPattern": "/_next/data/{buildId}/{locale}/{path}.json",
+    "locale": "es",
+    "buildIdUrlPath": "/no-existe",
+    "buildIdRegex": "\"buildId\":\"([^\"]+)\"",
+    "movieDetailPath": "/pelicula/{slug}",
+    "seriesDetailPath": "/serie/{slug}",
+    "episodeDetailPath": "/episodio/{slug}",
+    "searchPath": "/search",
+    "moviesTopWeekPath": "/peliculas/top/semana",
+    "seriesTopWeekPath": "/series/top/semana",
+    "seriesSectionPath": "/series",
+    "moviePagePath": "/peliculas/page/{page}",
+    "urlTemplates": {
+        "genreMovie": "/genero/{genre}",
+        "genreMoviePage": "/genero/{genre}/page/{page}",
+        "genreSeries": "/genero/{genre}",
+        "genreSeriesPage": "/genero/{genre}/page/{page}"
+    },
+    "http": {
+        "connectTimeoutSeconds": 15,
+        "readTimeoutSeconds": 15,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "jsonFields": {
+        "props": "props",
+        "pageProps": "pageProps",
+        "thisMovie": "thisMovie",
+        "thisSerie": "thisSerie",
+        "episode": "episode",
+        "titles": "titles",
+        "images": "images",
+        "poster": "poster",
+        "name": "name",
+        "original": "original",
+        "overview": "overview",
+        "rate": "rate",
+        "average": "average",
+        "releaseDate": "releaseDate",
+        "runtime": "runtime",
+        "genres": "genres",
+        "backdrop": "backdrop",
+        "tmdbId": "TMDbId",
+        "cast": "cast",
+        "acting": "acting",
+        "type": "type",
+        "slug": "slug",
+        "seasons": "seasons",
+        "number": "number",
+        "episodes": "episodes",
+        "title": "title",
+        "image": "image",
+        "episodeSeason": "season",
+        "episodeNumber": "episode",
+        "topMoviesWeek": "topMoviesWeek",
+        "topSeriesWeek": "topSeriesWeek",
+        "tabLastMovies": "tabLastMovies",
+        "movies": "movies",
+        "cyberlocker": "cyberlocker",
+        "quality": "quality",
+        "result": "result"
+    },
+    "videoJsonPath": "videos",
+    "episodeVideoJsonPath": "videos",
+    "languageMap": {
+        "latino": "Latino",
+        "spanish": "Castellano",
+        "english": "Subtitulado"
+    },
+    "homeSections": [
+        { "title": "Estrenos", "url": "https://cuevana.fo/estrenos", "seeMoreSlug": "estrenos" },
+        { "title": "Últimas publicadas", "url": "https://cuevana.fo/peliculas", "seeMoreSlug": "ultimas" }
+    ],
+    "specialGenreUrls": {
+        "estrenos": "https://cuevana.fo/estrenos",
+        "ultimas": "https://cuevana.fo/peliculas",
+        "estrenos-series": "https://cuevana.fo/series/estrenos",
+        "ultimas-series": "https://cuevana.fo/series"
+    },
+    "seriesHomeSections": [
+        { "title": "Estrenos", "url": "https://cuevana.fo/series/estrenos", "seeMoreSlug": "estrenos-series" }
+    ],
+    "genres": [
+        {"name": "Acción", "slug": "accion"},
+        {"name": "Animación", "slug": "animacion"},
+        {"name": "Aventura", "slug": "aventura"},
+        {"name": "Comedia", "slug": "comedia"},
+        {"name": "Ciencia ficción", "slug": "ciencia-ficcion"},
+        {"name": "Crimen", "slug": "crimen"},
+        {"name": "Drama", "slug": "drama"},
+        {"name": "Familia", "slug": "familia"},
+        {"name": "Fantasía", "slug": "fantasia"},
+        {"name": "Misterio", "slug": "misterio"},
+        {"name": "Romance", "slug": "romance"},
+        {"name": "Suspenso", "slug": "suspenso"},
+        {"name": "Terror", "slug": "terror"}
+    ]
+},
+"poseidonhd": {
+    "enabled": false,
+    "priority": 2,
+    "homeUrl": "https://www.poseidonhd2.co",
+    "useNextData": true,
+    "nextDataRegex": "<script id=\"__NEXT_DATA__\" type=\"application/json\">(.*?)</script>",
+	"searchUrlPattern": "/search?q={query}",
+    "http": {
+        "connectTimeoutSeconds": 15,
+        "readTimeoutSeconds": 15,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "urlTemplates": {
+        "moviesHome": "/peliculas",
+        "seriesHome": "/series",
+        "movieDetailFromSlug": "/pelicula/{tmdbId}/{slug}",
+        "seriesDetailFromSlug": "/serie/{tmdbId}/{slug}",
+        "movieDetailFromSlugNoId": "/pelicula/{slug}",
+        "seriesDetailFromSlugNoId": "/serie/{slug}",
+        "genreDefault": "/genero/{genre}",
+        "genreDefaultPage": "/genero/{genre}/page/{page}"
+    },
+    "jsonFields": {
+        "props": "props",
+        "pageProps": "pageProps",
+        "thisMovie": "thisMovie",
+        "thisSerie": "thisSerie",
+        "episode": "episode",
+        "titles": "titles",
+        "images": "images",
+        "poster": "poster",
+        "name": "name",
+        "original": "original",
+        "overview": "overview",
+        "rate": "rate",
+        "average": "average",
+        "releaseDate": "releaseDate",
+        "runtime": "runtime",
+        "genres": "genres",
+        "backdrop": "backdrop",
+        "tmdbId": "TMDbId",
+        "cast": "cast",
+        "acting": "acting",
+        "type": "type",
+        "slug": "slug",
+        "seasons": "seasons",
+        "number": "number",
+        "episodes": "episodes",
+        "title": "title",
+        "image": "image",
+        "url": "url",
+        "topMoviesWeek": "topMoviesWeek",
+        "topSeriesWeek": "topSeriesWeek",
+        "movies": "movies",
+        "cyberlocker": "cyberlocker",
+        "quality": "quality",
+        "result": "result"
+    },
+    "tmdbIdKeys": ["TMDbId", "tmdb_id", "tmdbId", "id"],
+    "videoJsonPath": "props.pageProps.{videoKey}.videos",
+    "serverNameField": "cyberlocker",
+    "serverUrlField": "result",
+    "seasonListPath": "props.pageProps.thisSerie.seasons",
+    "seasonEpisodesPath": "episodes",
+    "movieUrlPatterns": [
+      "/pelicula/{tmdbId}",
+      "/pelicula/{tmdbId}/{slug}",
+      "/movie/{tmdbId}/{slug}",
+      "/peliculas/{tmdbId}/{slug}"
+    ],
+    "seriesUrlPatterns": [
+      "/serie/{tmdbId}/{slug}"
+    ],
+    "seasonEpisodeUrlPatterns": [
+      "/serie/{tmdbId}/{slug}/temporada/{season}/episodio/{episode}",
+      "/serie/{tmdbId}/{slug}/season/{season}/episode/{episode}",
+      "/serie/{tmdbId}/{slug}/temporada-{season}/episodio-{episode}",
+      "/serie/{tmdbId}/{slug}/season-{season}/episode-{episode}",
+      "/series/{tmdbId}/{slug}/seasons/{season}/episodes/{episode}",
+      "/series/{tmdbId}/{slug}/temporada/{season}/episodio/{episode}",
+      "/episodio/{tmdbId}/{slug}/{season}/{episode}"
+    ],
+    "videoKeys": {
+      "movie": "thisMovie",
+      "episode": "episode"
+    },
+    "languageMap": {
+      "latino": "Latino",
+      "spanish": "Castellano",
+      "english": "Subtitulado"
+    },
+    "homeSections": [
+      { "title": "Estrenos",          "url": "https://www.poseidonhd2.co/peliculas/estrenos", "seeMoreSlug": "estrenos-pelis" },
+      { "title": "Últimas publicadas", "url": "https://www.poseidonhd2.co/peliculas",         "seeMoreSlug": "ultimas-pelis" },
+      { "title": "Estrenos",   "url": "https://www.poseidonhd2.co/series/estrenos",    "seeMoreSlug": "estrenos-series" },
+      { "title": "Últimas publicadas", "url": "https://www.poseidonhd2.co/series", "seeMoreSlug": "ultimas-series" }
+    ],
+    "specialGenreUrls": {
+      "estrenos-pelis": "https://www.poseidonhd2.co/peliculas/estrenos",
+      "ultimas-pelis": "https://www.poseidonhd2.co/peliculas",
+      "estrenos-series": "https://www.poseidonhd2.co/series/estrenos",
+      "ultimas-series": "https://www.poseidonhd2.co/series"
+    },
+    "genres": [
+      {"name": "Acción", "slug": "accion"},
+      {"name": "Animación", "slug": "animacion"},
+      {"name": "Aventura", "slug": "aventura"},
+      {"name": "Comedia", "slug": "comedia"},
+      {"name": "Ciencia ficción", "slug": "ciencia-ficcion"},
+      {"name": "Crimen", "slug": "crimen"},
+      {"name": "Drama", "slug": "drama"},
+      {"name": "Familia", "slug": "familia"},
+      {"name": "Fantasía", "slug": "fantasia"},
+      {"name": "Misterio", "slug": "misterio"},
+      {"name": "Romance", "slug": "romance"},
+      {"name": "Suspenso", "slug": "suspenso"},
+      {"name": "Terror", "slug": "terror"}
+    ]
+  },
+
+"cuevana": {
+    "enabled": true,
+    "priority": 3,
+    "index": {
+    "url": "https://taladroale.github.io/Warrior/cuepro.json"
+    },
+    "homeUrls": ["https://cuevana3e.pro/"],
+    "movieDetailPrefixes": ["/pelicula/"],
+    "seriesDetailPrefixes": ["/serie/"],
+    "genreMoviePrefixes": ["/peliculas?genero="],
+    "genreSeriesPrefixes": ["/series?genero="],
+    "seasonPrefixes": ["/temporada-"],
+    "episodePrefixes": ["/episodio-"],
+
+    "serverDecode": {
+      "vParam": "?v=",
+      "tmdbIdRegex": "tmdb=([0-9]+)"
+    },
+    "serverBlockTag": "<li class=\"tab-video-item\">",
+    "serverItemRegex": "<li[^>]*data-server=\"([^\"]*)\"[^>]*>\\s*<span>(.*?)</span>",
+    "languageRegex": "<div class=\"tab-item-name\">\\s*([^<]+)",
+
+    "metadataRegex": {
+      "title": "<h1 class=\"title page-title-hero\">(.*?)<span",
+      "synopsis": "<h1 class=\"title page-title-hero\">.*?</h1>\\s*<p>(.*?)</p>",
+      "rating": "<span class=\"voteav[^\"]*\"[^>]*>([\\d.]+)</span>",
+      "year": "<h2 class=\"subtitle\">Año de estreno</h2>\\s*<p>(\\d+)</p>",
+      "duration": "<h2 class=\"subtitle\">Cuánto dura.*?</h2>\\s*<p>Duración estima de (.*?)</p>",
+      "quality": "Calidad · (\\w+)",
+      "genres": "<a href=\"[^\"]*\\?genero=[^\"]*\" class=\"jump-link\">([^<]+)</a>",
+      "backdrop": "<(?:div class=\"backdrop-image\"|figure class=\"backdrop\")>.*?<img[^>]*\\bsrc\\s*=\\s*[\"']?([^\"'\\s>]+)",
+      "tmdbId": "<meta name=\"tmdb-id\" content=\"([^\"]*)\""
+    },
+    "popularMoviesRegex": {
+      "container": "<div class=\"Title widget-title\">Películas Populares</div>\\s*<ul class=\"MovieList\">(.*?)</ul>",
+      "item": "<li>(.*?)</li>",
+      "link": "<a\\s+[^>]*href=\"(?:https?://[^/]+)?/(?:pelicula|serie)/([^\"]*)\"",
+      "image": "<img[^>]*\\bsrc\\s*=\\s*[\"']?([^\"'\\s>]+)",
+      "title": "<div class=\"Title\">(.*?)</div>"
+    },
+    "seriesMetadataRegex": {
+      "title_jsonld": "name",
+      "synopsis_jsonld": "description",
+      "rating_jsonld": "aggregateRating.ratingValue",
+      "actors_jsonld": "actor[].name",
+      "title_og": "og:title",
+      "synopsis_og": "og:description",
+      "backdrop_og": "og:image",
+      "title_regex": "<h1 class=\"title\">Serie\\s*(.*?)\\s*</h1>",
+      "synopsis_regex": "<h2 class=\"subtitle\">Resumen general</h2>\\s*<p>(.*?)</p>",
+      "year_regex": "publicada en el año (\\d{4})",
+      "actors_regex": "<h2 class=\"subtitle\">Actores</h2>\\s*<p>(.*?)</p>",
+      "genres_section_regex": "<h2 class=\"subtitle\">Categoría</h2>\\s*<p>(.*?)</p>",
+      "genre_link_regex": "<a[^>]*class=\"jump-link\"[^>]*>([^<]+)</a>",
+      "rating_regex": "\"ratingValue\":\\s*([\\d.]+)",
+      "backdrop_regex": "<meta property=\"og:image\" content=\"([^\"]+)\"",
+      "tmdb_id_regex": "<meta name=\"tmdb-id\" content=\"([^\"]*)\""
+    },
+    "heroRegex": {
+      "block": "<div class=\"MovieListSldCn\">(.*?)</div>\\s*<div class=\"TpRwCont\"",
+      "imageAndTitle": "<img[^>]*\\bsrc\\s*=\\s*[\"']?([^\"'\\s>]+)[\"']?[^>]*\\balt\\s*=\\s*[\"']?Película destacada\\s+([^\"']+)",
+      "synopsis": "<p class=\"Info\">.*?</p>\\s*<p>(.*?)</p>"
+    },
+    "movieListItemRegex": {
+      "li": "<li class=\"TPostMv[^\"]*\">(.*?)</li>",
+      "link": "<a\\b[^>]*href=\"([^\"]*)\"[^>]*>(.*?)</a>",
+      "slug": "/(?:pelicula|serie)/([^\"]*)",
+      "image": "<img[^>]*\\bsrc\\s*=\\s*[\"']?([^\"'\\s>]+)",
+      "title": "<h2 class=\"Title\">(.*?)</h2>"
+    },
+    "episodeListItemRegex": {
+      "li": "<li class=\"TPostMv[^\"]*\">(.*?)</li>",
+      "link": "<a\\b[^>]*href=\"([^\"]*episodio[^\"]*)\"[^>]*>(.*?)</a>",
+      "slug": "/(?:serie)/([^\"]*)",
+      "image": "<img[^>]*\\bsrc\\s*=\\s*[\"']?([^\"'\\s>]+)",
+      "title": "<h2 class=\"Title\">(.*?)</h2>"
+    },
+    "genrePageItemRegex": {
+      "div": "<div class=\"movie-item\">(.*?)</div>\\s*(?:<div class=\"movie-item\">|</div>)",
+      "link": "<a\\b[^>]*>(.*?)</a>",
+      "slug": "/(?:pelicula|serie)/([^\"]*)",
+      "image": "<img[^>]*\\bsrc\\s*=\\s*[\"']?([^\"'\\s>]+)",
+      "title": "<p>(.*?)</p>"
+    },
+    "seasonRegex": "href=\"[^\"]*temporada-(\\d+)\"",
+    "seasonEpisodeRegex": {
+      "link": "<a\\b[^>]*href=\"([^\"]*episodio[^\"]*)\"[^>]*>(.*?)</a>",
+      "title": "<h2 class=\"Title\">(.*?)</h2>",
+      "image": "<img[^>]*src=\"([^\"]*)\"[^>]*>"
+    }
+},
+
+"tioplus": {
+    "enabled": true,
+    "priority": 4,
+    "homeUrl": "https://tioplus.app",
+    "index": {
+    "url": "https://taladroale.github.io/Warrior/tpls.json"},
+	"preferredServers": ["Earnvids - Opción 1", "Earnvids - Opción 2", "Earnvids - Opción 3", "Earnvids", "Earnvid", "earnvids", "earnvids"],
+    "movieDetailPrefix": "/pelicula/",
+    "seriesDetailPrefix": "/serie/",
+    "seasonEpisodeUrlPattern": "/serie/{serieSlug}/season/{season}/episode/{episode}",
+    "playerUrl": "/player/{tokenBase64}",
+    "languageDefault": "Latino",
+    "serverItemRegex": "<li[^>]*role=\"presentation\"[^>]*data-server=\"([^\"]+)\"[^>]*>\\s*<span>(.*?)</span>",
+    "redirectRegex": "window\\.location\\.href\\s*=\\s*['\"]([^'\"]+)['\"]",
+    "http": {
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+        "referer": "https://tioplus.app/"
+    }
+  },
+  
+"pelisplus": {
+    "enabled": true,
+    "priority": 5,
+    "homeUrl": "https://pelisplushd.bz",
+	    "index": {
+        "url": "https://taladroale.github.io/Warrior/ppls.json"
+    },
+    "principalBaseUrl": "https://embed69.org",
+    "backupBaseUrl": "https://pelisplus.zip",
+    "principalReferer": "https://pelisplushd.bz/",
+    "backupReferer": "https://pelisplus.zip/",
+    "movieUrlPattern": "/f/{imdbId}/",
+    "episodeUrlPattern": "/f/{imdbId}-{season}x{episode}/",
+    "backupMovieUrlPattern": "/vidurl/{imdbId}/",
+    "backupEpisodeUrlPattern": "/vidurl/{imdbId}-{season}x{episode}/",
+    "defaultPowDifficulty": 3,
+    "http": {
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "acceptLanguage": "es-ES,es;q=0.9"
+    },
+    "languageMap": {
+        "lat": "Latino",
+        "esp": "Castellano",
+        "sub": "Subtitulado",
+        "vose": "Subtitulado",
+        "jap": "Japonés Sub",
+        "kor": "Coreano Sub"
+    }
+},
+"hackstore": {
+    "enabled": false,
+    "priority": 6,
+    "homeUrl": "https://hackstore2.com",
+    "http": {
+        "connectTimeoutSeconds": 15,
+        "readTimeoutSeconds": 15,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    "searchUrlPattern": "/api/rest/search?post_type={type}&query={query}",
+    "singleUrlPattern": "/api/rest/single?post_name={slug}&post_type={type}",
+    "episodesUrlPattern": "/api/rest/episodes?post_id={seriesId}",
+    "playerUrlPattern": "/api/rest/player?post_id={postId}",
+    "jsonFields": {
+        "data": "data",
+        "posts": "posts",
+        "id": "_id",
+        "title": "title",
+        "slug": "slug",
+        "originalTitle": "original_title",
+        "releaseDate": "release_date",
+        "poster": "poster",
+        "type": "type",
+        "seasonNumber": "season_number",
+        "episodeNumber": "episode_number",
+        "language": "lang",
+        "quality": "quality",
+        "serverUrl": "url",
+        "stillPath": "still_path",
+        "runtime": "runtime"
+    },
+    "postIdRegexes": [
+        "\\?p=(\\d+)",
+        "post_id[\"']?\\s*[:=]\\s*[\"']?(\\d+)",
+        "data-post-id=[\"'](\\d+)[\"']"
+    ],
+    "nexus": {
+        "enabled": true,
+        "movieUrlPattern":   "https://videoapp.zip/e/movie/{tmdbId}",
+        "episodeUrlPattern": "https://videoapp.zip/e/tv/{tmdbId}/{season}/{episode}",
+        "unavailablePatterns": [
+            "<title>No disponible</title>",
+            "El enlace del reproductor no es válido o ya no está disponible"
+        ]
+    }
+},
+"allcalidad": {
+    "enabled": false,
+    "priority": 7,
+    "homeUrl": "https://allcalidad.re",
+    "http": {
+        "connectTimeoutSeconds": 15,
+        "readTimeoutSeconds": 15,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "referer": "https://allcalidad.re/"
+    },
+    "searchUrlPattern": "/api/rest/search?query={query}&page=1&post_type={type}&posts_per_page=16",
+    "singleUrlPattern": "/api/rest/single?post_name={slug}&post_type={type}",
+    "episodesUrlPattern": "/api/rest/episodes?post_id={seriesId}",
+    "playerUrlPattern": "/api/rest/player?post_id={postId}&_any=1",
+    "jsonFields": {
+        "data": "data",
+        "posts": "posts",
+        "id": "_id",
+        "title": "title",
+        "slug": "slug",
+        "originalTitle": "original_title",
+        "releaseDate": "release_date",
+        "poster": "poster",
+        "type": "type",
+        "seasonNumber": "season_number",
+        "episodeNumber": "episode_number",
+        "language": "lang",
+        "quality": "quality",
+        "serverUrl": "url",
+        "embeds": "embeds"
+	}
+  },
+  
+"cinecalidad": {
+  "enabled": true,
+  "priority": 8,
+  "homeUrl": "https://www.cinecalidad.am",
+
+  "index": {
+    "url": "https://taladroale.github.io/Warrior/cinne.json"
+  },
+
+  "http": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "acceptLanguage": "es-ES,es;q=0.9,en;q=0.8"
+  },
+
+  "urlTemplates": {
+    "search":        "/?s={query}",
+    "movieDetail":   "/ver-pelicula/{slug}/",
+    "seriesDetail":  "/ver-serie/{slug}/",
+    "episodeDetail": "/ver-el-episodio/{slug}/"
+  },
+
+  "regex": {
+    "tmdbIdMovie":  "videoapp\\.zip/e/movie/(\\d+)",
+    "tmdbIdSeries": "videoapp\\.zip/e/tv/(\\d+)"
+  },
+
+  "posterCleanPatterns": [
+    { "from": "org/t/p/w342//", "to": "org/t/p/w342/" },
+    { "from": "org/t/p/w185//", "to": "org/t/p/w185/" },
+    { "from": "org/t/p/w300//", "to": "org/t/p/w300/" }
+  ],
+
+  "labels": {
+    "originalTitle": "Títulos:",
+    "seriesType":    "Series",
+    "postIdPrefix":  "post-"
+  },
+
+  "selectors": {
+    "search": {
+      "article":       "#archive-content > article.item",
+      "typeLabel":     ".selt",
+      "title":         ".in_title",
+      "detailLink":    "h3 > a[href]",
+      "poster":        "img.lazy",
+      "overview":      ".custom_synop",
+      "yearParagraphs": ".home_post_content > p"
+    },
+
+    "movieDetail": {
+      "title":         "#single h1",
+      "synopsis":      "td[style*='text-align:justify'] p",
+      "poster":        "#single img[data-src*='image.tmdb.org']",
+      "originalTitle": "span:contains(Títulos:)",
+      "genreSpan":     "span:contains(Género:)",
+      "genreLinks":    "a[href*='/genero-de-la-pelicula/']",
+      "director":      "a[href*='/director/']",
+      "cast":          "a[href*='/reparto']",
+      "rating":        "span:contains(TMDB) b"
+    },
+
+    "seriesDetail": {
+      "title":          "#single h1",
+      "synopsisTd":     "td[style*='text-align:justify']",
+      "synopsisP":      "p",
+      "poster":         "#single img[data-src*='image.tmdb.org']",
+      "originalTitle":  "span:contains(Títulos:)",
+      "genreSpan":      "span:contains(Género:)",
+      "genreLinks":     "a[href*='/genero-de-la-pelicula/']",
+      "cast":           "a[href*='/reparto-de-serie/']",
+      "rating":         "span:contains(TMDB) b",
+      "seasonTabs":     "#seasons .se-q span[data-tab]",
+      "episodeListPattern": "#jstab[data-tab='{season}'] .episodios > li",
+      "episodeLink":    ".episodiotitle a",
+      "episodeThumb":   ".imagen img"
+    },
+
+    "servers": {
+      "item":         "#playeroptionsul li.dooplay_player_option",
+      "trailerClass": "dooplay_player_option_trailer"
+    }
+  }
+},
+  
+  "vimeos": {
+  "domains": ["vimeos.net"],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+  "packedJsPattern": "<script[^>]*>(.*?eval\\(function\\(p,a,c,k,e,d\\).*?)</script>",
+  "sourcesPattern": "sources\\s*:\\s*\\[(.*?)\\]",
+  "filePattern": "file\\s*:\\s*\"([^\"]+)\"",
+  "subtitlePatterns": {
+    "tracksPattern": "tracks\\s*:\\s*\\[(.*?)\\]",
+    "trackPattern": "file\\s*:\\s*[\"']([^\"']+)[\"']\\s*,\\s*label\\s*:\\s*[\"']([^\"']+)[\"']",
+    "ignoredLabels": ["Upload captions"]
+  },
+  "headers": {
+    "Accept": "*/*",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+  },
+  "sameSiteDomains": ["vimeos.net"]
+
+  },
+"vidhide": {
+  "domains": [
+    "vidhide.com",
+    "dhtpre.com",
+    "minochinos.com",
+    "peytonepre.com",
+    "mivalyo.com",
+    "dinisglows.com",
+    "dingtezuni.com",
+    "dintezuvio.com",
+    "filelions.to",
+    "vidhidevip.com",
+    "morencius.com",
+    "vidhideplus.com",
+    "callistanise.com",
+    "vidhidefast.com",
+    "vidhidepro.com"
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0",
+  "packedJsPattern": "eval\\(function\\(p,a,c,k,e,d\\)(?:.|\\n)*?</script>",
+  "candidatePatterns": [
+    "[\"'](hls\\d+)[\"']\\s*:\\s*[\"']([^\"']+)[\"']",
+    "file\\s*:\\s*[\"']([^\"']+\\.m3u8[^\"']*)[\"']",
+    "https?://[^\"'\\s]+\\.m3u8[^\"'\\s]*",
+    "https?://[^\"'\\s]+\\.txt[^\"'\\s]*"
+  ],
+  "subtitlePatterns": {
+  "tracksPattern": "tracks\\s*:\\s*\\[(.*?)\\]",
+  "trackPattern": "file\\s*:\\s*[\"']([^\"']+)[\"']\\s*,\\s*label\\s*:\\s*[\"']([^\"']+)[\"']\\s*,\\s*kind\\s*:\\s*[\"']([^\"']+)[\"']",
+  "ignoredKinds": ["thumbnails"]
+},
+  "filterEmptyTracks": [
+    "_,,,,.urlset",
+    "_,,,.urlset",
+    "_,,.urlset",
+    "_,.urlset"
+  ],
+  "malformedUrlChecks": ["?=", "&="],
+  "priorityOrder": ["principalM3u8", "txt", "tokenM3u8", "others"],
+  "deadLinkPatterns": [
+  "404 - no encontrado",
+  "file is no longer available",
+  "no longer available as it expired",
+  "video not found",
+  "file not found",
+  "404 - not found",
+  "404 - Not found",
+  "no se encontró el video",
+  "archivo no encontrado"
+],
+  "headers": {
+    "Accept": "*/*",
+    "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-site"
+  }
+},
+  "streamwish": {
+  "domains": [
+    "streamwish.com",
+    "streamwish.to",
+    "embedwish.com",
+    "swishsrv.com",
+    "uqloads.com",
+    "mwish.pro",
+    "awish.pro",
+    "dwish.pro",
+    "wishfast.top",
+    "sfastwish.com",
+    "flaswish.com",
+    "obeywish.com",
+    "cdnwish.com",
+    "hanerix.com",
+    "vibuxer.com",
+    "medixiru.com",
+    "audinifer.com",
+    "hglamioz.com",
+    "playnixes.com",
+    "hglink.to"
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+  "packedJsPattern": "eval\\(function\\(p,a,c,k,e,d\\)(?:.|\\n)*?</script>",
+  "candidatePatterns": [
+    "[\"'](hls\\d+)[\"']\\s*:\\s*[\"']([^\"']+)[\"']",
+    "file\\s*:\\s*[\"']([^\"']+\\.m3u8[^\"']*)[\"']",
+    "https?://[^\"'\\s]+\\.m3u8[^\"'\\s]*",
+    "https?://[^\"'\\s]+\\.txt[^\"'\\s]*"
+  ],
+    "subtitlePatterns": {
+  "tracksPattern": "tracks\\s*:\\s*\\[(.*?)\\]",
+  "trackPattern": "file\\s*:\\s*[\"']([^\"']+)[\"']\\s*,\\s*label\\s*:\\s*[\"']([^\"']+)[\"']\\s*,\\s*kind\\s*:\\s*[\"']([^\"']+)[\"']",
+  "ignoredKinds": ["thumbnails"]
+},
+  "filterEmptyTracks": [
+    "_,,,,.urlset",
+    "_,,,.urlset",
+    "_,,.urlset",
+    "_,.urlset"
+  ],
+  "malformedUrlChecks": ["?=", "&="],
+  "priorityOrder": ["principalM3u8", "txt", "tokenM3u8", "others"],
+  "deadLinkPatterns": [
+  "404 - no encontrado",
+  "file is no longer available",
+  "no longer available as it expired",
+  "video not found",
+  "file not found",
+  "404 - not found",
+  "404 - Not found",
+  "no se encontró el video",
+  "archivo no encontrado"
+],
+  "headers": {
+    "Accept": "*/*",
+    "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-site"
+}
+},
+"doodstream": {
+  "domains": [
+    "doodstream.com",
+    "dood.la",
+    "playmogo.com",
+    "d000d.com",
+    "dsvplay.com"
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+  "passRegex": "/pass_md5/[^\"'\\s]+",
+  "hashChars": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",
+  "hashLength": 10,
+  "deadLinkPatterns": [
+    "video not found",
+    "404 - not found",
+	"404 - Not found",
+    "file is no longer available",
+    "no longer available as it expired",
+    "archivo no encontrado"
+  ]
+},
+"zipp": {
+  "domains": [
+    "videoapp.zip"
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+  "iframePattern": "iframe\\s+[^>]*src=[\"']([^\"']+)[\"']",
+  "streamPattern": "https?://[^\"'\\s]+\\.m3u8[^\"'\\s]*",
+  "subtitlePattern": "https?://[^\"'\\s]+\\.vtt[^\"'\\s]*",
+  "headers": {
+    "Accept": "*/*",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "cross-site",
+    "sec-ch-ua": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\""
+  },
+  "deadLinkPatterns": [
+    "contenido no disponible",
+    "el enlace del reproductor no es válido o ya no está disponible",
+    "video not found",
+    "404 - not found",
+	"404 - Not found",
+	"No disponible",
+    "file is no longer available",
+    "no longer available as it expired",
+    "archivo no encontrado"
+  ]
+},
+   "voe": {
+  "domains": [
+    "voe.sx",
+    "jilliandescribecompany.com",
+    "mikaylaarealike.com",
+    "christopheruntilpoint.com",
+    "walterprettytheir.com",
+    "crystaltreatmenteast.com",
+    "lauradaydo.com",
+    "lancewhosedifficult.com",
+    "dianaavoidthey.com",
+    "jefferycontrolmodel.com",
+    "charlestoughrace.com",
+    "richardquestionbuilding.com",
+    "jessicayeahcatch.com",
+    "juliewomanwish.com"
+  ],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "encodedJsonPattern": "<script\\s+type=\"application/json\">(.*?)</script>",
+  "baseUrlPattern": "var\\s+base\\s*=\\s*['\"]([^'\"]+)['\"]",
+  "replacePatterns": ["@$", "^^", "~@", "%?", "*~", "!!", "#&"],
+  "deadLinkPatterns": [
+  "file is no longer available",
+  "no longer available as it expired",
+  "video not found",
+  "404 - no encontrado",
+  "404 - No encontrado",
+  "404 - not found",
+  "404 - Not found",
+  "archivo no encontrado"
+],
+  "headers": {
+    "Accept": "*/*",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-site"
+  }
+ }
+}
