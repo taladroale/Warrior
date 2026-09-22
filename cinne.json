@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T16:07:46Z",
+  "updatedAt": "2026-09-22T20:15:10Z",
   "source": "cine",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -249,7 +249,7 @@
     "824": {"slug": "moulin-rouge-amor-en-rojo"},
     "834": {"slug": "inframundo-la-evolucion"},
     "840": {"slug": "encuentros-cercanos-del-tercer-tipo"},
-    "845": {"slug": "pacto-siniestro"},
+    "845": {"slug": "pacto-siniestro-2"},
     "846": {"slug": "los-expedientes-x-la-pelicula"},
     "853": {"slug": "enemigo-al-acecho"},
     "854": {"slug": "la-mascara"},
