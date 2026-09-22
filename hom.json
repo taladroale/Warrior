@@ -37,24 +37,6 @@
       "duration": "100 min"
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.86,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ],
-      "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681",
-      "type": "movie",
-      "duration": "144 min"
-    },
-    {
       "title": "Adolescencia, sexo y muerte en campamento Miasma",
       "synopsis": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
       "rating": 6.4,
@@ -73,23 +55,6 @@
       "duration": "106 min"
     },
     {
-      "title": "En el corazón de la bestia",
-      "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.85,
-      "year": "2026",
-      "genres": [
-        "Aventura",
-        "Suspenso"
-      ],
-      "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Olivia Hamilton, Brad Pitt",
-      "posterUrl": "https://image.tmdb.org/t/p/original/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "slug": "en-el-corazon-de-la-bestia",
-      "tmdbId": "1263337",
-      "type": "movie",
-      "duration": "101 min"
-    },
-    {
       "title": "La Odisea",
       "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
       "rating": 8,
@@ -106,6 +71,41 @@
       "tmdbId": "1368337",
       "type": "movie",
       "duration": "172 min"
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 7.86,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681",
+      "type": "movie",
+      "duration": "144 min"
+    },
+    {
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.2,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Suspenso"
+      ],
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
+      "type": "movie",
+      "duration": "100 min"
     }
   ],
   "seriesHero": [
@@ -143,6 +143,23 @@
       "type": "series"
     },
     {
+      "title": "Reacher",
+      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "rating": 8.12,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Crimen"
+      ],
+      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "slug": "reacher",
+      "tmdbId": "108978",
+      "type": "series"
+    },
+    {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "rating": 8.27,
@@ -174,23 +191,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg",
       "slug": "mobland",
       "tmdbId": "247718",
-      "type": "series"
-    },
-    {
-      "title": "Reacher",
-      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
-      "rating": 8.12,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Crimen"
-      ],
-      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "slug": "reacher",
-      "tmdbId": "108978",
       "type": "series"
     },
     {
@@ -584,7 +584,7 @@
         {
           "title": "American Hostage",
           "synopsis": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
-          "rating": 7.8,
+          "rating": 7.2,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -750,7 +750,7 @@
         {
           "title": "American Hostage",
           "synopsis": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
-          "rating": 7.8,
+          "rating": 7.2,
           "year": "2026",
           "genres": [
             "Crimen",
