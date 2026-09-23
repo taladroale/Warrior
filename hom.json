@@ -216,6 +216,23 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "One Last Shot",
+          "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
+          "rating": 8.38,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Suspenso"
+          ],
+          "cast": "Scott Adkins, Steven Cree, Hannah Ware, Dolph Lundgren, ケイン・コスギ",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1Q1dNAx8TJIFHM8a9oWVHr5iDwZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+          "slug": "one-last-shot",
+          "tmdbId": "1607127",
+          "type": "movie",
+          "duration": "97 min"
+        },
+        {
           "title": "Spider-Man: Brand New Day",
           "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
           "rating": 7.86,
@@ -373,24 +390,6 @@
           "tmdbId": "1284186",
           "type": "movie",
           "duration": "103 min"
-        },
-        {
-          "title": "Resident Evil",
-          "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-          "rating": 7.33,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Ciencia ficción",
-            "Aventura"
-          ],
-          "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
-          "slug": "resident-evil-1423191",
-          "tmdbId": "1423191",
-          "type": "movie",
-          "duration": "93 min"
         }
       ]
     },
@@ -399,6 +398,23 @@
       "type": "movie",
       "seeMoreSlug": "estrenos",
       "items": [
+        {
+          "title": "One Last Shot",
+          "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
+          "rating": 8.38,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Suspenso"
+          ],
+          "cast": "Scott Adkins, Steven Cree, Hannah Ware, Dolph Lundgren, ケイン・コスギ",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1Q1dNAx8TJIFHM8a9oWVHr5iDwZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+          "slug": "one-last-shot",
+          "tmdbId": "1607127",
+          "type": "movie",
+          "duration": "97 min"
+        },
         {
           "title": "En el corazón de la bestia",
           "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -415,6 +431,22 @@
           "tmdbId": "1263337",
           "type": "movie",
           "duration": "101 min"
+        },
+        {
+          "title": "Las mejores",
+          "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
+          "rating": 4.8,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Maitreyi Ramakrishnan, Priyanka Kedia, Chaneil Kular, Ankur Rathee, Hasan Minhaj",
+          "posterUrl": "https://image.tmdb.org/t/p/original/lb9jgdWnpl7BDX66R3LHRdOATcQ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+          "slug": "las-mejores",
+          "tmdbId": "1514863",
+          "type": "movie",
+          "duration": "112 min"
         },
         {
           "title": "Cuatro historias de deseo 3",
@@ -451,22 +483,6 @@
           "duration": "94 min"
         },
         {
-          "title": "Las mejores",
-          "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
-          "rating": 4.8,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Maitreyi Ramakrishnan, Priyanka Kedia, Chaneil Kular, Ankur Rathee, Hasan Minhaj",
-          "posterUrl": "https://image.tmdb.org/t/p/original/lb9jgdWnpl7BDX66R3LHRdOATcQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
-          "slug": "las-mejores",
-          "tmdbId": "1514863",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
           "title": "Resident Evil",
           "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
           "rating": 7.33,
@@ -499,6 +515,24 @@
           "tmdbId": "1558568",
           "type": "movie",
           "duration": "93 min"
+        },
+        {
+          "title": "El hombre que desafió al rey",
+          "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
+          "rating": 7,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Historia",
+            "Drama"
+          ],
+          "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Tom Hollander, Cosmo Jarvis",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jme7VvETwHdPQt90HPs0aL6KMln.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+          "slug": "el-hombre-que-desafio-al-rey",
+          "tmdbId": "977942",
+          "type": "movie",
+          "duration": "128 min"
         },
         {
           "title": "Operación Teherán",
@@ -536,41 +570,6 @@
           "tmdbId": "1465063",
           "type": "movie",
           "duration": "109 min"
-        },
-        {
-          "title": "El hombre que desafió al rey",
-          "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
-          "rating": 7,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Historia",
-            "Drama"
-          ],
-          "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Tom Hollander, Cosmo Jarvis",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jme7VvETwHdPQt90HPs0aL6KMln.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
-          "slug": "el-hombre-que-desafio-al-rey",
-          "tmdbId": "977942",
-          "type": "movie",
-          "duration": "128 min"
-        },
-        {
-          "title": "Enfrentados: Marfil",
-          "synopsis": "Parte 1 de la saga Enfrentados. Marfil, hija de un poderoso empresario español, ve cómo su vida en Nueva York da un vuelco al ser secuestrada y liberada sin explicación. Su padre contrata a Sebastian Moore como guardaespaldas y, forzados a pasar cada minuto juntos, surgirá una irremediable atracción en un mundo donde nada es lo que parece. Basada en la novela de Mercedes Ron, saga Culpables",
-          "rating": 6.64,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Suspenso"
-          ],
-          "cast": "Ester Expósito, Hugo Diego Garcia, Pablo Molinero, Lluís Homar, Joaquín Ferreira",
-          "posterUrl": "https://image.tmdb.org/t/p/original/umlft1ztFbUcnHf960pXJocjpdv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/i65y7cMae36K0giN0GRaMjAHUru.jpg",
-          "slug": "enfrentados-marfil",
-          "tmdbId": "1440098",
-          "type": "movie",
-          "duration": "104 min"
         }
       ]
     }
@@ -581,6 +580,21 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Colisión",
+          "synopsis": "Muerto el magnate Miguel Ángel en un misterioso accidente, su hija Zoé y su esposa separada Belén luchan por su empresa.",
+          "rating": 5.33,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Margarita Rosa de Francisco, Macarena Achaga, Diego Klein, Christian Vázquez, Juan Pablo Castaneda",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4loiHfZZx027yP0CtErtCPbkTc1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
+          "slug": "colision",
+          "tmdbId": "331033",
+          "type": "series"
+        },
         {
           "title": "Chernóbil: En el corazón del desastre",
           "synopsis": "Con motivo del 40º aniversario del peor desastre nuclear de la historia, una explosión que liberó 400 veces más material radiactivo que Hiroshima y Nagasaki juntas, y gracias a un acceso sin precedentes, las cámaras de National Geographic se adentran en la zona de exclusión, desde la planta nuclear de Chernóbil hasta la ciudad fantasma de Prípiat. Acompañamos a testigos clave en su regreso al lugar que marcó sus vidas para siempre… y revelamos por qué la historia de Chernóbil está lejos de haber terminado.",
@@ -724,22 +738,6 @@
           "slug": "cuatro-manos-dos-sonatas",
           "tmdbId": "305644",
           "type": "series"
-        },
-        {
-          "title": "En Coma",
-          "synopsis": "Luego de que una explosión dejara a Anabel en coma, Rafael —un enfermero que escucha a los muertos— debe ayudarla a mantenerse con vida antes de que sus enemigos la encuentren.",
-          "rating": 5.7,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Rami Herrera, Jerónimo Cantillo, Paola Moreno, Julián Trujillo, Marcela Carvajal",
-          "posterUrl": "https://image.tmdb.org/t/p/original/PXTBzvEgxXT49RYSurT6xkNZU7.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/Aoz8YOuq0POpE7rDcYzpLdNMv70.jpg",
-          "slug": "en-coma",
-          "tmdbId": "332863",
-          "type": "series"
         }
       ]
     },
@@ -748,6 +746,22 @@
       "type": "series",
       "seeMoreSlug": "estrenos-series",
       "items": [
+        {
+          "title": "Youth",
+          "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
+          "rating": 7.2,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
+          "slug": "youth",
+          "tmdbId": "285418",
+          "type": "series"
+        },
         {
           "title": "American Hostage",
           "synopsis": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
@@ -758,16 +772,32 @@
             "Drama"
           ],
           "cast": "Jon Hamm, Giovanni Ribisi, Kristoffer Polaha, William Jackson Harper, Mireille Enos",
-          "posterUrl": "https://image.tmdb.org/t/p/original/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/p3Ro0ngezX9aNZY6j3vYbpQqVhr.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
           "slug": "american-hostage",
           "tmdbId": "239618",
           "type": "series"
         },
         {
+          "title": "Cautiva",
+          "synopsis": "Miniserie de televisión dramática argentina coproducida por TNT y FLOW. Sigue la vida de una monja que después de quince años logra escapar de un convento de clausura, donde fue víctima de violencia psicológica y retenida en contra de su voluntad. Protagonizada por Carolina Kopelioff, Lorena Vega, Rita Cortese y Julieta Zylberberg.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Carolina Kopelioff, Lorena Vega, Valeria Lois, Tomás Wicz, Lautaro Bettoni",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uWCL01IPrfDTjO2VTzMwZvVPzXv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
+          "slug": "cautiva",
+          "tmdbId": "333631",
+          "type": "series"
+        },
+        {
           "title": "El escándalo",
           "synopsis": "En Joseon, una propuesta secreta desata pasiones prohibidas entre una noble brillante, un famoso seductor y una joven ajena al peligro del juego que los une.",
-          "rating": 6,
+          "rating": 6.27,
           "year": "2026",
           "genres": [
             "Drama"
@@ -780,24 +810,25 @@
           "type": "series"
         },
         {
-          "title": "Cautiva",
-          "synopsis": "Miniserie de televisión dramática argentina coproducida por TNT y FLOW. Sigue la vida de una monja que después de quince años logra escapar de un convento de clausura, donde fue víctima de violencia psicológica y retenida en contra de su voluntad. Protagonizada por Carolina Kopelioff, Lorena Vega, Rita Cortese y Julieta Zylberberg.",
-          "rating": 0,
+          "title": "Monstruo: La historia de Lizzie Borden",
+          "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+          "rating": 7.13,
           "year": "2026",
           "genres": [
-            "Drama"
+            "Drama",
+            "Crimen"
           ],
-          "cast": "Carolina Kopelioff, Lorena Vega, Valeria Lois, Tomás Wicz, Lautaro Bettoni",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uWCL01IPrfDTjO2VTzMwZvVPzXv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
-          "slug": "cautiva",
-          "tmdbId": "333631",
+          "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
+          "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+          "slug": "monstruo-la-historia-de-lizzie-borden",
+          "tmdbId": "299939",
           "type": "series"
         },
         {
           "title": "Te conozco",
           "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
-          "rating": 5.67,
+          "rating": 7.1,
           "year": "2026",
           "genres": [
             "Drama"
@@ -810,40 +841,9 @@
           "type": "series"
         },
         {
-          "title": "Monstruo: La historia de Lizzie Borden",
-          "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-          "rating": 7.2,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Crimen"
-          ],
-          "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
-          "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hcoKwpW6W5jPIlIRop6dVab1XpR.jpg",
-          "slug": "monstruo-la-historia-de-lizzie-borden",
-          "tmdbId": "299939",
-          "type": "series"
-        },
-        {
-          "title": "Belleza plástica",
-          "synopsis": "Una brillante cirujana de urgencias acaba ejerciendo la medicina estética y se enfrenta a una célebre doctora, dejando al descubierto un mundo dominado por el deseo y la codicia.",
-          "rating": 7,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "松岡茉優, 仲里依紗, Shotaro Mamiya, 田中みな実, Riku Hagiwara",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5wy9oAKgiEQBrP78p8qkoVcpVCQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
-          "slug": "belleza-plastica",
-          "tmdbId": "298008",
-          "type": "series"
-        },
-        {
           "title": "Los solucionadores",
           "synopsis": "Un antiguo gánster de capa caída se alía con el hijo de un astuto político para lidiar con los sucios secretos de importantes clientes de ambos lados de la ley.",
-          "rating": 8,
+          "rating": 5.8,
           "year": "2026",
           "genres": [
             "Acción",
@@ -859,9 +859,37 @@
           "type": "series"
         },
         {
+          "title": "Belleza plástica",
+          "synopsis": "Una brillante cirujana de urgencias acaba ejerciendo la medicina estética y se enfrenta a una célebre doctora, dejando al descubierto un mundo dominado por el deseo y la codicia.",
+          "rating": 6.67,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "松岡茉優, 仲里依紗, Shotaro Mamiya, 田中みな実, Riku Hagiwara",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5wy9oAKgiEQBrP78p8qkoVcpVCQ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
+          "slug": "belleza-plastica",
+          "tmdbId": "298008",
+          "type": "series"
+        },
+        {
+          "title": "Habilidad física: 100-México",
+          "synopsis": "Reality Competition show adaptación del formato original coreano.",
+          "rating": 9.29,
+          "year": "2026",
+          "genres": [],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1XlmHy8pD2XQg0cttKA5xHt5sYh.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg",
+          "slug": "habilidad-fisica-100-mexico",
+          "tmdbId": "332282",
+          "type": "series"
+        },
+        {
           "title": "Catedrales",
-          "synopsis": "A 17-year-old girl is found burned and dismembered in an empty lot in a middle-class neighborhood of Santiago, Chile. Due to police negligence, the crime goes unpunished until thirty years later, when the family manages to piece together the murder puzzle, revealing a forbidden relationship and a cruel truth.",
-          "rating": 10,
+          "synopsis": "Una joven de 17 años es hallada quemada y descuartizada en un baldío de un barrio de clase media de Santiago de Chile. Por impericia policial el crimen queda impune hasta que treinta años más tarde la familia consigue organizar el rompecabezas del asesinato que les revela una relación prohibida y una cruel verdad.",
+          "rating": 8.5,
           "year": "2026",
           "genres": [
             "Drama"
@@ -871,36 +899,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/lXfOj4JcnyW0KdfMLrLTLegju5I.jpg",
           "slug": "catedrales",
           "tmdbId": "330302",
-          "type": "series"
-        },
-        {
-          "title": "City of Blood",
-          "synopsis": "Berlín, una ciudad-estado al límite. La criminalidad conforma la vida cotidiana en un mundo destrozado por el cambio climático. Mientras unos pocos privilegiados viven bajo una cúpula totalmente climatizada, el resto de la ciudad se hunde en la corrupción y la violencia. Las hermanas Bea y Phoebe se separaron de niñas por un giro del destino. Bea, enferma crónica, creció protegida con su madre adoptiva, mientras Phoebe luchaba por sobrevivir en las calles de Berlín. Cuando sus mundos colisionan de nuevo la víspera de unas elecciones decisivas, descubren una verdad aterradora: los vampiros controlan el crimen organizado y están decididos a hacerse con el poder político. La sangre se ha convertido en la verdadera moneda de la ciudad. Atrapadas entre fuerzas rivales, Bea y Phoebe deben enfrentarse a la pregunta clave: ¿quién presenta la mayor amenaza: los humanos o los vampiros?",
-          "rating": 8.6,
-          "year": "2026",
-          "genres": [
-            "Misterio"
-          ],
-          "cast": "Lea Drinda, Soma Pysall, Franz Hartwig, David Schütter, Mouataz Alshaltouh",
-          "posterUrl": "https://image.tmdb.org/t/p/original/dfCSK88iG2Z2V9u6sXZkruiygq7.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
-          "slug": "city-of-blood",
-          "tmdbId": "332401",
-          "type": "series"
-        },
-        {
-          "title": "La muñeca",
-          "synopsis": "Cuando Stanislaw se enamora de la aristocrática Izabela, dedica su vida entera a conquistarla.",
-          "rating": 4.3,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Sandra Drzymalska, Tomasz Schuchardt, Dariusz Chojnacki, Jacek Braciak, Julia Wyszyńska",
-          "posterUrl": "https://image.tmdb.org/t/p/original/72pRBOj8S52NbT1F8OkMxD9OnjY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg",
-          "slug": "la-muneca",
-          "tmdbId": "295089",
           "type": "series"
         }
       ]
