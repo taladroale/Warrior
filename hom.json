@@ -37,6 +37,25 @@
       "duration": "100 min"
     },
     {
+      "title": "Toy Story 5",
+      "synopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "rating": 8.36,
+      "year": "2026",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia",
+        "Aventura"
+      ],
+      "cast": "Joan Cusack, Tom Hanks, Tim Allen, Conan O'Brien, Scarlett Spears",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "slug": "toy-story-5",
+      "tmdbId": "1084244",
+      "type": "movie",
+      "duration": "102 min"
+    },
+    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 7.86,
@@ -88,25 +107,6 @@
       "tmdbId": "1368337",
       "type": "movie",
       "duration": "172 min"
-    },
-    {
-      "title": "Toy Story 5",
-      "synopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 8.36,
-      "year": "2026",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia",
-        "Aventura"
-      ],
-      "cast": "Joan Cusack, Tom Hanks, Tim Allen, Conan O'Brien, Scarlett Spears",
-      "posterUrl": "https://image.tmdb.org/t/p/original/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "slug": "toy-story-5",
-      "tmdbId": "1084244",
-      "type": "movie",
-      "duration": "102 min"
     }
   ],
   "seriesHero": [
@@ -141,6 +141,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
       "slug": "neagley",
       "tmdbId": "273207",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.4,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -179,34 +195,19 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.4,
-      "year": "2025",
+      "title": "Operaciones Especiales: Lioness",
+      "synopsis": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
+      "rating": 8.2,
+      "year": "2023",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Drama",
+        "Guerra"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
-    {
-      "title": "El escándalo",
-      "synopsis": "En Joseon, una propuesta secreta desata pasiones prohibidas entre una noble brillante, un famoso seductor y una joven ajena al peligro del juego que los une.",
-      "rating": 6.27,
-      "year": "2026",
-      "genres": [
-        "Drama"
-      ],
-      "cast": "Son Ye-jin, 지창욱, 나나, 한선화, 신윤하",
-      "posterUrl": "https://image.tmdb.org/t/p/original/1S2RIku5ECGN7USdE21Qw6yGuEr.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-      "slug": "el-escandalo",
-      "tmdbId": "275102",
+      "cast": "Zoe Saldaña, Laysla De Oliveira, Dave Annable, Jill Wagner, LaMonica Garrett",
+      "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
+      "slug": "operaciones-especiales-lioness",
+      "tmdbId": "113962",
       "type": "series"
     }
   ],
@@ -219,7 +220,7 @@
         {
           "title": "Un último disparo",
           "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-          "rating": 7.91,
+          "rating": 7.5,
           "year": "2026",
           "genres": [
             "Acción",
@@ -402,7 +403,7 @@
         {
           "title": "Un último disparo",
           "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-          "rating": 7.63,
+          "rating": 7.5,
           "year": "2026",
           "genres": [
             "Acción",
