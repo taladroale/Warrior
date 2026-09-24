@@ -117,8 +117,8 @@ def main():
         return
 
     # Héroes
-    movie_hero_json = fetch_json(build_id, "/peliculas/top/semana")
-    series_hero_json = fetch_json(build_id, "/series/top/semana")
+    movie_hero_json = fetch_json(build_id, "/peliculas/top/dia")
+    series_hero_json = fetch_json(build_id, "/series/top/dia")
 
     movie_hero = parse_heroes(movie_hero_json, type_="movie") if movie_hero_json else []
     series_hero = parse_heroes(series_hero_json, type_="series") if series_hero_json else []
