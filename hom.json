@@ -40,7 +40,7 @@
     {
       "title": "Un último disparo",
       "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-      "rating": 7.6,
+      "rating": 7.61,
       "year": "2026",
       "genres": [
         "Acción",
@@ -72,6 +72,24 @@
       "duration": "101 min"
     },
     {
+      "title": "Dulce sabor a muerte",
+      "synopsis": "Lo que comienza siendo un verano idílico, en un pequeño y tranquilo pueblo vacacional, se convierte en una auténtica pesadilla cuando los más pequeños comienzan a mostrar instintos asesinos y deseos insaciables por acabar con todos los adultos. Son víctimas de una curiosa maldición provocada por los helados que comen que afecta a todos, menos a tres niños que tendrán que intentar escapar y salvar a todo el pueblo.",
+      "rating": 4.5,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Comedia",
+        "Suspenso"
+      ],
+      "cast": "Ari Millen, Charlie Zeltzer, Shiloh O’Reilly, Kiori Mirza Waldman, Sarah Abbott",
+      "posterUrl": "https://image.tmdb.org/t/p/original/uVuP2ZTYLn5hdL1aUOe4BiFD6d3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hyN1E14gNxx8biNBOv1daJrmGkK.jpg",
+      "slug": "dulce-sabor-a-muerte",
+      "tmdbId": "1477712",
+      "type": "movie",
+      "duration": "86 min"
+    },
+    {
       "title": "La isla olvidada",
       "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
       "rating": 7.9,
@@ -90,24 +108,6 @@
       "tmdbId": "1465063",
       "type": "movie",
       "duration": "109 min"
-    },
-    {
-      "title": "Dulce sabor a muerte",
-      "synopsis": "Lo que comienza siendo un verano idílico, en un pequeño y tranquilo pueblo vacacional, se convierte en una auténtica pesadilla cuando los más pequeños comienzan a mostrar instintos asesinos y deseos insaciables por acabar con todos los adultos. Son víctimas de una curiosa maldición provocada por los helados que comen que afecta a todos, menos a tres niños que tendrán que intentar escapar y salvar a todo el pueblo.",
-      "rating": 4.5,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Comedia",
-        "Suspenso"
-      ],
-      "cast": "Ari Millen, Charlie Zeltzer, Shiloh O’Reilly, Kiori Mirza Waldman, Sarah Abbott",
-      "posterUrl": "https://image.tmdb.org/t/p/original/uVuP2ZTYLn5hdL1aUOe4BiFD6d3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hyN1E14gNxx8biNBOv1daJrmGkK.jpg",
-      "slug": "dulce-sabor-a-muerte",
-      "tmdbId": "1477712",
-      "type": "movie",
-      "duration": "86 min"
     }
   ],
   "seriesHero": [
@@ -146,68 +146,72 @@
       "type": "series"
     },
     {
-      "title": "Operaciones Especiales: Lioness",
-      "synopsis": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
-      "rating": 8.2,
-      "year": "2023",
+      "title": "Bleach",
+      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
+      "rating": 8.3,
+      "year": "2004",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Masakazu Morita, Fumiko Orikasa, Hiroki Yasumoto, 松岡由貴, Noriaki Sugiyama",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "slug": "bleach",
+      "tmdbId": "30984",
+      "type": "series"
+    },
+    {
+      "title": "Neagley",
+      "synopsis": "Llega un nuevo capítulo del universo de REACHER. Frances Neagley, investigadora privada en Chicago y antigua compañera militar de Jack Reacher en la Unidad de Investigaciones Especiales 110 del Ejército, emprende una implacable búsqueda de justicia cuando descubre que un amigo muy querido del pasado ha muerto en un sospechoso accidente.",
+      "rating": 8,
+      "year": "2026",
       "genres": [
         "Drama",
-        "Guerra"
+        "Misterio",
+        "Crimen"
       ],
-      "cast": "Zoe Saldaña, Laysla De Oliveira, Dave Annable, Jill Wagner, LaMonica Garrett",
-      "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-      "slug": "operaciones-especiales-lioness",
-      "tmdbId": "113962",
+      "cast": "Maria Sten, Greyston Holt, Adeline Rudolph, Matthew Del Negro, Damon Herriman",
+      "posterUrl": "https://image.tmdb.org/t/p/original/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uYOYLFQ4q7asuhdiKXCqGaeAQUH.jpg",
+      "slug": "neagley",
+      "tmdbId": "273207",
       "type": "series"
     },
     {
-      "title": "Made in Korea",
-      "synopsis": "Un hombre movido por la ambición de riqueza y poder, y un fiscal que lo sacrifica todo para detenerlo: una historia que se desarrolla en el torbellino de una época turbulenta.",
-      "rating": 8.2,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "현빈, 정우성, 차희, 이세호",
-      "posterUrl": "https://image.tmdb.org/t/p/original/7sTnLKLRyOL91WNKJeOHjdddiTk.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3GmRS3efCTp6jumogKOxYBrV5mO.jpg",
-      "slug": "made-in-korea",
-      "tmdbId": "246473",
-      "type": "series"
-    },
-    {
-      "title": "Slow Horses",
-      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-      "rating": 8,
+      "title": "Reacher",
+      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "rating": 8.13,
       "year": "2022",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
+        "Acción",
+        "Aventura",
+        "Crimen"
       ],
-      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
-      "slug": "slow-horses",
-      "tmdbId": "95480",
+      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "slug": "reacher",
+      "tmdbId": "108978",
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.4,
-      "year": "2025",
+      "title": "Ted Lasso",
+      "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "rating": 8.37,
+      "year": "2020",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Drama",
+        "Comedia"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "slug": "ted-lasso",
+      "tmdbId": "97546",
       "type": "series"
     }
   ],
@@ -220,7 +224,7 @@
         {
           "title": "Un último disparo",
           "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-          "rating": 7.6,
+          "rating": 7.61,
           "year": "2026",
           "genres": [
             "Acción",
@@ -403,7 +407,7 @@
         {
           "title": "Un último disparo",
           "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-          "rating": 7.6,
+          "rating": 7.61,
           "year": "2026",
           "genres": [
             "Acción",
@@ -585,7 +589,7 @@
         {
           "title": "Colisión",
           "synopsis": "Muerto el magnate Miguel Ángel en un misterioso accidente, su hija Zoé y su esposa separada Belén luchan por su empresa.",
-          "rating": 5.3,
+          "rating": 6.5,
           "year": "2026",
           "genres": [
             "Drama"
@@ -878,7 +882,7 @@
         {
           "title": "Habilidad física: 100-México",
           "synopsis": "Reality Competition show adaptación del formato original coreano.",
-          "rating": 8.95,
+          "rating": 9,
           "year": "2026",
           "genres": [],
           "cast": "",
