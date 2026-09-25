@@ -57,7 +57,7 @@
     {
       "title": "Un último disparo",
       "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-      "rating": 7.76,
+      "rating": 7.7,
       "year": "2026",
       "genres": [
         "Acción",
@@ -92,22 +92,21 @@
       "duration": "109 min"
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.86,
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.2,
       "year": "2026",
       "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
+        "Terror",
+        "Suspenso"
       ],
-      "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681",
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
       "type": "movie",
-      "duration": "144 min"
+      "duration": "100 min"
     }
   ],
   "seriesHero": [
@@ -130,6 +129,25 @@
       "type": "series"
     },
     {
+      "title": "JoJo's Bizarre Adventure",
+      "synopsis": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
+      "rating": 8.6,
+      "year": "2012",
+      "genres": [
+        "Animación",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Shogo Sakata, Yohei Azakami, Kaito Ishikawa, Rie Takahashi, Kenta Miyake",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+      "slug": "jojos-bizarre-adventure",
+      "tmdbId": "45790",
+      "type": "series"
+    },
+    {
       "title": "Tierra de mafiosos",
       "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
       "rating": 8.4,
@@ -146,20 +164,20 @@
       "type": "series"
     },
     {
-      "title": "Star Trek: Strange New Worlds",
-      "synopsis": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
-      "rating": 7.88,
-      "year": "2022",
+      "title": "Stuart no consigue salvar el universo",
+      "synopsis": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
+      "rating": 8.69,
+      "year": "2026",
       "genres": [
+        "Comedia",
         "Ciencia ficción",
-        "Fantasía",
-        "Drama"
+        "Fantasía"
       ],
-      "cast": "Anson Mount, Ethan Peck, Jess Bush, Christina Chong, Celia Rose Gooding",
-      "posterUrl": "https://image.tmdb.org/t/p/original/5xORQi93Nuyexx1DXv3bjxZOFZ2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "slug": "star-trek-strange-new-worlds",
-      "tmdbId": "103516",
+      "cast": "Kevin Sussman, Lauren Lapkus, Brian Posehn, John Ross Bowie, Lauren Young",
+      "posterUrl": "https://image.tmdb.org/t/p/original/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
+      "slug": "stuart-no-consigue-salvar-el-universo",
+      "tmdbId": "287620",
       "type": "series"
     },
     {
@@ -181,36 +199,20 @@
       "type": "series"
     },
     {
-      "title": "Monstruo: La historia de Lizzie Borden",
-      "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-      "rating": 7.13,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
-      "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "slug": "monstruo-la-historia-de-lizzie-borden",
-      "tmdbId": "299939",
-      "type": "series"
-    },
-    {
-      "title": "Reacher",
-      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
-      "rating": 8.13,
+      "title": "Star Trek: Strange New Worlds",
+      "synopsis": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
+      "rating": 7.88,
       "year": "2022",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Crimen"
+        "Ciencia ficción",
+        "Fantasía",
+        "Drama"
       ],
-      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "slug": "reacher",
-      "tmdbId": "108978",
+      "cast": "Anson Mount, Ethan Peck, Jess Bush, Christina Chong, Celia Rose Gooding",
+      "posterUrl": "https://image.tmdb.org/t/p/original/5xORQi93Nuyexx1DXv3bjxZOFZ2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+      "slug": "star-trek-strange-new-worlds",
+      "tmdbId": "103516",
       "type": "series"
     }
   ],
@@ -223,7 +225,7 @@
         {
           "title": "Un último disparo",
           "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-          "rating": 7.76,
+          "rating": 7.7,
           "year": "2026",
           "genres": [
             "Acción",
@@ -406,7 +408,7 @@
         {
           "title": "Un último disparo",
           "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-          "rating": 7.76,
+          "rating": 7.7,
           "year": "2026",
           "genres": [
             "Acción",
