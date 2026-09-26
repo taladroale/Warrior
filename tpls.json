@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T16:23:39Z",
+  "updatedAt": "2026-09-26T15:38:38Z",
   "source": "tpls",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -13778,7 +13778,7 @@
     "314916": {"slug": "incondicional"},
     "315051": {"slug": "polen"},
     "315939": {"slug": "o11ce-nueva-generacion"},
-    "316205": {"slug": "el-rostro-de-la-venganza"},
+    "316205": {"slug": "profunda-venganza"},
     "316488": {"slug": "amores-inesperados"},
     "316832": {"slug": "la-isla-del-minotauro"},
     "316961": {"slug": "los-asesinos-de-colosio"},
