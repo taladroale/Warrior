@@ -38,6 +38,23 @@
       "duration": "102 min"
     },
     {
+      "title": "Un último disparo",
+      "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
+      "rating": 7.7,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Suspenso"
+      ],
+      "cast": "Scott Adkins, Steven Cree, Hannah Ware, Dolph Lundgren, ケイン・コスギ",
+      "posterUrl": "https://image.tmdb.org/t/p/original/opmrLPrV2GPSazjWbX2PhkLjxBe.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+      "slug": "one-last-shot",
+      "tmdbId": "1607127",
+      "type": "movie",
+      "duration": "98 min"
+    },
+    {
       "title": "En el corazón de la bestia",
       "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
       "rating": 7.82,
@@ -55,21 +72,22 @@
       "duration": "101 min"
     },
     {
-      "title": "Un último disparo",
-      "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-      "rating": 7.7,
+      "title": "Backrooms",
+      "synopsis": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "rating": 7.05,
       "year": "2026",
       "genres": [
-        "Acción",
-        "Suspenso"
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
       ],
-      "cast": "Scott Adkins, Steven Cree, Hannah Ware, Dolph Lundgren, ケイン・コスギ",
-      "posterUrl": "https://image.tmdb.org/t/p/original/opmrLPrV2GPSazjWbX2PhkLjxBe.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-      "slug": "one-last-shot",
-      "tmdbId": "1607127",
+      "cast": "Chiwetel Ejiofor, Renate Reinsve, Finn Bennett, Lukita Maxwell, Mark Duplass",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "slug": "backrooms",
+      "tmdbId": "1083381",
       "type": "movie",
-      "duration": "98 min"
+      "duration": "111 min"
     },
     {
       "title": "La isla olvidada",
@@ -90,23 +108,6 @@
       "tmdbId": "1465063",
       "type": "movie",
       "duration": "109 min"
-    },
-    {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.2,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Suspenso"
-      ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
-      "type": "movie",
-      "duration": "100 min"
     }
   ],
   "seriesHero": [
@@ -166,7 +167,7 @@
     {
       "title": "Stuart no consigue salvar el universo",
       "synopsis": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
-      "rating": 8.69,
+      "rating": 8.68,
       "year": "2026",
       "genres": [
         "Comedia",
@@ -178,6 +179,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
       "slug": "stuart-no-consigue-salvar-el-universo",
       "tmdbId": "287620",
+      "type": "series"
+    },
+    {
+      "title": "Monstruo: La historia de Lizzie Borden",
+      "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+      "rating": 7.13,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
+      "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "slug": "monstruo-la-historia-de-lizzie-borden",
+      "tmdbId": "299939",
       "type": "series"
     },
     {
@@ -197,23 +214,6 @@
       "slug": "linternas",
       "tmdbId": "95350",
       "type": "series"
-    },
-    {
-      "title": "Star Trek: Strange New Worlds",
-      "synopsis": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
-      "rating": 7.88,
-      "year": "2022",
-      "genres": [
-        "Ciencia ficción",
-        "Fantasía",
-        "Drama"
-      ],
-      "cast": "Anson Mount, Ethan Peck, Jess Bush, Christina Chong, Celia Rose Gooding",
-      "posterUrl": "https://image.tmdb.org/t/p/original/5xORQi93Nuyexx1DXv3bjxZOFZ2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-      "slug": "star-trek-strange-new-worlds",
-      "tmdbId": "103516",
-      "type": "series"
     }
   ],
   "movieSections": [
@@ -222,6 +222,25 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Rabbit Trap",
+          "synopsis": "Cuando una música y su esposo se mudan a una casa remota en Gales, la música que crean altera la magia popular ancestral del lugar, trayendo a su puerta a un niño sin nombre que tiene la intención de infiltrarse en sus vidas.",
+          "rating": 5.67,
+          "year": "2025",
+          "genres": [
+            "Suspenso",
+            "Terror",
+            "Misterio",
+            "Fantasía"
+          ],
+          "cast": "Dev Patel, Rosy McEwen, Jade Croot, Nicholas Sampson, Elijah Wood",
+          "posterUrl": "https://image.tmdb.org/t/p/original/sKnwnnmBpjo9BEskHtja6ToXUV1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xkKDKUHQKgjgGuyzFihKoWQIvK0.jpg",
+          "slug": "rabbit-trap",
+          "tmdbId": "1193824",
+          "type": "movie",
+          "duration": "88 min"
+        },
         {
           "title": "Un último disparo",
           "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
@@ -260,7 +279,7 @@
         {
           "title": "Dulce sabor a muerte",
           "synopsis": "Lo que comienza siendo un verano idílico, en un pequeño y tranquilo pueblo vacacional, se convierte en una auténtica pesadilla cuando los más pequeños comienzan a mostrar instintos asesinos y deseos insaciables por acabar con todos los adultos. Son víctimas de una curiosa maldición provocada por los helados que comen que afecta a todos, menos a tres niños que tendrán que intentar escapar y salvar a todo el pueblo.",
-          "rating": 4.5,
+          "rating": 4.6,
           "year": "2026",
           "genres": [
             "Terror",
@@ -269,7 +288,7 @@
           ],
           "cast": "Ari Millen, Charlie Zeltzer, Shiloh O’Reilly, Kiori Mirza Waldman, Sarah Abbott",
           "posterUrl": "https://image.tmdb.org/t/p/original/uVuP2ZTYLn5hdL1aUOe4BiFD6d3.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hyN1E14gNxx8biNBOv1daJrmGkK.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
           "slug": "dulce-sabor-a-muerte",
           "tmdbId": "1477712",
           "type": "movie",
@@ -278,7 +297,7 @@
         {
           "title": "Adolescencia, sexo y muerte en campamento Miasma",
           "synopsis": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
-          "rating": 6.4,
+          "rating": 6.3,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -296,7 +315,7 @@
         {
           "title": "A la cara",
           "synopsis": "Una famosa periodista acude a la casa de uno de sus haters para que le diga a la cara lo que escribió sobre ella en sus redes sociales. Pronto descubren que no son tan diferentes entre sí.",
-          "rating": 6.5,
+          "rating": 5.5,
           "year": "2026",
           "genres": [
             "Drama"
@@ -312,7 +331,7 @@
         {
           "title": "En el corazón de la bestia",
           "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-          "rating": 7.82,
+          "rating": 7.94,
           "year": "2026",
           "genres": [
             "Aventura",
@@ -329,7 +348,7 @@
         {
           "title": "La isla olvidada",
           "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-          "rating": 7.9,
+          "rating": 7.6,
           "year": "2026",
           "genres": [
             "Animación",
@@ -340,7 +359,7 @@
           ],
           "cast": "H.E.R., Liza Soberano, Dave Franco, Lea Salonga, Jenny Slate",
           "posterUrl": "https://image.tmdb.org/t/p/original/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
           "slug": "la-isla-olvidada",
           "tmdbId": "1465063",
           "type": "movie",
@@ -369,8 +388,7 @@
           "year": "2026",
           "genres": [
             "Drama",
-            "Comedia",
-            "Romance"
+            "Comedia"
           ],
           "cast": "Dominic Sessa, Antonio Banderas, Emilia Jones, Leo Woodall, Stavros Halkias",
           "posterUrl": "https://image.tmdb.org/t/p/original/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
@@ -379,24 +397,6 @@
           "tmdbId": "1329016",
           "type": "movie",
           "duration": "106 min"
-        },
-        {
-          "title": "Sacrifice",
-          "synopsis": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is taken hostage by a radical warrior and her devoted followers. As the night descends into chaos, both an inward journey and an outward adventure ensue, where the line between performance and belief, salvation and sacrifice, begins to blur.",
-          "rating": 5.47,
-          "year": "2026",
-          "genres": [
-            "Aventura",
-            "Comedia",
-            "Acción"
-          ],
-          "cast": "Chris Evans, Anya Taylor-Joy, Vincent Cassel, Salma Hayek Pinault, John Malkovich",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/1mImp4LczEYMx7c6LZUlUyAilJu.jpg",
-          "slug": "sacrifice-1284186",
-          "tmdbId": "1284186",
-          "type": "movie",
-          "duration": "103 min"
         }
       ]
     },
@@ -425,7 +425,7 @@
         {
           "title": "En el corazón de la bestia",
           "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-          "rating": 7.82,
+          "rating": 7.94,
           "year": "2026",
           "genres": [
             "Aventura",
@@ -442,7 +442,7 @@
         {
           "title": "Las mejores",
           "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
-          "rating": 4.8,
+          "rating": 5.1,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -458,7 +458,7 @@
         {
           "title": "Cuatro historias de deseo 3",
           "synopsis": "Cuatro de los directores más importantes de la India analizan el amor, el sexo y las relaciones en la India actual. Una antología de cuatro historias que arroja luz sobre las relaciones modernas desde el punto de vista de la mujer india.",
-          "rating": 6.5,
+          "rating": 6.3,
           "year": "2026",
           "genres": [
             "Romance",
@@ -492,7 +492,7 @@
         {
           "title": "Resident Evil",
           "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-          "rating": 7.33,
+          "rating": 7.3,
           "year": "2026",
           "genres": [
             "Terror",
@@ -501,7 +501,7 @@
           ],
           "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
           "posterUrl": "https://image.tmdb.org/t/p/original/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
           "slug": "resident-evil-1423191",
           "tmdbId": "1423191",
           "type": "movie",
@@ -510,7 +510,7 @@
         {
           "title": "Gracias, equipo",
           "synopsis": "Nos contará la historia de la empresa Tío Mochales, antaño reina indiscutible del queso español. Hoy es una empresa un poco oxidada pero empeñada en mantener la imagen. Su última gran idea: organizar un team building rural en el pueblo donde la empresa se fundó. Pero lo que debía ser un retiro para reconectar con los valores de siempre, se convierte en una encerrona cuando descubren que se vienen despidos, y muchos, seguida de una batalla campal de peloteo, traiciones y filtraciones",
-          "rating": 5.26,
+          "rating": 5.16,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -526,7 +526,7 @@
         {
           "title": "El hombre que desafió al rey",
           "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
-          "rating": 7,
+          "rating": 7.2,
           "year": "2026",
           "genres": [
             "Acción",
@@ -544,7 +544,7 @@
         {
           "title": "Operación Teherán",
           "synopsis": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
-          "rating": 7.42,
+          "rating": 7.18,
           "year": "2026",
           "genres": [
             "Acción",
@@ -561,7 +561,7 @@
         {
           "title": "La isla olvidada",
           "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-          "rating": 7.9,
+          "rating": 7.6,
           "year": "2026",
           "genres": [
             "Animación",
@@ -572,7 +572,7 @@
           ],
           "cast": "H.E.R., Liza Soberano, Dave Franco, Lea Salonga, Jenny Slate",
           "posterUrl": "https://image.tmdb.org/t/p/original/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
           "slug": "la-isla-olvidada",
           "tmdbId": "1465063",
           "type": "movie",
@@ -587,6 +587,22 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Ted Lasso",
+          "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+          "rating": 8.37,
+          "year": "2020",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+          "slug": "ted-lasso",
+          "tmdbId": "97546",
+          "type": "series"
+        },
         {
           "title": "Colisión",
           "synopsis": "Muerto el magnate Miguel Ángel en un misterioso accidente, su hija Zoé y su esposa separada Belén luchan por su empresa.",
@@ -730,21 +746,6 @@
           "slug": "operaciones-especiales-lioness",
           "tmdbId": "113962",
           "type": "series"
-        },
-        {
-          "title": "Cuatro manos, dos sonatas",
-          "synopsis": "Cuando dos jóvenes pianistas de mundos completamente diferentes se conocen en una prestigiosa escuela de música, las melodías de sus vidas se entrelazan íntimamente.",
-          "rating": 9.31,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "송강, 이준영, 장규리, 윤세아, 정진영",
-          "posterUrl": "https://image.tmdb.org/t/p/original/d1EaBYk2EAd9LiAEM4hX7uJraTF.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
-          "slug": "cuatro-manos-dos-sonatas",
-          "tmdbId": "305644",
-          "type": "series"
         }
       ]
     },
@@ -883,10 +884,10 @@
         {
           "title": "Habilidad física: 100-México",
           "synopsis": "Reality Competition show adaptación del formato original coreano.",
-          "rating": 9.05,
+          "rating": 9.1,
           "year": "2026",
           "genres": [],
-          "cast": "",
+          "cast": "Carlos Salcido, Pascal Nadaud, Juan Francisco Estrada, Pee Wee, Irma Garcia",
           "posterUrl": "https://image.tmdb.org/t/p/original/1XlmHy8pD2XQg0cttKA5xHt5sYh.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg",
           "slug": "habilidad-fisica-100-mexico",
