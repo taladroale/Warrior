@@ -19,23 +19,6 @@
       "duration": "101 min"
     },
     {
-      "title": "La hipótesis del amor",
-      "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-      "rating": 8.29,
-      "year": "2026",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "cast": "Lili Reinhart, Tom Bateman, Rachel Marsh, Jaboukie Young-White, Nicholas Duvernay",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "slug": "la-hipotesis-del-amor",
-      "tmdbId": "1032863",
-      "type": "movie",
-      "duration": "110 min"
-    },
-    {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
       "rating": 7.3,
@@ -52,6 +35,23 @@
       "tmdbId": "1423191",
       "type": "movie",
       "duration": "93 min"
+    },
+    {
+      "title": "La hipótesis del amor",
+      "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "rating": 8.29,
+      "year": "2026",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "cast": "Lili Reinhart, Tom Bateman, Rachel Marsh, Jaboukie Young-White, Nicholas Duvernay",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+      "slug": "la-hipotesis-del-amor",
+      "tmdbId": "1032863",
+      "type": "movie",
+      "duration": "110 min"
     },
     {
       "title": "Toy Story 5",
@@ -90,21 +90,24 @@
       "duration": "98 min"
     },
     {
-      "title": "En el corazón de la bestia",
-      "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.87,
+      "title": "La isla olvidada",
+      "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+      "rating": 7.6,
       "year": "2026",
       "genres": [
+        "Animación",
         "Aventura",
-        "Suspenso"
+        "Fantasía",
+        "Comedia",
+        "Familia"
       ],
-      "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Olivia Hamilton, Brad Pitt",
-      "posterUrl": "https://image.tmdb.org/t/p/original/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "slug": "en-el-corazon-de-la-bestia",
-      "tmdbId": "1263337",
+      "cast": "H.E.R., Liza Soberano, Dave Franco, Lea Salonga, Jenny Slate",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "slug": "la-isla-olvidada",
+      "tmdbId": "1465063",
       "type": "movie",
-      "duration": "101 min"
+      "duration": "109 min"
     }
   ],
   "seriesHero": [
@@ -127,22 +130,6 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.4,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
-    {
       "title": "JoJo's Bizarre Adventure",
       "synopsis": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
       "rating": 8.6,
@@ -159,6 +146,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
       "slug": "jojos-bizarre-adventure",
       "tmdbId": "45790",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.4,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -219,6 +222,26 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Hot Spot",
+          "synopsis": "A finales del siglo XXI, un investigador y un miembro de una temida secta religiosa se unen tras un asesinato en un campo de refugiados.",
+          "rating": 5.1,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Acción",
+            "Crimen",
+            "Fantasía",
+            "Suspenso"
+          ],
+          "cast": "Andrzej Konopka, Noomi Rapace, Reika Kirishima, Filippa Kaye, George Aurimas Cris",
+          "posterUrl": "https://image.tmdb.org/t/p/original/42egzT6e4CIEdrEo4Xc31DKyGjA.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/aRsmRuomE4vIGNUPIGLrp9ojM5a.jpg",
+          "slug": "hot-spot",
+          "tmdbId": "813418",
+          "type": "movie",
+          "duration": "101 min"
+        },
         {
           "title": "Spidey and the Avengers: Halloween Team-Up!",
           "synopsis": "Los planes de Halloween de Spidey y los Vengadores se ponen patas arriba por la misteriosa Eva de los Santos, quien juega trucos mágicos en trucos o tratadores y planea arruinar Halloween para siempre.",
@@ -377,24 +400,6 @@
           "tmdbId": "1477712",
           "type": "movie",
           "duration": "86 min"
-        },
-        {
-          "title": "Adolescencia, sexo y muerte en campamento Miasma",
-          "synopsis": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
-          "rating": 6.32,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Terror",
-            "Romance"
-          ],
-          "cast": "Hannah Einbinder, Gillian Anderson, Amanda Fix, Arthur Conti, Eva Victor",
-          "posterUrl": "https://image.tmdb.org/t/p/original/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-          "slug": "adolescencia-sexo-y-muerte-en-campamento-miasma",
-          "tmdbId": "1240889",
-          "type": "movie",
-          "duration": "106 min"
         }
       ]
     },
@@ -880,7 +885,7 @@
         {
           "title": "Habilidad física: 100-México",
           "synopsis": "Reality Competition show adaptación del formato original coreano.",
-          "rating": 9.1,
+          "rating": 9.23,
           "year": "2026",
           "genres": [],
           "cast": "Carlos Salcido, Pascal Nadaud, Juan Francisco Estrada, Pee Wee, Irma Garcia",
