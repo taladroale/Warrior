@@ -1,9 +1,44 @@
 {
   "movieHero": [
     {
+      "title": "UNABOMBER",
+      "synopsis": "Este drama inspirado en hechos reales narra la trayectoria de Ted Kaczynski —de alumno prodigio de Harvard y sujeto de pruebas al Unabomber— mientras el FBI intenta atraparlo.",
+      "rating": 7.1,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Suspenso"
+      ],
+      "cast": "Russell Crowe, Shailene Woodley, Jacob Tremblay, Annabelle Wallis, Alexander Ludwig",
+      "posterUrl": "https://image.tmdb.org/t/p/original/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "slug": "unabomber",
+      "tmdbId": "1492640",
+      "type": "movie",
+      "duration": "101 min"
+    },
+    {
+      "title": "La hipótesis del amor",
+      "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "rating": 8.29,
+      "year": "2026",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "cast": "Lili Reinhart, Tom Bateman, Rachel Marsh, Jaboukie Young-White, Nicholas Duvernay",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+      "slug": "la-hipotesis-del-amor",
+      "tmdbId": "1032863",
+      "type": "movie",
+      "duration": "110 min"
+    },
+    {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.33,
+      "rating": 7.3,
       "year": "2026",
       "genres": [
         "Terror",
@@ -12,7 +47,7 @@
       ],
       "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
       "posterUrl": "https://image.tmdb.org/t/p/original/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "slug": "resident-evil-1423191",
       "tmdbId": "1423191",
       "type": "movie",
@@ -21,7 +56,7 @@
     {
       "title": "Toy Story 5",
       "synopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 8.36,
+      "rating": 8.3,
       "year": "2026",
       "genres": [
         "Animación",
@@ -57,7 +92,7 @@
     {
       "title": "En el corazón de la bestia",
       "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.82,
+      "rating": 7.87,
       "year": "2026",
       "genres": [
         "Aventura",
@@ -70,44 +105,6 @@
       "tmdbId": "1263337",
       "type": "movie",
       "duration": "101 min"
-    },
-    {
-      "title": "Backrooms",
-      "synopsis": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
-      "rating": 7.05,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "cast": "Chiwetel Ejiofor, Renate Reinsve, Finn Bennett, Lukita Maxwell, Mark Duplass",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "slug": "backrooms",
-      "tmdbId": "1083381",
-      "type": "movie",
-      "duration": "111 min"
-    },
-    {
-      "title": "La isla olvidada",
-      "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "rating": 7.9,
-      "year": "2026",
-      "genres": [
-        "Animación",
-        "Aventura",
-        "Fantasía",
-        "Comedia",
-        "Familia"
-      ],
-      "cast": "H.E.R., Liza Soberano, Dave Franco, Lea Salonga, Jenny Slate",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
-      "slug": "la-isla-olvidada",
-      "tmdbId": "1465063",
-      "type": "movie",
-      "duration": "109 min"
     }
   ],
   "seriesHero": [
@@ -130,6 +127,22 @@
       "type": "series"
     },
     {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.4,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
       "title": "JoJo's Bizarre Adventure",
       "synopsis": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
       "rating": 8.6,
@@ -146,22 +159,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
       "slug": "jojos-bizarre-adventure",
       "tmdbId": "45790",
-      "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.4,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -182,22 +179,6 @@
       "type": "series"
     },
     {
-      "title": "Monstruo: La historia de Lizzie Borden",
-      "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-      "rating": 7.13,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Crimen"
-      ],
-      "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
-      "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "slug": "monstruo-la-historia-de-lizzie-borden",
-      "tmdbId": "299939",
-      "type": "series"
-    },
-    {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "rating": 8.27,
@@ -214,6 +195,22 @@
       "slug": "linternas",
       "tmdbId": "95350",
       "type": "series"
+    },
+    {
+      "title": "Monstruo: La historia de Lizzie Borden",
+      "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+      "rating": 7.13,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
+      "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "slug": "monstruo-la-historia-de-lizzie-borden",
+      "tmdbId": "299939",
+      "type": "series"
     }
   ],
   "movieSections": [
@@ -222,6 +219,93 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Spidey and the Avengers: Halloween Team-Up!",
+          "synopsis": "Los planes de Halloween de Spidey y los Vengadores se ponen patas arriba por la misteriosa Eva de los Santos, quien juega trucos mágicos en trucos o tratadores y planea arruinar Halloween para siempre.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Aventura",
+            "Fantasía",
+            "Familia"
+          ],
+          "cast": "Alkaio Thiele, Mason Blomberg, Armen Taylor, Hero Hunter, Patrick Stump",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5Ur40GWrgeLePW6RAYZZoS5BRLk.jpg",
+          "slug": "spidey-and-the-avengers-halloween-team-up",
+          "tmdbId": "1750432",
+          "type": "movie"
+        },
+        {
+          "title": "UNABOMBER",
+          "synopsis": "Este drama inspirado en hechos reales narra la trayectoria de Ted Kaczynski —de alumno prodigio de Harvard y sujeto de pruebas al Unabomber— mientras el FBI intenta atraparlo.",
+          "rating": 7.1,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Crimen",
+            "Suspenso"
+          ],
+          "cast": "Russell Crowe, Shailene Woodley, Jacob Tremblay, Annabelle Wallis, Alexander Ludwig",
+          "posterUrl": "https://image.tmdb.org/t/p/original/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+          "slug": "unabomber",
+          "tmdbId": "1492640",
+          "type": "movie",
+          "duration": "101 min"
+        },
+        {
+          "title": "Insaciable",
+          "synopsis": "Hana, una estudiante de medicina con una fuerte dismorfia corporal, se somete a una moda de adelgazamiento tan absurda como macabra: comer cenizas humanas. A partir de ese momento, comienza a ser acosada por un fantasma hambriento, una manifestación literal del mito del 'hungry ghost'.",
+          "rating": 6.89,
+          "year": "2026",
+          "genres": [
+            "Terror"
+          ],
+          "cast": "Midori Francis, Danielle Macdonald, Madeleine Madden, Robert Taylor, Showko Showfukutei",
+          "posterUrl": "https://image.tmdb.org/t/p/original/v9st6lwP4K2i6YCa7kLQVQEuvNZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
+          "slug": "insaciable",
+          "tmdbId": "1363387",
+          "type": "movie",
+          "duration": "113 min"
+        },
+        {
+          "title": "La muerte de Robin Hood",
+          "synopsis": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+          "rating": 6.4,
+          "year": "2026",
+          "genres": [
+            "Aventura",
+            "Drama",
+            "Acción"
+          ],
+          "cast": "Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett, Noah Jupe",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+          "slug": "la-muerte-de-robin-hood",
+          "tmdbId": "1284465",
+          "type": "movie",
+          "duration": "123 min"
+        },
+        {
+          "title": "La hipótesis del amor",
+          "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+          "rating": 8.29,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Comedia"
+          ],
+          "cast": "Lili Reinhart, Tom Bateman, Rachel Marsh, Jaboukie Young-White, Nicholas Duvernay",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+          "slug": "la-hipotesis-del-amor",
+          "tmdbId": "1032863",
+          "type": "movie",
+          "duration": "110 min"
+        },
         {
           "title": "Rabbit Trap",
           "synopsis": "Cuando una música y su esposo se mudan a una casa remota en Gales, la música que crean altera la magia popular ancestral del lugar, trayendo a su puerta a un niño sin nombre que tiene la intención de infiltrarse en sus vidas.",
@@ -297,7 +381,7 @@
         {
           "title": "Adolescencia, sexo y muerte en campamento Miasma",
           "synopsis": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
-          "rating": 6.3,
+          "rating": 6.32,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -311,92 +395,6 @@
           "tmdbId": "1240889",
           "type": "movie",
           "duration": "106 min"
-        },
-        {
-          "title": "A la cara",
-          "synopsis": "Una famosa periodista acude a la casa de uno de sus haters para que le diga a la cara lo que escribió sobre ella en sus redes sociales. Pronto descubren que no son tan diferentes entre sí.",
-          "rating": 5.5,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Sonia Almarcha, Manolo Solo, Daniel Pérez Prada, Roberto Álamo, Helena Zumel",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fzRQIB2FCCevWyBmcjwHVfvDPBl.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5Ha46FCDKfJMnVjHsOR1QSA1zdE.jpg",
-          "slug": "a-la-cara",
-          "tmdbId": "1319977",
-          "type": "movie",
-          "duration": "100 min"
-        },
-        {
-          "title": "En el corazón de la bestia",
-          "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-          "rating": 7.94,
-          "year": "2026",
-          "genres": [
-            "Aventura",
-            "Suspenso"
-          ],
-          "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Olivia Hamilton, Brad Pitt",
-          "posterUrl": "https://image.tmdb.org/t/p/original/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-          "slug": "en-el-corazon-de-la-bestia",
-          "tmdbId": "1263337",
-          "type": "movie",
-          "duration": "101 min"
-        },
-        {
-          "title": "La isla olvidada",
-          "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-          "rating": 7.6,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Aventura",
-            "Fantasía",
-            "Comedia",
-            "Familia"
-          ],
-          "cast": "H.E.R., Liza Soberano, Dave Franco, Lea Salonga, Jenny Slate",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-          "slug": "la-isla-olvidada",
-          "tmdbId": "1465063",
-          "type": "movie",
-          "duration": "109 min"
-        },
-        {
-          "title": "Give You A Candy",
-          "synopsis": "The film is based on true events, about the imminent execution of the death row inmates Zheng Ligun in the escort on the way to a sudden earthquake, the guardhouse collapsed into rubble, escaped from death, Zheng Ligun seems to have gained a sudden \"freedom\", but in fact, has been plunged into another purgatory...... Meanwhile, police officer Wei Chixiao decides to temporarily organize a \"different\" rescue team. In the face of a natural disaster, with only 24 hours left to live, will the death row inmate escape or save others? What should the police officers in charge of guarding him do? Everyone stands at the fork in the road of destiny......",
-          "rating": 6.7,
-          "year": "2024",
-          "genres": [
-            "Drama",
-            "Familia"
-          ],
-          "cast": "肖央, Ayanga, 古力娜扎, 黄小蕾, Yang Enyou",
-          "posterUrl": "https://image.tmdb.org/t/p/original/dEBGIgF3mjHHEozd2VMcrbTP6g1.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/d9BG2RvTNKvsCl7wEfazTEtrXJz.jpg",
-          "slug": "give-you-a-candy",
-          "tmdbId": "1241918",
-          "type": "movie"
-        },
-        {
-          "title": "Tony",
-          "synopsis": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
-          "rating": 7.6,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Dominic Sessa, Antonio Banderas, Emilia Jones, Leo Woodall, Stavros Halkias",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
-          "slug": "tony",
-          "tmdbId": "1329016",
-          "type": "movie",
-          "duration": "106 min"
         }
       ]
     },
@@ -405,6 +403,59 @@
       "type": "movie",
       "seeMoreSlug": "estrenos",
       "items": [
+        {
+          "title": "UNABOMBER",
+          "synopsis": "Este drama inspirado en hechos reales narra la trayectoria de Ted Kaczynski —de alumno prodigio de Harvard y sujeto de pruebas al Unabomber— mientras el FBI intenta atraparlo.",
+          "rating": 7.1,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Crimen",
+            "Suspenso"
+          ],
+          "cast": "Russell Crowe, Shailene Woodley, Jacob Tremblay, Annabelle Wallis, Alexander Ludwig",
+          "posterUrl": "https://image.tmdb.org/t/p/original/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+          "slug": "unabomber",
+          "tmdbId": "1492640",
+          "type": "movie",
+          "duration": "101 min"
+        },
+        {
+          "title": "Spidey and the Avengers: Halloween Team-Up!",
+          "synopsis": "Los planes de Halloween de Spidey y los Vengadores se ponen patas arriba por la misteriosa Eva de los Santos, quien juega trucos mágicos en trucos o tratadores y planea arruinar Halloween para siempre.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Aventura",
+            "Fantasía",
+            "Familia"
+          ],
+          "cast": "Alkaio Thiele, Mason Blomberg, Armen Taylor, Hero Hunter, Patrick Stump",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5Ur40GWrgeLePW6RAYZZoS5BRLk.jpg",
+          "slug": "spidey-and-the-avengers-halloween-team-up",
+          "tmdbId": "1750432",
+          "type": "movie"
+        },
+        {
+          "title": "La hipótesis del amor",
+          "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+          "rating": 8.29,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Comedia"
+          ],
+          "cast": "Lili Reinhart, Tom Bateman, Rachel Marsh, Jaboukie Young-White, Nicholas Duvernay",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+          "slug": "la-hipotesis-del-amor",
+          "tmdbId": "1032863",
+          "type": "movie",
+          "duration": "110 min"
+        },
         {
           "title": "Un último disparo",
           "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
@@ -425,7 +476,7 @@
         {
           "title": "En el corazón de la bestia",
           "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-          "rating": 7.94,
+          "rating": 7.87,
           "year": "2026",
           "genres": [
             "Aventura",
@@ -438,22 +489,6 @@
           "tmdbId": "1263337",
           "type": "movie",
           "duration": "101 min"
-        },
-        {
-          "title": "Las mejores",
-          "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
-          "rating": 5.1,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Maitreyi Ramakrishnan, Priyanka Kedia, Chaneil Kular, Ankur Rathee, Hasan Minhaj",
-          "posterUrl": "https://image.tmdb.org/t/p/original/lb9jgdWnpl7BDX66R3LHRdOATcQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
-          "slug": "las-mejores",
-          "tmdbId": "1514863",
-          "type": "movie",
-          "duration": "112 min"
         },
         {
           "title": "Cuatro historias de deseo 3",
@@ -475,7 +510,7 @@
         {
           "title": "Tú+Yo - Solos contra todos",
           "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
-          "rating": 5.64,
+          "rating": 5.6,
           "year": "2026",
           "genres": [
             "Romance",
@@ -488,6 +523,22 @@
           "tmdbId": "1641629",
           "type": "movie",
           "duration": "94 min"
+        },
+        {
+          "title": "Las mejores",
+          "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
+          "rating": 5.1,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Maitreyi Ramakrishnan, Priyanka Kedia, Chaneil Kular, Ankur Rathee, Hasan Minhaj",
+          "posterUrl": "https://image.tmdb.org/t/p/original/lb9jgdWnpl7BDX66R3LHRdOATcQ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+          "slug": "las-mejores",
+          "tmdbId": "1514863",
+          "type": "movie",
+          "duration": "112 min"
         },
         {
           "title": "Resident Evil",
@@ -522,61 +573,6 @@
           "tmdbId": "1558568",
           "type": "movie",
           "duration": "93 min"
-        },
-        {
-          "title": "El hombre que desafió al rey",
-          "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
-          "rating": 7.2,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Historia",
-            "Drama"
-          ],
-          "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Tom Hollander, Cosmo Jarvis",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jme7VvETwHdPQt90HPs0aL6KMln.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
-          "slug": "el-hombre-que-desafio-al-rey",
-          "tmdbId": "977942",
-          "type": "movie",
-          "duration": "128 min"
-        },
-        {
-          "title": "Operación Teherán",
-          "synopsis": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
-          "rating": 7.18,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Suspenso"
-          ],
-          "cast": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
-          "slug": "operacion-teheran",
-          "tmdbId": "1228834",
-          "type": "movie",
-          "duration": "142 min"
-        },
-        {
-          "title": "La isla olvidada",
-          "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-          "rating": 7.6,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Aventura",
-            "Fantasía",
-            "Comedia",
-            "Familia"
-          ],
-          "cast": "H.E.R., Liza Soberano, Dave Franco, Lea Salonga, Jenny Slate",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-          "slug": "la-isla-olvidada",
-          "tmdbId": "1465063",
-          "type": "movie",
-          "duration": "109 min"
         }
       ]
     }
