@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T22:28:48Z",
+  "updatedAt": "2026-09-26T15:32:09Z",
   "source": "cufo",
-  "total": 22526,
+  "total": 22530,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias"},
     "12": {"slug":"buscando-a-nemo"},
@@ -11026,6 +11026,7 @@
     "812654": {"slug":"danger-danger"},
     "813258": {"slug":"mascotas-monstruosas-un-corto-de-hotel-transilvania"},
     "813416": {"slug":"silent-legacy"},
+    "813418": {"slug":"hot-spot"},
     "813477": {"slug":"shin-kamen-rider"},
     "813538": {"slug":"beyond-the-chamber-of-terror"},
     "813608": {"slug":"amigas-para-siempre"},
@@ -13856,6 +13857,7 @@
     "1032760": {"slug":"la-memoria-infinita"},
     "1032823": {"slug":"la-trampa-1032823"},
     "1032836": {"slug":"dead-hot"},
+    "1032863": {"slug":"la-hipotesis-del-amor"},
     "1032868": {"slug":"sex-with-sue"},
     "1032876": {"slug":"cryptid"},
     "1032892": {"slug":"en-un-instante"},
@@ -17590,6 +17592,7 @@
     "1490884": {"slug":"my-boyfriends-wife-is-dead"},
     "1491902": {"slug":"bang"},
     "1491920": {"slug":"kung-fu-soccer"},
+    "1492640": {"slug":"unabomber"},
     "1492943": {"slug":"married-to-a-hood-legend"},
     "1493400": {"slug":"camp-rock-3"},
     "1493425": {"slug":"morgan-killer-doll"},
@@ -18003,6 +18006,7 @@
     "1744462": {"slug":"grand-theft-auto-vi-an-extended-look"},
     "1744876": {"slug":"fito-paez-el-mundo-cabe-en-una-cancion"},
     "1748007": {"slug":"niu-lai"},
+    "1750432": {"slug":"spidey-and-the-avengers-halloween-team-up"},
     "1752159": {"slug":"momentos-decisivos-generacion-11-s"},
     "tt2407380": {"slug":"test-tt2407380"}
   },
