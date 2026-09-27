@@ -37,6 +37,41 @@
       "duration": "93 min"
     },
     {
+      "title": "La hipótesis del amor",
+      "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "rating": 8.26,
+      "year": "2026",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "cast": "Lili Reinhart, Tom Bateman, Rachel Marsh, Jaboukie Young-White, Nicholas Duvernay",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+      "slug": "la-hipotesis-del-amor",
+      "tmdbId": "1032863",
+      "type": "movie",
+      "duration": "112 min"
+    },
+    {
+      "title": "Backrooms",
+      "synopsis": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
+      "rating": 7.03,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ],
+      "cast": "Chiwetel Ejiofor, Renate Reinsve, Finn Bennett, Lukita Maxwell, Mark Duplass",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "slug": "backrooms",
+      "tmdbId": "1083381",
+      "type": "movie",
+      "duration": "111 min"
+    },
+    {
       "title": "Obsession",
       "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
       "rating": 8.19,
@@ -54,76 +89,39 @@
       "duration": "100 min"
     },
     {
-      "title": "La hipótesis del amor",
-      "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-      "rating": 8.2,
-      "year": "2026",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "cast": "Lili Reinhart, Tom Bateman, Rachel Marsh, Jaboukie Young-White, Nicholas Duvernay",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "slug": "la-hipotesis-del-amor",
-      "tmdbId": "1032863",
-      "type": "movie",
-      "duration": "112 min"
-    },
-    {
-      "title": "En el corazón de la bestia",
-      "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.87,
+      "title": "La Odisea",
+      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "rating": 8,
       "year": "2026",
       "genres": [
         "Aventura",
-        "Suspenso"
+        "Acción",
+        "Fantasía"
       ],
-      "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Olivia Hamilton, Brad Pitt",
-      "posterUrl": "https://image.tmdb.org/t/p/original/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "slug": "en-el-corazon-de-la-bestia",
-      "tmdbId": "1263337",
+      "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "slug": "la-odisea-1368337",
+      "tmdbId": "1368337",
       "type": "movie",
-      "duration": "101 min"
-    },
-    {
-      "title": "Toy Story 5",
-      "synopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 8.3,
-      "year": "2026",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia",
-        "Aventura"
-      ],
-      "cast": "Joan Cusack, Tom Hanks, Tim Allen, Conan O'Brien, Scarlett Spears",
-      "posterUrl": "https://image.tmdb.org/t/p/original/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "slug": "toy-story-5",
-      "tmdbId": "1084244",
-      "type": "movie",
-      "duration": "102 min"
+      "duration": "172 min"
     }
   ],
   "seriesHero": [
     {
-      "title": "American Horror Story",
-      "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-      "rating": 8.1,
-      "year": "2011",
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.42,
+      "year": "2025",
       "genres": [
-        "Drama",
-        "Misterio",
-        "Ciencia ficción",
-        "Fantasía"
+        "Crimen",
+        "Drama"
       ],
-      "cast": "Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts",
-      "posterUrl": "https://image.tmdb.org/t/p/original/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-      "slug": "american-horror-story",
-      "tmdbId": "1413",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -144,37 +142,35 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.42,
-      "year": "2025",
+      "title": "El problema final",
+      "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
+      "rating": 6.28,
+      "year": "2026",
       "genres": [
         "Crimen",
-        "Drama"
+        "Misterio"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Jose Coronado, María Valverde, Martiño Rivas, Maribel Verdú, Gonzalo de Castro",
+      "posterUrl": "https://image.tmdb.org/t/p/original/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+      "slug": "el-problema-final",
+      "tmdbId": "290720",
       "type": "series"
     },
     {
-      "title": "Linternas",
-      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.2,
+      "title": "Monstruo: La historia de Lizzie Borden",
+      "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+      "rating": 7.13,
       "year": "2026",
       "genres": [
         "Drama",
-        "Misterio",
-        "Ciencia ficción",
-        "Fantasía"
+        "Crimen"
       ],
-      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
-      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "slug": "linternas",
-      "tmdbId": "95350",
+      "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
+      "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "slug": "monstruo-la-historia-de-lizzie-borden",
+      "tmdbId": "299939",
       "type": "series"
     },
     {
@@ -197,19 +193,21 @@
       "type": "series"
     },
     {
-      "title": "Monstruo: La historia de Lizzie Borden",
-      "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-      "rating": 7.13,
-      "year": "2026",
+      "title": "American Horror Story",
+      "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+      "rating": 8.1,
+      "year": "2011",
       "genres": [
         "Drama",
-        "Crimen"
+        "Misterio",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
-      "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "slug": "monstruo-la-historia-de-lizzie-borden",
-      "tmdbId": "299939",
+      "cast": "Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts",
+      "posterUrl": "https://image.tmdb.org/t/p/original/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+      "slug": "american-horror-story",
+      "tmdbId": "1413",
       "type": "series"
     }
   ],
@@ -444,7 +442,7 @@
         {
           "title": "La hipótesis del amor",
           "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-          "rating": 8.2,
+          "rating": 8.26,
           "year": "2026",
           "genres": [
             "Romance",
@@ -885,7 +883,7 @@
         {
           "title": "Habilidad física: 100-México",
           "synopsis": "Reality Competition show adaptación del formato original coreano.",
-          "rating": 9.25,
+          "rating": 9.27,
           "year": "2026",
           "genres": [],
           "cast": "Carlos Salcido, Pascal Nadaud, Juan Francisco Estrada, Pee Wee, Irma Garcia",
