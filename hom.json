@@ -54,23 +54,6 @@
       "duration": "110 min"
     },
     {
-      "title": "Un último disparo",
-      "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-      "rating": 7.7,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Suspenso"
-      ],
-      "cast": "Scott Adkins, Steven Cree, Hannah Ware, Dolph Lundgren, ケイン・コスギ",
-      "posterUrl": "https://image.tmdb.org/t/p/original/opmrLPrV2GPSazjWbX2PhkLjxBe.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-      "slug": "one-last-shot",
-      "tmdbId": "1607127",
-      "type": "movie",
-      "duration": "98 min"
-    },
-    {
       "title": "Toy Story 5",
       "synopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
       "rating": 8.3,
@@ -90,24 +73,39 @@
       "duration": "102 min"
     },
     {
-      "title": "La isla olvidada",
-      "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "rating": 7.6,
+      "title": "Un último disparo",
+      "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
+      "rating": 7.7,
       "year": "2026",
       "genres": [
-        "Animación",
-        "Aventura",
-        "Fantasía",
-        "Comedia",
-        "Familia"
+        "Acción",
+        "Suspenso"
       ],
-      "cast": "H.E.R., Liza Soberano, Dave Franco, Lea Salonga, Jenny Slate",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-      "slug": "la-isla-olvidada",
-      "tmdbId": "1465063",
+      "cast": "Scott Adkins, Steven Cree, Hannah Ware, Dolph Lundgren, ケイン・コスギ",
+      "posterUrl": "https://image.tmdb.org/t/p/original/opmrLPrV2GPSazjWbX2PhkLjxBe.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+      "slug": "one-last-shot",
+      "tmdbId": "1607127",
       "type": "movie",
-      "duration": "109 min"
+      "duration": "98 min"
+    },
+    {
+      "title": "La Odisea",
+      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "rating": 8,
+      "year": "2026",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ],
+      "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "slug": "la-odisea-1368337",
+      "tmdbId": "1368337",
+      "type": "movie",
+      "duration": "172 min"
     }
   ],
   "seriesHero": [
@@ -122,9 +120,9 @@
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Sarah Paulson, Jessica Lange, Evan Peters, Charlie Carver, Jennifer Salt",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6znF7sratRw5dvVx6Sx5gslv7sN.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/6TSJRc77dDOesKzcNqkz0KeXdLz.jpg",
+      "cast": "Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts",
+      "posterUrl": "https://image.tmdb.org/t/p/original/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
       "slug": "american-horror-story",
       "tmdbId": "1413",
       "type": "series"
@@ -200,23 +198,19 @@
       "type": "series"
     },
     {
-      "title": "That Time I Got Reincarnated as a Slime",
-      "synopsis": "Satoru Mikami es un hombre de 37 años que tiene un trabajo que no le gusta, sin salida y que no es feliz con la vida que lleva, pero cuando muere a manos de un ladrón y piensa que es su fin, se despierta descubriendo que se ha reencarnado en un mundo de magia y espada… ¡pero como un slime! Ahora tendrá que acostumbrarse a su nueva vida, aunque por suerte contará con dos habilidades únicas que le ayudarán a sobrevivir: una que le proporciona una gran comprensión de todo lo que le rodea, y otra que le permite copiar las habilidades de sus oponentes.",
-      "rating": 8.4,
-      "year": "2018",
+      "title": "Monstruo: La historia de Lizzie Borden",
+      "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+      "rating": 7.13,
+      "year": "2026",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía",
-        "Comedia"
+        "Drama",
+        "Crimen"
       ],
-      "cast": "Miho Okasaki, Megumi Toyoguchi, Tomoaki Maeno, Makoto Furukawa, Sayaka Senbongi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9YcNx1dnNkZ3PZzrMqc52WjCEcw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
-      "slug": "tensei-shitara-slime-datta-ken",
-      "tmdbId": "82684",
+      "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
+      "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "slug": "monstruo-la-historia-de-lizzie-borden",
+      "tmdbId": "299939",
       "type": "series"
     }
   ],
@@ -226,6 +220,24 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "UNABOMBER",
+          "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
+          "rating": 7.08,
+          "year": "2026",
+          "genres": [
+            "Suspenso",
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Russell Crowe, Shailene Woodley, Jacob Tremblay, Annabelle Wallis, Alexander Ludwig",
+          "posterUrl": "https://image.tmdb.org/t/p/original/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+          "slug": "unabomber",
+          "tmdbId": "1492640",
+          "type": "movie",
+          "duration": "101 min"
+        },
         {
           "title": "Hot Spot",
           "synopsis": "A finales del siglo XXI, un investigador y un miembro de una temida secta religiosa se unen tras un asesinato en un campo de refugiados.",
@@ -263,24 +275,6 @@
           "slug": "spidey-and-the-avengers-halloween-team-up",
           "tmdbId": "1750432",
           "type": "movie"
-        },
-        {
-          "title": "UNABOMBER",
-          "synopsis": "Este drama inspirado en hechos reales narra la trayectoria de Ted Kaczynski —de alumno prodigio de Harvard y sujeto de pruebas al Unabomber— mientras el FBI intenta atraparlo.",
-          "rating": 7.1,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Crimen",
-            "Suspenso"
-          ],
-          "cast": "Russell Crowe, Shailene Woodley, Jacob Tremblay, Annabelle Wallis, Alexander Ludwig",
-          "posterUrl": "https://image.tmdb.org/t/p/original/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-          "slug": "unabomber",
-          "tmdbId": "1492640",
-          "type": "movie",
-          "duration": "101 min"
         },
         {
           "title": "Insaciable",
@@ -414,13 +408,13 @@
       "items": [
         {
           "title": "UNABOMBER",
-          "synopsis": "Este drama inspirado en hechos reales narra la trayectoria de Ted Kaczynski —de alumno prodigio de Harvard y sujeto de pruebas al Unabomber— mientras el FBI intenta atraparlo.",
-          "rating": 7.1,
+          "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
+          "rating": 7.08,
           "year": "2026",
           "genres": [
+            "Suspenso",
             "Drama",
-            "Crimen",
-            "Suspenso"
+            "Crimen"
           ],
           "cast": "Russell Crowe, Shailene Woodley, Jacob Tremblay, Annabelle Wallis, Alexander Ludwig",
           "posterUrl": "https://image.tmdb.org/t/p/original/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
@@ -431,7 +425,7 @@
           "duration": "101 min"
         },
         {
-          "title": "Spidey and the Avengers: Halloween Team-Up!",
+          "title": "Spidey y Los Vengadores: Superequipo Halloween",
           "synopsis": "Los planes de Halloween de Spidey y los Vengadores se ponen patas arriba por la misteriosa Eva de los Santos, quien juega trucos mágicos en trucos o tratadores y planea arruinar Halloween para siempre.",
           "rating": 0,
           "year": "2026",
@@ -442,7 +436,7 @@
             "Familia"
           ],
           "cast": "Alkaio Thiele, Mason Blomberg, Armen Taylor, Hero Hunter, Patrick Stump",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/nLhj8GhpL7njlalnIW4DIZyXyaa.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/5Ur40GWrgeLePW6RAYZZoS5BRLk.jpg",
           "slug": "spidey-and-the-avengers-halloween-team-up",
           "tmdbId": "1750432",
@@ -451,7 +445,7 @@
         {
           "title": "La hipótesis del amor",
           "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-          "rating": 8.29,
+          "rating": 8.4,
           "year": "2026",
           "genres": [
             "Romance",
@@ -463,7 +457,7 @@
           "slug": "la-hipotesis-del-amor",
           "tmdbId": "1032863",
           "type": "movie",
-          "duration": "110 min"
+          "duration": "112 min"
         },
         {
           "title": "Un último disparo",
@@ -593,9 +587,60 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Stuart no consigue salvar el universo",
+          "synopsis": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
+          "rating": 8.6,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Kevin Sussman, Lauren Lapkus, Brian Posehn, John Ross Bowie, Lauren Young",
+          "posterUrl": "https://image.tmdb.org/t/p/original/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
+          "slug": "stuart-no-consigue-salvar-el-universo",
+          "tmdbId": "287620",
+          "type": "series"
+        },
+        {
+          "title": "Tierra de mafiosos",
+          "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+          "rating": 8.42,
+          "year": "2025",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+          "slug": "mobland",
+          "tmdbId": "247718",
+          "type": "series"
+        },
+        {
+          "title": "American Horror Story",
+          "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+          "rating": 8.1,
+          "year": "2011",
+          "genres": [
+            "Drama",
+            "Misterio",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+          "slug": "american-horror-story",
+          "tmdbId": "1413",
+          "type": "series"
+        },
+        {
           "title": "Ted Lasso",
           "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-          "rating": 8.37,
+          "rating": 8.4,
           "year": "2020",
           "genres": [
             "Drama",
@@ -641,14 +686,14 @@
         {
           "title": "Youth",
           "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-          "rating": 7.2,
+          "rating": 8,
           "year": "2026",
           "genres": [
             "Comedia",
             "Drama"
           ],
           "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zKaTNcWmP2dxYnxmOAVhBvSqNy9.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
           "slug": "youth",
           "tmdbId": "285418",
@@ -664,7 +709,7 @@
             "Drama"
           ],
           "cast": "Jon Hamm, Giovanni Ribisi, Kristoffer Polaha, William Jackson Harper, Mireille Enos",
-          "posterUrl": "https://image.tmdb.org/t/p/original/p3Ro0ngezX9aNZY6j3vYbpQqVhr.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cJX6cFqJsX4cWe3DeZBJzg7w4rH.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
           "slug": "american-hostage",
           "tmdbId": "239618",
@@ -700,56 +745,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
           "slug": "presidente-curtis",
           "tmdbId": "296756",
-          "type": "series"
-        },
-        {
-          "title": "Tierra mortal: Los asesinatos de Gilgo Beach",
-          "synopsis": "Cuando una mujer desaparece, la policía encuentra cadáveres a lo largo de la costa de Long Island. Años de callejones sin salida y víctimas ignoradas paralizan el caso hasta que un nuevo grupo de trabajo descubre a un sospechoso que se escondía a plena vista. Con el juicio a la vuelta de la esquina, hablan personas con información privilegiada y las familias.",
-          "rating": 6.8,
-          "year": "2026",
-          "genres": [
-            "Documental",
-            "Crimen"
-          ],
-          "cast": "Phil Donlon",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mb1oBq4dnWI7vbX64HPXydCUj01.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lJ6rDjQQmMHz5m4GTPDi6vJXVck.jpg",
-          "slug": "tierra-mortal-los-asesinatos-de-gilgo-beach",
-          "tmdbId": "304550",
-          "type": "series"
-        },
-        {
-          "title": "Linternas",
-          "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-          "rating": 8.27,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Misterio",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
-          "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-          "slug": "linternas",
-          "tmdbId": "95350",
-          "type": "series"
-        },
-        {
-          "title": "Operaciones Especiales: Lioness",
-          "synopsis": "Cruz Manuelos, una joven infante de marina ruda pero apasionada, es reclutada para unirse al Equipo Lioness Engagement de la CIA para ayudar a acabar con una organización terrorista desde adentro. Joe, el jefe de estación del programa Lioness, tiene la tarea de capacitar, administrar y liderar a sus agentes encubiertos.",
-          "rating": 8.2,
-          "year": "2023",
-          "genres": [
-            "Drama",
-            "Guerra"
-          ],
-          "cast": "Zoe Saldaña, Laysla De Oliveira, Dave Annable, Jill Wagner, LaMonica Garrett",
-          "posterUrl": "https://image.tmdb.org/t/p/original/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mU7l9UaEItxHbg2YBNs0sHjoFVY.jpg",
-          "slug": "operaciones-especiales-lioness",
-          "tmdbId": "113962",
           "type": "series"
         }
       ]
