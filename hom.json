@@ -1,6 +1,24 @@
 {
   "movieHero": [
     {
+      "title": "Entrega al límite",
+      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+      "rating": 7.57,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Suspenso"
+      ],
+      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "slug": "entrega-al-limite",
+      "tmdbId": "1377237",
+      "type": "movie",
+      "duration": "97 min"
+    },
+    {
       "title": "UNABOMBER",
       "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
       "rating": 7.08,
@@ -37,22 +55,21 @@
       "duration": "93 min"
     },
     {
-      "title": "Entrega al límite",
-      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-      "rating": 7.57,
+      "title": "En el corazón de la bestia",
+      "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "rating": 7.87,
       "year": "2026",
       "genres": [
-        "Acción",
-        "Comedia",
+        "Aventura",
         "Suspenso"
       ],
-      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
-      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-      "slug": "entrega-al-limite",
-      "tmdbId": "1377237",
+      "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Olivia Hamilton, Brad Pitt",
+      "posterUrl": "https://image.tmdb.org/t/p/original/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "slug": "en-el-corazon-de-la-bestia",
+      "tmdbId": "1263337",
       "type": "movie",
-      "duration": "97 min"
+      "duration": "101 min"
     },
     {
       "title": "La hipótesis del amor",
@@ -87,28 +104,46 @@
       "tmdbId": "1339713",
       "type": "movie",
       "duration": "100 min"
-    },
-    {
-      "title": "Toy Story 5",
-      "synopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
-      "rating": 8.3,
-      "year": "2026",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia",
-        "Aventura"
-      ],
-      "cast": "Joan Cusack, Tom Hanks, Tim Allen, Conan O'Brien, Scarlett Spears",
-      "posterUrl": "https://image.tmdb.org/t/p/original/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "slug": "toy-story-5",
-      "tmdbId": "1084244",
-      "type": "movie",
-      "duration": "102 min"
     }
   ],
   "seriesHero": [
+    {
+      "title": "One Piece",
+      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "rating": 8.8,
+      "year": "1999",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Animación"
+      ],
+      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "slug": "one-piece",
+      "tmdbId": "37854",
+      "type": "series"
+    },
+    {
+      "title": "Mushoku Tensei Jobless Reincarnation",
+      "synopsis": "Cuando un autobús atropella a un joven de 34 años que no ha logrado mucho en su vida, su historia no termina ahí. Habiendo reencarnado en un niño, Rudy aprovechará cada oportunidad para vivir la vida que siempre quiso. ¡Con la ayuda de sus amigos, unas habilidades mágicas recién adquiridas, y el coraje para hacer las cosas que siempre ha soñado, se embarca en una aventura épica, con su experiencia pasada intacta!",
+      "rating": 8.54,
+      "year": "2021",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Yumi Uchiyama, Tomokazu Sugita, Konomi Kohara, Ai Kakuma, Ai Kayano",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "slug": "mushoku-tensei-jobless-reincarnation",
+      "tmdbId": "94664",
+      "type": "series"
+    },
     {
       "title": "Tierra de mafiosos",
       "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
@@ -126,36 +161,38 @@
       "type": "series"
     },
     {
-      "title": "Stuart no consigue salvar el universo",
-      "synopsis": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
-      "rating": 8.58,
+      "title": "Linternas",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "rating": 8.2,
       "year": "2026",
       "genres": [
-        "Comedia",
+        "Drama",
+        "Misterio",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Kevin Sussman, Lauren Lapkus, Brian Posehn, John Ross Bowie, Lauren Young",
-      "posterUrl": "https://image.tmdb.org/t/p/original/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-      "slug": "stuart-no-consigue-salvar-el-universo",
-      "tmdbId": "287620",
+      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
+      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "slug": "linternas",
+      "tmdbId": "95350",
       "type": "series"
     },
     {
-      "title": "El problema final",
-      "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-      "rating": 6.28,
-      "year": "2026",
+      "title": "Reacher",
+      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "rating": 8.13,
+      "year": "2022",
       "genres": [
-        "Crimen",
-        "Misterio"
+        "Acción",
+        "Aventura",
+        "Crimen"
       ],
-      "cast": "Jose Coronado, María Valverde, Martiño Rivas, Maribel Verdú, Gonzalo de Castro",
-      "posterUrl": "https://image.tmdb.org/t/p/original/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
-      "slug": "el-problema-final",
-      "tmdbId": "290720",
+      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "slug": "reacher",
+      "tmdbId": "108978",
       "type": "series"
     },
     {
@@ -172,43 +209,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
       "slug": "monstruo-la-historia-de-lizzie-borden",
       "tmdbId": "299939",
-      "type": "series"
-    },
-    {
-      "title": "JoJo's Bizarre Adventure",
-      "synopsis": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
-      "rating": 8.6,
-      "year": "2012",
-      "genres": [
-        "Animación",
-        "Acción",
-        "Aventura",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Shogo Sakata, Yohei Azakami, Kaito Ishikawa, Rie Takahashi, Kenta Miyake",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
-      "slug": "jojos-bizarre-adventure",
-      "tmdbId": "45790",
-      "type": "series"
-    },
-    {
-      "title": "American Horror Story",
-      "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-      "rating": 8.1,
-      "year": "2011",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts",
-      "posterUrl": "https://image.tmdb.org/t/p/original/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-      "slug": "american-horror-story",
-      "tmdbId": "1413",
       "type": "series"
     }
   ],
@@ -310,7 +310,7 @@
         {
           "title": "La muerte de Robin Hood",
           "synopsis": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
-          "rating": 6.4,
+          "rating": 6.55,
           "year": "2026",
           "genres": [
             "Aventura",
@@ -585,6 +585,24 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Linternas",
+          "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+          "rating": 8.27,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
+          "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+          "slug": "linternas",
+          "tmdbId": "95350",
+          "type": "series"
+        },
+        {
           "title": "Paolo",
           "synopsis": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
           "rating": 10,
@@ -602,7 +620,7 @@
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 6.28,
+          "rating": 6.68,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -635,7 +653,7 @@
         {
           "title": "Star Trek: Strange New Worlds",
           "synopsis": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
-          "rating": 7.87,
+          "rating": 7.9,
           "year": "2022",
           "genres": [
             "Ciencia ficción",
@@ -652,7 +670,7 @@
         {
           "title": "Stuart no consigue salvar el universo",
           "synopsis": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
-          "rating": 8.58,
+          "rating": 8.5,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -669,7 +687,7 @@
         {
           "title": "Tierra de mafiosos",
           "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-          "rating": 8.42,
+          "rating": 8.4,
           "year": "2025",
           "genres": [
             "Crimen",
@@ -685,7 +703,7 @@
         {
           "title": "American Horror Story",
           "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-          "rating": 8.1,
+          "rating": 8.07,
           "year": "2011",
           "genres": [
             "Drama",
@@ -729,21 +747,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
           "slug": "colision",
           "tmdbId": "331033",
-          "type": "series"
-        },
-        {
-          "title": "Chernóbil: En el corazón del desastre",
-          "synopsis": "Con motivo del 40º aniversario del peor desastre nuclear de la historia, una explosión que liberó 400 veces más material radiactivo que Hiroshima y Nagasaki juntas, y gracias a un acceso sin precedentes, las cámaras de National Geographic se adentran en la zona de exclusión, desde la planta nuclear de Chernóbil hasta la ciudad fantasma de Prípiat. Acompañamos a testigos clave en su regreso al lugar que marcó sus vidas para siempre… y revelamos por qué la historia de Chernóbil está lejos de haber terminado.",
-          "rating": 8.8,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Galia Ackerman, Wyatt Andrews, Olena Mokhnyk, Karena Kalmbach",
-          "posterUrl": "https://image.tmdb.org/t/p/original/lfMwlTLXYq8yMUzEBGGVgXyBoZA.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/A7jIwEimBaf7ZktJINgbnvUgDEb.jpg",
-          "slug": "disaster-the-chernobyl-meltdown",
-          "tmdbId": "313406",
           "type": "series"
         }
       ]
