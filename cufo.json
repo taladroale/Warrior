@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T15:32:09Z",
+  "updatedAt": "2026-09-28T13:15:18Z",
   "source": "cufo",
-  "total": 22530,
+  "total": 22532,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias"},
     "12": {"slug":"buscando-a-nemo"},
@@ -22365,6 +22365,7 @@
     "288055": {"slug":"star-wars-cronicas-del-submundo"},
     "288106": {"slug":"race-for-the-crown"},
     "288377": {"slug":"the-dark-money-game"},
+    "288385": {"slug":"paolo"},
     "288671": {"slug":"el-mapa-de-los-anhelos"},
     "288752": {"slug":"valiendo-madres"},
     "288913": {"slug":"franklin-288913"},
@@ -22386,6 +22387,7 @@
     "290297": {"slug":"murder-has-two-faces"},
     "290321": {"slug":"mentiras-la-serie"},
     "290511": {"slug":"hell-motel"},
+    "290720": {"slug":"el-problema-final"},
     "290724": {"slug":"waiting-for-the-out"},
     "290856": {"slug":"marshals-una-historia-de-yellowstone"},
     "290953": {"slug":"the-black-dagger-brotherhood"},
