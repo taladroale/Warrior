@@ -37,9 +37,27 @@
       "duration": "93 min"
     },
     {
+      "title": "Entrega al límite",
+      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+      "rating": 7.57,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Suspenso"
+      ],
+      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "slug": "entrega-al-limite",
+      "tmdbId": "1377237",
+      "type": "movie",
+      "duration": "97 min"
+    },
+    {
       "title": "La hipótesis del amor",
       "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-      "rating": 8.26,
+      "rating": 8.27,
       "year": "2026",
       "genres": [
         "Romance",
@@ -52,24 +70,6 @@
       "tmdbId": "1032863",
       "type": "movie",
       "duration": "112 min"
-    },
-    {
-      "title": "Backrooms",
-      "synopsis": "Una extraña puerta aparece en el sótano de una tienda de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para intentar rescatarlo.",
-      "rating": 7.03,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ],
-      "cast": "Chiwetel Ejiofor, Renate Reinsve, Finn Bennett, Lukita Maxwell, Mark Duplass",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ur2yYTVGPkEDmLdoQ1Obm2RKXuU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "slug": "backrooms",
-      "tmdbId": "1083381",
-      "type": "movie",
-      "duration": "111 min"
     },
     {
       "title": "Obsession",
@@ -89,22 +89,23 @@
       "duration": "100 min"
     },
     {
-      "title": "La Odisea",
-      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 8,
+      "title": "Toy Story 5",
+      "synopsis": "Los juguetes de Bonnie se enfrentan a otra amenaza cuando la niña recibe una tableta llamada Lilypad, la cual absorbe toda su atención y pone en peligro el juego tradicional. Todos deben unirse para competir contra la tecnología y recuperar su lugar.",
+      "rating": 8.3,
       "year": "2026",
       "genres": [
-        "Aventura",
-        "Acción",
-        "Fantasía"
+        "Animación",
+        "Familia",
+        "Comedia",
+        "Aventura"
       ],
-      "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-      "slug": "la-odisea-1368337",
-      "tmdbId": "1368337",
+      "cast": "Joan Cusack, Tom Hanks, Tim Allen, Conan O'Brien, Scarlett Spears",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pTjZfbFVWUIwUM5OzX3LVh84ejU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "slug": "toy-story-5",
+      "tmdbId": "1084244",
       "type": "movie",
-      "duration": "172 min"
+      "duration": "102 min"
     }
   ],
   "seriesHero": [
@@ -218,9 +219,25 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Insaciable",
+          "synopsis": "Hana, una estudiante de medicina con una fuerte dismorfia corporal, se somete a una moda de adelgazamiento tan absurda como macabra: comer cenizas humanas. A partir de ese momento, comienza a ser acosada por un fantasma hambriento, una manifestación literal del mito del 'hungry ghost'.",
+          "rating": 6.88,
+          "year": "2026",
+          "genres": [
+            "Terror"
+          ],
+          "cast": "Midori Francis, Danielle Macdonald, Madeleine Madden, Robert Taylor, Showko Showfukutei",
+          "posterUrl": "https://image.tmdb.org/t/p/original/v9st6lwP4K2i6YCa7kLQVQEuvNZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
+          "slug": "insaciable",
+          "tmdbId": "1363387",
+          "type": "movie",
+          "duration": "113 min"
+        },
+        {
           "title": "La hipótesis del amor",
           "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-          "rating": 8.26,
+          "rating": 8.27,
           "year": "2026",
           "genres": [
             "Romance",
@@ -289,22 +306,6 @@
           "slug": "spidey-and-the-avengers-halloween-team-up",
           "tmdbId": "1750432",
           "type": "movie"
-        },
-        {
-          "title": "Insaciable",
-          "synopsis": "Hana, una estudiante de medicina con una fuerte dismorfia corporal, se somete a una moda de adelgazamiento tan absurda como macabra: comer cenizas humanas. A partir de ese momento, comienza a ser acosada por un fantasma hambriento, una manifestación literal del mito del 'hungry ghost'.",
-          "rating": 6.89,
-          "year": "2026",
-          "genres": [
-            "Terror"
-          ],
-          "cast": "Midori Francis, Danielle Macdonald, Madeleine Madden, Robert Taylor, Showko Showfukutei",
-          "posterUrl": "https://image.tmdb.org/t/p/original/v9st6lwP4K2i6YCa7kLQVQEuvNZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
-          "slug": "insaciable",
-          "tmdbId": "1363387",
-          "type": "movie",
-          "duration": "113 min"
         },
         {
           "title": "La muerte de Robin Hood",
@@ -442,7 +443,7 @@
         {
           "title": "La hipótesis del amor",
           "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-          "rating": 8.26,
+          "rating": 8.27,
           "year": "2026",
           "genres": [
             "Romance",
@@ -584,6 +585,37 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Paolo",
+          "synopsis": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Misterio"
+          ],
+          "cast": "Jérôme Niel, Yoann Gasiorowski, Magalie Lépine-Blondeau, Marie Oppert, Léo Chalié",
+          "posterUrl": "https://image.tmdb.org/t/p/original/eJok284sxTZzHviPNGpMCeVO448.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
+          "slug": "paolo",
+          "tmdbId": "288385",
+          "type": "series"
+        },
+        {
+          "title": "El problema final",
+          "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
+          "rating": 6.28,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Misterio"
+          ],
+          "cast": "Jose Coronado, María Valverde, Martiño Rivas, Maribel Verdú, Gonzalo de Castro",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+          "slug": "el-problema-final",
+          "tmdbId": "290720",
+          "type": "series"
+        },
+        {
           "title": "Materia oscura",
           "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
           "rating": 7.79,
@@ -713,38 +745,6 @@
           "slug": "disaster-the-chernobyl-meltdown",
           "tmdbId": "313406",
           "type": "series"
-        },
-        {
-          "title": "Youth",
-          "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zKaTNcWmP2dxYnxmOAVhBvSqNy9.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
-          "slug": "youth",
-          "tmdbId": "285418",
-          "type": "series"
-        },
-        {
-          "title": "American Hostage",
-          "synopsis": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
-          "rating": 7.2,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Drama"
-          ],
-          "cast": "Jon Hamm, Giovanni Ribisi, Kristoffer Polaha, William Jackson Harper, Mireille Enos",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cJX6cFqJsX4cWe3DeZBJzg7w4rH.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
-          "slug": "american-hostage",
-          "tmdbId": "239618",
-          "type": "series"
         }
       ]
     },
@@ -754,6 +754,37 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
+          "title": "El problema final",
+          "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
+          "rating": 6.28,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Misterio"
+          ],
+          "cast": "Jose Coronado, María Valverde, Martiño Rivas, Maribel Verdú, Gonzalo de Castro",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+          "slug": "el-problema-final",
+          "tmdbId": "290720",
+          "type": "series"
+        },
+        {
+          "title": "Paolo",
+          "synopsis": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Misterio"
+          ],
+          "cast": "Jérôme Niel, Yoann Gasiorowski, Magalie Lépine-Blondeau, Marie Oppert, Léo Chalié",
+          "posterUrl": "https://image.tmdb.org/t/p/original/eJok284sxTZzHviPNGpMCeVO448.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
+          "slug": "paolo",
+          "tmdbId": "288385",
+          "type": "series"
+        },
+        {
           "title": "Youth",
           "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
           "rating": 8,
@@ -783,22 +814,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
           "slug": "american-hostage",
           "tmdbId": "239618",
-          "type": "series"
-        },
-        {
-          "title": "Cautiva",
-          "synopsis": "Miniserie de televisión dramática argentina coproducida por TNT y FLOW. Sigue la vida de una monja que después de quince años logra escapar de un convento de clausura, donde fue víctima de violencia psicológica y retenida en contra de su voluntad. Protagonizada por Carolina Kopelioff, Lorena Vega, Rita Cortese y Julieta Zylberberg.",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Crimen"
-          ],
-          "cast": "Carolina Kopelioff, Lorena Vega, Valeria Lois, Tomás Wicz, Lautaro Bettoni",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uWCL01IPrfDTjO2VTzMwZvVPzXv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
-          "slug": "cautiva",
-          "tmdbId": "333631",
           "type": "series"
         },
         {
@@ -817,34 +832,19 @@
           "type": "series"
         },
         {
-          "title": "Monstruo: La historia de Lizzie Borden",
-          "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-          "rating": 7.13,
+          "title": "Cautiva",
+          "synopsis": "Miniserie de televisión dramática argentina coproducida por TNT y FLOW. Sigue la vida de una monja que después de quince años logra escapar de un convento de clausura, donde fue víctima de violencia psicológica y retenida en contra de su voluntad. Protagonizada por Carolina Kopelioff, Lorena Vega, Rita Cortese y Julieta Zylberberg.",
+          "rating": 6,
           "year": "2026",
           "genres": [
             "Drama",
             "Crimen"
           ],
-          "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
-          "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-          "slug": "monstruo-la-historia-de-lizzie-borden",
-          "tmdbId": "299939",
-          "type": "series"
-        },
-        {
-          "title": "Te conozco",
-          "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
-          "rating": 7.1,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Melis Sezen, Elçin Sangu, Ozan Dolunay, Cemal Hünal, Efe Taşdelen",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hNIxYGmnnwtYDLsDq9U93XSwcLI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
-          "slug": "te-conozco",
-          "tmdbId": "320760",
+          "cast": "Carolina Kopelioff, Lorena Vega, Valeria Lois, Tomás Wicz, Lautaro Bettoni",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uWCL01IPrfDTjO2VTzMwZvVPzXv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
+          "slug": "cautiva",
+          "tmdbId": "333631",
           "type": "series"
         },
         {
@@ -881,31 +881,34 @@
           "type": "series"
         },
         {
-          "title": "Habilidad física: 100-México",
-          "synopsis": "Reality Competition show adaptación del formato original coreano.",
-          "rating": 9.27,
+          "title": "Monstruo: La historia de Lizzie Borden",
+          "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
+          "rating": 7.13,
           "year": "2026",
-          "genres": [],
-          "cast": "Carlos Salcido, Pascal Nadaud, Juan Francisco Estrada, Pee Wee, Irma Garcia",
-          "posterUrl": "https://image.tmdb.org/t/p/original/1XlmHy8pD2XQg0cttKA5xHt5sYh.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg",
-          "slug": "habilidad-fisica-100-mexico",
-          "tmdbId": "332282",
+          "genres": [
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
+          "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+          "slug": "monstruo-la-historia-de-lizzie-borden",
+          "tmdbId": "299939",
           "type": "series"
         },
         {
-          "title": "Catedrales",
-          "synopsis": "Una joven de 17 años es hallada quemada y descuartizada en un baldío de un barrio de clase media de Santiago de Chile. Por impericia policial el crimen queda impune hasta que treinta años más tarde la familia consigue organizar el rompecabezas del asesinato que les revela una relación prohibida y una cruel verdad.",
-          "rating": 8.5,
+          "title": "Te conozco",
+          "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
+          "rating": 7.1,
           "year": "2026",
           "genres": [
             "Drama"
           ],
-          "cast": "Alfredo Castro, Paulina García, Octavia Bernasconi, Ignacia Baeza, Vivianne Dietz",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7LQKFR1iOlIZkbDLbhcLOBWfmXk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lXfOj4JcnyW0KdfMLrLTLegju5I.jpg",
-          "slug": "catedrales",
-          "tmdbId": "330302",
+          "cast": "Melis Sezen, Elçin Sangu, Ozan Dolunay, Cemal Hünal, Efe Taşdelen",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hNIxYGmnnwtYDLsDq9U93XSwcLI.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
+          "slug": "te-conozco",
+          "tmdbId": "320760",
           "type": "series"
         }
       ]
