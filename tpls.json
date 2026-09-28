@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T15:38:38Z",
+  "updatedAt": "2026-09-28T13:32:55Z",
   "source": "tpls",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -13758,6 +13758,7 @@
     "310045": {"slug": "amar-perder"},
     "310198": {"slug": "hermanas-un-amor-compartido"},
     "310239": {"slug": "el-museo-de-la-inocencia"},
+    "310290": {"slug": "mis-muertos-tristes"},
     "310800": {"slug": "el-beso-de-la-sirena"},
     "310935": {"slug": "la-chica-nueva-el-reinicio"},
     "310954": {"slug": "las-de-siempre"},
@@ -13778,7 +13779,7 @@
     "314916": {"slug": "incondicional"},
     "315051": {"slug": "polen"},
     "315939": {"slug": "o11ce-nueva-generacion"},
-    "316205": {"slug": "profunda-venganza"},
+    "316205": {"slug": "el-rostro-de-la-venganza"},
     "316488": {"slug": "amores-inesperados"},
     "316832": {"slug": "la-isla-del-minotauro"},
     "316961": {"slug": "los-asesinos-de-colosio"},
