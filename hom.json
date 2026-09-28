@@ -55,6 +55,23 @@
       "duration": "93 min"
     },
     {
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.19,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Suspenso"
+      ],
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
+      "type": "movie",
+      "duration": "100 min"
+    },
+    {
       "title": "En el corazón de la bestia",
       "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
       "rating": 7.87,
@@ -87,42 +104,25 @@
       "tmdbId": "1032863",
       "type": "movie",
       "duration": "112 min"
-    },
-    {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.19,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Suspenso"
-      ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
-      "type": "movie",
-      "duration": "100 min"
     }
   ],
   "seriesHero": [
     {
-      "title": "One Piece",
-      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
-      "rating": 8.8,
-      "year": "1999",
+      "title": "Linternas",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "rating": 8.27,
+      "year": "2026",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Comedia",
-        "Animación"
+        "Drama",
+        "Misterio",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "slug": "one-piece",
-      "tmdbId": "37854",
+      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
+      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "slug": "linternas",
+      "tmdbId": "95350",
       "type": "series"
     },
     {
@@ -145,9 +145,27 @@
       "type": "series"
     },
     {
+      "title": "One Piece",
+      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "rating": 8.8,
+      "year": "1999",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Animación"
+      ],
+      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "slug": "one-piece",
+      "tmdbId": "37854",
+      "type": "series"
+    },
+    {
       "title": "Tierra de mafiosos",
       "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.42,
+      "rating": 8.4,
       "year": "2025",
       "genres": [
         "Crimen",
@@ -161,54 +179,36 @@
       "type": "series"
     },
     {
-      "title": "Linternas",
-      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.2,
-      "year": "2026",
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+      "synopsis": "Después de treinta y cinco años de una vida perfectamente ordinaria, un oficinista común y corriente de repente cae muerto... ¡solo para renacer en otro mundo! Ahora debe vivir como Ars Louvent, vástago de una familia noble menor y poseedor de una habilidad fabulosa: la evaluación, el poder de percibir las fortalezas y habilidades de los demás de un vistazo.¡Él también lo necesitará, porque hay muchos problemas que resolver en el territorio de la familia Louvent! Ars solo tiene una opción: ¡reclutar a las personas más talentosas que su habilidad pueda encontrar y ascender a nuevas alturas en su nuevo mundo!",
+      "rating": 7.4,
+      "year": "2024",
       "genres": [
-        "Drama",
-        "Misterio",
+        "Animación",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
-      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "slug": "linternas",
-      "tmdbId": "95350",
+      "cast": "Natsumi Fujiwara, 坂泰斗, 佳穂成美, 岡咲美保, Kana Hanazawa",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pMLitK7uCKoF25dNn5Xai0RuFra.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hhxCYAcFdeoiaBjKshMgKEp1X9E.jpg",
+      "slug": "tensei-kizoku-kantei-skill-de-nariagaru",
+      "tmdbId": "237150",
       "type": "series"
     },
     {
-      "title": "Reacher",
-      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
-      "rating": 8.13,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Crimen"
-      ],
-      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "slug": "reacher",
-      "tmdbId": "108978",
-      "type": "series"
-    },
-    {
-      "title": "Monstruo: La historia de Lizzie Borden",
-      "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-      "rating": 7.13,
+      "title": "El problema final",
+      "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
+      "rating": 6.68,
       "year": "2026",
       "genres": [
-        "Drama",
-        "Crimen"
+        "Crimen",
+        "Misterio"
       ],
-      "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
-      "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "slug": "monstruo-la-historia-de-lizzie-borden",
-      "tmdbId": "299939",
+      "cast": "Jose Coronado, María Valverde, Martiño Rivas, Maribel Verdú, Gonzalo de Castro",
+      "posterUrl": "https://image.tmdb.org/t/p/original/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+      "slug": "el-problema-final",
+      "tmdbId": "290720",
       "type": "series"
     }
   ],
@@ -221,7 +221,7 @@
         {
           "title": "Insaciable",
           "synopsis": "Hana, una estudiante de medicina con una fuerte dismorfia corporal, se somete a una moda de adelgazamiento tan absurda como macabra: comer cenizas humanas. A partir de ese momento, comienza a ser acosada por un fantasma hambriento, una manifestación literal del mito del 'hungry ghost'.",
-          "rating": 6.88,
+          "rating": 6.87,
           "year": "2026",
           "genres": [
             "Terror"
@@ -310,7 +310,7 @@
         {
           "title": "La muerte de Robin Hood",
           "synopsis": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
-          "rating": 6.55,
+          "rating": 6.6,
           "year": "2026",
           "genres": [
             "Aventura",
@@ -759,7 +759,7 @@
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 6.28,
+          "rating": 6.68,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -806,7 +806,7 @@
         {
           "title": "American Hostage",
           "synopsis": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
-          "rating": 7.2,
+          "rating": 6.8,
           "year": "2026",
           "genres": [
             "Crimen",
