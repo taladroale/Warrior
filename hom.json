@@ -110,7 +110,7 @@
     {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.27,
+      "rating": 8.3,
       "year": "2026",
       "genres": [
         "Drama",
@@ -310,7 +310,7 @@
         {
           "title": "La muerte de Robin Hood",
           "synopsis": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
-          "rating": 6.6,
+          "rating": 6.61,
           "year": "2026",
           "genres": [
             "Aventura",
@@ -407,15 +407,15 @@
         {
           "title": "UNABOMBER",
           "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-          "rating": 7.08,
+          "rating": 6.99,
           "year": "2026",
           "genres": [
             "Suspenso",
             "Drama",
             "Crimen"
           ],
-          "cast": "Russell Crowe, Shailene Woodley, Jacob Tremblay, Annabelle Wallis, Alexander Ludwig",
-          "posterUrl": "https://image.tmdb.org/t/p/original/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+          "cast": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jfYo76IOCphg2fmKX5UJvgcimy4.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
           "slug": "unabomber",
           "tmdbId": "1492640",
@@ -425,7 +425,7 @@
         {
           "title": "Spidey y Los Vengadores: Superequipo Halloween",
           "synopsis": "Los planes de Halloween de Spidey y los Vengadores se ponen patas arriba por la misteriosa Eva de los Santos, quien juega trucos mágicos en trucos o tratadores y planea arruinar Halloween para siempre.",
-          "rating": 0,
+          "rating": 8.5,
           "year": "2026",
           "genres": [
             "Animación",
@@ -438,12 +438,13 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/5Ur40GWrgeLePW6RAYZZoS5BRLk.jpg",
           "slug": "spidey-and-the-avengers-halloween-team-up",
           "tmdbId": "1750432",
-          "type": "movie"
+          "type": "movie",
+          "duration": "29 min"
         },
         {
           "title": "La hipótesis del amor",
           "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-          "rating": 8.27,
+          "rating": 8.2,
           "year": "2026",
           "genres": [
             "Romance",
@@ -460,7 +461,7 @@
         {
           "title": "Un último disparo",
           "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-          "rating": 7.7,
+          "rating": 7.6,
           "year": "2026",
           "genres": [
             "Acción",
@@ -477,13 +478,13 @@
         {
           "title": "En el corazón de la bestia",
           "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-          "rating": 7.87,
+          "rating": 7.69,
           "year": "2026",
           "genres": [
             "Aventura",
             "Suspenso"
           ],
-          "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Olivia Hamilton, Brad Pitt",
+          "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
           "posterUrl": "https://image.tmdb.org/t/p/original/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
           "slug": "en-el-corazon-de-la-bestia",
@@ -511,7 +512,7 @@
         {
           "title": "Tú+Yo - Solos contra todos",
           "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
-          "rating": 5.6,
+          "rating": 5.88,
           "year": "2026",
           "genres": [
             "Romance",
@@ -528,7 +529,7 @@
         {
           "title": "Las mejores",
           "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
-          "rating": 5.1,
+          "rating": 5.26,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -562,7 +563,7 @@
         {
           "title": "Gracias, equipo",
           "synopsis": "Nos contará la historia de la empresa Tío Mochales, antaño reina indiscutible del queso español. Hoy es una empresa un poco oxidada pero empeñada en mantener la imagen. Su última gran idea: organizar un team building rural en el pueblo donde la empresa se fundó. Pero lo que debía ser un retiro para reconectar con los valores de siempre, se convierte en una encerrona cuando descubren que se vienen despidos, y muchos, seguida de una batalla campal de peloteo, traiciones y filtraciones",
-          "rating": 5.16,
+          "rating": 5.28,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -587,7 +588,7 @@
         {
           "title": "Linternas",
           "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-          "rating": 8.27,
+          "rating": 8.3,
           "year": "2026",
           "genres": [
             "Drama",
