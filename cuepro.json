@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T13:10:15Z",
+  "updatedAt": "2026-09-29T12:53:29Z",
   "source": "cuepro",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -9239,6 +9239,7 @@
     "677157": {"slug": "the-monsters-without"},
     "677179": {"slug": "creed-iii"},
     "677209": {"slug": "you-re-bacon-me-crazy"},
+    "677561": {"slug": "les-legendaires"},
     "677574": {"slug": "el-inconveniente"},
     "677602": {"slug": "gran-blue"},
     "677638": {"slug": "escandalosos-la-pelicula"},
@@ -16085,6 +16086,7 @@
     "1394818": {"slug": "only-on-earth"},
     "1395177": {"slug": "det-andet-offer"},
     "1395642": {"slug": "umjolo-desde-el-primer-dia"},
+    "1395661": {"slug": "itt-erzem-magam-otthon"},
     "1395761": {"slug": "nowhere-land"},
     "1396371": {"slug": "les-irresponsables"},
     "1396491": {"slug": "neighbors-who-kill"},
@@ -16275,6 +16277,7 @@
     "1434973": {"slug": "la-tregua"},
     "1435092": {"slug": "adios-june"},
     "1435734": {"slug": "altas-capacidades"},
+    "1435760": {"slug": "andrew-schulz-life"},
     "1436219": {"slug": "pizza-movies"},
     "1436524": {"slug": "matthew-perry-a-hollywood-tragedy"},
     "1436706": {"slug": "padres"},
@@ -16510,6 +16513,7 @@
     "1506747": {"slug": "hugo-24"},
     "1507275": {"slug": "paw-patrol-especial-de-navidad"},
     "1507724": {"slug": "labyrinth"},
+    "1507796": {"slug": "on-the-sea"},
     "1508191": {"slug": "ozzy-no-escape-from-now"},
     "1508458": {"slug": "donana-donde-el-agua-es-sagrada"},
     "1508562": {"slug": "sigo-siendo-la-misma"},
@@ -20569,6 +20573,7 @@
     "297464": {"slug": "la-huesped-2"},
     "297492": {"slug": "estado-de-fuga-1986"},
     "297791": {"slug": "love-con-revenge"},
+    "297982": {"slug": "insustituible"},
     "298168": {"slug": "fragmentos-2"},
     "298234": {"slug": "nombre-artistico-charlie-sheen"},
     "298425": {"slug": "the-lady"},
@@ -20794,6 +20799,7 @@
     "332657": {"slug": "route-187"},
     "332863": {"slug": "en-coma"},
     "333096": {"slug": "hotel-todo-incluido"},
-    "333631": {"slug": "cautiva"}
+    "333631": {"slug": "cautiva"},
+    "336083": {"slug": "sin-senal-2"}
   }
 }
