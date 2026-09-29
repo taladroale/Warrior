@@ -36,24 +36,6 @@
       "duration": "128 min"
     },
     {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.34,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
-      "type": "movie",
-      "duration": "93 min"
-    },
-    {
       "title": "Coyote vs. Acme",
       "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
       "rating": 7.56,
@@ -70,6 +52,24 @@
       "tmdbId": "1204680",
       "type": "movie",
       "duration": "103 min"
+    },
+    {
+      "title": "Resident Evil",
+      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 7.34,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "slug": "resident-evil-1423191",
+      "tmdbId": "1423191",
+      "type": "movie",
+      "duration": "93 min"
     },
     {
       "title": "UNABOMBER",
@@ -90,22 +90,21 @@
       "duration": "101 min"
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.9,
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.19,
       "year": "2026",
       "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
+        "Terror",
+        "Suspenso"
       ],
-      "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681",
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
       "type": "movie",
-      "duration": "144 min"
+      "duration": "100 min"
     }
   ],
   "seriesHero": [
@@ -128,24 +127,6 @@
       "type": "series"
     },
     {
-      "title": "Futurama",
-      "synopsis": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
-      "rating": 8.37,
-      "year": "1999",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Billy West, Katey Sagal, John DiMaggio, Tress MacNeille, Maurice LaMarche",
-      "posterUrl": "https://image.tmdb.org/t/p/original/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-      "slug": "futurama",
-      "tmdbId": "615",
-      "type": "series"
-    },
-    {
       "title": "Los Simpson",
       "synopsis": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
       "rating": 8.02,
@@ -162,19 +143,21 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.4,
-      "year": "2025",
+      "title": "Futurama",
+      "synopsis": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
+      "rating": 8.37,
+      "year": "1999",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Animación",
+        "Comedia",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Billy West, Katey Sagal, John DiMaggio, Tress MacNeille, Maurice LaMarche",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "slug": "futurama",
+      "tmdbId": "615",
       "type": "series"
     },
     {
@@ -212,6 +195,24 @@
       "slug": "reacher",
       "tmdbId": "108978",
       "type": "series"
+    },
+    {
+      "title": "One Piece",
+      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "rating": 8.8,
+      "year": "1999",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Animación"
+      ],
+      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "slug": "one-piece",
+      "tmdbId": "37854",
+      "type": "series"
     }
   ],
   "movieSections": [
@@ -221,9 +222,27 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "El hombre que desafió al rey",
+          "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
+          "rating": 7.5,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Historia",
+            "Drama"
+          ],
+          "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Tom Hollander, Cosmo Jarvis",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+          "slug": "el-hombre-que-desafio-al-rey",
+          "tmdbId": "977942",
+          "type": "movie",
+          "duration": "128 min"
+        },
+        {
           "title": "Entrega al límite",
           "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-          "rating": 8,
+          "rating": 7.98,
           "year": "2026",
           "genres": [
             "Acción",
@@ -239,8 +258,8 @@
         },
         {
           "title": "LifeHack",
-          "synopsis": "A thrill-seeking gang of teen hackers must pull off their riskiest heist yet when a woman blackmails them into targeting her crypto-billionaire father.",
-          "rating": 7.1,
+          "synopsis": "Cuatro adolescentes holgazanes intentan un robo multimillonario de Bitcoin desde sus dormitorios, pero se ven envueltos en los rincones más oscuros de Internet y en un peligro que va más allá de las pantallas de sus ordenadores.",
+          "rating": 6.9,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -257,7 +276,7 @@
         {
           "title": "Insaciable",
           "synopsis": "Hana, una estudiante de medicina con una fuerte dismorfia corporal, se somete a una moda de adelgazamiento tan absurda como macabra: comer cenizas humanas. A partir de ese momento, comienza a ser acosada por un fantasma hambriento, una manifestación literal del mito del 'hungry ghost'.",
-          "rating": 6.88,
+          "rating": 6.89,
           "year": "2026",
           "genres": [
             "Terror"
@@ -273,7 +292,7 @@
         {
           "title": "La hipótesis del amor",
           "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-          "rating": 8.19,
+          "rating": 8.15,
           "year": "2026",
           "genres": [
             "Romance",
@@ -290,7 +309,7 @@
         {
           "title": "UNABOMBER",
           "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-          "rating": 6.99,
+          "rating": 6.92,
           "year": "2026",
           "genres": [
             "Suspenso",
@@ -308,7 +327,7 @@
         {
           "title": "Hot Spot",
           "synopsis": "A finales del siglo XXI, un investigador y un miembro de una temida secta religiosa se unen tras un asesinato en un campo de refugiados.",
-          "rating": 4.9,
+          "rating": 4.76,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
@@ -328,7 +347,7 @@
         {
           "title": "Spidey y Los Vengadores: Superequipo Halloween",
           "synopsis": "Los planes de Halloween de Spidey y los Vengadores se ponen patas arriba por la misteriosa Eva de los Santos, quien juega trucos mágicos en trucos o tratadores y planea arruinar Halloween para siempre.",
-          "rating": 8.5,
+          "rating": 7.4,
           "year": "2026",
           "genres": [
             "Animación",
@@ -342,12 +361,12 @@
           "slug": "spidey-and-the-avengers-halloween-team-up",
           "tmdbId": "1750432",
           "type": "movie",
-          "duration": "29 min"
+          "duration": "26 min"
         },
         {
           "title": "La muerte de Robin Hood",
           "synopsis": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
-          "rating": 6.61,
+          "rating": 6.65,
           "year": "2026",
           "genres": [
             "Aventura",
@@ -381,23 +400,6 @@
           "tmdbId": "1193824",
           "type": "movie",
           "duration": "88 min"
-        },
-        {
-          "title": "Un último disparo",
-          "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-          "rating": 7.56,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Suspenso"
-          ],
-          "cast": "Scott Adkins, Steven Cree, Hannah Ware, Dolph Lundgren, ケイン・コスギ",
-          "posterUrl": "https://image.tmdb.org/t/p/original/opmrLPrV2GPSazjWbX2PhkLjxBe.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-          "slug": "one-last-shot",
-          "tmdbId": "1607127",
-          "type": "movie",
-          "duration": "98 min"
         }
       ]
     },
