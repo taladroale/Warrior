@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "updatedAt": "2026-09-28T13:17:30Z",
-  "total": 19813,
+  "updatedAt": "2026-09-29T12:33:09Z",
+  "total": 19814,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias-episodio-iv-una-nueva-esperanza","imdb":"tt0076759"},
     "12": {"slug":"buscando-a-nemo","imdb":"tt0266543"},
@@ -19817,6 +19817,7 @@
     "312474": {"slug":"nippon-sangoku-RXrPw6","imdb":"tt40548519"},
     "312949": {"slug":"chainsmoker-cat-3JywjI","imdb":"tt39551330"},
     "316973": {"slug":"diente-de-leon-Rvxy82","imdb":"tt40356933"},
+    "324502": {"slug":"-lXvHKM","imdb":"tt43691353"},
     "326119": {"slug":"-IqyUSG","imdb":"tt43589481"},
     "335660": {"slug":"bleach-2022","imdb":"tt14986406"},
     "567006": {"slug":"kabaneri-de-la-fortaleza-de-hierro","imdb":"tt10253816"}
