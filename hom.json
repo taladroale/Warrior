@@ -3,12 +3,11 @@
     {
       "title": "Entrega al límite",
       "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-      "rating": 7.57,
+      "rating": 7.59,
       "year": "2026",
       "genres": [
         "Acción",
-        "Comedia",
-        "Suspenso"
+        "Comedia"
       ],
       "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
       "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
@@ -21,15 +20,15 @@
     {
       "title": "UNABOMBER",
       "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-      "rating": 7.08,
+      "rating": 6.99,
       "year": "2026",
       "genres": [
         "Suspenso",
         "Drama",
         "Crimen"
       ],
-      "cast": "Russell Crowe, Shailene Woodley, Jacob Tremblay, Annabelle Wallis, Alexander Ludwig",
-      "posterUrl": "https://image.tmdb.org/t/p/original/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "cast": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig",
+      "posterUrl": "https://image.tmdb.org/t/p/original/jfYo76IOCphg2fmKX5UJvgcimy4.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
       "slug": "unabomber",
       "tmdbId": "1492640",
@@ -39,7 +38,7 @@
     {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.3,
+      "rating": 7.34,
       "year": "2026",
       "genres": [
         "Terror",
@@ -53,6 +52,24 @@
       "tmdbId": "1423191",
       "type": "movie",
       "duration": "93 min"
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 7.9,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681",
+      "type": "movie",
+      "duration": "144 min"
     },
     {
       "title": "Obsession",
@@ -74,43 +91,26 @@
     {
       "title": "En el corazón de la bestia",
       "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.87,
+      "rating": 7.7,
       "year": "2026",
       "genres": [
         "Aventura",
         "Suspenso"
       ],
-      "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Olivia Hamilton, Brad Pitt",
+      "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
       "posterUrl": "https://image.tmdb.org/t/p/original/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "slug": "en-el-corazon-de-la-bestia",
       "tmdbId": "1263337",
       "type": "movie",
       "duration": "101 min"
-    },
-    {
-      "title": "La hipótesis del amor",
-      "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-      "rating": 8.27,
-      "year": "2026",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "cast": "Lili Reinhart, Tom Bateman, Rachel Marsh, Jaboukie Young-White, Nicholas Duvernay",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "slug": "la-hipotesis-del-amor",
-      "tmdbId": "1032863",
-      "type": "movie",
-      "duration": "112 min"
     }
   ],
   "seriesHero": [
     {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.3,
+      "rating": 8.31,
       "year": "2026",
       "genres": [
         "Drama",
@@ -179,36 +179,37 @@
       "type": "series"
     },
     {
-      "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-      "synopsis": "Después de treinta y cinco años de una vida perfectamente ordinaria, un oficinista común y corriente de repente cae muerto... ¡solo para renacer en otro mundo! Ahora debe vivir como Ars Louvent, vástago de una familia noble menor y poseedor de una habilidad fabulosa: la evaluación, el poder de percibir las fortalezas y habilidades de los demás de un vistazo.¡Él también lo necesitará, porque hay muchos problemas que resolver en el territorio de la familia Louvent! Ars solo tiene una opción: ¡reclutar a las personas más talentosas que su habilidad pueda encontrar y ascender a nuevas alturas en su nuevo mundo!",
-      "rating": 7.4,
-      "year": "2024",
+      "title": "Los Simpson",
+      "synopsis": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
+      "rating": 8.02,
+      "year": "1989",
       "genres": [
         "Animación",
-        "Ciencia ficción",
-        "Fantasía"
+        "Comedia"
       ],
-      "cast": "Natsumi Fujiwara, 坂泰斗, 佳穂成美, 岡咲美保, Kana Hanazawa",
-      "posterUrl": "https://image.tmdb.org/t/p/original/pMLitK7uCKoF25dNn5Xai0RuFra.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hhxCYAcFdeoiaBjKshMgKEp1X9E.jpg",
-      "slug": "tensei-kizoku-kantei-skill-de-nariagaru",
-      "tmdbId": "237150",
+      "cast": "Dan Castellaneta, Julie Kavner, Nancy Cartwright, Yeardley Smith, Hank Azaria",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "slug": "los-simpson",
+      "tmdbId": "456",
       "type": "series"
     },
     {
-      "title": "El problema final",
-      "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-      "rating": 6.68,
-      "year": "2026",
+      "title": "Futurama",
+      "synopsis": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
+      "rating": 8.37,
+      "year": "1999",
       "genres": [
-        "Crimen",
-        "Misterio"
+        "Animación",
+        "Comedia",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Jose Coronado, María Valverde, Martiño Rivas, Maribel Verdú, Gonzalo de Castro",
-      "posterUrl": "https://image.tmdb.org/t/p/original/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
-      "slug": "el-problema-final",
-      "tmdbId": "290720",
+      "cast": "Billy West, Katey Sagal, John DiMaggio, Tress MacNeille, Maurice LaMarche",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "slug": "futurama",
+      "tmdbId": "615",
       "type": "series"
     }
   ],
@@ -219,9 +220,43 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Entrega al límite",
+          "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+          "rating": 7.59,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Comedia"
+          ],
+          "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+          "slug": "entrega-al-limite",
+          "tmdbId": "1377237",
+          "type": "movie",
+          "duration": "97 min"
+        },
+        {
+          "title": "LifeHack",
+          "synopsis": "A thrill-seeking gang of teen hackers must pull off their riskiest heist yet when a woman blackmails them into targeting her crypto-billionaire father.",
+          "rating": 7.1,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Suspenso"
+          ],
+          "cast": "Georgie Farmer, Yasmin Finney, Roman Hayeck-Green, James Scholz, Jessica Reynolds",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ab8uFG6L3gKnog7ntrUdgo28hzK.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/k13za3wUhd8uejKJ2v9XQsRjxaw.jpg",
+          "slug": "lifehack",
+          "tmdbId": "1285669",
+          "type": "movie",
+          "duration": "97 min"
+        },
+        {
           "title": "Insaciable",
           "synopsis": "Hana, una estudiante de medicina con una fuerte dismorfia corporal, se somete a una moda de adelgazamiento tan absurda como macabra: comer cenizas humanas. A partir de ese momento, comienza a ser acosada por un fantasma hambriento, una manifestación literal del mito del 'hungry ghost'.",
-          "rating": 6.87,
+          "rating": 6.88,
           "year": "2026",
           "genres": [
             "Terror"
@@ -237,7 +272,7 @@
         {
           "title": "La hipótesis del amor",
           "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-          "rating": 8.27,
+          "rating": 8.19,
           "year": "2026",
           "genres": [
             "Romance",
@@ -254,15 +289,15 @@
         {
           "title": "UNABOMBER",
           "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-          "rating": 7.08,
+          "rating": 6.99,
           "year": "2026",
           "genres": [
             "Suspenso",
             "Drama",
             "Crimen"
           ],
-          "cast": "Russell Crowe, Shailene Woodley, Jacob Tremblay, Annabelle Wallis, Alexander Ludwig",
-          "posterUrl": "https://image.tmdb.org/t/p/original/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+          "cast": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jfYo76IOCphg2fmKX5UJvgcimy4.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
           "slug": "unabomber",
           "tmdbId": "1492640",
@@ -272,7 +307,7 @@
         {
           "title": "Hot Spot",
           "synopsis": "A finales del siglo XXI, un investigador y un miembro de una temida secta religiosa se unen tras un asesinato en un campo de refugiados.",
-          "rating": 5.29,
+          "rating": 4.9,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
@@ -292,7 +327,7 @@
         {
           "title": "Spidey y Los Vengadores: Superequipo Halloween",
           "synopsis": "Los planes de Halloween de Spidey y los Vengadores se ponen patas arriba por la misteriosa Eva de los Santos, quien juega trucos mágicos en trucos o tratadores y planea arruinar Halloween para siempre.",
-          "rating": 0,
+          "rating": 8.5,
           "year": "2026",
           "genres": [
             "Animación",
@@ -300,12 +335,13 @@
             "Fantasía",
             "Familia"
           ],
-          "cast": "Alkaio Thiele, Mason Blomberg, Armen Taylor, Hero Hunter, Patrick Stump",
+          "cast": "Nick Fisher, Patrick Stump, Lincoln Bonilla, Armen Taylor, Cruz Flateau",
           "posterUrl": "https://image.tmdb.org/t/p/original/nLhj8GhpL7njlalnIW4DIZyXyaa.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/5Ur40GWrgeLePW6RAYZZoS5BRLk.jpg",
           "slug": "spidey-and-the-avengers-halloween-team-up",
           "tmdbId": "1750432",
-          "type": "movie"
+          "type": "movie",
+          "duration": "29 min"
         },
         {
           "title": "La muerte de Robin Hood",
@@ -328,13 +364,14 @@
         {
           "title": "Rabbit Trap",
           "synopsis": "Cuando una música y su esposo se mudan a una casa remota en Gales, la música que crean altera la magia popular ancestral del lugar, trayendo a su puerta a un niño sin nombre que tiene la intención de infiltrarse en sus vidas.",
-          "rating": 5.67,
+          "rating": 5.8,
           "year": "2025",
           "genres": [
             "Suspenso",
+            "Fantasía",
             "Terror",
             "Misterio",
-            "Fantasía"
+            "Drama"
           ],
           "cast": "Dev Patel, Rosy McEwen, Jade Croot, Nicholas Sampson, Elijah Wood",
           "posterUrl": "https://image.tmdb.org/t/p/original/sKnwnnmBpjo9BEskHtja6ToXUV1.jpg",
@@ -347,7 +384,7 @@
         {
           "title": "Un último disparo",
           "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-          "rating": 7.7,
+          "rating": 7.56,
           "year": "2026",
           "genres": [
             "Acción",
@@ -360,42 +397,6 @@
           "tmdbId": "1607127",
           "type": "movie",
           "duration": "98 min"
-        },
-        {
-          "title": "Spider-Man: Brand New Day",
-          "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-          "rating": 7.86,
-          "year": "2026",
-          "genres": [
-            "Ciencia ficción",
-            "Acción",
-            "Aventura"
-          ],
-          "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
-          "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-          "slug": "spider-man-brand-new-day",
-          "tmdbId": "969681",
-          "type": "movie",
-          "duration": "144 min"
-        },
-        {
-          "title": "Dulce sabor a muerte",
-          "synopsis": "Lo que comienza siendo un verano idílico, en un pequeño y tranquilo pueblo vacacional, se convierte en una auténtica pesadilla cuando los más pequeños comienzan a mostrar instintos asesinos y deseos insaciables por acabar con todos los adultos. Son víctimas de una curiosa maldición provocada por los helados que comen que afecta a todos, menos a tres niños que tendrán que intentar escapar y salvar a todo el pueblo.",
-          "rating": 4.6,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Comedia",
-            "Suspenso"
-          ],
-          "cast": "Ari Millen, Charlie Zeltzer, Shiloh O’Reilly, Kiori Mirza Waldman, Sarah Abbott",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uVuP2ZTYLn5hdL1aUOe4BiFD6d3.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
-          "slug": "dulce-sabor-a-muerte",
-          "tmdbId": "1477712",
-          "type": "movie",
-          "duration": "86 min"
         }
       ]
     },
@@ -433,7 +434,7 @@
             "Fantasía",
             "Familia"
           ],
-          "cast": "Alkaio Thiele, Mason Blomberg, Armen Taylor, Hero Hunter, Patrick Stump",
+          "cast": "Nick Fisher, Patrick Stump, Lincoln Bonilla, Armen Taylor, Cruz Flateau",
           "posterUrl": "https://image.tmdb.org/t/p/original/nLhj8GhpL7njlalnIW4DIZyXyaa.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/5Ur40GWrgeLePW6RAYZZoS5BRLk.jpg",
           "slug": "spidey-and-the-avengers-halloween-team-up",
@@ -444,7 +445,7 @@
         {
           "title": "La hipótesis del amor",
           "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-          "rating": 8.2,
+          "rating": 8.19,
           "year": "2026",
           "genres": [
             "Romance",
@@ -461,7 +462,7 @@
         {
           "title": "Un último disparo",
           "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-          "rating": 7.6,
+          "rating": 7.56,
           "year": "2026",
           "genres": [
             "Acción",
@@ -478,7 +479,7 @@
         {
           "title": "En el corazón de la bestia",
           "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-          "rating": 7.69,
+          "rating": 7.7,
           "year": "2026",
           "genres": [
             "Aventura",
@@ -512,7 +513,7 @@
         {
           "title": "Tú+Yo - Solos contra todos",
           "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
-          "rating": 5.88,
+          "rating": 5.84,
           "year": "2026",
           "genres": [
             "Romance",
@@ -529,7 +530,7 @@
         {
           "title": "Las mejores",
           "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
-          "rating": 5.26,
+          "rating": 5.3,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -545,7 +546,7 @@
         {
           "title": "Resident Evil",
           "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-          "rating": 7.3,
+          "rating": 7.34,
           "year": "2026",
           "genres": [
             "Terror",
@@ -586,9 +587,41 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Presidente Curtis",
+          "synopsis": "El presidente Curtis sigue al Comandante en Jefe y su excéntrico equipo en investigaciones paranormales y fenómenos inexplicables.",
+          "rating": 6.7,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Comedia"
+          ],
+          "cast": "Keith David, Stephanie Beatriz, Jim Rash",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vnGkkbbpTcdxLKB9DupMg5KcYp4.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+          "slug": "presidente-curtis",
+          "tmdbId": "296756",
+          "type": "series"
+        },
+        {
+          "title": "Youth",
+          "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
+          "rating": 7.7,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zKaTNcWmP2dxYnxmOAVhBvSqNy9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
+          "slug": "youth",
+          "tmdbId": "285418",
+          "type": "series"
+        },
+        {
           "title": "Linternas",
           "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-          "rating": 8.3,
+          "rating": 8.31,
           "year": "2026",
           "genres": [
             "Drama",
@@ -621,7 +654,7 @@
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 6.68,
+          "rating": 7.2,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -718,37 +751,6 @@
           "slug": "american-horror-story",
           "tmdbId": "1413",
           "type": "series"
-        },
-        {
-          "title": "Ted Lasso",
-          "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-          "rating": 8.4,
-          "year": "2020",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-          "slug": "ted-lasso",
-          "tmdbId": "97546",
-          "type": "series"
-        },
-        {
-          "title": "Colisión",
-          "synopsis": "Muerto el magnate Miguel Ángel en un misterioso accidente, su hija Zoé y su esposa separada Belén luchan por su empresa.",
-          "rating": 6.5,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Margarita Rosa de Francisco, Macarena Achaga, Diego Klein, Christian Vázquez, Juan Pablo Castaneda",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4loiHfZZx027yP0CtErtCPbkTc1.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
-          "slug": "colision",
-          "tmdbId": "331033",
-          "type": "series"
         }
       ]
     },
@@ -760,7 +762,7 @@
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 6.68,
+          "rating": 7.2,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -791,7 +793,7 @@
         {
           "title": "Youth",
           "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-          "rating": 8,
+          "rating": 7.7,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -807,7 +809,7 @@
         {
           "title": "American Hostage",
           "synopsis": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
-          "rating": 6.8,
+          "rating": 6.63,
           "year": "2026",
           "genres": [
             "Crimen",
