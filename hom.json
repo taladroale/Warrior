@@ -18,6 +18,24 @@
       "duration": "97 min"
     },
     {
+      "title": "El hombre que desafió al rey",
+      "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
+      "rating": 7.2,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Historia",
+        "Drama"
+      ],
+      "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Tom Hollander, Cosmo Jarvis",
+      "posterUrl": "https://image.tmdb.org/t/p/original/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+      "slug": "el-hombre-que-desafio-al-rey",
+      "tmdbId": "977942",
+      "type": "movie",
+      "duration": "128 min"
+    },
+    {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
       "rating": 7.34,
@@ -34,6 +52,24 @@
       "tmdbId": "1423191",
       "type": "movie",
       "duration": "93 min"
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "rating": 7.56,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ],
+      "cast": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680",
+      "type": "movie",
+      "duration": "103 min"
     },
     {
       "title": "UNABOMBER",
@@ -70,40 +106,6 @@
       "tmdbId": "969681",
       "type": "movie",
       "duration": "144 min"
-    },
-    {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.19,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Suspenso"
-      ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
-      "type": "movie",
-      "duration": "100 min"
-    },
-    {
-      "title": "En el corazón de la bestia",
-      "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.7,
-      "year": "2026",
-      "genres": [
-        "Aventura",
-        "Suspenso"
-      ],
-      "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
-      "posterUrl": "https://image.tmdb.org/t/p/original/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "slug": "en-el-corazon-de-la-bestia",
-      "tmdbId": "1263337",
-      "type": "movie",
-      "duration": "101 min"
     }
   ],
   "seriesHero": [
@@ -221,7 +223,7 @@
         {
           "title": "Entrega al límite",
           "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-          "rating": 7.59,
+          "rating": 8,
           "year": "2026",
           "genres": [
             "Acción",
@@ -588,7 +590,7 @@
         {
           "title": "Presidente Curtis",
           "synopsis": "El presidente Curtis sigue al Comandante en Jefe y su excéntrico equipo en investigaciones paranormales y fenómenos inexplicables.",
-          "rating": 6.7,
+          "rating": 6.78,
           "year": "2026",
           "genres": [
             "Animación",
@@ -703,7 +705,7 @@
         {
           "title": "Stuart no consigue salvar el universo",
           "synopsis": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
-          "rating": 8.5,
+          "rating": 8.49,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -736,7 +738,7 @@
         {
           "title": "American Horror Story",
           "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-          "rating": 8.07,
+          "rating": 8.1,
           "year": "2011",
           "genres": [
             "Drama",
