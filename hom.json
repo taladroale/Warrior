@@ -3,7 +3,7 @@
     {
       "title": "Entrega al límite",
       "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-      "rating": 7.59,
+      "rating": 8,
       "year": "2026",
       "genres": [
         "Acción",
@@ -16,24 +16,6 @@
       "tmdbId": "1377237",
       "type": "movie",
       "duration": "97 min"
-    },
-    {
-      "title": "UNABOMBER",
-      "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-      "rating": 6.99,
-      "year": "2026",
-      "genres": [
-        "Suspenso",
-        "Drama",
-        "Crimen"
-      ],
-      "cast": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig",
-      "posterUrl": "https://image.tmdb.org/t/p/original/jfYo76IOCphg2fmKX5UJvgcimy4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "slug": "unabomber",
-      "tmdbId": "1492640",
-      "type": "movie",
-      "duration": "101 min"
     },
     {
       "title": "Resident Evil",
@@ -52,6 +34,24 @@
       "tmdbId": "1423191",
       "type": "movie",
       "duration": "93 min"
+    },
+    {
+      "title": "UNABOMBER",
+      "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
+      "rating": 6.99,
+      "year": "2026",
+      "genres": [
+        "Suspenso",
+        "Drama",
+        "Crimen"
+      ],
+      "cast": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig",
+      "posterUrl": "https://image.tmdb.org/t/p/original/jfYo76IOCphg2fmKX5UJvgcimy4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "slug": "unabomber",
+      "tmdbId": "1492640",
+      "type": "movie",
+      "duration": "101 min"
     },
     {
       "title": "Spider-Man: Brand New Day",
@@ -126,56 +126,21 @@
       "type": "series"
     },
     {
-      "title": "Mushoku Tensei Jobless Reincarnation",
-      "synopsis": "Cuando un autobús atropella a un joven de 34 años que no ha logrado mucho en su vida, su historia no termina ahí. Habiendo reencarnado en un niño, Rudy aprovechará cada oportunidad para vivir la vida que siempre quiso. ¡Con la ayuda de sus amigos, unas habilidades mágicas recién adquiridas, y el coraje para hacer las cosas que siempre ha soñado, se embarca en una aventura épica, con su experiencia pasada intacta!",
-      "rating": 8.54,
-      "year": "2021",
+      "title": "Futurama",
+      "synopsis": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
+      "rating": 8.37,
+      "year": "1999",
       "genres": [
-        "Acción",
-        "Aventura",
         "Animación",
+        "Comedia",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Yumi Uchiyama, Tomokazu Sugita, Konomi Kohara, Ai Kakuma, Ai Kayano",
-      "posterUrl": "https://image.tmdb.org/t/p/original/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-      "slug": "mushoku-tensei-jobless-reincarnation",
-      "tmdbId": "94664",
-      "type": "series"
-    },
-    {
-      "title": "One Piece",
-      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
-      "rating": 8.8,
-      "year": "1999",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Comedia",
-        "Animación"
-      ],
-      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "slug": "one-piece",
-      "tmdbId": "37854",
-      "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.4,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Billy West, Katey Sagal, John DiMaggio, Tress MacNeille, Maurice LaMarche",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+      "slug": "futurama",
+      "tmdbId": "615",
       "type": "series"
     },
     {
@@ -195,21 +160,55 @@
       "type": "series"
     },
     {
-      "title": "Futurama",
-      "synopsis": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
-      "rating": 8.37,
-      "year": "1999",
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.4,
+      "year": "2025",
       "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
+      "title": "Mushoku Tensei Jobless Reincarnation",
+      "synopsis": "Cuando un autobús atropella a un joven de 34 años que no ha logrado mucho en su vida, su historia no termina ahí. Habiendo reencarnado en un niño, Rudy aprovechará cada oportunidad para vivir la vida que siempre quiso. ¡Con la ayuda de sus amigos, unas habilidades mágicas recién adquiridas, y el coraje para hacer las cosas que siempre ha soñado, se embarca en una aventura épica, con su experiencia pasada intacta!",
+      "rating": 8.54,
+      "year": "2021",
+      "genres": [
+        "Acción",
+        "Aventura",
         "Animación",
-        "Comedia",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Billy West, Katey Sagal, John DiMaggio, Tress MacNeille, Maurice LaMarche",
-      "posterUrl": "https://image.tmdb.org/t/p/original/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-      "slug": "futurama",
-      "tmdbId": "615",
+      "cast": "Yumi Uchiyama, Tomokazu Sugita, Konomi Kohara, Ai Kakuma, Ai Kayano",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "slug": "mushoku-tensei-jobless-reincarnation",
+      "tmdbId": "94664",
+      "type": "series"
+    },
+    {
+      "title": "Reacher",
+      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "rating": 8.13,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Crimen"
+      ],
+      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "slug": "reacher",
+      "tmdbId": "108978",
       "type": "series"
     }
   ],
