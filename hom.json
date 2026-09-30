@@ -10,30 +10,13 @@
         "Historia",
         "Drama"
       ],
-      "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Tom Hollander, Cosmo Jarvis",
+      "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Woody Norman, Tom Hollander",
       "posterUrl": "https://image.tmdb.org/t/p/original/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
       "slug": "el-hombre-que-desafio-al-rey",
       "tmdbId": "977942",
       "type": "movie",
       "duration": "128 min"
-    },
-    {
-      "title": "Entrega al límite",
-      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-      "rating": 7.98,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Comedia"
-      ],
-      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
-      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-      "slug": "entrega-al-limite",
-      "tmdbId": "1377237",
-      "type": "movie",
-      "duration": "97 min"
     },
     {
       "title": "Coyote vs. Acme",
@@ -54,6 +37,23 @@
       "duration": "103 min"
     },
     {
+      "title": "Entrega al límite",
+      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+      "rating": 7.98,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "slug": "entrega-al-limite",
+      "tmdbId": "1377237",
+      "type": "movie",
+      "duration": "97 min"
+    },
+    {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
       "rating": 7.34,
@@ -72,6 +72,23 @@
       "duration": "93 min"
     },
     {
+      "title": "Mononoke III: La maldición de la serpiente",
+      "synopsis": "Tras el regreso de una frágil paz al palacio interior, un nuevo terror se enrosca bajo sus cimientos. Cuando la Emperatriz muere desesperada tras dar a luz a un heredero, un resentimiento profundo y ancestral despierta. El Ōoku se estremece con temblores antinaturales, escamas caen de la nada y una doncella aparece muerta, retorcida como si un enorme ser serpentino la hubiera aplastado. El \"Vendedor de Medicinas\" se enfrenta a la fuente: un monstruoso y colérico Dios Serpiente. Su espada no sirve de nada hasta que descubra la Forma, la Verdad y la Razón del demonio. Para encontrarlas, debe deslizarse hacia atrás a través de 150 años de historia enterrada, enfrentándose a la impactante y fundamental verdad del propio Ōoku. Acorralado por un dios alimentado por siglos de sacrificio y furia, el Vendedor de Medicinas afronta su mayor crisis, donde está en juego el alma misma de la nación. Secuela de la película \"Mononoke II: Las cenizas de la ira\".",
+      "rating": 10,
+      "year": "2026",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Misterio"
+      ],
+      "cast": "Hiroshi Kamiya, Atsumi Tanezaki, Miyu Irino, Kenjiro Tsuda, Yoshiko Sakakibara",
+      "posterUrl": "https://image.tmdb.org/t/p/original/AvWv8SAszoG3LJstEAo8pIGbcjR.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pbJ9sgqSxk1AypbZXt69iVAo2xQ.jpg",
+      "slug": "mononoke-iii-la-maldicion-de-la-serpiente",
+      "tmdbId": "1322562",
+      "type": "movie"
+    },
+    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 7.86,
@@ -88,44 +105,9 @@
       "tmdbId": "969681",
       "type": "movie",
       "duration": "144 min"
-    },
-    {
-      "title": "UNABOMBER",
-      "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-      "rating": 6.92,
-      "year": "2026",
-      "genres": [
-        "Suspenso",
-        "Drama",
-        "Crimen"
-      ],
-      "cast": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig",
-      "posterUrl": "https://image.tmdb.org/t/p/original/jfYo76IOCphg2fmKX5UJvgcimy4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "slug": "unabomber",
-      "tmdbId": "1492640",
-      "type": "movie",
-      "duration": "101 min"
     }
   ],
   "seriesHero": [
-    {
-      "title": "Reacher",
-      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
-      "rating": 8.13,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Crimen"
-      ],
-      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "slug": "reacher",
-      "tmdbId": "108978",
-      "type": "series"
-    },
     {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
@@ -197,6 +179,23 @@
       "type": "series"
     },
     {
+      "title": "Reacher",
+      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "rating": 8.13,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Crimen"
+      ],
+      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "slug": "reacher",
+      "tmdbId": "108978",
+      "type": "series"
+    },
+    {
       "title": "Mushoku Tensei Jobless Reincarnation",
       "synopsis": "Cuando un autobús atropella a un joven de 34 años que no ha logrado mucho en su vida, su historia no termina ahí. Habiendo reencarnado en un niño, Rudy aprovechará cada oportunidad para vivir la vida que siempre quiso. ¡Con la ayuda de sus amigos, unas habilidades mágicas recién adquiridas, y el coraje para hacer las cosas que siempre ha soñado, se embarca en una aventura épica, con su experiencia pasada intacta!",
       "rating": 8.54,
@@ -222,6 +221,23 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Mononoke III: La maldición de la serpiente",
+          "synopsis": "Tras el regreso de una frágil paz al palacio interior, un nuevo terror se enrosca bajo sus cimientos. Cuando la Emperatriz muere desesperada tras dar a luz a un heredero, un resentimiento profundo y ancestral despierta. El Ōoku se estremece con temblores antinaturales, escamas caen de la nada y una doncella aparece muerta, retorcida como si un enorme ser serpentino la hubiera aplastado. El \"Vendedor de Medicinas\" se enfrenta a la fuente: un monstruoso y colérico Dios Serpiente. Su espada no sirve de nada hasta que descubra la Forma, la Verdad y la Razón del demonio. Para encontrarlas, debe deslizarse hacia atrás a través de 150 años de historia enterrada, enfrentándose a la impactante y fundamental verdad del propio Ōoku. Acorralado por un dios alimentado por siglos de sacrificio y furia, el Vendedor de Medicinas afronta su mayor crisis, donde está en juego el alma misma de la nación. Secuela de la película \"Mononoke II: Las cenizas de la ira\".",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Fantasía",
+            "Misterio"
+          ],
+          "cast": "Hiroshi Kamiya, Atsumi Tanezaki, Miyu Irino, Kenjiro Tsuda, Yoshiko Sakakibara",
+          "posterUrl": "https://image.tmdb.org/t/p/original/AvWv8SAszoG3LJstEAo8pIGbcjR.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/pbJ9sgqSxk1AypbZXt69iVAo2xQ.jpg",
+          "slug": "mononoke-iii-la-maldicion-de-la-serpiente",
+          "tmdbId": "1322562",
+          "type": "movie"
+        },
         {
           "title": "El hombre que desafió al rey",
           "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
@@ -381,26 +397,6 @@
           "tmdbId": "1284465",
           "type": "movie",
           "duration": "123 min"
-        },
-        {
-          "title": "Rabbit Trap",
-          "synopsis": "Cuando una música y su esposo se mudan a una casa remota en Gales, la música que crean altera la magia popular ancestral del lugar, trayendo a su puerta a un niño sin nombre que tiene la intención de infiltrarse en sus vidas.",
-          "rating": 5.8,
-          "year": "2025",
-          "genres": [
-            "Suspenso",
-            "Fantasía",
-            "Terror",
-            "Misterio",
-            "Drama"
-          ],
-          "cast": "Dev Patel, Rosy McEwen, Jade Croot, Nicholas Sampson, Elijah Wood",
-          "posterUrl": "https://image.tmdb.org/t/p/original/sKnwnnmBpjo9BEskHtja6ToXUV1.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/xkKDKUHQKgjgGuyzFihKoWQIvK0.jpg",
-          "slug": "rabbit-trap",
-          "tmdbId": "1193824",
-          "type": "movie",
-          "duration": "88 min"
         }
       ]
     },
@@ -593,7 +589,7 @@
         {
           "title": "Presidente Curtis",
           "synopsis": "El presidente Curtis sigue al Comandante en Jefe y su excéntrico equipo en investigaciones paranormales y fenómenos inexplicables.",
-          "rating": 6.78,
+          "rating": 6.76,
           "year": "2026",
           "genres": [
             "Animación",
@@ -708,7 +704,7 @@
         {
           "title": "Stuart no consigue salvar el universo",
           "synopsis": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
-          "rating": 8.48,
+          "rating": 8.46,
           "year": "2026",
           "genres": [
             "Comedia",
