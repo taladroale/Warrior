@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "updatedAt": "2026-09-29T16:27:54Z",
-  "total": 19980,
+  "updatedAt": "2026-09-30T11:59:46Z",
+  "total": 19981,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias-episodio-iv-una-nueva-esperanza","imdb":"tt0076759"},
     "12": {"slug":"buscando-a-nemo","imdb":"tt0266543"},
@@ -12003,6 +12003,7 @@
     "977331": {"slug":"perro-y-gata","imdb":"tt18113118"},
     "977618": {"slug":"la-chica-del-lago","imdb":"tt14844212"},
     "977770": {"slug":"the-lesson","imdb":"tt20358284"},
+    "977942": {"slug":"el-hombre-que-desafio-al-rey-I2ZTKz","imdb":"tt36983905"},
     "978024": {"slug":"pequenas-valientes-petites","imdb":"tt21230040"},
     "978035": {"slug":"los-indeseables","imdb":"tt26255476"},
     "978040": {"slug":"witch","imdb":"tt15150190"},
