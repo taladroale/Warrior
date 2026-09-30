@@ -74,7 +74,7 @@
     {
       "title": "Mononoke III: La maldición de la serpiente",
       "synopsis": "Tras el regreso de una frágil paz al palacio interior, un nuevo terror se enrosca bajo sus cimientos. Cuando la Emperatriz muere desesperada tras dar a luz a un heredero, un resentimiento profundo y ancestral despierta. El Ōoku se estremece con temblores antinaturales, escamas caen de la nada y una doncella aparece muerta, retorcida como si un enorme ser serpentino la hubiera aplastado. El \"Vendedor de Medicinas\" se enfrenta a la fuente: un monstruoso y colérico Dios Serpiente. Su espada no sirve de nada hasta que descubra la Forma, la Verdad y la Razón del demonio. Para encontrarlas, debe deslizarse hacia atrás a través de 150 años de historia enterrada, enfrentándose a la impactante y fundamental verdad del propio Ōoku. Acorralado por un dios alimentado por siglos de sacrificio y furia, el Vendedor de Medicinas afronta su mayor crisis, donde está en juego el alma misma de la nación. Secuela de la película \"Mononoke II: Las cenizas de la ira\".",
-      "rating": 10,
+      "rating": 9,
       "year": "2026",
       "genres": [
         "Animación",
@@ -89,22 +89,22 @@
       "type": "movie"
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.86,
+      "title": "UNABOMBER",
+      "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
+      "rating": 6.92,
       "year": "2026",
       "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
+        "Suspenso",
+        "Drama",
+        "Crimen"
       ],
-      "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681",
+      "cast": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig",
+      "posterUrl": "https://image.tmdb.org/t/p/original/jfYo76IOCphg2fmKX5UJvgcimy4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "slug": "unabomber",
+      "tmdbId": "1492640",
       "type": "movie",
-      "duration": "144 min"
+      "duration": "101 min"
     }
   ],
   "seriesHero": [
@@ -145,19 +145,52 @@
       "type": "series"
     },
     {
-      "title": "Los Simpson",
-      "synopsis": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
-      "rating": 8.02,
-      "year": "1989",
+      "title": "Slow Horses",
+      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "rating": 8,
+      "year": "2022",
       "genres": [
-        "Animación",
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
+      "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
+      "slug": "slow-horses",
+      "tmdbId": "95480",
+      "type": "series"
+    },
+    {
+      "title": "Ted Lasso",
+      "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "rating": 8.37,
+      "year": "2020",
+      "genres": [
+        "Drama",
         "Comedia"
       ],
-      "cast": "Dan Castellaneta, Julie Kavner, Nancy Cartwright, Yeardley Smith, Hank Azaria",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-      "slug": "los-simpson",
-      "tmdbId": "456",
+      "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "slug": "ted-lasso",
+      "tmdbId": "97546",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.4,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -177,42 +210,6 @@
       "slug": "one-piece",
       "tmdbId": "37854",
       "type": "series"
-    },
-    {
-      "title": "Reacher",
-      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
-      "rating": 8.13,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Crimen"
-      ],
-      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
-      "slug": "reacher",
-      "tmdbId": "108978",
-      "type": "series"
-    },
-    {
-      "title": "Mushoku Tensei Jobless Reincarnation",
-      "synopsis": "Cuando un autobús atropella a un joven de 34 años que no ha logrado mucho en su vida, su historia no termina ahí. Habiendo reencarnado en un niño, Rudy aprovechará cada oportunidad para vivir la vida que siempre quiso. ¡Con la ayuda de sus amigos, unas habilidades mágicas recién adquiridas, y el coraje para hacer las cosas que siempre ha soñado, se embarca en una aventura épica, con su experiencia pasada intacta!",
-      "rating": 8.54,
-      "year": "2021",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Yumi Uchiyama, Tomokazu Sugita, Konomi Kohara, Ai Kakuma, Ai Kayano",
-      "posterUrl": "https://image.tmdb.org/t/p/original/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
-      "slug": "mushoku-tensei-jobless-reincarnation",
-      "tmdbId": "94664",
-      "type": "series"
     }
   ],
   "movieSections": [
@@ -224,7 +221,7 @@
         {
           "title": "Mononoke III: La maldición de la serpiente",
           "synopsis": "Tras el regreso de una frágil paz al palacio interior, un nuevo terror se enrosca bajo sus cimientos. Cuando la Emperatriz muere desesperada tras dar a luz a un heredero, un resentimiento profundo y ancestral despierta. El Ōoku se estremece con temblores antinaturales, escamas caen de la nada y una doncella aparece muerta, retorcida como si un enorme ser serpentino la hubiera aplastado. El \"Vendedor de Medicinas\" se enfrenta a la fuente: un monstruoso y colérico Dios Serpiente. Su espada no sirve de nada hasta que descubra la Forma, la Verdad y la Razón del demonio. Para encontrarlas, debe deslizarse hacia atrás a través de 150 años de historia enterrada, enfrentándose a la impactante y fundamental verdad del propio Ōoku. Acorralado por un dios alimentado por siglos de sacrificio y furia, el Vendedor de Medicinas afronta su mayor crisis, donde está en juego el alma misma de la nación. Secuela de la película \"Mononoke II: Las cenizas de la ira\".",
-          "rating": 10,
+          "rating": 9,
           "year": "2026",
           "genres": [
             "Animación",
