@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T13:15:18Z",
+  "updatedAt": "2026-09-30T11:48:16Z",
   "source": "cufo",
-  "total": 22532,
+  "total": 22533,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias"},
     "12": {"slug":"buscando-a-nemo"},
@@ -16753,6 +16753,7 @@
     "1322218": {"slug":"mononoke-ii-las-cenizas-de-la-ira"},
     "1322500": {"slug":"alien-weekend"},
     "1322543": {"slug":"scarred-to-death"},
+    "1322562": {"slug":"mononoke-iii-la-maldicion-de-la-serpiente"},
     "1322593": {"slug":"sorop"},
     "1322623": {"slug":"ed-kemper"},
     "1322692": {"slug":"saipan"},
