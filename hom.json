@@ -36,24 +36,6 @@
       "duration": "97 min"
     },
     {
-      "title": "Coyote vs. Acme",
-      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "rating": 7.56,
-      "year": "2026",
-      "genres": [
-        "Comedia",
-        "Aventura",
-        "Familia"
-      ],
-      "cast": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-      "slug": "coyote-vs-acme",
-      "tmdbId": "1204680",
-      "type": "movie",
-      "duration": "103 min"
-    },
-    {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
       "rating": 7.34,
@@ -72,6 +54,41 @@
       "duration": "93 min"
     },
     {
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "rating": 7.56,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ],
+      "cast": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680",
+      "type": "movie",
+      "duration": "103 min"
+    },
+    {
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.19,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Suspenso"
+      ],
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
+      "type": "movie",
+      "duration": "100 min"
+    },
+    {
       "title": "UNABOMBER",
       "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
       "rating": 6.92,
@@ -88,92 +105,9 @@
       "tmdbId": "1492640",
       "type": "movie",
       "duration": "101 min"
-    },
-    {
-      "title": "Mononoke III: La maldición de la serpiente",
-      "synopsis": "Tras el regreso de una frágil paz al palacio interior, un nuevo terror se enrosca bajo sus cimientos. Cuando la Emperatriz muere desesperada tras dar a luz a un heredero, un resentimiento profundo y ancestral despierta. El Ōoku se estremece con temblores antinaturales, escamas caen de la nada y una doncella aparece muerta, retorcida como si un enorme ser serpentino la hubiera aplastado. El \"Vendedor de Medicinas\" se enfrenta a la fuente: un monstruoso y colérico Dios Serpiente. Su espada no sirve de nada hasta que descubra la Forma, la Verdad y la Razón del demonio. Para encontrarlas, debe deslizarse hacia atrás a través de 150 años de historia enterrada, enfrentándose a la impactante y fundamental verdad del propio Ōoku. Acorralado por un dios alimentado por siglos de sacrificio y furia, el Vendedor de Medicinas afronta su mayor crisis, donde está en juego el alma misma de la nación. Secuela de la película \"Mononoke II: Las cenizas de la ira\".",
-      "rating": 8.4,
-      "year": "2026",
-      "genres": [
-        "Animación",
-        "Fantasía",
-        "Misterio"
-      ],
-      "cast": "Hiroshi Kamiya, Atsumi Tanezaki, Miyu Irino, Kenjiro Tsuda, Yoshiko Sakakibara",
-      "posterUrl": "https://image.tmdb.org/t/p/original/AvWv8SAszoG3LJstEAo8pIGbcjR.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ycO7NUhWDGOQRwmjb88IfLZTdVd.jpg",
-      "slug": "mononoke-iii-la-maldicion-de-la-serpiente",
-      "tmdbId": "1322562",
-      "type": "movie"
     }
   ],
   "seriesHero": [
-    {
-      "title": "Linternas",
-      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.31,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
-      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-      "slug": "linternas",
-      "tmdbId": "95350",
-      "type": "series"
-    },
-    {
-      "title": "Medusa",
-      "synopsis": "Alguien quiere matar a Bárbara Hidalgo, la CEO de Medusa. Mientras ella intenta dar con el culpable, su familia conspira sin escrúpulos por el control de su imperio en Colombia.",
-      "rating": 7.3,
-      "year": "2025",
-      "genres": [
-        "Drama"
-      ],
-      "cast": "Juana Acosta, Manolo Cardona, Sebastián Martínez",
-      "posterUrl": "https://image.tmdb.org/t/p/original/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gm7OMY4t99UpiMpIShNOKvKLQwO.jpg",
-      "slug": "medusa",
-      "tmdbId": "284792",
-      "type": "series"
-    },
-    {
-      "title": "Ted Lasso",
-      "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-      "rating": 8.37,
-      "year": "2020",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "slug": "ted-lasso",
-      "tmdbId": "97546",
-      "type": "series"
-    },
-    {
-      "title": "Slow Horses",
-      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-      "rating": 8,
-      "year": "2022",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
-      "slug": "slow-horses",
-      "tmdbId": "95480",
-      "type": "series"
-    },
     {
       "title": "Re: Zero - Empezar de cero en un mundo diferente",
       "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chica de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
@@ -196,19 +130,84 @@
       "type": "series"
     },
     {
-      "title": "Los Simpson",
-      "synopsis": "El día a día de una peculiar familia formada por Homer, Marge, Bart, Maggie y Lisa Simpson y otros divertidos personajes de la localidad norteamericana de Springfield. Homer, el padre, es un desastroso inspector de seguridad de una central nuclear. Marge, la madre, es un ama de casa acostumbrada a soportar a su peculiar familia. Bart, de diez años, intenta divertirse con travesuras de todo tipo. Lisa es la más inteligente de la familia, y Maggie, la más pequeña, es un bebé que todavía no habla, pero que juega un importante papel.",
-      "rating": 8.02,
-      "year": "1989",
+      "title": "Scrubs",
+      "synopsis": "Los viejos amigos JD y Turk se reúnen por primera vez en mucho tiempo y descubren que la medicina ha cambiado, los internos han cambiado, pero su amistad ha resistido la prueba del tiempo.",
+      "rating": 7.78,
+      "year": "2026",
       "genres": [
-        "Animación",
         "Comedia"
       ],
-      "cast": "Dan Castellaneta, Julie Kavner, Nancy Cartwright, Yeardley Smith, Hank Azaria",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9hmoEmntaYrrlb4HKSFisWUQnqy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
-      "slug": "los-simpson",
-      "tmdbId": "456",
+      "cast": "Zach Braff, Donald Faison, Sarah Chalke",
+      "posterUrl": "https://image.tmdb.org/t/p/original/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/kz1ceDJ7e8z8zIQNURJcGOoQ8WY.jpg",
+      "slug": "scrubs",
+      "tmdbId": "295778",
+      "type": "series"
+    },
+    {
+      "title": "Medusa",
+      "synopsis": "Alguien quiere matar a Bárbara Hidalgo, la CEO de Medusa. Mientras ella intenta dar con el culpable, su familia conspira sin escrúpulos por el control de su imperio en Colombia.",
+      "rating": 7.3,
+      "year": "2025",
+      "genres": [
+        "Drama"
+      ],
+      "cast": "Juana Acosta, Manolo Cardona, Sebastián Martínez",
+      "posterUrl": "https://image.tmdb.org/t/p/original/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gm7OMY4t99UpiMpIShNOKvKLQwO.jpg",
+      "slug": "medusa",
+      "tmdbId": "284792",
+      "type": "series"
+    },
+    {
+      "title": "Slow Horses",
+      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "rating": 8,
+      "year": "2022",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
+      "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/xpSxYoqTyz0Fb8Wn2S3bp0NIqVc.jpg",
+      "slug": "slow-horses",
+      "tmdbId": "95480",
+      "type": "series"
+    },
+    {
+      "title": "Linternas",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "rating": 8.35,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
+      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "slug": "linternas",
+      "tmdbId": "95350",
+      "type": "series"
+    },
+    {
+      "title": "Ted Lasso",
+      "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "rating": 8.37,
+      "year": "2020",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "slug": "ted-lasso",
+      "tmdbId": "97546",
       "type": "series"
     }
   ],
@@ -585,9 +584,42 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Las azules",
+          "synopsis": "En 1971, cuatro mujeres desafían las normas ultraconservadoras y se unen a la primera fuerza policial femenina de México, pero descubren que se trata de un truco publicitario para distraer a los medios de un asesino en serie. A medida que aumenta el número de cadáveres, hacen un pacto para llevar al asesino ante la justicia.",
+          "rating": 7.3,
+          "year": "2024",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Bárbara Mori, Ximena Sariñana, Natalia Téllez, Amorita Rasgado, Miguel Rodarte",
+          "posterUrl": "https://image.tmdb.org/t/p/original/oknR2tQjcuyHOl2lfIewbSwuUnS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/v713kGiwYw2amhk6v9lfxvAYncv.jpg",
+          "slug": "las-azules",
+          "tmdbId": "253983",
+          "type": "series"
+        },
+        {
+          "title": "Causa abierta",
+          "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
+          "rating": 8.1,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Patrick Brammall, Brendan Cowell, Maxine Peake, Daniel Henshall, Jessica Wren",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
+          "slug": "causa-abierta",
+          "tmdbId": "258230",
+          "type": "series"
+        },
+        {
           "title": "Brothers",
           "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-          "rating": 8.7,
+          "rating": 8.36,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -625,7 +657,7 @@
             "Drama"
           ],
           "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zKaTNcWmP2dxYnxmOAVhBvSqNy9.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
           "slug": "youth",
           "tmdbId": "285418",
@@ -634,7 +666,7 @@
         {
           "title": "Linternas",
           "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-          "rating": 8.31,
+          "rating": 8.35,
           "year": "2026",
           "genres": [
             "Drama",
@@ -644,7 +676,7 @@
           ],
           "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
           "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
           "slug": "linternas",
           "tmdbId": "95350",
           "type": "series"
@@ -658,7 +690,7 @@
             "Misterio"
           ],
           "cast": "Jérôme Niel, Yoann Gasiorowski, Magalie Lépine-Blondeau, Marie Oppert, Léo Chalié",
-          "posterUrl": "https://image.tmdb.org/t/p/original/eJok284sxTZzHviPNGpMCeVO448.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4EGhg689jbAO865qWs8AznalyWl.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
           "slug": "paolo",
           "tmdbId": "288385",
@@ -700,7 +732,7 @@
         {
           "title": "Star Trek: Strange New Worlds",
           "synopsis": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
-          "rating": 7.9,
+          "rating": 7.87,
           "year": "2022",
           "genres": [
             "Ciencia ficción",
@@ -712,39 +744,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
           "slug": "star-trek-strange-new-worlds",
           "tmdbId": "103516",
-          "type": "series"
-        },
-        {
-          "title": "Stuart no consigue salvar el universo",
-          "synopsis": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
-          "rating": 8.45,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Kevin Sussman, Lauren Lapkus, Brian Posehn, John Ross Bowie, Lauren Young",
-          "posterUrl": "https://image.tmdb.org/t/p/original/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-          "slug": "stuart-no-consigue-salvar-el-universo",
-          "tmdbId": "287620",
-          "type": "series"
-        },
-        {
-          "title": "Tierra de mafiosos",
-          "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-          "rating": 8.4,
-          "year": "2025",
-          "genres": [
-            "Crimen",
-            "Drama"
-          ],
-          "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
-          "slug": "mobland",
-          "tmdbId": "247718",
           "type": "series"
         }
       ]
@@ -779,7 +778,7 @@
             "Misterio"
           ],
           "cast": "Jérôme Niel, Yoann Gasiorowski, Magalie Lépine-Blondeau, Marie Oppert, Léo Chalié",
-          "posterUrl": "https://image.tmdb.org/t/p/original/eJok284sxTZzHviPNGpMCeVO448.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4EGhg689jbAO865qWs8AznalyWl.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
           "slug": "paolo",
           "tmdbId": "288385",
@@ -788,7 +787,7 @@
         {
           "title": "Brothers",
           "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-          "rating": 8.7,
+          "rating": 8.36,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -810,7 +809,7 @@
             "Drama"
           ],
           "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zKaTNcWmP2dxYnxmOAVhBvSqNy9.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
           "slug": "youth",
           "tmdbId": "285418",
@@ -819,14 +818,14 @@
         {
           "title": "American Hostage",
           "synopsis": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
-          "rating": 6.63,
+          "rating": 6.6,
           "year": "2026",
           "genres": [
             "Crimen",
             "Drama"
           ],
           "cast": "Jon Hamm, Giovanni Ribisi, Kristoffer Polaha, William Jackson Harper, Mireille Enos",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cJX6cFqJsX4cWe3DeZBJzg7w4rH.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
           "slug": "american-hostage",
           "tmdbId": "239618",
@@ -835,7 +834,7 @@
         {
           "title": "El escándalo",
           "synopsis": "En Joseon, una propuesta secreta desata pasiones prohibidas entre una noble brillante, un famoso seductor y una joven ajena al peligro del juego que los une.",
-          "rating": 7.2,
+          "rating": 6.6,
           "year": "2026",
           "genres": [
             "Drama"
@@ -850,7 +849,7 @@
         {
           "title": "Cautiva",
           "synopsis": "Miniserie de televisión dramática argentina coproducida por TNT y FLOW. Sigue la vida de una monja que después de quince años logra escapar de un convento de clausura, donde fue víctima de violencia psicológica y retenida en contra de su voluntad. Protagonizada por Carolina Kopelioff, Lorena Vega, Rita Cortese y Julieta Zylberberg.",
-          "rating": 6,
+          "rating": 6.8,
           "year": "2026",
           "genres": [
             "Drama",
@@ -866,7 +865,7 @@
         {
           "title": "Te conozco",
           "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
-          "rating": 7.1,
+          "rating": 7.35,
           "year": "2026",
           "genres": [
             "Drama"
@@ -881,7 +880,7 @@
         {
           "title": "Belleza plástica",
           "synopsis": "Una brillante cirujana de urgencias acaba ejerciendo la medicina estética y se enfrenta a una célebre doctora, dejando al descubierto un mundo dominado por el deseo y la codicia.",
-          "rating": 6.7,
+          "rating": 7.2,
           "year": "2026",
           "genres": [
             "Drama"
@@ -896,7 +895,7 @@
         {
           "title": "Los solucionadores",
           "synopsis": "Un antiguo gánster de capa caída se alía con el hijo de un astuto político para lidiar con los sucios secretos de importantes clientes de ambos lados de la ley.",
-          "rating": 6,
+          "rating": 6.2,
           "year": "2026",
           "genres": [
             "Acción",
