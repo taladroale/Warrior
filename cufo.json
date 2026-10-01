@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T11:48:16Z",
+  "updatedAt": "2026-10-01T14:55:27Z",
   "source": "cufo",
-  "total": 22533,
+  "total": 22534,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias"},
     "12": {"slug":"buscando-a-nemo"},
@@ -22055,6 +22055,7 @@
     "249822": {"slug":"malditos"},
     "249906": {"slug":"estafadores-de-tokio"},
     "250162": {"slug":"el-decameron"},
+    "250203": {"slug":"brothers"},
     "250220": {"slug":"the-miniature-wife"},
     "250307": {"slug":"the-pitt"},
     "250308": {"slug":"earth-abides"},
