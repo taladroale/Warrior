@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T12:53:29Z",
+  "updatedAt": "2026-10-01T14:54:41Z",
   "source": "cuepro",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -20737,6 +20737,7 @@
     "318203": {"slug": "alice-and-steve"},
     "318318": {"slug": "servicio-secreto"},
     "318880": {"slug": "hulk-hogan-real-american"},
+    "318918": {"slug": "lego-one-piece"},
     "319820": {"slug": "rosa-elettrica-in-fuga-con-il-nemico"},
     "319919": {"slug": "desi-bling"},
     "320266": {"slug": "los-encantos-del-sinvergueenza"},
@@ -20798,6 +20799,7 @@
     "332282": {"slug": "habilidad-fisica-100-mexico"},
     "332657": {"slug": "route-187"},
     "332863": {"slug": "en-coma"},
+    "333016": {"slug": "outside"},
     "333096": {"slug": "hotel-todo-incluido"},
     "333631": {"slug": "cautiva"},
     "336083": {"slug": "sin-senal-2"}
