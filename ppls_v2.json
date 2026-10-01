@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "updatedAt": "2026-09-30T11:59:46Z",
-  "total": 19981,
+  "updatedAt": "2026-10-01T14:58:45Z",
+  "total": 19986,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias-episodio-iv-una-nueva-esperanza","imdb":"tt0076759"},
     "12": {"slug":"buscando-a-nemo","imdb":"tt0266543"},
@@ -6979,6 +6979,7 @@
     "493006": {"slug":"detective-conan-22-el-caso-zero","imdb":"tt7880466"},
     "493058": {"slug":"banana-split","imdb":"tt7755856"},
     "493065": {"slug":"cut-throat-city","imdb":"tt3547306"},
+    "493066": {"slug":"marea-baja-jxVi2n","imdb":"tt7434324"},
     "493099": {"slug":"rbg","imdb":"tt7689964"},
     "493100": {"slug":"en-la-mente-de-robin-williams","imdb":"tt7689966"},
     "493141": {"slug":"beats-uk-2019","imdb":"tt7524414"},
@@ -14539,6 +14540,7 @@
     "1257687": {"slug":"reir-cantar-tal-vez-llorar","imdb":"tt31918472"},
     "1257750": {"slug":"luna-sin-miel","imdb":"tt31565654"},
     "1258280": {"slug":"delicate-arch","imdb":"tt31710793"},
+    "1258509": {"slug":"el-amor-que-permanece-0hjXkZ","imdb":"tt33381401"},
     "1258513": {"slug":"revolution-x","imdb":"tt17374278"},
     "1258526": {"slug":"half-baked-totally-high","imdb":"tt12631486"},
     "1258751": {"slug":"the-hallowed-knight","imdb":"tt29926244"},
@@ -14887,6 +14889,7 @@
     "1322218": {"slug":"mononoke-ii-las-cenizas-de-la-ira","imdb":"tt35301440"},
     "1322500": {"slug":"alien-weekend","imdb":"tt19842126"},
     "1322543": {"slug":"scarred-to-death","imdb":"tt23640238"},
+    "1322562": {"slug":"mononoke-iii-la-maldicion-de-l-kuRYMK","imdb":"tt36282134"},
     "1322623": {"slug":"ed-kemper","imdb":"tt31725949"},
     "1322982": {"slug":"tokunbo","imdb":"tt32324146"},
     "1323015": {"slug":"obispo-rojo-Mc9eLB","imdb":"tt39735501"},
@@ -15720,6 +15723,7 @@
     "1749094": {"slug":"crossroads-one-two-jaga","imdb":"1749094"},
     "1750432": {"slug":"spidey-y-los-vengadores-supere-WmthZ1","imdb":"tt44171293"},
     "1752159": {"slug":"momentos-decisivos-generacion--EgAdjb","imdb":"tt44322266"},
+    "1758536": {"slug":"the-widower-til-death-do-us-pa-YIwjkh","imdb":"tt44568097"},
     "1760262": {"slug":"instadocus-el-avion-senuelo-wJbJ3I","imdb":"tt44942157"},
     "1769452": {"slug":"the-simpsons-yellow-planet","imdb":"tt36398568"},
     "1770142": {"slug":"spiderman-loto","imdb":"tt13904644"},
@@ -19121,6 +19125,7 @@
     "332863": {"slug":"en-coma-BVwton","imdb":"tt45403168"},
     "333096": {"slug":"hotel-todo-incluido-cZnhPb","imdb":"tt45804547"},
     "333631": {"slug":"cautiva-UF9Y54","imdb":"tt43700003"},
+    "336977": {"slug":"jeff-y-sus-amigos-superheroes-bw4y9f","imdb":"tt45381042"},
     "993933": {"slug":"bad-behaviour","imdb":"tt21221240"}
   },
   "animes": {
