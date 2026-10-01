@@ -19,6 +19,23 @@
       "duration": "128 min"
     },
     {
+      "title": "Entrega al límite",
+      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+      "rating": 7.98,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "slug": "entrega-al-limite",
+      "tmdbId": "1377237",
+      "type": "movie",
+      "duration": "97 min"
+    },
+    {
       "title": "Coyote vs. Acme",
       "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
       "rating": 7.56,
@@ -35,23 +52,6 @@
       "tmdbId": "1204680",
       "type": "movie",
       "duration": "103 min"
-    },
-    {
-      "title": "Entrega al límite",
-      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-      "rating": 7.98,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Comedia"
-      ],
-      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
-      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-      "slug": "entrega-al-limite",
-      "tmdbId": "1377237",
-      "type": "movie",
-      "duration": "97 min"
     },
     {
       "title": "Resident Evil",
@@ -72,23 +72,6 @@
       "duration": "93 min"
     },
     {
-      "title": "Mononoke III: La maldición de la serpiente",
-      "synopsis": "Tras el regreso de una frágil paz al palacio interior, un nuevo terror se enrosca bajo sus cimientos. Cuando la Emperatriz muere desesperada tras dar a luz a un heredero, un resentimiento profundo y ancestral despierta. El Ōoku se estremece con temblores antinaturales, escamas caen de la nada y una doncella aparece muerta, retorcida como si un enorme ser serpentino la hubiera aplastado. El \"Vendedor de Medicinas\" se enfrenta a la fuente: un monstruoso y colérico Dios Serpiente. Su espada no sirve de nada hasta que descubra la Forma, la Verdad y la Razón del demonio. Para encontrarlas, debe deslizarse hacia atrás a través de 150 años de historia enterrada, enfrentándose a la impactante y fundamental verdad del propio Ōoku. Acorralado por un dios alimentado por siglos de sacrificio y furia, el Vendedor de Medicinas afronta su mayor crisis, donde está en juego el alma misma de la nación. Secuela de la película \"Mononoke II: Las cenizas de la ira\".",
-      "rating": 9,
-      "year": "2026",
-      "genres": [
-        "Animación",
-        "Fantasía",
-        "Misterio"
-      ],
-      "cast": "Hiroshi Kamiya, Atsumi Tanezaki, Miyu Irino, Kenjiro Tsuda, Yoshiko Sakakibara",
-      "posterUrl": "https://image.tmdb.org/t/p/original/AvWv8SAszoG3LJstEAo8pIGbcjR.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pbJ9sgqSxk1AypbZXt69iVAo2xQ.jpg",
-      "slug": "mononoke-iii-la-maldicion-de-la-serpiente",
-      "tmdbId": "1322562",
-      "type": "movie"
-    },
-    {
       "title": "UNABOMBER",
       "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
       "rating": 6.92,
@@ -105,6 +88,23 @@
       "tmdbId": "1492640",
       "type": "movie",
       "duration": "101 min"
+    },
+    {
+      "title": "Mononoke III: La maldición de la serpiente",
+      "synopsis": "Tras el regreso de una frágil paz al palacio interior, un nuevo terror se enrosca bajo sus cimientos. Cuando la Emperatriz muere desesperada tras dar a luz a un heredero, un resentimiento profundo y ancestral despierta. El Ōoku se estremece con temblores antinaturales, escamas caen de la nada y una doncella aparece muerta, retorcida como si un enorme ser serpentino la hubiera aplastado. El \"Vendedor de Medicinas\" se enfrenta a la fuente: un monstruoso y colérico Dios Serpiente. Su espada no sirve de nada hasta que descubra la Forma, la Verdad y la Razón del demonio. Para encontrarlas, debe deslizarse hacia atrás a través de 150 años de historia enterrada, enfrentándose a la impactante y fundamental verdad del propio Ōoku. Acorralado por un dios alimentado por siglos de sacrificio y furia, el Vendedor de Medicinas afronta su mayor crisis, donde está en juego el alma misma de la nación. Secuela de la película \"Mononoke II: Las cenizas de la ira\".",
+      "rating": 8.4,
+      "year": "2026",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Misterio"
+      ],
+      "cast": "Hiroshi Kamiya, Atsumi Tanezaki, Miyu Irino, Kenjiro Tsuda, Yoshiko Sakakibara",
+      "posterUrl": "https://image.tmdb.org/t/p/original/AvWv8SAszoG3LJstEAo8pIGbcjR.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ycO7NUhWDGOQRwmjb88IfLZTdVd.jpg",
+      "slug": "mononoke-iii-la-maldicion-de-la-serpiente",
+      "tmdbId": "1322562",
+      "type": "movie"
     }
   ],
   "seriesHero": [
@@ -175,21 +175,24 @@
       "type": "series"
     },
     {
-      "title": "One Piece",
-      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
-      "rating": 8.8,
-      "year": "1999",
+      "title": "Re: Zero - Empezar de cero en un mundo diferente",
+      "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chica de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
+      "rating": 7.73,
+      "year": "2016",
       "genres": [
+        "Animación",
+        "Comedia",
+        "Drama",
         "Acción",
         "Aventura",
-        "Comedia",
-        "Animación"
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "slug": "one-piece",
-      "tmdbId": "37854",
+      "cast": "小林裕介, Rie Takahashi, Yumi Uchiyama, Chinatsu Akasaki, Yuichi Nakamura",
+      "posterUrl": "https://image.tmdb.org/t/p/original/aBArXqZA6zuNV1mwBH5UP8aiQoP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
+      "slug": "re-zero-empezar-de-cero-en-un-mundo-diferente",
+      "tmdbId": "65942",
       "type": "series"
     },
     {
@@ -227,10 +230,11 @@
           ],
           "cast": "Hiroshi Kamiya, Atsumi Tanezaki, Miyu Irino, Kenjiro Tsuda, Yoshiko Sakakibara",
           "posterUrl": "https://image.tmdb.org/t/p/original/AvWv8SAszoG3LJstEAo8pIGbcjR.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ycO7NUhWDGOQRwmjb88IfLZTdVd.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5bMDrznr5P9GcClJF0OeE4NxZn9.jpg",
           "slug": "mononoke-iii-la-maldicion-de-la-serpiente",
           "tmdbId": "1322562",
-          "type": "movie"
+          "type": "movie",
+          "duration": "88 min"
         },
         {
           "title": "El hombre que desafió al rey",
@@ -581,6 +585,21 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Brothers",
+          "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
+          "rating": 8.7,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Matthew McConaughey, Woody Harrelson, Natalie Martinez, Brittany Ishibashi, Nolan Almeida",
+          "posterUrl": "https://image.tmdb.org/t/p/original/174exHxKuh2OkXWg6k8du4sWiqo.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+          "slug": "brothers",
+          "tmdbId": "250203",
+          "type": "series"
+        },
+        {
           "title": "Presidente Curtis",
           "synopsis": "El presidente Curtis sigue al Comandante en Jefe y su excéntrico equipo en investigaciones paranormales y fenómenos inexplicables.",
           "rating": 6.8,
@@ -648,7 +667,7 @@
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 7.6,
+          "rating": 7.33,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -698,7 +717,7 @@
         {
           "title": "Stuart no consigue salvar el universo",
           "synopsis": "Stuart Bloom, dueño de una tienda de cómics, recibe la misión de restaurar la realidad tras romper un dispositivo construido por Sheldon y Leonard, provocando accidentalmente un Armagedón multiverso. En esta misión, Stuart cuenta con la ayuda de su novia Denise, su amigo geólogo Bert y el físico cuántico y pesado Barry Kripke. En el camino, se encuentran con versiones en universos alternativos de personajes que conocemos y apreciamos de Big Bang. Como indica el título, las cosas no salen bien.",
-          "rating": 8.46,
+          "rating": 8.45,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -727,24 +746,6 @@
           "slug": "mobland",
           "tmdbId": "247718",
           "type": "series"
-        },
-        {
-          "title": "American Horror Story",
-          "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-          "rating": 8.07,
-          "year": "2011",
-          "genres": [
-            "Drama",
-            "Misterio",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-          "slug": "american-horror-story",
-          "tmdbId": "1413",
-          "type": "series"
         }
       ]
     },
@@ -756,7 +757,7 @@
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 7.6,
+          "rating": 7.33,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -782,6 +783,21 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
           "slug": "paolo",
           "tmdbId": "288385",
+          "type": "series"
+        },
+        {
+          "title": "Brothers",
+          "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
+          "rating": 8.7,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Matthew McConaughey, Woody Harrelson, Natalie Martinez, Brittany Ishibashi, Nolan Almeida",
+          "posterUrl": "https://image.tmdb.org/t/p/original/174exHxKuh2OkXWg6k8du4sWiqo.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+          "slug": "brothers",
+          "tmdbId": "250203",
           "type": "series"
         },
         {
@@ -848,21 +864,18 @@
           "type": "series"
         },
         {
-          "title": "Los solucionadores",
-          "synopsis": "Un antiguo gánster de capa caída se alía con el hijo de un astuto político para lidiar con los sucios secretos de importantes clientes de ambos lados de la ley.",
-          "rating": 6,
+          "title": "Te conozco",
+          "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
+          "rating": 7.1,
           "year": "2026",
           "genres": [
-            "Acción",
-            "Aventura",
-            "Comedia",
-            "Crimen"
+            "Drama"
           ],
-          "cast": "李銘順, 婁峻碩, Tou Tsung-hua, 雷嘉汭, 傅孟柏",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ko97JkfotXWrf8x0nxrAnLWt0np.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
-          "slug": "los-solucionadores",
-          "tmdbId": "312663",
+          "cast": "Melis Sezen, Elçin Sangu, Ozan Dolunay, Cemal Hünal, Efe Taşdelen",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hNIxYGmnnwtYDLsDq9U93XSwcLI.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
+          "slug": "te-conozco",
+          "tmdbId": "320760",
           "type": "series"
         },
         {
@@ -881,34 +894,21 @@
           "type": "series"
         },
         {
-          "title": "Monstruo: La historia de Lizzie Borden",
-          "synopsis": "Atrapada en un hogar victoriano marcado por la crueldad, Lizzie Borden mata brutalmente a sus padres a hachazos y conmociona a todo el país.",
-          "rating": 7.13,
+          "title": "Los solucionadores",
+          "synopsis": "Un antiguo gánster de capa caída se alía con el hijo de un astuto político para lidiar con los sucios secretos de importantes clientes de ambos lados de la ley.",
+          "rating": 6,
           "year": "2026",
           "genres": [
-            "Drama",
+            "Acción",
+            "Aventura",
+            "Comedia",
             "Crimen"
           ],
-          "cast": "Ella Beatty, Vicky Krieps, Sarah Paulson, Charlie Hunnam, Rebecca Hall",
-          "posterUrl": "https://image.tmdb.org/t/p/original/v66pL1ryECiTML3tjiKGxFVJQ91.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-          "slug": "monstruo-la-historia-de-lizzie-borden",
-          "tmdbId": "299939",
-          "type": "series"
-        },
-        {
-          "title": "Te conozco",
-          "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
-          "rating": 7.1,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Melis Sezen, Elçin Sangu, Ozan Dolunay, Cemal Hünal, Efe Taşdelen",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hNIxYGmnnwtYDLsDq9U93XSwcLI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
-          "slug": "te-conozco",
-          "tmdbId": "320760",
+          "cast": "李銘順, 婁峻碩, Tou Tsung-hua, 雷嘉汭, 傅孟柏",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ko97JkfotXWrf8x0nxrAnLWt0np.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
+          "slug": "los-solucionadores",
+          "tmdbId": "312663",
           "type": "series"
         }
       ]
