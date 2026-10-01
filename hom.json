@@ -72,23 +72,6 @@
       "duration": "103 min"
     },
     {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.19,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Suspenso"
-      ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
-      "type": "movie",
-      "duration": "100 min"
-    },
-    {
       "title": "UNABOMBER",
       "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
       "rating": 6.92,
@@ -105,6 +88,23 @@
       "tmdbId": "1492640",
       "type": "movie",
       "duration": "101 min"
+    },
+    {
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.19,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Suspenso"
+      ],
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/smFdHvOE7dtKbQjqz7a4rK5Cep4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
+      "type": "movie",
+      "duration": "100 min"
     }
   ],
   "seriesHero": [
@@ -218,6 +218,24 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Prime Crime: A True Story",
+          "synopsis": "Recrea la historia real del secuestro de 1977 que convirtió a Tony Kiritsis, un aspirante a empresario de Indianápolis, en un excéntrico héroe popular proscrito.",
+          "rating": 6.5,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama",
+            "Suspenso"
+          ],
+          "cast": "Bill Skarsgård, Dacre Montgomery, Cary Elwes, Myha'la, Kelly Lynch",
+          "posterUrl": "https://image.tmdb.org/t/p/original/19JQnXT21OtH24fBgexkDFVFEoS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ulw8SrKbDeDrsSVNKPb5211AseI.jpg",
+          "slug": "dead-mans-wire",
+          "tmdbId": "1263012",
+          "type": "movie",
+          "duration": "104 min"
+        },
+        {
           "title": "Mononoke III: La maldición de la serpiente",
           "synopsis": "Tras el regreso de una frágil paz al palacio interior, un nuevo terror se enrosca bajo sus cimientos. Cuando la Emperatriz muere desesperada tras dar a luz a un heredero, un resentimiento profundo y ancestral despierta. El Ōoku se estremece con temblores antinaturales, escamas caen de la nada y una doncella aparece muerta, retorcida como si un enorme ser serpentino la hubiera aplastado. El \"Vendedor de Medicinas\" se enfrenta a la fuente: un monstruoso y colérico Dios Serpiente. Su espada no sirve de nada hasta que descubra la Forma, la Verdad y la Razón del demonio. Para encontrarlas, debe deslizarse hacia atrás a través de 150 años de historia enterrada, enfrentándose a la impactante y fundamental verdad del propio Ōoku. Acorralado por un dios alimentado por siglos de sacrificio y furia, el Vendedor de Medicinas afronta su mayor crisis, donde está en juego el alma misma de la nación. Secuela de la película \"Mononoke II: Las cenizas de la ira\".",
           "rating": 8.4,
@@ -238,16 +256,15 @@
         {
           "title": "El hombre que desafió al rey",
           "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
-          "rating": 7.5,
+          "rating": 8.06,
           "year": "2026",
           "genres": [
-            "Acción",
             "Historia",
             "Drama"
           ],
           "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Woody Norman, Tom Hollander",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wkuzxJkJoRS2ApYSiPclfaYBQj2.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
           "slug": "el-hombre-que-desafio-al-rey",
           "tmdbId": "977942",
           "type": "movie",
@@ -256,7 +273,7 @@
         {
           "title": "Entrega al límite",
           "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-          "rating": 7.98,
+          "rating": 8.2,
           "year": "2026",
           "genres": [
             "Acción",
@@ -290,7 +307,7 @@
         {
           "title": "Insaciable",
           "synopsis": "Hana, una estudiante de medicina con una fuerte dismorfia corporal, se somete a una moda de adelgazamiento tan absurda como macabra: comer cenizas humanas. A partir de ese momento, comienza a ser acosada por un fantasma hambriento, una manifestación literal del mito del 'hungry ghost'.",
-          "rating": 6.89,
+          "rating": 6.9,
           "year": "2026",
           "genres": [
             "Terror"
@@ -306,7 +323,7 @@
         {
           "title": "La hipótesis del amor",
           "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-          "rating": 8.15,
+          "rating": 8.07,
           "year": "2026",
           "genres": [
             "Romance",
@@ -323,7 +340,7 @@
         {
           "title": "UNABOMBER",
           "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-          "rating": 6.92,
+          "rating": 6.7,
           "year": "2026",
           "genres": [
             "Suspenso",
@@ -331,7 +348,7 @@
             "Crimen"
           ],
           "cast": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jfYo76IOCphg2fmKX5UJvgcimy4.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
           "slug": "unabomber",
           "tmdbId": "1492640",
@@ -341,7 +358,7 @@
         {
           "title": "Hot Spot",
           "synopsis": "A finales del siglo XXI, un investigador y un miembro de una temida secta religiosa se unen tras un asesinato en un campo de refugiados.",
-          "rating": 4.76,
+          "rating": 4.8,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
@@ -376,24 +393,6 @@
           "tmdbId": "1750432",
           "type": "movie",
           "duration": "26 min"
-        },
-        {
-          "title": "La muerte de Robin Hood",
-          "synopsis": "Robin Hood intenta lidiar con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
-          "rating": 6.65,
-          "year": "2026",
-          "genres": [
-            "Aventura",
-            "Drama",
-            "Acción"
-          ],
-          "cast": "Hugh Jackman, Jodie Comer, Bill Skarsgård, Murray Bartlett, Noah Jupe",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pC2hVl4J522GcMVc5OghRHSs0tq.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
-          "slug": "la-muerte-de-robin-hood",
-          "tmdbId": "1284465",
-          "type": "movie",
-          "duration": "123 min"
         }
       ]
     },
@@ -403,9 +402,25 @@
       "seeMoreSlug": "estrenos",
       "items": [
         {
+          "title": "Ricos sin dinero",
+          "synopsis": "Los AlThahabi siempre han presumido de dinero y estatus. Pero, cuando descubren que no son tan ricos como creían, tienen que seguir aparentándolo para sobrevivir",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "آيدا القصي, أضواء بدر, زياد العمري, غادة الملا, فايز بن جريس",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ePzZ5UIuGCaVoDqfA2YJtW36XYR.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
+          "slug": "ricos-sin-dinero",
+          "tmdbId": "1763619",
+          "type": "movie"
+        },
+        {
           "title": "UNABOMBER",
           "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-          "rating": 6.92,
+          "rating": 6.7,
           "year": "2026",
           "genres": [
             "Suspenso",
@@ -413,7 +428,7 @@
             "Crimen"
           ],
           "cast": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jfYo76IOCphg2fmKX5UJvgcimy4.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
           "slug": "unabomber",
           "tmdbId": "1492640",
@@ -442,7 +457,7 @@
         {
           "title": "La hipótesis del amor",
           "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-          "rating": 8.15,
+          "rating": 8.07,
           "year": "2026",
           "genres": [
             "Romance",
@@ -459,7 +474,7 @@
         {
           "title": "Un último disparo",
           "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-          "rating": 7.39,
+          "rating": 7.4,
           "year": "2026",
           "genres": [
             "Acción",
@@ -476,7 +491,7 @@
         {
           "title": "En el corazón de la bestia",
           "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-          "rating": 7.66,
+          "rating": 7.57,
           "year": "2026",
           "genres": [
             "Aventura",
@@ -489,6 +504,22 @@
           "tmdbId": "1263337",
           "type": "movie",
           "duration": "101 min"
+        },
+        {
+          "title": "Las mejores",
+          "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
+          "rating": 5.36,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Maitreyi Ramakrishnan, Priyanka Kedia, Chaneil Kular, Ankur Rathee, Hasan Minhaj",
+          "posterUrl": "https://image.tmdb.org/t/p/original/lb9jgdWnpl7BDX66R3LHRdOATcQ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+          "slug": "las-mejores",
+          "tmdbId": "1514863",
+          "type": "movie",
+          "duration": "112 min"
         },
         {
           "title": "Cuatro historias de deseo 3",
@@ -510,7 +541,7 @@
         {
           "title": "Tú+Yo - Solos contra todos",
           "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
-          "rating": 5.84,
+          "rating": 5.7,
           "year": "2026",
           "genres": [
             "Romance",
@@ -525,25 +556,9 @@
           "duration": "94 min"
         },
         {
-          "title": "Las mejores",
-          "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
-          "rating": 5.27,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Maitreyi Ramakrishnan, Priyanka Kedia, Chaneil Kular, Ankur Rathee, Hasan Minhaj",
-          "posterUrl": "https://image.tmdb.org/t/p/original/lb9jgdWnpl7BDX66R3LHRdOATcQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
-          "slug": "las-mejores",
-          "tmdbId": "1514863",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
           "title": "Resident Evil",
           "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-          "rating": 7.34,
+          "rating": 7.32,
           "year": "2026",
           "genres": [
             "Terror",
@@ -557,22 +572,6 @@
           "tmdbId": "1423191",
           "type": "movie",
           "duration": "93 min"
-        },
-        {
-          "title": "Gracias, equipo",
-          "synopsis": "Nos contará la historia de la empresa Tío Mochales, antaño reina indiscutible del queso español. Hoy es una empresa un poco oxidada pero empeñada en mantener la imagen. Su última gran idea: organizar un team building rural en el pueblo donde la empresa se fundó. Pero lo que debía ser un retiro para reconectar con los valores de siempre, se convierte en una encerrona cuando descubren que se vienen despidos, y muchos, seguida de una batalla campal de peloteo, traiciones y filtraciones",
-          "rating": 5.39,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Alexandra Jiménez, Maribel Verdú, Pedro Casablanc, Raúl Tejón, Blanca Martínez",
-          "posterUrl": "https://image.tmdb.org/t/p/original/aVGaBCt8g0Q990jKW85wTJKotev.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/24JmHBUaZVmZRoEMjzejLL3sJc5.jpg",
-          "slug": "gracias-equipo",
-          "tmdbId": "1558568",
-          "type": "movie",
-          "duration": "93 min"
         }
       ]
     }
@@ -583,6 +582,39 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Caballos lentos",
+          "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+          "rating": 8,
+          "year": "2022",
+          "genres": [
+            "Crimen",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
+          "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+          "slug": "slow-horses",
+          "tmdbId": "95480",
+          "type": "series"
+        },
+        {
+          "title": "Ted Lasso",
+          "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+          "rating": 8.4,
+          "year": "2020",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+          "slug": "ted-lasso",
+          "tmdbId": "97546",
+          "type": "series"
+        },
         {
           "title": "Las azules",
           "synopsis": "En 1971, cuatro mujeres desafían las normas ultraconservadoras y se unen a la primera fuerza policial femenina de México, pero descubren que se trata de un truco publicitario para distraer a los medios de un asesino en serie. A medida que aumenta el número de cadáveres, hacen un pacto para llevar al asesino ante la justicia.",
@@ -619,7 +651,7 @@
         {
           "title": "Brothers",
           "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-          "rating": 8.36,
+          "rating": 8.4,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -658,7 +690,7 @@
           ],
           "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
           "posterUrl": "https://image.tmdb.org/t/p/original/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
           "slug": "youth",
           "tmdbId": "285418",
           "type": "series"
@@ -666,7 +698,7 @@
         {
           "title": "Linternas",
           "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-          "rating": 8.35,
+          "rating": 8.37,
           "year": "2026",
           "genres": [
             "Drama",
@@ -676,7 +708,7 @@
           ],
           "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
           "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
           "slug": "linternas",
           "tmdbId": "95350",
           "type": "series"
@@ -699,7 +731,7 @@
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 7.33,
+          "rating": 7.2,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -710,40 +742,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
           "slug": "el-problema-final",
           "tmdbId": "290720",
-          "type": "series"
-        },
-        {
-          "title": "Materia oscura",
-          "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-          "rating": 7.79,
-          "year": "2024",
-          "genres": [
-            "Ciencia ficción",
-            "Fantasía",
-            "Drama"
-          ],
-          "cast": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson, Dayo Okeniyi",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-          "slug": "materia-oscura",
-          "tmdbId": "196322",
-          "type": "series"
-        },
-        {
-          "title": "Star Trek: Strange New Worlds",
-          "synopsis": "El capitán Pike, el oficial científico Spock y Number One exploran nuevos mundos alrededor de la galaxia a bordo de la USS Enterprise.",
-          "rating": 7.87,
-          "year": "2022",
-          "genres": [
-            "Ciencia ficción",
-            "Fantasía",
-            "Drama"
-          ],
-          "cast": "Anson Mount, Ethan Peck, Jess Bush, Christina Chong, Celia Rose Gooding",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5xORQi93Nuyexx1DXv3bjxZOFZ2.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-          "slug": "star-trek-strange-new-worlds",
-          "tmdbId": "103516",
           "type": "series"
         }
       ]
@@ -756,7 +754,7 @@
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 7.33,
+          "rating": 7.2,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -787,7 +785,7 @@
         {
           "title": "Brothers",
           "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-          "rating": 8.36,
+          "rating": 8.4,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -810,7 +808,7 @@
           ],
           "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
           "posterUrl": "https://image.tmdb.org/t/p/original/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
           "slug": "youth",
           "tmdbId": "285418",
           "type": "series"
