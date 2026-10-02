@@ -106,58 +106,6 @@
   ],
   "seriesHero": [
     {
-      "title": "Scrubs",
-      "synopsis": "Los viejos amigos JD y Turk se reúnen por primera vez en mucho tiempo y descubren que la medicina ha cambiado, los internos han cambiado, pero su amistad ha resistido la prueba del tiempo.",
-      "rating": 7.78,
-      "year": "2026",
-      "genres": [
-        "Comedia"
-      ],
-      "cast": "Zach Braff, Donald Faison, Sarah Chalke",
-      "posterUrl": "https://image.tmdb.org/t/p/original/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/kz1ceDJ7e8z8zIQNURJcGOoQ8WY.jpg",
-      "slug": "scrubs",
-      "tmdbId": "295778",
-      "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.46,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
-    {
-      "title": "Re: Zero - Empezar de cero en un mundo diferente",
-      "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chica de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
-      "rating": 7.73,
-      "year": "2016",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Drama",
-        "Acción",
-        "Aventura",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "小林裕介, Rie Takahashi, Yumi Uchiyama, Chinatsu Akasaki, Yuichi Nakamura",
-      "posterUrl": "https://image.tmdb.org/t/p/original/aBArXqZA6zuNV1mwBH5UP8aiQoP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
-      "slug": "re-zero-empezar-de-cero-en-un-mundo-diferente",
-      "tmdbId": "65942",
-      "type": "series"
-    },
-    {
       "title": "Reina roja",
       "synopsis": "Antonia es la mujer más inteligente del mundo, lo que la convirtió en la Reina Roja de un proyecto policial secreto. Tras dejar el servicio por una tragedia personal, el policía Jon -fuerte, vasco, gay- revoluciona su vida y sus métodos en un emocionante caso doble, de secuestro y asesinato.",
       "rating": 7.04,
@@ -175,9 +123,40 @@
       "type": "series"
     },
     {
+      "title": "Scrubs",
+      "synopsis": "Los viejos amigos JD y Turk se reúnen por primera vez en mucho tiempo y descubren que la medicina ha cambiado, los internos han cambiado, pero su amistad ha resistido la prueba del tiempo.",
+      "rating": 7.78,
+      "year": "2026",
+      "genres": [
+        "Comedia"
+      ],
+      "cast": "Zach Braff, Donald Faison, Sarah Chalke",
+      "posterUrl": "https://image.tmdb.org/t/p/original/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/kz1ceDJ7e8z8zIQNURJcGOoQ8WY.jpg",
+      "slug": "scrubs",
+      "tmdbId": "295778",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.5,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.37,
+      "rating": 8.4,
       "year": "2026",
       "genres": [
         "Drama",
@@ -206,6 +185,27 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
       "slug": "south-park",
       "tmdbId": "2190",
+      "type": "series"
+    },
+    {
+      "title": "Re: Zero - Empezar de cero en un mundo diferente",
+      "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chica de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
+      "rating": 7.73,
+      "year": "2016",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Drama",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "小林裕介, Rie Takahashi, Yumi Uchiyama, Chinatsu Akasaki, Yuichi Nakamura",
+      "posterUrl": "https://image.tmdb.org/t/p/original/aBArXqZA6zuNV1mwBH5UP8aiQoP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
+      "slug": "re-zero-empezar-de-cero-en-un-mundo-diferente",
+      "tmdbId": "65942",
       "type": "series"
     }
   ],
@@ -574,9 +574,44 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "American Horror Story",
+          "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+          "rating": 8.08,
+          "year": "2011",
+          "genres": [
+            "Drama",
+            "Misterio",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+          "slug": "american-horror-story",
+          "tmdbId": "1413",
+          "type": "series"
+        },
+        {
+          "title": "Materia oscura",
+          "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+          "rating": 7.79,
+          "year": "2024",
+          "genres": [
+            "Ciencia ficción",
+            "Fantasía",
+            "Drama"
+          ],
+          "cast": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson, Dayo Okeniyi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
+          "slug": "materia-oscura",
+          "tmdbId": "196322",
+          "type": "series"
+        },
+        {
           "title": "Caballos lentos",
           "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-          "rating": 8,
+          "rating": 8.03,
           "year": "2022",
           "genres": [
             "Crimen",
@@ -593,7 +628,7 @@
         {
           "title": "Ted Lasso",
           "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-          "rating": 8.4,
+          "rating": 8.37,
           "year": "2020",
           "genres": [
             "Drama",
@@ -609,7 +644,7 @@
         {
           "title": "Las azules",
           "synopsis": "En 1971, cuatro mujeres desafían las normas ultraconservadoras y se unen a la primera fuerza policial femenina de México, pero descubren que se trata de un truco publicitario para distraer a los medios de un asesino en serie. A medida que aumenta el número de cadáveres, hacen un pacto para llevar al asesino ante la justicia.",
-          "rating": 7.3,
+          "rating": 7.34,
           "year": "2024",
           "genres": [
             "Crimen",
@@ -625,7 +660,7 @@
         {
           "title": "Causa abierta",
           "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
-          "rating": 8.1,
+          "rating": 8.24,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -642,7 +677,7 @@
         {
           "title": "Brothers",
           "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-          "rating": 8.4,
+          "rating": 8.17,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -689,7 +724,7 @@
         {
           "title": "Linternas",
           "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-          "rating": 8.37,
+          "rating": 8.4,
           "year": "2026",
           "genres": [
             "Drama",
@@ -703,37 +738,6 @@
           "slug": "linternas",
           "tmdbId": "95350",
           "type": "series"
-        },
-        {
-          "title": "Paolo",
-          "synopsis": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
-          "rating": 10,
-          "year": "2026",
-          "genres": [
-            "Misterio"
-          ],
-          "cast": "Jérôme Niel, Yoann Gasiorowski, Magalie Lépine-Blondeau, Marie Oppert, Léo Chalié",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4EGhg689jbAO865qWs8AznalyWl.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
-          "slug": "paolo",
-          "tmdbId": "288385",
-          "type": "series"
-        },
-        {
-          "title": "El problema final",
-          "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 7.07,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Misterio"
-          ],
-          "cast": "Jose Coronado, María Valverde, Martiño Rivas, Maribel Verdú, Gonzalo de Castro",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
-          "slug": "el-problema-final",
-          "tmdbId": "290720",
-          "type": "series"
         }
       ]
     },
@@ -745,7 +749,7 @@
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 7.07,
+          "rating": 7.1,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -776,7 +780,7 @@
         {
           "title": "Brothers",
           "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-          "rating": 8.4,
+          "rating": 8.17,
           "year": "2026",
           "genres": [
             "Comedia"
