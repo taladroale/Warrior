@@ -18,22 +18,20 @@
       "duration": "128 min"
     },
     {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.32,
+      "title": "Ricos sin dinero",
+      "synopsis": "Los AlThahabi siempre han presumido de dinero y estatus. Pero, cuando descubren que no son tan ricos como creían, tienen que seguir aparentándolo para sobrevivir",
+      "rating": 0,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
+        "Comedia",
+        "Drama"
       ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
-      "type": "movie",
-      "duration": "93 min"
+      "cast": "آيدا القصي, أضواء بدر, زياد العمري, غادة الملا, فايز بن جريس",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ePzZ5UIuGCaVoDqfA2YJtW36XYR.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
+      "slug": "ricos-sin-dinero",
+      "tmdbId": "1763619",
+      "type": "movie"
     },
     {
       "title": "Entrega al límite",
@@ -53,9 +51,45 @@
       "duration": "97 min"
     },
     {
+      "title": "Resident Evil",
+      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 7.32,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "slug": "resident-evil-1423191",
+      "tmdbId": "1423191",
+      "type": "movie",
+      "duration": "93 min"
+    },
+    {
+      "title": "Soulm8te",
+      "synopsis": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
+      "rating": 7.4,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspenso"
+      ],
+      "cast": "David Rysdahl, Lily Sullivan, Claudia Doumit, Arty Froushan, Elijah Isaiah Cook",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xeBFjbLFp3vvv49yD2q1Gg64zyb.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+      "slug": "soulm8te",
+      "tmdbId": "1307118",
+      "type": "movie",
+      "duration": "99 min"
+    },
+    {
       "title": "Coyote vs. Acme",
       "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "rating": 7.56,
+      "rating": 7.55,
       "year": "2026",
       "genres": [
         "Comedia",
@@ -69,42 +103,6 @@
       "tmdbId": "1204680",
       "type": "movie",
       "duration": "103 min"
-    },
-    {
-      "title": "UNABOMBER",
-      "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-      "rating": 6.7,
-      "year": "2026",
-      "genres": [
-        "Suspenso",
-        "Drama",
-        "Crimen"
-      ],
-      "cast": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig",
-      "posterUrl": "https://image.tmdb.org/t/p/original/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "slug": "unabomber",
-      "tmdbId": "1492640",
-      "type": "movie",
-      "duration": "101 min"
-    },
-    {
-      "title": "La Odisea",
-      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 8.01,
-      "year": "2026",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Fantasía"
-      ],
-      "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
-      "slug": "la-odisea-1368337",
-      "tmdbId": "1368337",
-      "type": "movie",
-      "duration": "172 min"
     }
   ],
   "seriesHero": [
@@ -121,27 +119,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/kz1ceDJ7e8z8zIQNURJcGOoQ8WY.jpg",
       "slug": "scrubs",
       "tmdbId": "295778",
-      "type": "series"
-    },
-    {
-      "title": "Re: Zero - Empezar de cero en un mundo diferente",
-      "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chica de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
-      "rating": 7.73,
-      "year": "2016",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Drama",
-        "Acción",
-        "Aventura",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "小林裕介, Rie Takahashi, Yumi Uchiyama, Chinatsu Akasaki, Yuichi Nakamura",
-      "posterUrl": "https://image.tmdb.org/t/p/original/aBArXqZA6zuNV1mwBH5UP8aiQoP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
-      "slug": "re-zero-empezar-de-cero-en-un-mundo-diferente",
-      "tmdbId": "65942",
       "type": "series"
     },
     {
@@ -163,18 +140,24 @@
       "type": "series"
     },
     {
-      "title": "Medusa",
-      "synopsis": "Alguien quiere matar a Bárbara Hidalgo, la CEO de Medusa. Mientras ella intenta dar con el culpable, su familia conspira sin escrúpulos por el control de su imperio en Colombia.",
-      "rating": 7.3,
-      "year": "2025",
+      "title": "Re: Zero - Empezar de cero en un mundo diferente",
+      "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chica de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
+      "rating": 7.73,
+      "year": "2016",
       "genres": [
-        "Drama"
+        "Animación",
+        "Comedia",
+        "Drama",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Juana Acosta, Manolo Cardona, Sebastián Martínez",
-      "posterUrl": "https://image.tmdb.org/t/p/original/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gm7OMY4t99UpiMpIShNOKvKLQwO.jpg",
-      "slug": "medusa",
-      "tmdbId": "284792",
+      "cast": "小林裕介, Rie Takahashi, Yumi Uchiyama, Chinatsu Akasaki, Yuichi Nakamura",
+      "posterUrl": "https://image.tmdb.org/t/p/original/aBArXqZA6zuNV1mwBH5UP8aiQoP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
+      "slug": "re-zero-empezar-de-cero-en-un-mundo-diferente",
+      "tmdbId": "65942",
       "type": "series"
     },
     {
@@ -207,6 +190,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
       "slug": "ted-lasso",
       "tmdbId": "97546",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.46,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     }
   ],
@@ -746,7 +745,7 @@
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 7.2,
+          "rating": 7.1,
           "year": "2026",
           "genres": [
             "Crimen",
