@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T14:55:27Z",
+  "updatedAt": "2026-10-02T14:33:16Z",
   "source": "cufo",
-  "total": 22534,
+  "total": 22538,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias"},
     "12": {"slug":"buscando-a-nemo"},
@@ -16422,6 +16422,7 @@
     "1282960": {"slug":"detained"},
     "1283214": {"slug":"wild-wild-space"},
     "1283320": {"slug":"urchin"},
+    "1283636": {"slug":"find-your-friends"},
     "1283671": {"slug":"amor-apocalipsis"},
     "1284016": {"slug":"letras-robadas"},
     "1284041": {"slug":"la-ultima-casa"},
@@ -17824,6 +17825,7 @@
     "1591822": {"slug":"pandora-fire-and-ice"},
     "1591834": {"slug":"familia-a-la-deriva"},
     "1593151": {"slug":"stepfather"},
+    "1593380": {"slug":"ninja-wars-blackfox-vs-shoguns-ninja"},
     "1593913": {"slug":"dummy"},
     "1594286": {"slug":"youre-all-doomed"},
     "1594914": {"slug":"lucky-strike"},
@@ -17853,6 +17855,7 @@
     "1606322": {"slug":"el-socio-de-la-muerte"},
     "1606362": {"slug":"castigo-divino"},
     "1606791": {"slug":"say-cheese"},
+    "1606912": {"slug":"volver-a-los-17"},
     "1607127": {"slug":"one-last-shot"},
     "1608982": {"slug":"de-las-cenizas-bajo-tierra"},
     "1610042": {"slug":"mamas-little-murderer"},
@@ -18009,6 +18012,7 @@
     "1748007": {"slug":"niu-lai"},
     "1750432": {"slug":"spidey-and-the-avengers-halloween-team-up"},
     "1752159": {"slug":"momentos-decisivos-generacion-11-s"},
+    "1763619": {"slug":"ricos-sin-dinero"},
     "tt2407380": {"slug":"test-tt2407380"}
   },
   "series": {
