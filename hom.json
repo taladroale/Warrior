@@ -3,7 +3,7 @@
     {
       "title": "Las cartas de la vida",
       "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-      "rating": 6.85,
+      "rating": 6.15,
       "year": "2026",
       "genres": [
         "Drama",
@@ -88,22 +88,22 @@
       "duration": "101 min"
     },
     {
-      "title": "Soulm8te",
-      "synopsis": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
-      "rating": 7.4,
+      "title": "Coyote vs. Acme",
+      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "rating": 7.55,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Suspenso"
+        "Comedia",
+        "Aventura",
+        "Familia"
       ],
-      "cast": "David Rysdahl, Lily Sullivan, Claudia Doumit, Arty Froushan, Elijah Isaiah Cook",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xeBFjbLFp3vvv49yD2q1Gg64zyb.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-      "slug": "soulm8te",
-      "tmdbId": "1307118",
+      "cast": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "slug": "coyote-vs-acme",
+      "tmdbId": "1204680",
       "type": "movie",
-      "duration": "99 min"
+      "duration": "103 min"
     }
   ],
   "seriesHero": [
@@ -142,6 +142,22 @@
       "type": "series"
     },
     {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.46,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
       "title": "Tokyo Revengers",
       "synopsis": "Takemichi Hanagaki es un trabajador que ha tocado fondo en la vida. Entonces descubre que la única novia que tuvo jamás, en sus años de secundaria, la joven Hinata Tachibana, ha muerto a manos de la pandilla Tokyo Manji. El día que descubre la noticia de su muerte, está en la estación de tren cuando alguien lo empuja a las vías. Cierra los ojos pensando que está a punto de morir, pero cuando los abre, sin saber cómo, ha retrocedido 12 años en el tiempo. Ahora podrá revivir aquellos días que él consideraba los mejores de su vida y Takemichi intentará vengarse de su vida.",
       "rating": 8.42,
@@ -158,22 +174,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/a4MW4DzvP2eRizrx4OzOoIHu7Eg.jpg",
       "slug": "tokyo-revengers",
       "tmdbId": "105009",
-      "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.46,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -195,22 +195,21 @@
       "type": "series"
     },
     {
-      "title": "JoJo's Bizarre Adventure",
-      "synopsis": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
-      "rating": 8.6,
-      "year": "2012",
+      "title": "American Horror Story",
+      "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+      "rating": 8.08,
+      "year": "2011",
       "genres": [
-        "Animación",
-        "Acción",
-        "Aventura",
+        "Drama",
+        "Misterio",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Shogo Sakata, Yohei Azakami, Kaito Ishikawa, Rie Takahashi, Kenta Miyake",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
-      "slug": "jojos-bizarre-adventure",
-      "tmdbId": "45790",
+      "cast": "Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts",
+      "posterUrl": "https://image.tmdb.org/t/p/original/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+      "slug": "american-horror-story",
+      "tmdbId": "1413",
       "type": "series"
     }
   ],
