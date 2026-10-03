@@ -1,6 +1,23 @@
 {
   "movieHero": [
     {
+      "title": "Las cartas de la vida",
+      "synopsis": "Cuando Anika, una joven madre soltera que lucha por mantener unida a su familia, comienza a intercambiar cartas con Carousel, un recluso que cumple condena, su extraño vínculo a distancia se transforma en algo totalmente inesperado.",
+      "rating": 6.2,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "cast": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent",
+      "posterUrl": "https://image.tmdb.org/t/p/original/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+      "slug": "las-cartas-de-la-vida",
+      "tmdbId": "1458857",
+      "type": "movie",
+      "duration": "112 min"
+    },
+    {
       "title": "El hombre que desafió al rey",
       "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
       "rating": 8.06,
@@ -16,39 +33,6 @@
       "tmdbId": "977942",
       "type": "movie",
       "duration": "128 min"
-    },
-    {
-      "title": "Ricos sin dinero",
-      "synopsis": "Los AlThahabi siempre han presumido de dinero y estatus. Pero, cuando descubren que no son tan ricos como creían, tienen que seguir aparentándolo para sobrevivir",
-      "rating": 0,
-      "year": "2026",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "cast": "آيدا القصي, أضواء بدر, زياد العمري, غادة الملا, فايز بن جريس",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ePzZ5UIuGCaVoDqfA2YJtW36XYR.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
-      "slug": "ricos-sin-dinero",
-      "tmdbId": "1763619",
-      "type": "movie"
-    },
-    {
-      "title": "Entrega al límite",
-      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-      "rating": 8.2,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Comedia"
-      ],
-      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
-      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-      "slug": "entrega-al-limite",
-      "tmdbId": "1377237",
-      "type": "movie",
-      "duration": "97 min"
     },
     {
       "title": "Resident Evil",
@@ -87,21 +71,37 @@
       "duration": "99 min"
     },
     {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.19,
+      "title": "Entrega al límite",
+      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+      "rating": 8.2,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Suspenso"
+        "Acción",
+        "Comedia"
       ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
+      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "slug": "entrega-al-limite",
+      "tmdbId": "1377237",
       "type": "movie",
-      "duration": "100 min"
+      "duration": "97 min"
+    },
+    {
+      "title": "Ricos sin dinero",
+      "synopsis": "Los AlThahabi siempre han presumido de dinero y estatus. Pero, cuando descubren que no son tan ricos como creían, tienen que seguir aparentándolo para sobrevivir",
+      "rating": 0,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "cast": "آيدا القصي, أضواء بدر, زياد العمري, غادة الملا, فايز بن جريس",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ePzZ5UIuGCaVoDqfA2YJtW36XYR.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
+      "slug": "ricos-sin-dinero",
+      "tmdbId": "1763619",
+      "type": "movie"
     }
   ],
   "seriesHero": [
@@ -120,21 +120,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/5xgzZtYAROgzyFObUmfBDqYzOFM.jpg",
       "slug": "reina-roja",
       "tmdbId": "203667",
-      "type": "series"
-    },
-    {
-      "title": "Scrubs",
-      "synopsis": "Los viejos amigos JD y Turk se reúnen por primera vez en mucho tiempo y descubren que la medicina ha cambiado, los internos han cambiado, pero su amistad ha resistido la prueba del tiempo.",
-      "rating": 7.78,
-      "year": "2026",
-      "genres": [
-        "Comedia"
-      ],
-      "cast": "Zach Braff, Donald Faison, Sarah Chalke",
-      "posterUrl": "https://image.tmdb.org/t/p/original/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/kz1ceDJ7e8z8zIQNURJcGOoQ8WY.jpg",
-      "slug": "scrubs",
-      "tmdbId": "295778",
       "type": "series"
     },
     {
@@ -172,22 +157,6 @@
       "type": "series"
     },
     {
-      "title": "South Park",
-      "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
-      "rating": 8.3,
-      "year": "1997",
-      "genres": [
-        "Comedia",
-        "Animación"
-      ],
-      "cast": "Matt Stone, Mona Marshall, Jennifer Howell, John Hansen, Adrien Beard",
-      "posterUrl": "https://image.tmdb.org/t/p/original/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "slug": "south-park",
-      "tmdbId": "2190",
-      "type": "series"
-    },
-    {
       "title": "Re: Zero - Empezar de cero en un mundo diferente",
       "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chica de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
       "rating": 7.73,
@@ -207,6 +176,42 @@
       "slug": "re-zero-empezar-de-cero-en-un-mundo-diferente",
       "tmdbId": "65942",
       "type": "series"
+    },
+    {
+      "title": "Los diarios de la boticaria",
+      "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
+      "rating": 8.84,
+      "year": "2023",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Aoi Yuki, Takeo Otsuka, Katsuyuki Konishi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
+      "slug": "los-diarios-de-la-boticaria",
+      "tmdbId": "220542",
+      "type": "series"
+    },
+    {
+      "title": "Tokyo Revengers",
+      "synopsis": "Takemichi Hanagaki es un trabajador que ha tocado fondo en la vida. Entonces descubre que la única novia que tuvo jamás, en sus años de secundaria, la joven Hinata Tachibana, ha muerto a manos de la pandilla Tokyo Manji. El día que descubre la noticia de su muerte, está en la estación de tren cuando alguien lo empuja a las vías. Cierra los ojos pensando que está a punto de morir, pero cuando los abre, sin saber cómo, ha retrocedido 12 años en el tiempo. Ahora podrá revivir aquellos días que él consideraba los mejores de su vida y Takemichi intentará vengarse de su vida.",
+      "rating": 8.42,
+      "year": "2021",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Acción",
+        "Aventura",
+        "Crimen"
+      ],
+      "cast": "Yuuki Shin, Azumi Waki, Ryota Osaka, Yuu Hayashi, Tatsuhisa Suzuki",
+      "posterUrl": "https://image.tmdb.org/t/p/original/kzDHRAkFjeed0lJpjE1eKJDcowS.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/a4MW4DzvP2eRizrx4OzOoIHu7Eg.jpg",
+      "slug": "tokyo-revengers",
+      "tmdbId": "105009",
+      "type": "series"
     }
   ],
   "movieSections": [
@@ -215,6 +220,41 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Las cartas de la vida",
+          "synopsis": "Cuando Anika, una joven madre soltera que lucha por mantener unida a su familia, comienza a intercambiar cartas con Carousel, un recluso que cumple condena, su extraño vínculo a distancia se transforma en algo totalmente inesperado.",
+          "rating": 5.9,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "cast": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent",
+          "posterUrl": "https://image.tmdb.org/t/p/original/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+          "slug": "las-cartas-de-la-vida",
+          "tmdbId": "1458857",
+          "type": "movie",
+          "duration": "112 min"
+        },
+        {
+          "title": "No dejes a los niños solos",
+          "synopsis": "Por una emergencia de trabajo, Catalina Camacho, una joven y reciente viuda, se ve obligada a dejar a sus hijos a solas por unas cuantas horas. Esa noche, y con la casa para ellos solos, Matías y Emiliano (de diez y siete años) se dan vuelo desempacando cajas para desenterrar su preciada consola de videojuegos, sin saber que algo les hará creer, a cada quién por separado, que su hermano lo quiere matar para volverse el hijo único y favorito. (GIFF)",
+          "rating": 5.9,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Drama",
+            "Suspenso"
+          ],
+          "cast": "Ana Serradilla, Juan Pablo Velasco, Ricardo Galina, Jesús Zavala, José Sefami",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jxg1sLzG0TJRDPSNU6AmR4wR4Ce.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/flo7Xmyxz2wDUjr5Ff0VrxaVwlY.jpg",
+          "slug": "no-dejes-a-los-ninos-solos",
+          "tmdbId": "1339274",
+          "type": "movie",
+          "duration": "97 min"
+        },
         {
           "title": "Siete francotiradores",
           "synopsis": "Cuando una antigua francotirador de élite es perseguida por el despiadado caudillo que una vez la mantuvo cautiva, debe luchar hasta la muerte para proteger a la hija que ha criado en la clandestinidad, en una remota granja australiana.",
@@ -350,40 +390,6 @@
           "tmdbId": "1322562",
           "type": "movie",
           "duration": "88 min"
-        },
-        {
-          "title": "El hombre que desafió al rey",
-          "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
-          "rating": 8.06,
-          "year": "2026",
-          "genres": [
-            "Historia",
-            "Drama"
-          ],
-          "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Woody Norman, Tom Hollander",
-          "posterUrl": "https://image.tmdb.org/t/p/original/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-          "slug": "el-hombre-que-desafio-al-rey",
-          "tmdbId": "977942",
-          "type": "movie",
-          "duration": "128 min"
-        },
-        {
-          "title": "Entrega al límite",
-          "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-          "rating": 8.2,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Comedia"
-          ],
-          "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-          "slug": "entrega-al-limite",
-          "tmdbId": "1377237",
-          "type": "movie",
-          "duration": "97 min"
         }
       ]
     },
@@ -392,6 +398,23 @@
       "type": "movie",
       "seeMoreSlug": "estrenos",
       "items": [
+        {
+          "title": "Las cartas de la vida",
+          "synopsis": "Cuando Anika, una joven madre soltera que lucha por mantener unida a su familia, comienza a intercambiar cartas con Carousel, un recluso que cumple condena, su extraño vínculo a distancia se transforma en algo totalmente inesperado.",
+          "rating": 6.2,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "cast": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent",
+          "posterUrl": "https://image.tmdb.org/t/p/original/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+          "slug": "las-cartas-de-la-vida",
+          "tmdbId": "1458857",
+          "type": "movie",
+          "duration": "112 min"
+        },
         {
           "title": "Ricos sin dinero",
           "synopsis": "Los AlThahabi siempre han presumido de dinero y estatus. Pero, cuando descubren que no son tan ricos como creían, tienen que seguir aparentándolo para sobrevivir",
@@ -497,6 +520,23 @@
           "duration": "101 min"
         },
         {
+          "title": "Tú+Yo - Solos contra todos",
+          "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
+          "rating": 5.7,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Drama"
+          ],
+          "cast": "Vittoria Di Savoia, Lucas Barski, Zoé Garcia, Léo Legrand, Jean-Yves Berteloot",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mzgqiEhujCAZiaD6jNVYSXdqFXs.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+          "slug": "tuyo-solos-contra-todos",
+          "tmdbId": "1641629",
+          "type": "movie",
+          "duration": "94 min"
+        },
+        {
           "title": "Las mejores",
           "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
           "rating": 5.36,
@@ -528,41 +568,6 @@
           "tmdbId": "1451944",
           "type": "movie",
           "duration": "165 min"
-        },
-        {
-          "title": "Tú+Yo - Solos contra todos",
-          "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
-          "rating": 5.7,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Drama"
-          ],
-          "cast": "Vittoria Di Savoia, Lucas Barski, Zoé Garcia, Léo Legrand, Jean-Yves Berteloot",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mzgqiEhujCAZiaD6jNVYSXdqFXs.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-          "slug": "tuyo-solos-contra-todos",
-          "tmdbId": "1641629",
-          "type": "movie",
-          "duration": "94 min"
-        },
-        {
-          "title": "Resident Evil",
-          "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-          "rating": 7.32,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Ciencia ficción",
-            "Aventura"
-          ],
-          "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-          "slug": "resident-evil-1423191",
-          "tmdbId": "1423191",
-          "type": "movie",
-          "duration": "93 min"
         }
       ]
     }
@@ -573,6 +578,22 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Tierra de mafiosos",
+          "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+          "rating": 8.5,
+          "year": "2025",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+          "slug": "mobland",
+          "tmdbId": "247718",
+          "type": "series"
+        },
         {
           "title": "American Horror Story",
           "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
@@ -719,24 +740,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
           "slug": "youth",
           "tmdbId": "285418",
-          "type": "series"
-        },
-        {
-          "title": "Linternas",
-          "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-          "rating": 8.4,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Misterio",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
-          "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-          "slug": "linternas",
-          "tmdbId": "95350",
           "type": "series"
         }
       ]
