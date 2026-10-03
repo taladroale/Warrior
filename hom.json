@@ -2,8 +2,8 @@
   "movieHero": [
     {
       "title": "Las cartas de la vida",
-      "synopsis": "Cuando Anika, una joven madre soltera que lucha por mantener unida a su familia, comienza a intercambiar cartas con Carousel, un recluso que cumple condena, su extraño vínculo a distancia se transforma en algo totalmente inesperado.",
-      "rating": 6.2,
+      "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
+      "rating": 5.9,
       "year": "2026",
       "genres": [
         "Drama",
@@ -53,24 +53,6 @@
       "duration": "93 min"
     },
     {
-      "title": "Soulm8te",
-      "synopsis": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
-      "rating": 7.4,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Suspenso"
-      ],
-      "cast": "David Rysdahl, Lily Sullivan, Claudia Doumit, Arty Froushan, Elijah Isaiah Cook",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xeBFjbLFp3vvv49yD2q1Gg64zyb.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
-      "slug": "soulm8te",
-      "tmdbId": "1307118",
-      "type": "movie",
-      "duration": "99 min"
-    },
-    {
       "title": "Entrega al límite",
       "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
       "rating": 8.2,
@@ -88,23 +70,61 @@
       "duration": "97 min"
     },
     {
-      "title": "Ricos sin dinero",
-      "synopsis": "Los AlThahabi siempre han presumido de dinero y estatus. Pero, cuando descubren que no son tan ricos como creían, tienen que seguir aparentándolo para sobrevivir",
-      "rating": 0,
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.19,
       "year": "2026",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Terror",
+        "Suspenso"
       ],
-      "cast": "آيدا القصي, أضواء بدر, زياد العمري, غادة الملا, فايز بن جريس",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ePzZ5UIuGCaVoDqfA2YJtW36XYR.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
-      "slug": "ricos-sin-dinero",
-      "tmdbId": "1763619",
-      "type": "movie"
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
+      "type": "movie",
+      "duration": "100 min"
+    },
+    {
+      "title": "Soulm8te",
+      "synopsis": "Un hombre adquiere un androide con Inteligencia Artificial para hacer frente a la pérdida de su esposa recientemente fallecida. En un intento por crear una pareja verdaderamente sensible, sin darse cuenta convierte a un inofensivo robot del amor en un alma gemela mortal.",
+      "rating": 7.4,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Suspenso"
+      ],
+      "cast": "David Rysdahl, Lily Sullivan, Claudia Doumit, Arty Froushan, Elijah Isaiah Cook",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xeBFjbLFp3vvv49yD2q1Gg64zyb.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+      "slug": "soulm8te",
+      "tmdbId": "1307118",
+      "type": "movie",
+      "duration": "99 min"
     }
   ],
   "seriesHero": [
+    {
+      "title": "Tokyo Revengers",
+      "synopsis": "Takemichi Hanagaki es un trabajador que ha tocado fondo en la vida. Entonces descubre que la única novia que tuvo jamás, en sus años de secundaria, la joven Hinata Tachibana, ha muerto a manos de la pandilla Tokyo Manji. El día que descubre la noticia de su muerte, está en la estación de tren cuando alguien lo empuja a las vías. Cierra los ojos pensando que está a punto de morir, pero cuando los abre, sin saber cómo, ha retrocedido 12 años en el tiempo. Ahora podrá revivir aquellos días que él consideraba los mejores de su vida y Takemichi intentará vengarse de su vida.",
+      "rating": 8.42,
+      "year": "2021",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Acción",
+        "Aventura",
+        "Crimen"
+      ],
+      "cast": "Yuuki Shin, Azumi Waki, Ryota Osaka, Yuu Hayashi, Tatsuhisa Suzuki",
+      "posterUrl": "https://image.tmdb.org/t/p/original/kzDHRAkFjeed0lJpjE1eKJDcowS.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/a4MW4DzvP2eRizrx4OzOoIHu7Eg.jpg",
+      "slug": "tokyo-revengers",
+      "tmdbId": "105009",
+      "type": "series"
+    },
     {
       "title": "Reina roja",
       "synopsis": "Antonia es la mujer más inteligente del mundo, lo que la convirtió en la Reina Roja de un proyecto policial secreto. Tras dejar el servicio por una tragedia personal, el policía Jon -fuerte, vasco, gay- revoluciona su vida y sus métodos en un emocionante caso doble, de secuestro y asesinato.",
@@ -123,19 +143,20 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.5,
-      "year": "2025",
+      "title": "Los diarios de la boticaria",
+      "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
+      "rating": 8.84,
+      "year": "2023",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Animación",
+        "Drama",
+        "Misterio"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Aoi Yuki, Takeo Otsuka, Katsuyuki Konishi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
+      "slug": "los-diarios-de-la-boticaria",
+      "tmdbId": "220542",
       "type": "series"
     },
     {
@@ -157,60 +178,37 @@
       "type": "series"
     },
     {
-      "title": "Re: Zero - Empezar de cero en un mundo diferente",
-      "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chica de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
-      "rating": 7.73,
-      "year": "2016",
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.5,
+      "year": "2025",
       "genres": [
-        "Animación",
-        "Comedia",
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
+      "title": "American Horror Story",
+      "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+      "rating": 8.08,
+      "year": "2011",
+      "genres": [
         "Drama",
-        "Acción",
-        "Aventura",
+        "Misterio",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "小林裕介, Rie Takahashi, Yumi Uchiyama, Chinatsu Akasaki, Yuichi Nakamura",
-      "posterUrl": "https://image.tmdb.org/t/p/original/aBArXqZA6zuNV1mwBH5UP8aiQoP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
-      "slug": "re-zero-empezar-de-cero-en-un-mundo-diferente",
-      "tmdbId": "65942",
-      "type": "series"
-    },
-    {
-      "title": "Los diarios de la boticaria",
-      "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
-      "rating": 8.84,
-      "year": "2023",
-      "genres": [
-        "Animación",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Aoi Yuki, Takeo Otsuka, Katsuyuki Konishi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
-      "slug": "los-diarios-de-la-boticaria",
-      "tmdbId": "220542",
-      "type": "series"
-    },
-    {
-      "title": "Tokyo Revengers",
-      "synopsis": "Takemichi Hanagaki es un trabajador que ha tocado fondo en la vida. Entonces descubre que la única novia que tuvo jamás, en sus años de secundaria, la joven Hinata Tachibana, ha muerto a manos de la pandilla Tokyo Manji. El día que descubre la noticia de su muerte, está en la estación de tren cuando alguien lo empuja a las vías. Cierra los ojos pensando que está a punto de morir, pero cuando los abre, sin saber cómo, ha retrocedido 12 años en el tiempo. Ahora podrá revivir aquellos días que él consideraba los mejores de su vida y Takemichi intentará vengarse de su vida.",
-      "rating": 8.42,
-      "year": "2021",
-      "genres": [
-        "Animación",
-        "Drama",
-        "Acción",
-        "Aventura",
-        "Crimen"
-      ],
-      "cast": "Yuuki Shin, Azumi Waki, Ryota Osaka, Yuu Hayashi, Tatsuhisa Suzuki",
-      "posterUrl": "https://image.tmdb.org/t/p/original/kzDHRAkFjeed0lJpjE1eKJDcowS.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/a4MW4DzvP2eRizrx4OzOoIHu7Eg.jpg",
-      "slug": "tokyo-revengers",
-      "tmdbId": "105009",
+      "cast": "Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts",
+      "posterUrl": "https://image.tmdb.org/t/p/original/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+      "slug": "american-horror-story",
+      "tmdbId": "1413",
       "type": "series"
     }
   ],
@@ -222,7 +220,7 @@
       "items": [
         {
           "title": "Las cartas de la vida",
-          "synopsis": "Cuando Anika, una joven madre soltera que lucha por mantener unida a su familia, comienza a intercambiar cartas con Carousel, un recluso que cumple condena, su extraño vínculo a distancia se transforma en algo totalmente inesperado.",
+          "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
           "rating": 5.9,
           "year": "2026",
           "genres": [
@@ -400,8 +398,8 @@
       "items": [
         {
           "title": "Las cartas de la vida",
-          "synopsis": "Cuando Anika, una joven madre soltera que lucha por mantener unida a su familia, comienza a intercambiar cartas con Carousel, un recluso que cumple condena, su extraño vínculo a distancia se transforma en algo totalmente inesperado.",
-          "rating": 6.2,
+          "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
+          "rating": 5.9,
           "year": "2026",
           "genres": [
             "Drama",
