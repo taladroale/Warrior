@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T14:33:16Z",
+  "updatedAt": "2026-10-03T16:29:26Z",
   "source": "cufo",
-  "total": 22538,
+  "total": 22540,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias"},
     "12": {"slug":"buscando-a-nemo"},
@@ -16844,6 +16844,7 @@
     "1339166": {"slug":"shaman"},
     "1339206": {"slug":"the-surrender"},
     "1339210": {"slug":"affection"},
+    "1339274": {"slug":"no-dejes-a-los-ninos-solos"},
     "1339374": {"slug":"mazel-tov"},
     "1339588": {"slug":"finding-emily"},
     "1339658": {"slug":"oh-hi"},
@@ -17438,6 +17439,7 @@
     "1457515": {"slug":"thunderbirds-la-elite-de-la-fuerza-aerea-de-ee-uu"},
     "1457705": {"slug":"nuestras-hijas"},
     "1458844": {"slug":"dan-da-dan-evil-eye"},
+    "1458857": {"slug":"las-cartas-de-la-vida"},
     "1459725": {"slug":"instinto-animal"},
     "1460038": {"slug":"give-me-back-my-daughter"},
     "1460448": {"slug":"cuerpos-locos"},
