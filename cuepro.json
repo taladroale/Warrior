@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T14:32:08Z",
+  "updatedAt": "2026-10-03T16:24:46Z",
   "source": "cuepro",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -16388,6 +16388,7 @@
     "1457986": {"slug": "in-dispute-lively-v-baldoni"},
     "1458480": {"slug": "antes-de-nos"},
     "1458850": {"slug": "un-ex-you"},
+    "1458857": {"slug": "doing-life"},
     "1459725": {"slug": "instinto-animal"},
     "1460448": {"slug": "cuerpos-locos"},
     "1460989": {"slug": "this-way-to-hell"},
@@ -20046,6 +20047,7 @@
     "258055": {"slug": "once-upon-a-witch-s-death"},
     "258063": {"slug": "almas-gemelas"},
     "258154": {"slug": "angel-di-maria-romper-la-pared"},
+    "258165": {"slug": "al-este-del-eden"},
     "258190": {"slug": "coldwater"},
     "258230": {"slug": "vista-por-ultima-vez"},
     "258306": {"slug": "martes-de-terror-extremo"},
@@ -20268,6 +20270,7 @@
     "279013": {"slug": "tremembe"},
     "279060": {"slug": "chespirito-sin-querer-queriendo"},
     "279182": {"slug": "super-cubo"},
+    "279185": {"slug": "zmora"},
     "279216": {"slug": "detective-de-la-mesa"},
     "279220": {"slug": "cultural-exchange-with-a-game-centre-girl"},
     "279231": {"slug": "a-la-caza-de-famosos-con-bear-grylls"},
@@ -20785,6 +20788,7 @@
     "324111": {"slug": "physical-italia-da-100-a-1"},
     "324115": {"slug": "the-evil-lawyer"},
     "324434": {"slug": "soy-luna-volver-a-rodar"},
+    "324502": {"slug": "overgeared"},
     "325188": {"slug": "los-peores-vecinos-del-mundo"},
     "325313": {"slug": "olivia"},
     "325622": {"slug": "murder-101"},
@@ -20821,6 +20825,7 @@
     "333016": {"slug": "outside"},
     "333096": {"slug": "hotel-todo-incluido"},
     "333631": {"slug": "cautiva"},
+    "335227": {"slug": "prefiero-la-muerte"},
     "336083": {"slug": "sin-senal-2"},
     "336977": {"slug": "jeff-his-super-hero-friends"}
   }
