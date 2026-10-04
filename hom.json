@@ -3,7 +3,7 @@
     {
       "title": "Las cartas de la vida",
       "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-      "rating": 6.07,
+      "rating": 6.5,
       "year": "2026",
       "genres": [
         "Drama",
@@ -16,6 +16,41 @@
       "tmdbId": "1458857",
       "type": "movie",
       "duration": "112 min"
+    },
+    {
+      "title": "Kung Fu Soccer",
+      "synopsis": "The \"Supreme Invincible Cup\" is about to begin, and a host of top teams are about to engage in an unprecedented showdown! But the Kung Fu Women's Soccer Team has been dealt a hellish script right from the start?! Their opponents are all highly skilled, and external pressure is mounting. The schemes on the field are one after another... Can they use their kung fu to turn the tide on the green field?",
+      "rating": 6.1,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Acción"
+      ],
+      "cast": "张小斐, 迪丽热巴, 张艺兴, 劉嘉玲, Takeru Satoh",
+      "posterUrl": "https://image.tmdb.org/t/p/original/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
+      "slug": "kung-fu-soccer",
+      "tmdbId": "1491920",
+      "type": "movie",
+      "duration": "106 min"
+    },
+    {
+      "title": "El hombre que desafió al rey",
+      "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
+      "rating": 8.06,
+      "year": "2026",
+      "genres": [
+        "Historia",
+        "Drama"
+      ],
+      "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Woody Norman, Tom Hollander",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+      "slug": "el-hombre-que-desafio-al-rey",
+      "tmdbId": "977942",
+      "type": "movie",
+      "duration": "128 min"
     },
     {
       "title": "Resident Evil",
@@ -36,23 +71,6 @@
       "duration": "93 min"
     },
     {
-      "title": "El hombre que desafió al rey",
-      "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
-      "rating": 8.06,
-      "year": "2026",
-      "genres": [
-        "Historia",
-        "Drama"
-      ],
-      "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Woody Norman, Tom Hollander",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-      "slug": "el-hombre-que-desafio-al-rey",
-      "tmdbId": "977942",
-      "type": "movie",
-      "duration": "128 min"
-    },
-    {
       "title": "Entrega al límite",
       "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
       "rating": 8.2,
@@ -70,39 +88,22 @@
       "duration": "97 min"
     },
     {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.19,
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 7.86,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Suspenso"
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
       ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
+      "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681",
       "type": "movie",
-      "duration": "100 min"
-    },
-    {
-      "title": "UNABOMBER",
-      "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-      "rating": 6.7,
-      "year": "2026",
-      "genres": [
-        "Suspenso",
-        "Drama",
-        "Crimen"
-      ],
-      "cast": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig",
-      "posterUrl": "https://image.tmdb.org/t/p/original/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "slug": "unabomber",
-      "tmdbId": "1492640",
-      "type": "movie",
-      "duration": "101 min"
+      "duration": "144 min"
     }
   ],
   "seriesHero": [
@@ -126,23 +127,6 @@
       "type": "series"
     },
     {
-      "title": "Los diarios de la boticaria",
-      "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
-      "rating": 8.84,
-      "year": "2023",
-      "genres": [
-        "Animación",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Aoi Yuki, Takeo Otsuka, Katsuyuki Konishi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
-      "slug": "los-diarios-de-la-boticaria",
-      "tmdbId": "220542",
-      "type": "series"
-    },
-    {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "rating": 8.4,
@@ -158,6 +142,23 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
       "slug": "linternas",
       "tmdbId": "95350",
+      "type": "series"
+    },
+    {
+      "title": "Los diarios de la boticaria",
+      "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
+      "rating": 8.84,
+      "year": "2023",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Aoi Yuki, Takeo Otsuka, Katsuyuki Konishi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
+      "slug": "los-diarios-de-la-boticaria",
+      "tmdbId": "220542",
       "type": "series"
     },
     {
@@ -194,22 +195,24 @@
       "type": "series"
     },
     {
-      "title": "Tokyo Revengers",
-      "synopsis": "Takemichi Hanagaki es un trabajador que ha tocado fondo en la vida. Entonces descubre que la única novia que tuvo jamás, en sus años de secundaria, la joven Hinata Tachibana, ha muerto a manos de la pandilla Tokyo Manji. El día que descubre la noticia de su muerte, está en la estación de tren cuando alguien lo empuja a las vías. Cierra los ojos pensando que está a punto de morir, pero cuando los abre, sin saber cómo, ha retrocedido 12 años en el tiempo. Ahora podrá revivir aquellos días que él consideraba los mejores de su vida y Takemichi intentará vengarse de su vida.",
-      "rating": 8.42,
-      "year": "2021",
+      "title": "Re: Zero - Empezar de cero en un mundo diferente",
+      "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chica de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
+      "rating": 7.73,
+      "year": "2016",
       "genres": [
         "Animación",
+        "Comedia",
         "Drama",
         "Acción",
         "Aventura",
-        "Crimen"
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Yuuki Shin, Azumi Waki, Ryota Osaka, Yuu Hayashi, Tatsuhisa Suzuki",
-      "posterUrl": "https://image.tmdb.org/t/p/original/kzDHRAkFjeed0lJpjE1eKJDcowS.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/a4MW4DzvP2eRizrx4OzOoIHu7Eg.jpg",
-      "slug": "tokyo-revengers",
-      "tmdbId": "105009",
+      "cast": "小林裕介, Rie Takahashi, Yumi Uchiyama, Chinatsu Akasaki, Yuichi Nakamura",
+      "posterUrl": "https://image.tmdb.org/t/p/original/aBArXqZA6zuNV1mwBH5UP8aiQoP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
+      "slug": "re-zero-empezar-de-cero-en-un-mundo-diferente",
+      "tmdbId": "65942",
       "type": "series"
     }
   ],
@@ -400,7 +403,7 @@
         {
           "title": "Las cartas de la vida",
           "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 6.07,
+          "rating": 6.5,
           "year": "2026",
           "genres": [
             "Drama",
@@ -727,7 +730,7 @@
         {
           "title": "Presidente Curtis",
           "synopsis": "El presidente Curtis sigue al Comandante en Jefe y su excéntrico equipo en investigaciones paranormales y fenómenos inexplicables.",
-          "rating": 6.79,
+          "rating": 6.84,
           "year": "2026",
           "genres": [
             "Animación",
