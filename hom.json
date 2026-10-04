@@ -3,7 +3,7 @@
     {
       "title": "Las cartas de la vida",
       "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-      "rating": 6.5,
+      "rating": 6.54,
       "year": "2026",
       "genres": [
         "Drama",
@@ -16,24 +16,6 @@
       "tmdbId": "1458857",
       "type": "movie",
       "duration": "112 min"
-    },
-    {
-      "title": "Kung Fu Soccer",
-      "synopsis": "The \"Supreme Invincible Cup\" is about to begin, and a host of top teams are about to engage in an unprecedented showdown! But the Kung Fu Women's Soccer Team has been dealt a hellish script right from the start?! Their opponents are all highly skilled, and external pressure is mounting. The schemes on the field are one after another... Can they use their kung fu to turn the tide on the green field?",
-      "rating": 6.1,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Comedia",
-        "Acción"
-      ],
-      "cast": "张小斐, 迪丽热巴, 张艺兴, 劉嘉玲, Takeru Satoh",
-      "posterUrl": "https://image.tmdb.org/t/p/original/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
-      "slug": "kung-fu-soccer",
-      "tmdbId": "1491920",
-      "type": "movie",
-      "duration": "106 min"
     },
     {
       "title": "El hombre que desafió al rey",
@@ -71,21 +53,22 @@
       "duration": "93 min"
     },
     {
-      "title": "Entrega al límite",
-      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-      "rating": 8.2,
+      "title": "Kung Fu Soccer",
+      "synopsis": "The \"Supreme Invincible Cup\" is about to begin, and a host of top teams are about to engage in an unprecedented showdown! But the Kung Fu Women's Soccer Team has been dealt a hellish script right from the start?! Their opponents are all highly skilled, and external pressure is mounting. The schemes on the field are one after another... Can they use their kung fu to turn the tide on the green field?",
+      "rating": 6.1,
       "year": "2026",
       "genres": [
-        "Acción",
-        "Comedia"
+        "Drama",
+        "Comedia",
+        "Acción"
       ],
-      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
-      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-      "slug": "entrega-al-limite",
-      "tmdbId": "1377237",
+      "cast": "张小斐, 迪丽热巴, 张艺兴, 劉嘉玲, Takeru Satoh",
+      "posterUrl": "https://image.tmdb.org/t/p/original/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
+      "slug": "kung-fu-soccer",
+      "tmdbId": "1491920",
       "type": "movie",
-      "duration": "97 min"
+      "duration": "106 min"
     },
     {
       "title": "Spider-Man: Brand New Day",
@@ -104,6 +87,23 @@
       "tmdbId": "969681",
       "type": "movie",
       "duration": "144 min"
+    },
+    {
+      "title": "Entrega al límite",
+      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+      "rating": 8.2,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "slug": "entrega-al-limite",
+      "tmdbId": "1377237",
+      "type": "movie",
+      "duration": "97 min"
     }
   ],
   "seriesHero": [
@@ -145,6 +145,22 @@
       "type": "series"
     },
     {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.46,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
       "title": "Los diarios de la boticaria",
       "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
       "rating": 8.84,
@@ -159,22 +175,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
       "slug": "los-diarios-de-la-boticaria",
       "tmdbId": "220542",
-      "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.46,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -195,24 +195,22 @@
       "type": "series"
     },
     {
-      "title": "Re: Zero - Empezar de cero en un mundo diferente",
-      "synopsis": "En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chica de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar. Los enemigos atacan sin descanso, uno tras otro, hasta que finalmente mueren tanto él como la chica. Es entonces cuando Subaru descubre que tiene el poder de dar marcha atrás en el tiempo y volver al inicio de la historia, al punto en el que llegó al mundo desconocido. El problema es que él es el único que recuerda lo ocurrido.",
-      "rating": 7.73,
-      "year": "2016",
+      "title": "JoJo's Bizarre Adventure",
+      "synopsis": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
+      "rating": 8.6,
+      "year": "2012",
       "genres": [
         "Animación",
-        "Comedia",
-        "Drama",
         "Acción",
         "Aventura",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "小林裕介, Rie Takahashi, Yumi Uchiyama, Chinatsu Akasaki, Yuichi Nakamura",
-      "posterUrl": "https://image.tmdb.org/t/p/original/aBArXqZA6zuNV1mwBH5UP8aiQoP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
-      "slug": "re-zero-empezar-de-cero-en-un-mundo-diferente",
-      "tmdbId": "65942",
+      "cast": "Shogo Sakata, Yohei Azakami, Kaito Ishikawa, Rie Takahashi, Kenta Miyake",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+      "slug": "jojos-bizarre-adventure",
+      "tmdbId": "45790",
       "type": "series"
     }
   ],
@@ -225,7 +223,7 @@
         {
           "title": "Las cartas de la vida",
           "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 6.5,
+          "rating": 6.54,
           "year": "2026",
           "genres": [
             "Drama",
@@ -581,6 +579,21 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Adults",
+          "synopsis": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
+          "rating": 6.38,
+          "year": "2025",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Malik Elassal, Lucy Freyer, Jack Innanen, Amita Rao, Owen Thiele",
+          "posterUrl": "https://image.tmdb.org/t/p/original/lypznNe82xNRw6O9580JvpnUkN6.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/plx2cifejzcbGPYDtpsYS2mpajB.jpg",
+          "slug": "adults",
+          "tmdbId": "260458",
+          "type": "series"
+        },
+        {
           "title": "Medusa",
           "synopsis": "Alguien quiere matar a Bárbara Hidalgo, la CEO de Medusa. Mientras ella intenta dar con el culpable, su familia conspira sin escrúpulos por el control de su imperio en Colombia.",
           "rating": 7.26,
@@ -725,22 +738,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
           "slug": "brothers",
           "tmdbId": "250203",
-          "type": "series"
-        },
-        {
-          "title": "Presidente Curtis",
-          "synopsis": "El presidente Curtis sigue al Comandante en Jefe y su excéntrico equipo en investigaciones paranormales y fenómenos inexplicables.",
-          "rating": 6.84,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Comedia"
-          ],
-          "cast": "Keith David, Stephanie Beatriz, Jim Rash",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vnGkkbbpTcdxLKB9DupMg5KcYp4.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
-          "slug": "presidente-curtis",
-          "tmdbId": "296756",
           "type": "series"
         }
       ]
