@@ -3,7 +3,7 @@
     {
       "title": "Las cartas de la vida",
       "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-      "rating": 6.15,
+      "rating": 6.07,
       "year": "2026",
       "genres": [
         "Drama",
@@ -52,6 +52,23 @@
       "duration": "97 min"
     },
     {
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.19,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Suspenso"
+      ],
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
+      "type": "movie",
+      "duration": "100 min"
+    },
+    {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
       "rating": 7.32,
@@ -86,27 +103,28 @@
       "tmdbId": "1492640",
       "type": "movie",
       "duration": "101 min"
-    },
-    {
-      "title": "Coyote vs. Acme",
-      "synopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "rating": 7.55,
-      "year": "2026",
-      "genres": [
-        "Comedia",
-        "Aventura",
-        "Familia"
-      ],
-      "cast": "Will Forte, Lana Condor, John Cena, Tone Bell, Martha Kelly",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vWFz9spZFBkJvForuYrKK2ntOLB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-      "slug": "coyote-vs-acme",
-      "tmdbId": "1204680",
-      "type": "movie",
-      "duration": "103 min"
     }
   ],
   "seriesHero": [
+    {
+      "title": "Black Clover",
+      "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
+      "rating": 8.49,
+      "year": "2017",
+      "genres": [
+        "Animación",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Gakuto Kajiwara, Nobunaga Shimazaki, Kana Yuuki, Junichi Suwabe, Genki Muro",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+      "slug": "black-clover",
+      "tmdbId": "73223",
+      "type": "series"
+    },
     {
       "title": "Los diarios de la boticaria",
       "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
@@ -122,58 +140,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
       "slug": "los-diarios-de-la-boticaria",
       "tmdbId": "220542",
-      "type": "series"
-    },
-    {
-      "title": "Reina roja",
-      "synopsis": "Antonia es la mujer más inteligente del mundo, lo que la convirtió en la Reina Roja de un proyecto policial secreto. Tras dejar el servicio por una tragedia personal, el policía Jon -fuerte, vasco, gay- revoluciona su vida y sus métodos en un emocionante caso doble, de secuestro y asesinato.",
-      "rating": 7.04,
-      "year": "2024",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Misterio"
-      ],
-      "cast": "Victoria Luengo, Hovik Keuchkerian, Karmele Larrinaga, Vicenta N'Dongo, Àlex Brendemühl",
-      "posterUrl": "https://image.tmdb.org/t/p/original/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5xgzZtYAROgzyFObUmfBDqYzOFM.jpg",
-      "slug": "reina-roja",
-      "tmdbId": "203667",
-      "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.46,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
-    {
-      "title": "Tokyo Revengers",
-      "synopsis": "Takemichi Hanagaki es un trabajador que ha tocado fondo en la vida. Entonces descubre que la única novia que tuvo jamás, en sus años de secundaria, la joven Hinata Tachibana, ha muerto a manos de la pandilla Tokyo Manji. El día que descubre la noticia de su muerte, está en la estación de tren cuando alguien lo empuja a las vías. Cierra los ojos pensando que está a punto de morir, pero cuando los abre, sin saber cómo, ha retrocedido 12 años en el tiempo. Ahora podrá revivir aquellos días que él consideraba los mejores de su vida y Takemichi intentará vengarse de su vida.",
-      "rating": 8.42,
-      "year": "2021",
-      "genres": [
-        "Animación",
-        "Drama",
-        "Acción",
-        "Aventura",
-        "Crimen"
-      ],
-      "cast": "Yuuki Shin, Azumi Waki, Ryota Osaka, Yuu Hayashi, Tatsuhisa Suzuki",
-      "posterUrl": "https://image.tmdb.org/t/p/original/kzDHRAkFjeed0lJpjE1eKJDcowS.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/a4MW4DzvP2eRizrx4OzOoIHu7Eg.jpg",
-      "slug": "tokyo-revengers",
-      "tmdbId": "105009",
       "type": "series"
     },
     {
@@ -195,21 +161,55 @@
       "type": "series"
     },
     {
-      "title": "American Horror Story",
-      "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-      "rating": 8.08,
-      "year": "2011",
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.46,
+      "year": "2025",
       "genres": [
-        "Drama",
-        "Misterio",
-        "Ciencia ficción",
-        "Fantasía"
+        "Crimen",
+        "Drama"
       ],
-      "cast": "Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts",
-      "posterUrl": "https://image.tmdb.org/t/p/original/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-      "slug": "american-horror-story",
-      "tmdbId": "1413",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
+      "title": "Reina roja",
+      "synopsis": "Antonia es la mujer más inteligente del mundo, lo que la convirtió en la Reina Roja de un proyecto policial secreto. Tras dejar el servicio por una tragedia personal, el policía Jon -fuerte, vasco, gay- revoluciona su vida y sus métodos en un emocionante caso doble, de secuestro y asesinato.",
+      "rating": 7.04,
+      "year": "2024",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Misterio"
+      ],
+      "cast": "Victoria Luengo, Hovik Keuchkerian, Karmele Larrinaga, Vicenta N'Dongo, Àlex Brendemühl",
+      "posterUrl": "https://image.tmdb.org/t/p/original/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5xgzZtYAROgzyFObUmfBDqYzOFM.jpg",
+      "slug": "reina-roja",
+      "tmdbId": "203667",
+      "type": "series"
+    },
+    {
+      "title": "Tokyo Revengers",
+      "synopsis": "Takemichi Hanagaki es un trabajador que ha tocado fondo en la vida. Entonces descubre que la única novia que tuvo jamás, en sus años de secundaria, la joven Hinata Tachibana, ha muerto a manos de la pandilla Tokyo Manji. El día que descubre la noticia de su muerte, está en la estación de tren cuando alguien lo empuja a las vías. Cierra los ojos pensando que está a punto de morir, pero cuando los abre, sin saber cómo, ha retrocedido 12 años en el tiempo. Ahora podrá revivir aquellos días que él consideraba los mejores de su vida y Takemichi intentará vengarse de su vida.",
+      "rating": 8.42,
+      "year": "2021",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Acción",
+        "Aventura",
+        "Crimen"
+      ],
+      "cast": "Yuuki Shin, Azumi Waki, Ryota Osaka, Yuu Hayashi, Tatsuhisa Suzuki",
+      "posterUrl": "https://image.tmdb.org/t/p/original/kzDHRAkFjeed0lJpjE1eKJDcowS.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/a4MW4DzvP2eRizrx4OzOoIHu7Eg.jpg",
+      "slug": "tokyo-revengers",
+      "tmdbId": "105009",
       "type": "series"
     }
   ],
@@ -222,7 +222,7 @@
         {
           "title": "Las cartas de la vida",
           "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 6.15,
+          "rating": 6.07,
           "year": "2026",
           "genres": [
             "Drama",
@@ -400,7 +400,7 @@
         {
           "title": "Las cartas de la vida",
           "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 6.15,
+          "rating": 6.07,
           "year": "2026",
           "genres": [
             "Drama",
@@ -578,6 +578,21 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Medusa",
+          "synopsis": "Alguien quiere matar a Bárbara Hidalgo, la CEO de Medusa. Mientras ella intenta dar con el culpable, su familia conspira sin escrúpulos por el control de su imperio en Colombia.",
+          "rating": 7.26,
+          "year": "2025",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Juana Acosta, Manolo Cardona, Sebastián Martínez",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gm7OMY4t99UpiMpIShNOKvKLQwO.jpg",
+          "slug": "medusa",
+          "tmdbId": "284792",
+          "type": "series"
+        },
+        {
           "title": "Tierra de mafiosos",
           "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
           "rating": 8.46,
@@ -723,22 +738,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
           "slug": "presidente-curtis",
           "tmdbId": "296756",
-          "type": "series"
-        },
-        {
-          "title": "Youth",
-          "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-          "rating": 7.7,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
-          "slug": "youth",
-          "tmdbId": "285418",
           "type": "series"
         }
       ]
