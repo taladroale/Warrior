@@ -36,27 +36,27 @@
       "duration": "128 min"
     },
     {
-      "title": "Kung Fu Soccer",
-      "synopsis": "The \"Supreme Invincible Cup\" is about to begin, and a host of top teams are about to engage in an unprecedented showdown! But the Kung Fu Women's Soccer Team has been dealt a hellish script right from the start?! Their opponents are all highly skilled, and external pressure is mounting. The schemes on the field are one after another... Can they use their kung fu to turn the tide on the green field?",
-      "rating": 6.1,
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 7.86,
       "year": "2026",
       "genres": [
-        "Drama",
-        "Comedia",
-        "Acción"
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
       ],
-      "cast": "张小斐, 迪丽热巴, 张艺兴, 劉嘉玲, Takeru Satoh",
-      "posterUrl": "https://image.tmdb.org/t/p/original/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
-      "slug": "kung-fu-soccer",
-      "tmdbId": "1491920",
+      "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681",
       "type": "movie",
-      "duration": "106 min"
+      "duration": "144 min"
     },
     {
       "title": "Las cartas de la vida",
       "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-      "rating": 6.54,
+      "rating": 7.12,
       "year": "2026",
       "genres": [
         "Drama",
@@ -69,6 +69,23 @@
       "tmdbId": "1458857",
       "type": "movie",
       "duration": "112 min"
+    },
+    {
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.19,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Suspenso"
+      ],
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
+      "type": "movie",
+      "duration": "100 min"
     },
     {
       "title": "Entrega al límite",
@@ -86,27 +103,45 @@
       "tmdbId": "1377237",
       "type": "movie",
       "duration": "97 min"
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.86,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ],
-      "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681",
-      "type": "movie",
-      "duration": "144 min"
     }
   ],
   "seriesHero": [
+    {
+      "title": "Linternas",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "rating": 8.4,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
+      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "slug": "linternas",
+      "tmdbId": "95350",
+      "type": "series"
+    },
+    {
+      "title": "Marshals: Una historia de Yellowstone",
+      "synopsis": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
+      "rating": 7.91,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Luke Grimes, Logan Marshall-Green, Arielle Kebbel, Ash Santos, Tatanka Means",
+      "posterUrl": "https://image.tmdb.org/t/p/original/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg",
+      "slug": "marshals-una-historia-de-yellowstone",
+      "tmdbId": "290856",
+      "type": "series"
+    },
     {
       "title": "Black Clover",
       "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
@@ -127,43 +162,6 @@
       "type": "series"
     },
     {
-      "title": "Linternas",
-      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.4,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
-      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
-      "slug": "linternas",
-      "tmdbId": "95350",
-      "type": "series"
-    },
-    {
-      "title": "JoJo's Bizarre Adventure",
-      "synopsis": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
-      "rating": 8.6,
-      "year": "2012",
-      "genres": [
-        "Animación",
-        "Acción",
-        "Aventura",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Shogo Sakata, Yohei Azakami, Kaito Ishikawa, Rie Takahashi, Kenta Miyake",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
-      "slug": "jojos-bizarre-adventure",
-      "tmdbId": "45790",
-      "type": "series"
-    },
-    {
       "title": "Los diarios de la boticaria",
       "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
       "rating": 8.84,
@@ -181,23 +179,6 @@
       "type": "series"
     },
     {
-      "title": "Reina roja",
-      "synopsis": "Antonia es la mujer más inteligente del mundo, lo que la convirtió en la Reina Roja de un proyecto policial secreto. Tras dejar el servicio por una tragedia personal, el policía Jon -fuerte, vasco, gay- revoluciona su vida y sus métodos en un emocionante caso doble, de secuestro y asesinato.",
-      "rating": 7.04,
-      "year": "2024",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Misterio"
-      ],
-      "cast": "Victoria Luengo, Hovik Keuchkerian, Karmele Larrinaga, Vicenta N'Dongo, Àlex Brendemühl",
-      "posterUrl": "https://image.tmdb.org/t/p/original/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5xgzZtYAROgzyFObUmfBDqYzOFM.jpg",
-      "slug": "reina-roja",
-      "tmdbId": "203667",
-      "type": "series"
-    },
-    {
       "title": "Tierra de mafiosos",
       "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
       "rating": 8.46,
@@ -212,6 +193,24 @@
       "slug": "mobland",
       "tmdbId": "247718",
       "type": "series"
+    },
+    {
+      "title": "One Piece",
+      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "rating": 8.8,
+      "year": "1999",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Animación"
+      ],
+      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "slug": "one-piece",
+      "tmdbId": "37854",
+      "type": "series"
     }
   ],
   "movieSections": [
@@ -223,7 +222,7 @@
         {
           "title": "Las cartas de la vida",
           "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 6.54,
+          "rating": 7.12,
           "year": "2026",
           "genres": [
             "Drama",
@@ -401,7 +400,7 @@
         {
           "title": "Las cartas de la vida",
           "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 6.54,
+          "rating": 7.12,
           "year": "2026",
           "genres": [
             "Drama",
@@ -627,7 +626,7 @@
         {
           "title": "American Horror Story",
           "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-          "rating": 8.08,
+          "rating": 8.1,
           "year": "2011",
           "genres": [
             "Drama",
@@ -750,7 +749,7 @@
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 6.79,
+          "rating": 6.85,
           "year": "2026",
           "genres": [
             "Crimen",
