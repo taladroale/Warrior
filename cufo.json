@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T13:45:56Z",
+  "updatedAt": "2026-10-05T19:28:29Z",
   "source": "cufo",
-  "total": 22540,
+  "total": 22541,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias"},
     "12": {"slug":"buscando-a-nemo"},
@@ -18015,6 +18015,7 @@
     "1750432": {"slug":"spidey-and-the-avengers-halloween-team-up"},
     "1752159": {"slug":"momentos-decisivos-generacion-11-s"},
     "1763619": {"slug":"ricos-sin-dinero"},
+    "1788735": {"slug":"family-guy-happy-hell-o-ween"},
     "tt2407380": {"slug":"test-tt2407380"}
   },
   "series": {
