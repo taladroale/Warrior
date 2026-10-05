@@ -1,21 +1,22 @@
 {
   "movieHero": [
     {
-      "title": "Las cartas de la vida",
-      "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-      "rating": 6.54,
+      "title": "Resident Evil",
+      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 7.32,
       "year": "2026",
       "genres": [
-        "Drama",
-        "Romance"
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
       ],
-      "cast": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent",
-      "posterUrl": "https://image.tmdb.org/t/p/original/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-      "slug": "las-cartas-de-la-vida",
-      "tmdbId": "1458857",
+      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "slug": "resident-evil-1423191",
+      "tmdbId": "1423191",
       "type": "movie",
-      "duration": "112 min"
+      "duration": "93 min"
     },
     {
       "title": "El hombre que desafió al rey",
@@ -33,24 +34,6 @@
       "tmdbId": "977942",
       "type": "movie",
       "duration": "128 min"
-    },
-    {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.32,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
-      "type": "movie",
-      "duration": "93 min"
     },
     {
       "title": "Kung Fu Soccer",
@@ -71,22 +54,21 @@
       "duration": "106 min"
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.86,
+      "title": "Las cartas de la vida",
+      "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
+      "rating": 6.54,
       "year": "2026",
       "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
+        "Drama",
+        "Romance"
       ],
-      "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681",
+      "cast": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent",
+      "posterUrl": "https://image.tmdb.org/t/p/original/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+      "slug": "las-cartas-de-la-vida",
+      "tmdbId": "1458857",
       "type": "movie",
-      "duration": "144 min"
+      "duration": "112 min"
     },
     {
       "title": "Entrega al límite",
@@ -104,6 +86,24 @@
       "tmdbId": "1377237",
       "type": "movie",
       "duration": "97 min"
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 7.86,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681",
+      "type": "movie",
+      "duration": "144 min"
     }
   ],
   "seriesHero": [
@@ -145,19 +145,22 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.46,
-      "year": "2025",
+      "title": "JoJo's Bizarre Adventure",
+      "synopsis": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
+      "rating": 8.6,
+      "year": "2012",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Animación",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Shogo Sakata, Yohei Azakami, Kaito Ishikawa, Rie Takahashi, Kenta Miyake",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+      "slug": "jojos-bizarre-adventure",
+      "tmdbId": "45790",
       "type": "series"
     },
     {
@@ -195,22 +198,19 @@
       "type": "series"
     },
     {
-      "title": "JoJo's Bizarre Adventure",
-      "synopsis": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
-      "rating": 8.6,
-      "year": "2012",
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.46,
+      "year": "2025",
       "genres": [
-        "Animación",
-        "Acción",
-        "Aventura",
-        "Ciencia ficción",
-        "Fantasía"
+        "Crimen",
+        "Drama"
       ],
-      "cast": "Shogo Sakata, Yohei Azakami, Kaito Ishikawa, Rie Takahashi, Kenta Miyake",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
-      "slug": "jojos-bizarre-adventure",
-      "tmdbId": "45790",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     }
   ],
@@ -401,7 +401,7 @@
         {
           "title": "Las cartas de la vida",
           "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 6.5,
+          "rating": 6.54,
           "year": "2026",
           "genres": [
             "Drama",
@@ -750,7 +750,7 @@
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 6.9,
+          "rating": 6.79,
           "year": "2026",
           "genres": [
             "Crimen",
