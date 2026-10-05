@@ -1,44 +1,9 @@
 {
   "movieHero": [
     {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.32,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
-      "type": "movie",
-      "duration": "93 min"
-    },
-    {
-      "title": "El hombre que desafió al rey",
-      "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
-      "rating": 8.06,
-      "year": "2026",
-      "genres": [
-        "Historia",
-        "Drama"
-      ],
-      "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Woody Norman, Tom Hollander",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-      "slug": "el-hombre-que-desafio-al-rey",
-      "tmdbId": "977942",
-      "type": "movie",
-      "duration": "128 min"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.86,
+      "rating": 7.9,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -54,21 +19,57 @@
       "duration": "144 min"
     },
     {
-      "title": "Las cartas de la vida",
-      "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-      "rating": 7.12,
+      "title": "Insidious: Fuera del más allá",
+      "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
+      "rating": 6.51,
       "year": "2026",
       "genres": [
-        "Drama",
-        "Romance"
+        "Terror",
+        "Suspenso"
       ],
-      "cast": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent",
-      "posterUrl": "https://image.tmdb.org/t/p/original/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-      "slug": "las-cartas-de-la-vida",
-      "tmdbId": "1458857",
+      "cast": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers",
+      "posterUrl": "https://image.tmdb.org/t/p/original/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+      "slug": "insidious-fuera-del-mas-alla",
+      "tmdbId": "1291595",
       "type": "movie",
-      "duration": "112 min"
+      "duration": "106 min"
+    },
+    {
+      "title": "El hombre que desafió al rey",
+      "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
+      "rating": 7.9,
+      "year": "2026",
+      "genres": [
+        "Historia",
+        "Drama",
+        "Acción"
+      ],
+      "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Woody Norman, Tom Hollander",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+      "slug": "el-hombre-que-desafio-al-rey",
+      "tmdbId": "977942",
+      "type": "movie",
+      "duration": "128 min"
+    },
+    {
+      "title": "Resident Evil",
+      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 7.3,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "slug": "resident-evil-1423191",
+      "tmdbId": "1423191",
+      "type": "movie",
+      "duration": "93 min"
     },
     {
       "title": "Obsession",
@@ -90,7 +91,7 @@
     {
       "title": "Entrega al límite",
       "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-      "rating": 8.2,
+      "rating": 8.33,
       "year": "2026",
       "genres": [
         "Acción",
@@ -125,21 +126,20 @@
       "type": "series"
     },
     {
-      "title": "Marshals: Una historia de Yellowstone",
-      "synopsis": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
-      "rating": 7.91,
-      "year": "2026",
+      "title": "Los diarios de la boticaria",
+      "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
+      "rating": 8.84,
+      "year": "2023",
       "genres": [
+        "Animación",
         "Drama",
-        "Crimen",
-        "Acción",
-        "Aventura"
+        "Misterio"
       ],
-      "cast": "Luke Grimes, Logan Marshall-Green, Arielle Kebbel, Ash Santos, Tatanka Means",
-      "posterUrl": "https://image.tmdb.org/t/p/original/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg",
-      "slug": "marshals-una-historia-de-yellowstone",
-      "tmdbId": "290856",
+      "cast": "Aoi Yuki, Takeo Otsuka, Katsuyuki Konishi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
+      "slug": "los-diarios-de-la-boticaria",
+      "tmdbId": "220542",
       "type": "series"
     },
     {
@@ -162,36 +162,21 @@
       "type": "series"
     },
     {
-      "title": "Los diarios de la boticaria",
-      "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
-      "rating": 8.84,
-      "year": "2023",
+      "title": "Marshals: Una historia de Yellowstone",
+      "synopsis": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
+      "rating": 7.91,
+      "year": "2026",
       "genres": [
-        "Animación",
         "Drama",
-        "Misterio"
-      ],
-      "cast": "Aoi Yuki, Takeo Otsuka, Katsuyuki Konishi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
-      "slug": "los-diarios-de-la-boticaria",
-      "tmdbId": "220542",
-      "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.46,
-      "year": "2025",
-      "genres": [
         "Crimen",
-        "Drama"
+        "Acción",
+        "Aventura"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Luke Grimes, Logan Marshall-Green, Arielle Kebbel, Ash Santos, Tatanka Means",
+      "posterUrl": "https://image.tmdb.org/t/p/original/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg",
+      "slug": "marshals-una-historia-de-yellowstone",
+      "tmdbId": "290856",
       "type": "series"
     },
     {
@@ -211,6 +196,25 @@
       "slug": "one-piece",
       "tmdbId": "37854",
       "type": "series"
+    },
+    {
+      "title": "JoJo's Bizarre Adventure",
+      "synopsis": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
+      "rating": 8.6,
+      "year": "2012",
+      "genres": [
+        "Animación",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Shogo Sakata, Yohei Azakami, Kaito Ishikawa, Rie Takahashi, Kenta Miyake",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+      "slug": "jojos-bizarre-adventure",
+      "tmdbId": "45790",
+      "type": "series"
     }
   ],
   "movieSections": [
@@ -220,9 +224,79 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Sin rastro",
+          "synopsis": "El mundo de una madre decidida, Mara, se viene abajo cuando su ex marido, Karim, secuestra a su hija pequeña, Amina, y huye a Oriente Medio. Desesperada por traer a su hija a casa, Mara forma equipo con Robeson, un enigmático ex marine y especialista en secuestros de niños. Su misión les lleva a Beirut, donde se ven envueltos en una traicionera red de espionaje internacional, traición y corrupción. Cuando el tiempo se agota, Mara se enfrenta a la decisión más difícil de su vida: recuperar a su hija o dejarla atrás por su propia seguridad.",
+          "rating": 6.4,
+          "year": "2025",
+          "genres": [
+            "Suspenso",
+            "Acción",
+            "Aventura"
+          ],
+          "cast": "Kate Beckinsale, Scott Eastwood, Jordan Duvigneau, Matt Craven, Nowar Yusuf",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fFKcNfjOUbfaC8hPuiMxJ8PAudy.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/l23DWcm586XAv97PDX6zZEH8Ofy.jpg",
+          "slug": "stolen-girl",
+          "tmdbId": "1280450",
+          "type": "movie",
+          "duration": "110 min"
+        },
+        {
+          "title": "Padre de familia: Happy Hell-o-ween",
+          "synopsis": "Brian y Stewie acaban en el infierno tras 24 temporadas de mal comportamiento y terminan al mando cuando consiguen sacar de quicio incluso al mismísimo diablo.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Terror"
+          ],
+          "cast": "Seth MacFarlane, Kieran Culkin, Alex Borstein, Seth Green, Mila Kunis",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fqFqmOOpobLLCHVHYMH2PhvlhFh.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ebpqd1Us0CDUJUWOqRFNuLY28vJ.jpg",
+          "slug": "family-guy-happy-hell-o-ween",
+          "tmdbId": "1788735",
+          "type": "movie",
+          "duration": "21 min"
+        },
+        {
+          "title": "Insidious: Fuera del más allá",
+          "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
+          "rating": 6.5,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Suspenso"
+          ],
+          "cast": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uIMddTcnM9P6PrJiDjsXIeYp902.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/w2xDGa1252imRPgCbiY48AbkRBn.jpg",
+          "slug": "insidious-fuera-del-mas-alla",
+          "tmdbId": "1291595",
+          "type": "movie",
+          "duration": "106 min"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+          "rating": 7.9,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Acción",
+            "Aventura"
+          ],
+          "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+          "slug": "spider-man-brand-new-day",
+          "tmdbId": "969681",
+          "type": "movie",
+          "duration": "144 min"
+        },
+        {
           "title": "Las cartas de la vida",
           "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 7.12,
+          "rating": 7.17,
           "year": "2026",
           "genres": [
             "Drama",
@@ -239,7 +313,7 @@
         {
           "title": "No dejes a los niños solos",
           "synopsis": "Por una emergencia de trabajo, Catalina Camacho, una joven y reciente viuda, se ve obligada a dejar a sus hijos a solas por unas cuantas horas. Esa noche, y con la casa para ellos solos, Matías y Emiliano (de diez y siete años) se dan vuelo desempacando cajas para desenterrar su preciada consola de videojuegos, sin saber que algo les hará creer, a cada quién por separado, que su hermano lo quiere matar para volverse el hijo único y favorito. (GIFF)",
-          "rating": 5.9,
+          "rating": 7.05,
           "year": "2026",
           "genres": [
             "Terror",
@@ -257,7 +331,7 @@
         {
           "title": "Siete francotiradores",
           "synopsis": "Cuando una antigua francotirador de élite es perseguida por el despiadado caudillo que una vez la mantuvo cautiva, debe luchar hasta la muerte para proteger a la hija que ha criado en la clandestinidad, en una remota granja australiana.",
-          "rating": 6,
+          "rating": 5.95,
           "year": "2026",
           "genres": [
             "Acción",
@@ -274,7 +348,7 @@
         {
           "title": "Zip Wire",
           "synopsis": "Cuando le roban su revolucionario descubrimiento farmacéutico y asesinan a su compañero, la investigadora Amy debe enfrentarse a su miedo a las alturas para escapar de unos atacantes sin escrúpulos, siendo la única vía de salvación una traicionera pasarela aérea. Para burlar a sus misteriosos perseguidores, tendrá que reunir hasta la última pizca de valor para proteger el descubrimiento científico que cambiará el mundo, y a sí misma, antes de que sea demasiado tarde.",
-          "rating": 7.5,
+          "rating": 7.7,
           "year": "2026",
           "genres": [
             "Acción",
@@ -290,8 +364,8 @@
         },
         {
           "title": "Find Your Friends",
-          "synopsis": "A sinister spin on twenty-something party culture, revealing the darkness beneath the carefree facade. What starts as a wild girls trip turns dangerous when hostile locals escalate tensions and Amber's past trauma surfaces. As the group fractures under toxic dynamics, their fun getaway transforms into a revenge-fueled nightmare.",
-          "rating": 3.6,
+          "synopsis": "Una versión siniestra de la cultura de fiesta de los veinteañeros, que revela la oscuridad debajo de la fachada despreocupada. Lo que empieza como un viaje salvaje de chicas se vuelve peligroso cuando locales hostiles incrementan las tensiones y afloran los traumas del pasado de Amber. Mientras el grupo se fractura bajo dinámicas tóxicas, su divertido viaje se transforma en una pesadilla llena de venganza.",
+          "rating": 4.64,
           "year": "2026",
           "genres": [
             "Suspenso",
@@ -308,7 +382,7 @@
         {
           "title": "Volver a los 17",
           "synopsis": "Pipe es un adulto perdedor que toda la vida se ha arrepentido de nunca intentar conquistar a la chica de sus sueños: Amalia Braun, cuando ambos iban en la secundaria años atrás. Por esas cosas del destino, Pipe y Amalia coinciden en la actualidad y charlan sobre el pasado, donde ella le confiesa que durante la época escolar ella estuvo enamorada secretamente de él pero como nunca se dio la posibilidad de salir o compartir más juntos, ella tampoco hizo nada para concretar esta historia de amor.",
-          "rating": 8,
+          "rating": 5.7,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -320,75 +394,6 @@
           "slug": "volver-a-los-17",
           "tmdbId": "1606912",
           "type": "movie"
-        },
-        {
-          "title": "Ninja Wars: BlackFox vs Shogun's Ninja",
-          "synopsis": "La historia se desata a raíz de una investigación sobre el culto misterioso de \"El Loto Blanco\", sospechoso de planear una rebelión a gran escala en contra del Shogunato.",
-          "rating": 4,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Historia"
-          ],
-          "cast": "山本千尋, 宮原華音, 桃月なしこ, Fumi Taniguchi, 大久保桜子",
-          "posterUrl": "https://image.tmdb.org/t/p/original/1lkVoZZiZ6LIKCEeCojblCf8eYP.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/6MqW1z9Mna9U66tzyx3dieVqtXL.jpg",
-          "slug": "ninja-wars-blackfox-vs-shoguns-ninja",
-          "tmdbId": "1593380",
-          "type": "movie",
-          "duration": "100 min"
-        },
-        {
-          "title": "Ricos sin dinero",
-          "synopsis": "Los AlThahabi siempre han presumido de dinero y estatus. Pero, cuando descubren que no son tan ricos como creían, tienen que seguir aparentándolo para sobrevivir",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "آيدا القصي, أضواء بدر, زياد العمري, غادة الملا, فايز بن جريس",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ePzZ5UIuGCaVoDqfA2YJtW36XYR.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
-          "slug": "ricos-sin-dinero",
-          "tmdbId": "1763619",
-          "type": "movie"
-        },
-        {
-          "title": "Prime Crime: A True Story",
-          "synopsis": "Recrea la historia real del secuestro de 1977 que convirtió a Tony Kiritsis, un aspirante a empresario de Indianápolis, en un excéntrico héroe popular proscrito.",
-          "rating": 6.5,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Drama",
-            "Suspenso"
-          ],
-          "cast": "Bill Skarsgård, Dacre Montgomery, Cary Elwes, Myha'la, Kelly Lynch",
-          "posterUrl": "https://image.tmdb.org/t/p/original/19JQnXT21OtH24fBgexkDFVFEoS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ulw8SrKbDeDrsSVNKPb5211AseI.jpg",
-          "slug": "dead-mans-wire",
-          "tmdbId": "1263012",
-          "type": "movie",
-          "duration": "104 min"
-        },
-        {
-          "title": "Mononoke III: La maldición de la serpiente",
-          "synopsis": "Tras el regreso de una frágil paz al palacio interior, un nuevo terror se enrosca bajo sus cimientos. Cuando la Emperatriz muere desesperada tras dar a luz a un heredero, un resentimiento profundo y ancestral despierta. El Ōoku se estremece con temblores antinaturales, escamas caen de la nada y una doncella aparece muerta, retorcida como si un enorme ser serpentino la hubiera aplastado. El \"Vendedor de Medicinas\" se enfrenta a la fuente: un monstruoso y colérico Dios Serpiente. Su espada no sirve de nada hasta que descubra la Forma, la Verdad y la Razón del demonio. Para encontrarlas, debe deslizarse hacia atrás a través de 150 años de historia enterrada, enfrentándose a la impactante y fundamental verdad del propio Ōoku. Acorralado por un dios alimentado por siglos de sacrificio y furia, el Vendedor de Medicinas afronta su mayor crisis, donde está en juego el alma misma de la nación. Secuela de la película \"Mononoke II: Las cenizas de la ira\".",
-          "rating": 8.4,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Fantasía",
-            "Misterio"
-          ],
-          "cast": "Hiroshi Kamiya, Atsumi Tanezaki, Miyu Irino, Kenjiro Tsuda, Yoshiko Sakakibara",
-          "posterUrl": "https://image.tmdb.org/t/p/original/AvWv8SAszoG3LJstEAo8pIGbcjR.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5bMDrznr5P9GcClJF0OeE4NxZn9.jpg",
-          "slug": "mononoke-iii-la-maldicion-de-la-serpiente",
-          "tmdbId": "1322562",
-          "type": "movie",
-          "duration": "88 min"
         }
       ]
     },
@@ -397,6 +402,23 @@
       "type": "movie",
       "seeMoreSlug": "estrenos",
       "items": [
+        {
+          "title": "Padre de familia: Happy Hell-o-ween",
+          "synopsis": "Brian y Stewie acaban en el infierno tras 24 temporadas de mal comportamiento y terminan al mando cuando consiguen sacar de quicio incluso al mismísimo diablo.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Terror"
+          ],
+          "cast": "Seth MacFarlane, Kieran Culkin, Alex Borstein, Seth Green, Mila Kunis",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fqFqmOOpobLLCHVHYMH2PhvlhFh.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ebpqd1Us0CDUJUWOqRFNuLY28vJ.jpg",
+          "slug": "family-guy-happy-hell-o-ween",
+          "tmdbId": "1788735",
+          "type": "movie",
+          "duration": "21 min"
+        },
         {
           "title": "Las cartas de la vida",
           "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
@@ -417,7 +439,7 @@
         {
           "title": "Ricos sin dinero",
           "synopsis": "Los AlThahabi siempre han presumido de dinero y estatus. Pero, cuando descubren que no son tan ricos como creían, tienen que seguir aparentándolo para sobrevivir",
-          "rating": 0,
+          "rating": 5.5,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -431,9 +453,9 @@
           "type": "movie"
         },
         {
-          "title": "UNABOMBER",
+          "title": "Unabomber",
           "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-          "rating": 6.7,
+          "rating": 6.59,
           "year": "2026",
           "genres": [
             "Suspenso",
@@ -451,7 +473,7 @@
         {
           "title": "Spidey y Los Vengadores: Superequipo Halloween",
           "synopsis": "Los planes de Halloween de Spidey y los Vengadores se ponen patas arriba por la misteriosa Eva de los Santos, quien juega trucos mágicos en trucos o tratadores y planea arruinar Halloween para siempre.",
-          "rating": 7.4,
+          "rating": 7.3,
           "year": "2026",
           "genres": [
             "Animación",
@@ -487,7 +509,7 @@
         {
           "title": "Un último disparo",
           "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-          "rating": 7.4,
+          "rating": 7.5,
           "year": "2026",
           "genres": [
             "Acción",
@@ -504,7 +526,7 @@
         {
           "title": "En el corazón de la bestia",
           "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-          "rating": 7.57,
+          "rating": 7.53,
           "year": "2026",
           "genres": [
             "Aventura",
@@ -521,7 +543,7 @@
         {
           "title": "Tú+Yo - Solos contra todos",
           "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
-          "rating": 5.7,
+          "rating": 5.57,
           "year": "2026",
           "genres": [
             "Romance",
@@ -538,7 +560,7 @@
         {
           "title": "Las mejores",
           "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
-          "rating": 5.36,
+          "rating": 5.4,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -550,23 +572,6 @@
           "tmdbId": "1514863",
           "type": "movie",
           "duration": "112 min"
-        },
-        {
-          "title": "Cuatro historias de deseo 3",
-          "synopsis": "Cuatro de los directores más importantes de la India analizan el amor, el sexo y las relaciones en la India actual. Una antología de cuatro historias que arroja luz sobre las relaciones modernas desde el punto de vista de la mujer india.",
-          "rating": 6.13,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Drama"
-          ],
-          "cast": "Radhika Apte, कोंकणा सेन शर्मा, विजय वर्मा, Abhishek Banerjee, Ali Fazal",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hE2aHgQLtezwBPXbQhMcvtp5K5a.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/jRtR4aTq4vmxRg9ah60R5i1kkQ7.jpg",
-          "slug": "cuatro-historias-de-deseo-3",
-          "tmdbId": "1451944",
-          "type": "movie",
-          "duration": "165 min"
         }
       ]
     }
@@ -577,6 +582,58 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Marshals: Una historia de Yellowstone",
+          "synopsis": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
+          "rating": 7.9,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Crimen",
+            "Acción",
+            "Aventura"
+          ],
+          "cast": "Luke Grimes, Logan Marshall-Green, Arielle Kebbel, Ash Santos, Tatanka Means",
+          "posterUrl": "https://image.tmdb.org/t/p/original/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg",
+          "slug": "marshals-una-historia-de-yellowstone",
+          "tmdbId": "290856",
+          "type": "series"
+        },
+        {
+          "title": "Youth",
+          "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
+          "rating": 7.6,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
+          "posterUrl": "https://image.tmdb.org/t/p/original/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/bV650asTZVfUNlzguJs8YcdA9go.jpg",
+          "slug": "youth",
+          "tmdbId": "285418",
+          "type": "series"
+        },
+        {
+          "title": "Linternas",
+          "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+          "rating": 8.39,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
+          "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+          "slug": "linternas",
+          "tmdbId": "95350",
+          "type": "series"
+        },
         {
           "title": "Adults",
           "synopsis": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
@@ -610,7 +667,7 @@
         {
           "title": "Tierra de mafiosos",
           "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-          "rating": 8.46,
+          "rating": 8.47,
           "year": "2025",
           "genres": [
             "Crimen",
@@ -644,7 +701,7 @@
         {
           "title": "Materia oscura",
           "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-          "rating": 7.79,
+          "rating": 7.8,
           "year": "2024",
           "genres": [
             "Ciencia ficción",
@@ -659,9 +716,9 @@
           "type": "series"
         },
         {
-          "title": "Caballos lentos",
+          "title": "Slow Horses",
           "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-          "rating": 8.03,
+          "rating": 8.04,
           "year": "2022",
           "genres": [
             "Crimen",
@@ -678,7 +735,7 @@
         {
           "title": "Ted Lasso",
           "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-          "rating": 8.4,
+          "rating": 8.36,
           "year": "2020",
           "genres": [
             "Drama",
@@ -689,54 +746,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
           "slug": "ted-lasso",
           "tmdbId": "97546",
-          "type": "series"
-        },
-        {
-          "title": "Las azules",
-          "synopsis": "En 1971, cuatro mujeres desafían las normas ultraconservadoras y se unen a la primera fuerza policial femenina de México, pero descubren que se trata de un truco publicitario para distraer a los medios de un asesino en serie. A medida que aumenta el número de cadáveres, hacen un pacto para llevar al asesino ante la justicia.",
-          "rating": 7.34,
-          "year": "2024",
-          "genres": [
-            "Crimen",
-            "Drama"
-          ],
-          "cast": "Bárbara Mori, Ximena Sariñana, Natalia Téllez, Amorita Rasgado, Miguel Rodarte",
-          "posterUrl": "https://image.tmdb.org/t/p/original/oknR2tQjcuyHOl2lfIewbSwuUnS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/v713kGiwYw2amhk6v9lfxvAYncv.jpg",
-          "slug": "las-azules",
-          "tmdbId": "253983",
-          "type": "series"
-        },
-        {
-          "title": "Causa abierta",
-          "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
-          "rating": 8.24,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Patrick Brammall, Brendan Cowell, Maxine Peake, Daniel Henshall, Jessica Wren",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
-          "slug": "causa-abierta",
-          "tmdbId": "258230",
-          "type": "series"
-        },
-        {
-          "title": "Brothers",
-          "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-          "rating": 8.17,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Matthew McConaughey, Woody Harrelson, Natalie Martinez, Brittany Ishibashi, Nolan Almeida",
-          "posterUrl": "https://image.tmdb.org/t/p/original/174exHxKuh2OkXWg6k8du4sWiqo.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-          "slug": "brothers",
-          "tmdbId": "250203",
           "type": "series"
         }
       ]
@@ -765,7 +774,7 @@
         {
           "title": "Paolo",
           "synopsis": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
-          "rating": 10,
+          "rating": 5.5,
           "year": "2026",
           "genres": [
             "Misterio"
@@ -780,7 +789,7 @@
         {
           "title": "Brothers",
           "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-          "rating": 8.17,
+          "rating": 8.2,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -795,15 +804,15 @@
         {
           "title": "Youth",
           "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-          "rating": 7.7,
+          "rating": 7.6,
           "year": "2026",
           "genres": [
             "Comedia",
             "Drama"
           ],
           "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lbfIozzPAbd5R8hXIYosjvTZV1I.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/bV650asTZVfUNlzguJs8YcdA9go.jpg",
           "slug": "youth",
           "tmdbId": "285418",
           "type": "series"
@@ -811,7 +820,7 @@
         {
           "title": "American Hostage",
           "synopsis": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
-          "rating": 6.6,
+          "rating": 6.63,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -827,7 +836,7 @@
         {
           "title": "El escándalo",
           "synopsis": "En Joseon, una propuesta secreta desata pasiones prohibidas entre una noble brillante, un famoso seductor y una joven ajena al peligro del juego que los une.",
-          "rating": 6.6,
+          "rating": 6.7,
           "year": "2026",
           "genres": [
             "Drama"
@@ -841,7 +850,7 @@
         },
         {
           "title": "Cautiva",
-          "synopsis": "Miniserie de televisión dramática argentina coproducida por TNT y FLOW. Sigue la vida de una monja que después de quince años logra escapar de un convento de clausura, donde fue víctima de violencia psicológica y retenida en contra de su voluntad. Protagonizada por Carolina Kopelioff, Lorena Vega, Rita Cortese y Julieta Zylberberg.",
+          "synopsis": "Una joven devota entra en un convento de clausura sin sospechar que los abusos de la madre superiora acabarán quebrando su espíritu.",
           "rating": 6.8,
           "year": "2026",
           "genres": [
@@ -858,12 +867,12 @@
         {
           "title": "Te conozco",
           "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
-          "rating": 7.65,
+          "rating": 7.94,
           "year": "2026",
           "genres": [
             "Drama"
           ],
-          "cast": "Melis Sezen, Elçin Sangu, Ozan Dolunay, Cemal Hünal, Efe Taşdelen",
+          "cast": "Melis Sezen, Elçin Sangu, Ozan Dolunay",
           "posterUrl": "https://image.tmdb.org/t/p/original/hNIxYGmnnwtYDLsDq9U93XSwcLI.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
           "slug": "te-conozco",
@@ -888,7 +897,7 @@
         {
           "title": "Los solucionadores",
           "synopsis": "Un antiguo gánster de capa caída se alía con el hijo de un astuto político para lidiar con los sucios secretos de importantes clientes de ambos lados de la ley.",
-          "rating": 6.2,
+          "rating": 6.57,
           "year": "2026",
           "genres": [
             "Acción",
