@@ -21,15 +21,15 @@
     {
       "title": "Insidious: Fuera del más allá",
       "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 6.51,
+      "rating": 6.5,
       "year": "2026",
       "genres": [
         "Terror",
         "Suspenso"
       ],
       "cast": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers",
-      "posterUrl": "https://image.tmdb.org/t/p/original/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/uIMddTcnM9P6PrJiDjsXIeYp902.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/w2xDGa1252imRPgCbiY48AbkRBn.jpg",
       "slug": "insidious-fuera-del-mas-alla",
       "tmdbId": "1291595",
       "type": "movie",
@@ -110,7 +110,7 @@
     {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.4,
+      "rating": 8.39,
       "year": "2026",
       "genres": [
         "Drama",
@@ -120,9 +120,27 @@
       ],
       "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
       "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "slug": "linternas",
       "tmdbId": "95350",
+      "type": "series"
+    },
+    {
+      "title": "Marshals: Una historia de Yellowstone",
+      "synopsis": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
+      "rating": 7.9,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Crimen",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Luke Grimes, Logan Marshall-Green, Arielle Kebbel, Ash Santos, Tatanka Means",
+      "posterUrl": "https://image.tmdb.org/t/p/original/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg",
+      "slug": "marshals-una-historia-de-yellowstone",
+      "tmdbId": "290856",
       "type": "series"
     },
     {
@@ -162,24 +180,6 @@
       "type": "series"
     },
     {
-      "title": "Marshals: Una historia de Yellowstone",
-      "synopsis": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
-      "rating": 7.91,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Crimen",
-        "Acción",
-        "Aventura"
-      ],
-      "cast": "Luke Grimes, Logan Marshall-Green, Arielle Kebbel, Ash Santos, Tatanka Means",
-      "posterUrl": "https://image.tmdb.org/t/p/original/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg",
-      "slug": "marshals-una-historia-de-yellowstone",
-      "tmdbId": "290856",
-      "type": "series"
-    },
-    {
       "title": "One Piece",
       "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
       "rating": 8.8,
@@ -198,22 +198,20 @@
       "type": "series"
     },
     {
-      "title": "JoJo's Bizarre Adventure",
-      "synopsis": "La trama se desarrolla en torno a la historia del linaje Joestar, una poderosa familia de origen británico destinada a combatir fuerzas sobrenaturales malvadas usando poderes adquiridos; la obra abarca varias generaciones de dicho linaje, las cuales son adaptadas en cada parte poniendo un descendiente como protagonista, empezando con Jonathan en el año 1880.  El nombre «JoJo», presente en el título de la obra, consiste en un juego de palabras compuesto por el nombre de los protagonistas de cada parte, los cuales pueden abreviarse como «Jojo» y usarse a forma de apodo; sin embargo, en las últimas partes de la obra se hacen juegos de palabras más complejos: por ejemplo, Josuke es un juego de palabras en japonés en que la sílaba «suke» (助) se puede leer también como «jo», y el diminutivo de Giorno Giovana (Gio. Gio.) tiene una pronunciación bastante similar a «Jojo». Todos los Joestar se identifican porque tienen una marca de nacimiento en forma de estrella de cinco puntas.",
-      "rating": 8.6,
-      "year": "2012",
+      "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
+      "synopsis": "Después de treinta y cinco años de una vida perfectamente ordinaria, un oficinista común y corriente de repente cae muerto... ¡solo para renacer en otro mundo! Ahora debe vivir como Ars Louvent, vástago de una familia noble menor y poseedor de una habilidad fabulosa: la evaluación, el poder de percibir las fortalezas y habilidades de los demás de un vistazo.¡Él también lo necesitará, porque hay muchos problemas que resolver en el territorio de la familia Louvent! Ars solo tiene una opción: ¡reclutar a las personas más talentosas que su habilidad pueda encontrar y ascender a nuevas alturas en su nuevo mundo!",
+      "rating": 7.4,
+      "year": "2024",
       "genres": [
         "Animación",
-        "Acción",
-        "Aventura",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Shogo Sakata, Yohei Azakami, Kaito Ishikawa, Rie Takahashi, Kenta Miyake",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
-      "slug": "jojos-bizarre-adventure",
-      "tmdbId": "45790",
+      "cast": "Natsumi Fujiwara, 坂泰斗, 佳穂成美, 岡咲美保, Kana Hanazawa",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pMLitK7uCKoF25dNn5Xai0RuFra.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hhxCYAcFdeoiaBjKshMgKEp1X9E.jpg",
+      "slug": "tensei-kizoku-kantei-skill-de-nariagaru",
+      "tmdbId": "237150",
       "type": "series"
     }
   ],
@@ -422,7 +420,7 @@
         {
           "title": "Las cartas de la vida",
           "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 7.12,
+          "rating": 7.17,
           "year": "2026",
           "genres": [
             "Drama",
@@ -455,7 +453,7 @@
         {
           "title": "Unabomber",
           "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-          "rating": 6.59,
+          "rating": 6.57,
           "year": "2026",
           "genres": [
             "Suspenso",
@@ -488,6 +486,24 @@
           "tmdbId": "1750432",
           "type": "movie",
           "duration": "26 min"
+        },
+        {
+          "title": "The Whistler",
+          "synopsis": "Una madre en duelo se une a un culto para contactar a su hija muerta, pero invoca algo mucho más oscuro: El Silbón, un espíritu cuyo silbido arrastra a los vivos hacia la muerte.",
+          "rating": 1,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Terror",
+            "Suspenso"
+          ],
+          "cast": "Juan Pablo Raba, Diane Guerrero, Indhira Serrano, Laureano Olivares, Laura Sofía Domínguez",
+          "posterUrl": "https://image.tmdb.org/t/p/original/koUQCjkTUAS29V9jBUrOeaUBy1U.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
+          "slug": "the-whistler",
+          "tmdbId": "1280300",
+          "type": "movie",
+          "duration": "97 min"
         },
         {
           "title": "La hipótesis del amor",
@@ -543,7 +559,7 @@
         {
           "title": "Tú+Yo - Solos contra todos",
           "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
-          "rating": 5.57,
+          "rating": 5.6,
           "year": "2026",
           "genres": [
             "Romance",
@@ -556,22 +572,6 @@
           "tmdbId": "1641629",
           "type": "movie",
           "duration": "94 min"
-        },
-        {
-          "title": "Las mejores",
-          "synopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
-          "rating": 5.4,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Maitreyi Ramakrishnan, Priyanka Kedia, Chaneil Kular, Ankur Rathee, Hasan Minhaj",
-          "posterUrl": "https://image.tmdb.org/t/p/original/lb9jgdWnpl7BDX66R3LHRdOATcQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
-          "slug": "las-mejores",
-          "tmdbId": "1514863",
-          "type": "movie",
-          "duration": "112 min"
         }
       ]
     }
@@ -585,7 +585,7 @@
         {
           "title": "Marshals: Una historia de Yellowstone",
           "synopsis": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
-          "rating": 7.9,
+          "rating": 7.92,
           "year": "2026",
           "genres": [
             "Drama",
@@ -595,7 +595,7 @@
           ],
           "cast": "Luke Grimes, Logan Marshall-Green, Arielle Kebbel, Ash Santos, Tatanka Means",
           "posterUrl": "https://image.tmdb.org/t/p/original/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
           "slug": "marshals-una-historia-de-yellowstone",
           "tmdbId": "290856",
           "type": "series"
