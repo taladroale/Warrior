@@ -70,23 +70,6 @@
       "duration": "92 min"
     },
     {
-      "title": "Operación Teherán",
-      "synopsis": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
-      "rating": 7.1,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Suspenso"
-      ],
-      "cast": "Zachary Levi, Liam Neeson, Wes Chatham, Titus Welliver, Navid Negahban",
-      "posterUrl": "https://image.tmdb.org/t/p/original/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/yT8EkAvEkJDFeAxK7s7HlIPELRT.jpg",
-      "slug": "operacion-teheran",
-      "tmdbId": "1228834",
-      "type": "movie",
-      "duration": "142 min"
-    },
-    {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
       "rating": 7.3,
@@ -103,6 +86,23 @@
       "tmdbId": "1423191",
       "type": "movie",
       "duration": "93 min"
+    },
+    {
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.19,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Suspenso"
+      ],
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
+      "type": "movie",
+      "duration": "100 min"
     }
   ],
   "seriesHero": [
@@ -159,6 +159,22 @@
       "type": "series"
     },
     {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.47,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
       "title": "One Piece",
       "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
       "rating": 8.8,
@@ -177,36 +193,22 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.47,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
-    {
-      "title": "Los diarios de la boticaria",
-      "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
-      "rating": 8.84,
-      "year": "2023",
+      "title": "Black Clover",
+      "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
+      "rating": 8.49,
+      "year": "2017",
       "genres": [
         "Animación",
-        "Drama",
-        "Misterio"
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Aoi Yuki, Takeo Otsuka, Katsuyuki Konishi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
-      "slug": "los-diarios-de-la-boticaria",
-      "tmdbId": "220542",
+      "cast": "Gakuto Kajiwara, Nobunaga Shimazaki, Kana Yuuki, Junichi Suwabe, Genki Muro",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+      "slug": "black-clover",
+      "tmdbId": "73223",
       "type": "series"
     }
   ],
@@ -216,6 +218,23 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "La leyenda del dragón blanco",
+          "synopsis": "Tras el Aftermath, la ciudad quedó diezmada. Es un recordatorio de una gran batalla y la caída de los héroes. Como resultado de la muerte y la destrucción, la ciudad comenzó a ser conocida como Angel Graves. Los héroes fueron culpados, despojados de sus títulos y cazados. Pero el mal amenaza de nuevo, así que ellos deben resurgir de las cenizas con el poder del Dragón Blanco. Película-tributo hecha por fans de los Power Rangers.",
+          "rating": 5.7,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Fantasía"
+          ],
+          "cast": "Jason David Frank, Aaron Schoenke, Jason Faunt, Rachele Brooke Smith, Michael Søren Madsen",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zCV1Uq4XiBWbKVwmxnSRLya8CZV.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
+          "slug": "la-leyenda-del-dragon-blanco",
+          "tmdbId": "843352",
+          "type": "movie",
+          "duration": "97 min"
+        },
         {
           "title": "Sin rastro",
           "synopsis": "El mundo de una madre decidida, Mara, se viene abajo cuando su ex marido, Karim, secuestra a su hija pequeña, Amina, y huye a Oriente Medio. Desesperada por traer a su hija a casa, Mara forma equipo con Robeson, un enigmático ex marine y especialista en secuestros de niños. Su misión les lleva a Beirut, donde se ven envueltos en una traicionera red de espionaje internacional, traición y corrupción. Cuando el tiempo se agota, Mara se enfrenta a la decisión más difícil de su vida: recuperar a su hija o dejarla atrás por su propia seguridad.",
@@ -371,22 +390,6 @@
           "tmdbId": "1283636",
           "type": "movie",
           "duration": "92 min"
-        },
-        {
-          "title": "Volver a los 17",
-          "synopsis": "Pipe es un adulto perdedor que toda la vida se ha arrepentido de nunca intentar conquistar a la chica de sus sueños: Amalia Braun, cuando ambos iban en la secundaria años atrás. Por esas cosas del destino, Pipe y Amalia coinciden en la actualidad y charlan sobre el pasado, donde ella le confiesa que durante la época escolar ella estuvo enamorada secretamente de él pero como nunca se dio la posibilidad de salir o compartir más juntos, ella tampoco hizo nada para concretar esta historia de amor.",
-          "rating": 5.7,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Romance"
-          ],
-          "cast": "Sebastián Badilla, Carolina Domenech, Manuela Viale, Michelle Masson, José Browne-Bezanilla",
-          "posterUrl": "https://image.tmdb.org/t/p/original/etzThCbeYmZnfmO7f7KpzQ64xSW.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/s8kCW0VjPaBI4chcb9JYKB3RxM.jpg",
-          "slug": "volver-a-los-17",
-          "tmdbId": "1606912",
-          "type": "movie"
         }
       ]
     },
@@ -578,6 +581,22 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Un amor distinto al tuyo",
+          "synopsis": "Una historia de amor realista, emocional y cercana sobre una pareja en su décimo año de relación, que ve cómo sentimientos desconocidos ponen a prueba su estabilidad.",
+          "rating": 6.3,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "서강준, 안은진, 이주안, 조아람, 이민재",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+          "slug": "un-amor-distinto-al-tuyo",
+          "tmdbId": "314939",
+          "type": "series"
+        },
+        {
           "title": "Marshals: Una historia de Yellowstone",
           "synopsis": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
           "rating": 7.91,
@@ -725,22 +744,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
           "slug": "slow-horses",
           "tmdbId": "95480",
-          "type": "series"
-        },
-        {
-          "title": "Ted Lasso",
-          "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-          "rating": 8.36,
-          "year": "2020",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-          "slug": "ted-lasso",
-          "tmdbId": "97546",
           "type": "series"
         }
       ]
