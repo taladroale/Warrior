@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T19:28:29Z",
+  "updatedAt": "2026-10-07T15:26:47Z",
   "source": "cufo",
-  "total": 22541,
+  "total": 22542,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias"},
     "12": {"slug":"buscando-a-nemo"},
@@ -11423,6 +11423,7 @@
     "843314": {"slug":"forbannelsen"},
     "843338": {"slug":"hinterland"},
     "843342": {"slug":"hamlet-843342"},
+    "843352": {"slug":"la-leyenda-del-dragon-blanco"},
     "843380": {"slug":"el-cazador-de-recompensas-843380"},
     "843388": {"slug":"blackpink-the-movie"},
     "843394": {"slug":"cat-person"},
