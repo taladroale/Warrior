@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T14:06:03Z",
+  "updatedAt": "2026-10-07T15:24:47Z",
   "source": "cine",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -7763,6 +7763,7 @@
     "1489987": {"slug": "secret-life-of-the-deans-wife"},
     "1490816": {"slug": "irish-ashes"},
     "1491902": {"slug": "bang"},
+    "1492640": {"slug": "unabomber"},
     "1493400": {"slug": "camp-rock-3"},
     "1493616": {"slug": "gone-with-the-dead"},
     "1495723": {"slug": "metruk-adam"},
@@ -8025,6 +8026,7 @@
     "1748858": {"slug": "erupt-3"},
     "1754154": {"slug": "smalltown-funk-girls"},
     "1755367": {"slug": "the-enemy-within-me"},
+    "1788735": {"slug": "family-guy-happy-hell-o-ween"},
     "77866-": {"slug": "contrabando"}
   },
   "series": {
