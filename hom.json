@@ -38,7 +38,7 @@
     {
       "title": "Vértigo 2: Punto muerto",
       "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
-      "rating": 6.87,
+      "rating": 7.09,
       "year": "2026",
       "genres": [
         "Suspenso"
@@ -88,22 +88,21 @@
       "duration": "93 min"
     },
     {
-      "title": "El hombre que desafió al rey",
-      "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
-      "rating": 7.98,
+      "title": "Entrega al límite",
+      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+      "rating": 8.33,
       "year": "2026",
       "genres": [
-        "Historia",
-        "Drama",
-        "Acción"
+        "Acción",
+        "Comedia"
       ],
-      "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Woody Norman, Tom Hollander",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-      "slug": "el-hombre-que-desafio-al-rey",
-      "tmdbId": "977942",
+      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+      "slug": "entrega-al-limite",
+      "tmdbId": "1377237",
       "type": "movie",
-      "duration": "128 min"
+      "duration": "97 min"
     }
   ],
   "seriesHero": [
@@ -144,7 +143,7 @@
     {
       "title": "Causa abierta",
       "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
-      "rating": 7.93,
+      "rating": 7.8,
       "year": "2026",
       "genres": [
         "Crimen",
@@ -176,39 +175,38 @@
       "type": "series"
     },
     {
-      "title": "Marshals: Una historia de Yellowstone",
-      "synopsis": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
-      "rating": 7.9,
-      "year": "2026",
+      "title": "La detective está muerta (Tantei wa Mou, Shindeiru)",
+      "synopsis": "Kimizuka pasa 3 años como asistente de la misteriosa detective Siesta. Cuando ella muere, él debe regresar a una vida típica de la escuela secundaria. Pero ¿está realmente muerta?",
+      "rating": 5.6,
+      "year": "2021",
       "genres": [
-        "Drama",
-        "Crimen",
-        "Acción",
-        "Aventura"
+        "Animación",
+        "Misterio",
+        "Drama"
       ],
-      "cast": "Luke Grimes, Logan Marshall-Green, Arielle Kebbel, Ash Santos, Tatanka Means",
-      "posterUrl": "https://image.tmdb.org/t/p/original/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-      "slug": "marshals-una-historia-de-yellowstone",
-      "tmdbId": "290856",
+      "cast": "長井新, Saki Miyashita, Ayana Taketatsu, Kanon Takao, Saho Shirasu",
+      "posterUrl": "https://image.tmdb.org/t/p/original/5NXO5acrIa2hkDxIqFyKcVW6vca.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/aqETSDXdeYqcD1PPd2WBfeWtoct.jpg",
+      "slug": "la-detective-esta-muerta-tantei-wa-mou-shindeiru",
+      "tmdbId": "117061",
       "type": "series"
     },
     {
-      "title": "Navy: Investigación criminal",
-      "synopsis": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
-      "rating": 7.6,
-      "year": "2003",
+      "title": "Sasaki and Peeps",
+      "synopsis": "Sasaki es un oficinista de mediana edad que vive en Japón. La monotonía del mundo laboral le agota, así que un día decide entrar en una tienda de animales en busca de un nuevo compañero. Allí encuentra un adorable pájaro llamado Pi y se lo lleva a casa. Pero Sasaki no tarda en descubrir que Pi no es un pájaro cualquiera... ¡Es un mago muy poderoso proveniente de otro mundo! Juntos, se embarcan en una aventura mágica llena de espadas y hechicería.",
+      "rating": 6.8,
+      "year": "2024",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Acción",
-        "Aventura"
+        "Animación",
+        "Comedia",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Sean Murray, Wilmer Valderrama, Katrina Law, Brian Dietzen, Diona Reasonover",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-      "slug": "navy-investigacion-criminal",
-      "tmdbId": "4614",
+      "cast": "Tomokazu Sugita, Aoi Yuki, Rie Takahashi, Akari Kito, Miyu Tomita",
+      "posterUrl": "https://image.tmdb.org/t/p/original/m3D7giT0fyJJ5ssjOEhYgUXN7Sg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/xljpEwFQF6Rl1rU1w7SEs1pk3YE.jpg",
+      "slug": "sasaki-and-peeps",
+      "tmdbId": "206630",
       "type": "series"
     }
   ],
@@ -221,7 +219,7 @@
         {
           "title": "Vértigo 2: Punto muerto",
           "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
-          "rating": 7.09,
+          "rating": 7.2,
           "year": "2026",
           "genres": [
             "Suspenso"
@@ -582,7 +580,7 @@
         {
           "title": "Causa abierta",
           "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
-          "rating": 7.93,
+          "rating": 7.8,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -845,7 +843,7 @@
         {
           "title": "Cautiva",
           "synopsis": "Una joven devota entra en un convento de clausura sin sospechar que los abusos de la madre superiora acabarán quebrando su espíritu.",
-          "rating": 6.67,
+          "rating": 7,
           "year": "2026",
           "genres": [
             "Drama",
