@@ -3,7 +3,7 @@
     {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.22,
+      "rating": 8.3,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -21,7 +21,7 @@
     {
       "title": "Insidious: Fuera del más allá",
       "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 7.38,
+      "rating": 7.54,
       "year": "2026",
       "genres": [
         "Terror",
@@ -38,7 +38,7 @@
     {
       "title": "Vértigo 2: Punto muerto",
       "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
-      "rating": 7.09,
+      "rating": 7.2,
       "year": "2026",
       "genres": [
         "Suspenso"
@@ -52,9 +52,26 @@
       "duration": "98 min"
     },
     {
+      "title": "Digger",
+      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "rating": 7.52,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "slug": "digger",
+      "tmdbId": "1248832",
+      "type": "movie",
+      "duration": "128 min"
+    },
+    {
       "title": "Aniquilación",
       "synopsis": "Una francotiradora del ejército utiliza sus habilidades para proteger a su hija de un escuadrón de máquinas asesinas que escapó de una base militar secreta, mientras unos mercenarios intentan contenerla.",
-      "rating": 5.83,
+      "rating": 5.7,
       "year": "2026",
       "genres": [
         "Acción",
@@ -72,7 +89,7 @@
     {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.32,
+      "rating": 7.3,
       "year": "2026",
       "genres": [
         "Terror",
@@ -86,23 +103,6 @@
       "tmdbId": "1423191",
       "type": "movie",
       "duration": "93 min"
-    },
-    {
-      "title": "Entrega al límite",
-      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-      "rating": 8.33,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Comedia"
-      ],
-      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
-      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
-      "slug": "entrega-al-limite",
-      "tmdbId": "1377237",
-      "type": "movie",
-      "duration": "97 min"
     }
   ],
   "seriesHero": [
@@ -127,7 +127,7 @@
     {
       "title": "Ted Lasso",
       "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-      "rating": 8.4,
+      "rating": 8.36,
       "year": "2020",
       "genres": [
         "Drama",
@@ -143,7 +143,7 @@
     {
       "title": "Causa abierta",
       "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
-      "rating": 7.8,
+      "rating": 7.73,
       "year": "2026",
       "genres": [
         "Crimen",
@@ -175,6 +175,24 @@
       "type": "series"
     },
     {
+      "title": "One Piece",
+      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "rating": 8.8,
+      "year": "1999",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Animación"
+      ],
+      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "slug": "one-piece",
+      "tmdbId": "37854",
+      "type": "series"
+    },
+    {
       "title": "La detective está muerta (Tantei wa Mou, Shindeiru)",
       "synopsis": "Kimizuka pasa 3 años como asistente de la misteriosa detective Siesta. Cuando ella muere, él debe regresar a una vida típica de la escuela secundaria. Pero ¿está realmente muerta?",
       "rating": 5.6,
@@ -190,24 +208,6 @@
       "slug": "la-detective-esta-muerta-tantei-wa-mou-shindeiru",
       "tmdbId": "117061",
       "type": "series"
-    },
-    {
-      "title": "Sasaki and Peeps",
-      "synopsis": "Sasaki es un oficinista de mediana edad que vive en Japón. La monotonía del mundo laboral le agota, así que un día decide entrar en una tienda de animales en busca de un nuevo compañero. Allí encuentra un adorable pájaro llamado Pi y se lo lleva a casa. Pero Sasaki no tarda en descubrir que Pi no es un pájaro cualquiera... ¡Es un mago muy poderoso proveniente de otro mundo! Juntos, se embarcan en una aventura mágica llena de espadas y hechicería.",
-      "rating": 6.8,
-      "year": "2024",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Tomokazu Sugita, Aoi Yuki, Rie Takahashi, Akari Kito, Miyu Tomita",
-      "posterUrl": "https://image.tmdb.org/t/p/original/m3D7giT0fyJJ5ssjOEhYgUXN7Sg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/xljpEwFQF6Rl1rU1w7SEs1pk3YE.jpg",
-      "slug": "sasaki-and-peeps",
-      "tmdbId": "206630",
-      "type": "series"
     }
   ],
   "movieSections": [
@@ -217,176 +217,175 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
-          "title": "Vértigo 2: Punto muerto",
-          "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
-          "rating": 7.2,
-          "year": "2026",
-          "genres": [
-            "Suspenso"
-          ],
-          "cast": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xQlESgkDM7rczAWySdB0WBomh39.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
-          "slug": "vertigo-2-punto-muerto",
-          "tmdbId": "1101412",
-          "type": "movie",
-          "duration": "98 min"
-        },
-        {
-          "title": "La leyenda del dragón blanco",
-          "synopsis": "Tras el Aftermath, la ciudad quedó diezmada. Es un recordatorio de una gran batalla y la caída de los héroes. Como resultado de la muerte y la destrucción, la ciudad comenzó a ser conocida como Angel Graves. Los héroes fueron culpados, despojados de sus títulos y cazados. Pero el mal amenaza de nuevo, así que ellos deben resurgir de las cenizas con el poder del Dragón Blanco. Película-tributo hecha por fans de los Power Rangers.",
-          "rating": 5.7,
+          "title": "Stop! That! Train!",
+          "synopsis": "Dos amigas azafatas de tren cambian un aburrido ferrocarril por el lujoso Glamazonian Express. Durante una gran tormenta, deben trabajar con la estirada tripulación de primera clase y el presidente Gagwell para evitar un desastre en Los Ángeles.",
+          "rating": 5,
           "year": "2026",
           "genres": [
             "Acción",
+            "Comedia"
+          ],
+          "cast": "RuPaul, Jujubee, Ginger Minj, Brooke Lynn Hytes, Marcia Marcia Marcia",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wPvh5kZyn1yQVq6Nqhio27JZ8Hc.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/erNAhcSYrDMXQqAU1TVthYyFA71.jpg",
+          "slug": "stop-that-train",
+          "tmdbId": "1541560",
+          "type": "movie",
+          "duration": "90 min"
+        },
+        {
+          "title": "Panda Plan: The Magical Tribe",
+          "synopsis": "El panda gigante Hu Hu y Jackie Chan tropiezan accidentalmente con una misteriosa tribu primitiva, dando comienzo a una desternillante aventura sin precedentes.",
+          "rating": 6.5,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Comedia",
+            "Familia",
             "Fantasía"
           ],
-          "cast": "Jason David Frank, Aaron Schoenke, Jason Faunt, Rachele Brooke Smith, Michael Søren Madsen",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zCV1Uq4XiBWbKVwmxnSRLya8CZV.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/iBfpVJCn2nKSkuWjv1Wp4GTiqoG.jpg",
-          "slug": "la-leyenda-del-dragon-blanco",
-          "tmdbId": "843352",
+          "cast": "Jackie Chan, 马丽, 喬杉, 于洋, 王影璐",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5uE4qDFSoPLcuQRGpXEFCInhNLT.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/jmWgUSrqvlLytWgBHvNuRyKq0WZ.jpg",
+          "slug": "panda-plan-the-magical-tribe",
+          "tmdbId": "1421552",
           "type": "movie",
-          "duration": "97 min"
+          "duration": "100 min"
         },
         {
-          "title": "Sin rastro",
-          "synopsis": "El mundo de una madre decidida, Mara, se viene abajo cuando su ex marido, Karim, secuestra a su hija pequeña, Amina, y huye a Oriente Medio. Desesperada por traer a su hija a casa, Mara forma equipo con Robeson, un enigmático ex marine y especialista en secuestros de niños. Su misión les lleva a Beirut, donde se ven envueltos en una traicionera red de espionaje internacional, traición y corrupción. Cuando el tiempo se agota, Mara se enfrenta a la decisión más difícil de su vida: recuperar a su hija o dejarla atrás por su propia seguridad.",
-          "rating": 6.36,
-          "year": "2025",
-          "genres": [
-            "Suspenso",
-            "Acción",
-            "Aventura"
-          ],
-          "cast": "Kate Beckinsale, Scott Eastwood, Jordan Duvigneau, Matt Craven, Nowar Yusuf",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fFKcNfjOUbfaC8hPuiMxJ8PAudy.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/l23DWcm586XAv97PDX6zZEH8Ofy.jpg",
-          "slug": "stolen-girl",
-          "tmdbId": "1280450",
-          "type": "movie",
-          "duration": "110 min"
-        },
-        {
-          "title": "Padre de familia: Happy Hell-o-ween",
-          "synopsis": "Brian y Stewie acaban en el infierno tras 24 temporadas de mal comportamiento y terminan al mando cuando consiguen sacar de quicio incluso al mismísimo diablo.",
-          "rating": 6.4,
+          "title": "Cada vez menos extraño",
+          "synopsis": "Jan Borysewicz, el líder de la banda polaca de rock Lady Pank, marca a toda una generación con su música mientras una serie de tragedias familiares lo marcan a él.",
+          "rating": 0,
           "year": "2026",
           "genres": [
-            "Animación",
+            "Drama",
+            "Música"
+          ],
+          "cast": "Mikołaj Bukrewicz, Patryk Pietrzak, Hubert Miłkowski, Krzysztof Oleksyn, Mikołaj Matczak",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5lxcAE2DLtK8bFfCXOV9TM13RDq.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xn42TCarooeOxY1yrfOknEmMvAu.jpg",
+          "slug": "cada-vez-menos-extrano",
+          "tmdbId": "1620080",
+          "type": "movie",
+          "duration": "120 min"
+        },
+        {
+          "title": "Quiero Tu Sexo",
+          "synopsis": "Cuando el joven e ingenuo Elliot consigue un emocionante trabajo para Erika Tracy, una reconocida artista, ícono y provocadora, sus fantasías se hacen realidad cuando ella lo elige para convertirlo en su musa sexual. Pero Elliot pronto descubre que la situación lo supera, mientras Erika lo conduce por un viaje mucho más profundo de lo que jamás habría imaginado, adentrándolo en un mundo de sexo, obsesión, poder, traición y asesinato.",
+          "rating": 6.08,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Olivia Wilde, Cooper Hoffman, Mason Gooding, Chase Sui Wonders, Johnny Knoxville",
+          "posterUrl": "https://image.tmdb.org/t/p/original/aMFx35t0T61S1ILDZrycPFRu95u.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gQsjbxdjJUam7buy4U2TpVTiGSO.jpg",
+          "slug": "i-want-your-sex",
+          "tmdbId": "1288059",
+          "type": "movie",
+          "duration": "90 min"
+        },
+        {
+          "title": "Rolling Loud: La película",
+          "synopsis": "Un padre toma una decisión desacertada al llevar a su hijo pequeño a un desenfrenado festival de hip-hop, lo que desencadena el caos mientras ambos lidian con las multitudes, la seguridad y la dinámica familiar en compañía de personajes excéntricos.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Owen Wilson, Christian Convery, Jolene, Travis Scott, Matt Rife",
+          "posterUrl": "https://image.tmdb.org/t/p/original/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg",
+          "slug": "rolling-loud-la-pelicula",
+          "tmdbId": "1336166",
+          "type": "movie",
+          "duration": "99 min"
+        },
+        {
+          "title": "The Influencer Project",
+          "synopsis": "Influencer Chiara King travels to Copenhagen with a documentary crew promising an unfiltered look behind the glamorous business of online fame. But as the cameras and her devoted fans follow her every move, someone else is watching too. When an obsessive stalker begins closing in, the documentary mutates into something far more terrifying, blurring the line between content and evidence, follower and predator, fact and fiction.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
             "Terror"
           ],
-          "cast": "Seth MacFarlane, Kieran Culkin, Alex Borstein, Seth Green, Mila Kunis",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
-          "slug": "family-guy-happy-hell-o-ween",
-          "tmdbId": "1788735",
-          "type": "movie",
-          "duration": "22 min"
-        },
-        {
-          "title": "Insidious: Fuera del más allá",
-          "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-          "rating": 7.38,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uIMddTcnM9P6PrJiDjsXIeYp902.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-          "slug": "insidious-fuera-del-mas-alla",
-          "tmdbId": "1291595",
-          "type": "movie",
-          "duration": "106 min"
-        },
-        {
-          "title": "Spider-Man: Brand New Day",
-          "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-          "rating": 8.22,
-          "year": "2026",
-          "genres": [
-            "Ciencia ficción",
-            "Acción",
-            "Aventura"
-          ],
-          "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
-          "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
-          "slug": "spider-man-brand-new-day",
-          "tmdbId": "969681",
-          "type": "movie",
-          "duration": "145 min"
-        },
-        {
-          "title": "Las cartas de la vida",
-          "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 7.4,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Drama"
-          ],
-          "cast": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent",
-          "posterUrl": "https://image.tmdb.org/t/p/original/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-          "slug": "las-cartas-de-la-vida",
-          "tmdbId": "1458857",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
-          "title": "No dejes a los niños solos",
-          "synopsis": "Por una emergencia de trabajo, Catalina Camacho, una joven y reciente viuda, se ve obligada a dejar a sus hijos a solas por unas cuantas horas. Esa noche, y con la casa para ellos solos, Matías y Emiliano (de diez y siete años) se dan vuelo desempacando cajas para desenterrar su preciada consola de videojuegos, sin saber que algo les hará creer, a cada quién por separado, que su hermano lo quiere matar para volverse el hijo único y favorito. (GIFF)",
-          "rating": 6.95,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Drama",
-            "Suspenso"
-          ],
-          "cast": "Ana Serradilla, Juan Pablo Velasco, Ricardo Galina, Jesús Zavala, José Sefami",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jxg1sLzG0TJRDPSNU6AmR4wR4Ce.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/flo7Xmyxz2wDUjr5Ff0VrxaVwlY.jpg",
-          "slug": "no-dejes-a-los-ninos-solos",
-          "tmdbId": "1339274",
-          "type": "movie",
-          "duration": "97 min"
-        },
-        {
-          "title": "Siete francotiradores",
-          "synopsis": "Cuando una antigua francotirador de élite es perseguida por el despiadado caudillo que una vez la mantuvo cautiva, debe luchar hasta la muerte para proteger a la hija que ha criado en la clandestinidad, en una remota granja australiana.",
-          "rating": 5.9,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Suspenso"
-          ],
-          "cast": "Radha Mitchell, Tim Roth, Annabel Wolfe, Ioan Gruffudd, Ryan Kwanten",
-          "posterUrl": "https://image.tmdb.org/t/p/original/1VypkhG0LlvIzt26K4nYDEJr1qq.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/g2aOpyCO1vEyUZURh3V5uaHu187.jpg",
-          "slug": "siete-francotiradores",
-          "tmdbId": "1288341",
-          "type": "movie",
-          "duration": "87 min"
-        },
-        {
-          "title": "Zip Wire",
-          "synopsis": "Cuando le roban su revolucionario descubrimiento farmacéutico y asesinan a su compañero, la investigadora Amy debe enfrentarse a su miedo a las alturas para escapar de unos atacantes sin escrúpulos, siendo la única vía de salvación una traicionera pasarela aérea. Para burlar a sus misteriosos perseguidores, tendrá que reunir hasta la última pizca de valor para proteger el descubrimiento científico que cambiará el mundo, y a sí misma, antes de que sea demasiado tarde.",
-          "rating": 7.67,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Suspenso"
-          ],
-          "cast": "MyAnna Buring, Joseph Millson, Saffron Burrows, Michael Amariah, Silvia Presente",
-          "posterUrl": "https://image.tmdb.org/t/p/original/eLMHUOQ4mCMxePMbv0TIVB48zfe.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/sbkkAtymJaH5UzExiK974uPzCY4.jpg",
-          "slug": "zip-wire",
-          "tmdbId": "1482547",
+          "cast": "Chiara King, Luca Storm, Jazmine Summer, Alexandre Willaume, Eos Karlsson",
+          "posterUrl": "https://image.tmdb.org/t/p/original/3yolfJrhMf8XvfKVlBB6Zetn2wS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/q4WeLp7kmLAvHYpzQXEzlZWJMsn.jpg",
+          "slug": "the-influencer-project",
+          "tmdbId": "1654086",
           "type": "movie",
           "duration": "95 min"
+        },
+        {
+          "title": "Vaiana",
+          "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
+          "rating": 7.42,
+          "year": "2026",
+          "genres": [
+            "Familia",
+            "Fantasía",
+            "Comedia",
+            "Aventura"
+          ],
+          "cast": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xUUksaUc30wX5orsYytApurKbX.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+          "slug": "vaiana-1108427",
+          "tmdbId": "1108427",
+          "type": "movie",
+          "duration": "115 min"
+        },
+        {
+          "title": "Pinocho: Desatado",
+          "synopsis": "Gepetto le regala para el cumple de su nieto James un titere llamado Pinocho, aunque no sabian que estaria desquiciado, donde buscaria matar a quien fuera junto con su consciencia llamada Pepe Grillo para convertirse en un niño de verdad",
+          "rating": 6.5,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Fantasía",
+            "Misterio"
+          ],
+          "cast": "Jude Evan Lloyd, Cameron Bell, Richard Brake, Jessica Balmer, Jack Art Gray",
+          "posterUrl": "https://image.tmdb.org/t/p/original/kuPRjis9YN1V9m4ud0hePtREUCo.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vgZDb7kmaxP24cFbt1KJdMLlHFZ.jpg",
+          "slug": "pinocho-esta-desquiciado",
+          "tmdbId": "1232569",
+          "type": "movie",
+          "duration": "90 min"
+        },
+        {
+          "title": "La coleccionista",
+          "synopsis": "En el pueblo fronterizo de Reino del Duero, Fátima, conocida como \"La coleccionista\", obsequia a algunos forasteros que visitan el pueblo con un objeto aparentemente mundano. Lo que los visitantes no sospechan es que los regalos de Fátima desencadenarán una serie de inquietantes y dramáticos sucesos paranormales que cambiarán para siempre sus vidas.",
+          "rating": 6.5,
+          "year": "2025",
+          "genres": [
+            "Terror",
+            "Misterio"
+          ],
+          "cast": "Maggie Civantos, Daniel Grao, Canco Rodríguez, Belén López, Assumpta Serna",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7GHxs989obQTcHbmhI7a4fnUOdo.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/f79YBGQwXr7Lm9fYlVVoJZusurz.jpg",
+          "slug": "la-coleccionista",
+          "tmdbId": "1518257",
+          "type": "movie",
+          "duration": "96 min"
+        },
+        {
+          "title": "Schumacher 94: Nace una leyenda",
+          "synopsis": "La primera victoria de Michael Schumacher en el Campeonato Mundial cobra vida gracias a entrevistas personales e imágenes de archivo de la famosa temporada de F1 del 94.",
+          "rating": 7.53,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Michael Schumacher, Corinna Schumacher, Flavio Briatore, Bernie Ecclestone, David Coulthard",
+          "posterUrl": "https://image.tmdb.org/t/p/original/tTup4U76sGi5om7BUiMYwKWHvvl.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+          "slug": "schumacher-94-nace-una-leyenda",
+          "tmdbId": "1752355",
+          "type": "movie",
+          "duration": "105 min"
         }
       ]
     },
@@ -415,7 +414,7 @@
         {
           "title": "Las cartas de la vida",
           "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 7.4,
+          "rating": 7.62,
           "year": "2026",
           "genres": [
             "Romance",
@@ -430,6 +429,23 @@
           "duration": "112 min"
         },
         {
+          "title": "Appofeniacs",
+          "synopsis": "When Duke goes on a frenzy of reckless deepfake creations, his callous disregard of consequences shows how, with a few clicks of an app on a phone, anyone can create a deceiving video of an unsuspecting victim and ruin their life… or end it.",
+          "rating": 6.5,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Suspenso"
+          ],
+          "cast": "Sean Gunn, Jermaine Fowler, Scarlett DeMeo, Michael Abbott Jr., Harley Bronwyn",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cjlTNyyd5hqB3vXHVkjwTyvN9I4.jpg",
+          "slug": "appofeniacs",
+          "tmdbId": "1401433",
+          "type": "movie",
+          "duration": "91 min"
+        },
+        {
           "title": "Ricos sin dinero",
           "synopsis": "Los AlThahabi siempre han presumido de dinero y estatus. Pero, cuando descubren que no son tan ricos como creían, tienen que seguir aparentándolo para sobrevivir",
           "rating": 6.6,
@@ -439,16 +455,84 @@
             "Drama"
           ],
           "cast": "آيدا القصي, أضواء بدر, زياد العمري, غادة الملا, فايز بن جريس",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ePzZ5UIuGCaVoDqfA2YJtW36XYR.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bATrCc4HVGOkJyPb0GzEnBJrNQ0.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
           "slug": "ricos-sin-dinero",
           "tmdbId": "1763619",
           "type": "movie"
         },
         {
+          "title": "Boiuna: La leyenda del Amazonas",
+          "synopsis": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
+          "rating": 5.6,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Suspenso"
+          ],
+          "cast": "Logan Marshall-Green, Kiana Madeira, Jessica Rothe, Jackson Bews, Juan Pablo Shuk",
+          "posterUrl": "https://image.tmdb.org/t/p/original/akm6jAZWebBOKweMp6G9TgkefrZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+          "slug": "boiuna-la-leyenda-del-amazonas",
+          "tmdbId": "1244523",
+          "type": "movie",
+          "duration": "104 min"
+        },
+        {
+          "title": "En vivo desde el infierno",
+          "synopsis": "Cuando Kevin Hart colabora con los streamers Kai Cenat y Druski en una transmisión en vivo que rompe récords de audiencia desde su mansión hipertecnológica, todo es muy divertido hasta que las bromas se transforman en pánico y deben resolver un asesinato real en cámara. El trío y sus invitados famosos quedan atrapados en una comedia de horror mientras millones los miran.",
+          "rating": 5.23,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Comedia"
+          ],
+          "cast": "Kevin Hart, Kai Cenat, Druski, Kam Patterson, Chen-Ruei'Ray' Hsu",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1UYm1w6shyYyqFGsry2JMaq56K2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
+          "slug": "en-vivo-desde-el-infierno",
+          "tmdbId": "1437195",
+          "type": "movie",
+          "duration": "77 min"
+        },
+        {
+          "title": "Verity. La sombra de un engaño",
+          "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+          "rating": 6.4,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Suspenso"
+          ],
+          "cast": "Anne Hathaway, Dakota Johnson, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
+          "posterUrl": "https://image.tmdb.org/t/p/original/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+          "slug": "verity-la-sombra-de-un-engano",
+          "tmdbId": "1283515",
+          "type": "movie",
+          "duration": "114 min"
+        },
+        {
+          "title": "Digger",
+          "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+          "rating": 7.52,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+          "slug": "digger",
+          "tmdbId": "1248832",
+          "type": "movie",
+          "duration": "128 min"
+        },
+        {
           "title": "Unabomber",
           "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-          "rating": 6.56,
+          "rating": 6.57,
           "year": "2026",
           "genres": [
             "Suspenso",
@@ -464,109 +548,21 @@
           "duration": "101 min"
         },
         {
-          "title": "Spidey y Los Vengadores: Superequipo Halloween",
-          "synopsis": "Los planes de Halloween de Spidey y los Vengadores se ponen patas arriba por la misteriosa Eva de los Santos, quien juega trucos mágicos en trucos o tratadores y planea arruinar Halloween para siempre.",
-          "rating": 7.3,
+          "title": "Family",
+          "synopsis": "Verano de 2002. Al ver cómo su padre enfermo empeora, Johanna, de 11 años, invoca a un espíritu bueno para salvarlo. Pero algo más responde a su llamado.",
+          "rating": 6.43,
           "year": "2026",
           "genres": [
-            "Animación",
-            "Aventura",
-            "Fantasía",
-            "Familia"
+            "Drama",
+            "Terror"
           ],
-          "cast": "Nick Fisher, Patrick Stump, Lincoln Bonilla, Armen Taylor, Cruz Flateau",
-          "posterUrl": "https://image.tmdb.org/t/p/original/nLhj8GhpL7njlalnIW4DIZyXyaa.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5Ur40GWrgeLePW6RAYZZoS5BRLk.jpg",
-          "slug": "spidey-and-the-avengers-halloween-team-up",
-          "tmdbId": "1750432",
+          "cast": "Ruth Wilson, Ben Chaplin, Cameron Dawson Gray, Allan Corduner, Ryan Lucy",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wXMsCAtOr27zaZLb1Nv63JFpQiV.jpg",
+          "slug": "family",
+          "tmdbId": "1229906",
           "type": "movie",
-          "duration": "26 min"
-        },
-        {
-          "title": "The Whistler",
-          "synopsis": "Una madre en duelo se une a un culto para contactar a su hija muerta, pero invoca algo mucho más oscuro: El Silbón, un espíritu cuyo silbido arrastra a los vivos hacia la muerte.",
-          "rating": 1,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Juan Pablo Raba, Diane Guerrero, Indhira Serrano, Laureano Olivares, Laura Sofía Domínguez",
-          "posterUrl": "https://image.tmdb.org/t/p/original/koUQCjkTUAS29V9jBUrOeaUBy1U.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
-          "slug": "the-whistler",
-          "tmdbId": "1280300",
-          "type": "movie",
-          "duration": "97 min"
-        },
-        {
-          "title": "La hipótesis del amor",
-          "synopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
-          "rating": 8.05,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Comedia"
-          ],
-          "cast": "Lili Reinhart, Tom Bateman, Rachel Marsh, Jaboukie Young-White, Nicholas Duvernay",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-          "slug": "la-hipotesis-del-amor",
-          "tmdbId": "1032863",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
-          "title": "Un último disparo",
-          "synopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
-          "rating": 7.37,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Suspenso"
-          ],
-          "cast": "Scott Adkins, Steven Cree, Hannah Ware, Dolph Lundgren, ケイン・コスギ",
-          "posterUrl": "https://image.tmdb.org/t/p/original/opmrLPrV2GPSazjWbX2PhkLjxBe.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-          "slug": "one-last-shot",
-          "tmdbId": "1607127",
-          "type": "movie",
-          "duration": "98 min"
-        },
-        {
-          "title": "En el corazón de la bestia",
-          "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-          "rating": 7.5,
-          "year": "2026",
-          "genres": [
-            "Aventura",
-            "Suspenso"
-          ],
-          "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
-          "posterUrl": "https://image.tmdb.org/t/p/original/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-          "slug": "en-el-corazon-de-la-bestia",
-          "tmdbId": "1263337",
-          "type": "movie",
-          "duration": "101 min"
-        },
-        {
-          "title": "Tú+Yo - Solos contra todos",
-          "synopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
-          "rating": 5.6,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Drama"
-          ],
-          "cast": "Vittoria Di Savoia, Lucas Barski, Zoé Garcia, Léo Legrand, Jean-Yves Berteloot",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mzgqiEhujCAZiaD6jNVYSXdqFXs.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-          "slug": "tuyo-solos-contra-todos",
-          "tmdbId": "1641629",
-          "type": "movie",
-          "duration": "94 min"
+          "duration": "95 min"
         }
       ]
     }
@@ -580,7 +576,7 @@
         {
           "title": "Causa abierta",
           "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
-          "rating": 7.8,
+          "rating": 7.73,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -614,7 +610,7 @@
         {
           "title": "Ted Lasso",
           "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-          "rating": 8.4,
+          "rating": 8.36,
           "year": "2020",
           "genres": [
             "Drama",
