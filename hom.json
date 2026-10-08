@@ -2,42 +2,26 @@
   "movieHero": [
     {
       "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 7.9,
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 8.22,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
         "Acción",
         "Aventura"
       ],
-      "cast": "Tom Holland, Zendaya, Mark Ruffalo, Jon Bernthal, Jacob Batalon",
+      "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
       "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
       "slug": "spider-man-brand-new-day",
       "tmdbId": "969681",
       "type": "movie",
-      "duration": "144 min"
-    },
-    {
-      "title": "Fall 2: Deadpoint",
-      "synopsis": "Tras la muerte de su intrépida hermana Shiloh, Jax emprende una peligrosa escalada con una vieja amiga para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, en Tailandia, un aterrador desprendimiento de rocas las deja varadas a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia.",
-      "rating": 6.2,
-      "year": "2026",
-      "genres": [
-        "Suspenso"
-      ],
-      "cast": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xQlESgkDM7rczAWySdB0WBomh39.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-      "slug": "vertigo-2-punto-muerto",
-      "tmdbId": "1101412",
-      "type": "movie",
-      "duration": "98 min"
+      "duration": "145 min"
     },
     {
       "title": "Insidious: Fuera del más allá",
       "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 6.5,
+      "rating": 7.38,
       "year": "2026",
       "genres": [
         "Terror",
@@ -45,21 +29,37 @@
       ],
       "cast": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers",
       "posterUrl": "https://image.tmdb.org/t/p/original/uIMddTcnM9P6PrJiDjsXIeYp902.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/w2xDGa1252imRPgCbiY48AbkRBn.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
       "slug": "insidious-fuera-del-mas-alla",
       "tmdbId": "1291595",
       "type": "movie",
       "duration": "106 min"
     },
     {
+      "title": "Vértigo 2: Punto muerto",
+      "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
+      "rating": 6.87,
+      "year": "2026",
+      "genres": [
+        "Suspenso"
+      ],
+      "cast": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xQlESgkDM7rczAWySdB0WBomh39.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+      "slug": "vertigo-2-punto-muerto",
+      "tmdbId": "1101412",
+      "type": "movie",
+      "duration": "98 min"
+    },
+    {
       "title": "Aniquilación",
-      "synopsis": "Cuando un escuadrón rebelde de supersoldados modificados genéticamente se desata en el desierto, una francotiradora del ejército de armas tomar debe desatar el infierno para proteger a su hija pequeña.",
-      "rating": 5.84,
+      "synopsis": "Una francotiradora del ejército utiliza sus habilidades para proteger a su hija de un escuadrón de máquinas asesinas que escapó de una base militar secreta, mientras unos mercenarios intentan contenerla.",
+      "rating": 5.83,
       "year": "2026",
       "genres": [
         "Acción",
-        "Suspenso",
-        "Terror"
+        "Terror",
+        "Suspenso"
       ],
       "cast": "Adria Arjona, Dan Stevens, Eric Wareheim, Reginald VelJohnson, Michael Biehn",
       "posterUrl": "https://image.tmdb.org/t/p/original/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
@@ -72,7 +72,7 @@
     {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.3,
+      "rating": 7.32,
       "year": "2026",
       "genres": [
         "Terror",
@@ -88,28 +88,29 @@
       "duration": "93 min"
     },
     {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.19,
+      "title": "El hombre que desafió al rey",
+      "synopsis": "En la Inglaterra del siglo XIV, asolada por la peste, un campesino desencadena una rebelión contra el rey Ricardo II y se convierte involuntariamente en una leyenda de la resistencia.",
+      "rating": 7.98,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Suspenso"
+        "Historia",
+        "Drama",
+        "Acción"
       ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rmCkNtzYR2xTOO3ZXmIqB5zgYdE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
+      "cast": "Andrew Garfield, Jamie Bell, Stephen Dillane, Woody Norman, Tom Hollander",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rveEjlQQ0LlyyPk8ev2pHBmQPZZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+      "slug": "el-hombre-que-desafio-al-rey",
+      "tmdbId": "977942",
       "type": "movie",
-      "duration": "100 min"
+      "duration": "128 min"
     }
   ],
   "seriesHero": [
     {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.39,
+      "rating": 8.34,
       "year": "2026",
       "genres": [
         "Drama",
@@ -127,7 +128,7 @@
     {
       "title": "Ted Lasso",
       "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-      "rating": 8.36,
+      "rating": 8.4,
       "year": "2020",
       "genres": [
         "Drama",
@@ -143,7 +144,7 @@
     {
       "title": "Causa abierta",
       "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
-      "rating": 8.22,
+      "rating": 7.93,
       "year": "2026",
       "genres": [
         "Crimen",
@@ -155,24 +156,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
       "slug": "causa-abierta",
       "tmdbId": "258230",
-      "type": "series"
-    },
-    {
-      "title": "Marshals: Una historia de Yellowstone",
-      "synopsis": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
-      "rating": 7.91,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Crimen",
-        "Acción",
-        "Aventura"
-      ],
-      "cast": "Luke Grimes, Logan Marshall-Green, Arielle Kebbel, Ash Santos, Tatanka Means",
-      "posterUrl": "https://image.tmdb.org/t/p/original/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-      "slug": "marshals-una-historia-de-yellowstone",
-      "tmdbId": "290856",
       "type": "series"
     },
     {
@@ -193,18 +176,39 @@
       "type": "series"
     },
     {
-      "title": "Brothers",
-      "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-      "rating": 8.2,
+      "title": "Marshals: Una historia de Yellowstone",
+      "synopsis": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
+      "rating": 7.9,
       "year": "2026",
       "genres": [
-        "Comedia"
+        "Drama",
+        "Crimen",
+        "Acción",
+        "Aventura"
       ],
-      "cast": "Matthew McConaughey, Woody Harrelson, Natalie Martinez, Brittany Ishibashi, Nolan Almeida",
-      "posterUrl": "https://image.tmdb.org/t/p/original/174exHxKuh2OkXWg6k8du4sWiqo.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-      "slug": "brothers",
-      "tmdbId": "250203",
+      "cast": "Luke Grimes, Logan Marshall-Green, Arielle Kebbel, Ash Santos, Tatanka Means",
+      "posterUrl": "https://image.tmdb.org/t/p/original/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
+      "slug": "marshals-una-historia-de-yellowstone",
+      "tmdbId": "290856",
+      "type": "series"
+    },
+    {
+      "title": "Navy: Investigación criminal",
+      "synopsis": "Gibbs, agente especial del servicio de investigación criminal de la armada, dirige un equipo extravagante para resolver crímenes que van desde el terrorismo y el espionaje hasta el terrorismo.",
+      "rating": 7.6,
+      "year": "2003",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Sean Murray, Wilmer Valderrama, Katrina Law, Brian Dietzen, Diona Reasonover",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rkWK3hcCiFwtIhLYnTPKjcZwTTN.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+      "slug": "navy-investigacion-criminal",
+      "tmdbId": "4614",
       "type": "series"
     }
   ],
@@ -217,14 +221,14 @@
         {
           "title": "Vértigo 2: Punto muerto",
           "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
-          "rating": 6.87,
+          "rating": 7.09,
           "year": "2026",
           "genres": [
             "Suspenso"
           ],
           "cast": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ",
           "posterUrl": "https://image.tmdb.org/t/p/original/xQlESgkDM7rczAWySdB0WBomh39.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
           "slug": "vertigo-2-punto-muerto",
           "tmdbId": "1101412",
           "type": "movie",
@@ -576,6 +580,23 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Causa abierta",
+          "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
+          "rating": 7.93,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Patrick Brammall, Brendan Cowell, Maxine Peake, Daniel Henshall, Jessica Wren",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6HMiiSm258vZ9GMCc3itUYeaKeU.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
+          "slug": "causa-abierta",
+          "tmdbId": "258230",
+          "type": "series"
+        },
+        {
           "title": "Slow Horses",
           "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
           "rating": 8.04,
@@ -595,7 +616,7 @@
         {
           "title": "Ted Lasso",
           "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-          "rating": 8.36,
+          "rating": 8.4,
           "year": "2020",
           "genres": [
             "Drama",
@@ -720,22 +741,6 @@
           "slug": "medusa",
           "tmdbId": "284792",
           "type": "series"
-        },
-        {
-          "title": "Tierra de mafiosos",
-          "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-          "rating": 8.5,
-          "year": "2025",
-          "genres": [
-            "Crimen",
-            "Drama"
-          ],
-          "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-          "slug": "mobland",
-          "tmdbId": "247718",
-          "type": "series"
         }
       ]
     },
@@ -840,7 +845,7 @@
         {
           "title": "Cautiva",
           "synopsis": "Una joven devota entra en un convento de clausura sin sospechar que los abusos de la madre superiora acabarán quebrando su espíritu.",
-          "rating": 6.8,
+          "rating": 6.67,
           "year": "2026",
           "genres": [
             "Drama",
