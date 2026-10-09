@@ -12,11 +12,27 @@
       ],
       "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
       "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/subj7knTn4DeS6KS7qI66EQKe9i.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/yHMJbIEBHnKYWh20XtxV16emwXT.jpg",
       "slug": "spider-man-brand-new-day",
       "tmdbId": "969681",
       "type": "movie",
       "duration": "145 min"
+    },
+    {
+      "title": "Vértigo 2: Punto muerto",
+      "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
+      "rating": 7.12,
+      "year": "2026",
+      "genres": [
+        "Suspenso"
+      ],
+      "cast": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xQlESgkDM7rczAWySdB0WBomh39.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "slug": "vertigo-2-punto-muerto",
+      "tmdbId": "1101412",
+      "type": "movie",
+      "duration": "98 min"
     },
     {
       "title": "Insidious: Fuera del más allá",
@@ -36,20 +52,22 @@
       "duration": "106 min"
     },
     {
-      "title": "Vértigo 2: Punto muerto",
-      "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
-      "rating": 7.2,
+      "title": "Aniquilación",
+      "synopsis": "Una francotiradora del ejército utiliza sus habilidades para proteger a su hija de un escuadrón de máquinas asesinas que escapó de una base militar secreta, mientras unos mercenarios intentan contenerla.",
+      "rating": 5.74,
       "year": "2026",
       "genres": [
+        "Acción",
+        "Terror",
         "Suspenso"
       ],
-      "cast": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xQlESgkDM7rczAWySdB0WBomh39.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
-      "slug": "vertigo-2-punto-muerto",
-      "tmdbId": "1101412",
+      "cast": "Adria Arjona, Dan Stevens, Eric Wareheim, Reginald VelJohnson, Michael Biehn",
+      "posterUrl": "https://image.tmdb.org/t/p/original/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+      "slug": "aniquilacion-1284046",
+      "tmdbId": "1284046",
       "type": "movie",
-      "duration": "98 min"
+      "duration": "92 min"
     },
     {
       "title": "Digger",
@@ -69,40 +87,21 @@
       "duration": "128 min"
     },
     {
-      "title": "Aniquilación",
-      "synopsis": "Una francotiradora del ejército utiliza sus habilidades para proteger a su hija de un escuadrón de máquinas asesinas que escapó de una base militar secreta, mientras unos mercenarios intentan contenerla.",
-      "rating": 5.7,
+      "title": "Cada vez menos extraño",
+      "synopsis": "Jan Borysewicz, el líder de la banda polaca de rock Lady Pank, marca a toda una generación con su música mientras una serie de tragedias familiares lo marcan a él.",
+      "rating": 0,
       "year": "2026",
       "genres": [
-        "Acción",
-        "Terror",
-        "Suspenso"
+        "Drama",
+        "Música"
       ],
-      "cast": "Adria Arjona, Dan Stevens, Eric Wareheim, Reginald VelJohnson, Michael Biehn",
-      "posterUrl": "https://image.tmdb.org/t/p/original/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
-      "slug": "aniquilacion-1284046",
-      "tmdbId": "1284046",
+      "cast": "Mikołaj Bukrewicz, Patryk Pietrzak, Hubert Miłkowski, Krzysztof Oleksyn, Mikołaj Matczak",
+      "posterUrl": "https://image.tmdb.org/t/p/original/5lxcAE2DLtK8bFfCXOV9TM13RDq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/xn42TCarooeOxY1yrfOknEmMvAu.jpg",
+      "slug": "cada-vez-menos-extrano",
+      "tmdbId": "1620080",
       "type": "movie",
-      "duration": "92 min"
-    },
-    {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.3,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
-      "type": "movie",
-      "duration": "93 min"
+      "duration": "120 min"
     }
   ],
   "seriesHero": [
@@ -158,41 +157,6 @@
       "type": "series"
     },
     {
-      "title": "Slow Horses",
-      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-      "rating": 8.04,
-      "year": "2022",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-      "slug": "slow-horses",
-      "tmdbId": "95480",
-      "type": "series"
-    },
-    {
-      "title": "One Piece",
-      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
-      "rating": 8.8,
-      "year": "1999",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Comedia",
-        "Animación"
-      ],
-      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "slug": "one-piece",
-      "tmdbId": "37854",
-      "type": "series"
-    },
-    {
       "title": "La detective está muerta (Tantei wa Mou, Shindeiru)",
       "synopsis": "Kimizuka pasa 3 años como asistente de la misteriosa detective Siesta. Cuando ella muere, él debe regresar a una vida típica de la escuela secundaria. Pero ¿está realmente muerta?",
       "rating": 5.6,
@@ -208,6 +172,39 @@
       "slug": "la-detective-esta-muerta-tantei-wa-mou-shindeiru",
       "tmdbId": "117061",
       "type": "series"
+    },
+    {
+      "title": "Scrubs",
+      "synopsis": "Los viejos amigos JD y Turk se reúnen por primera vez en mucho tiempo y descubren que la medicina ha cambiado, los internos han cambiado, pero su amistad ha resistido la prueba del tiempo.",
+      "rating": 7.72,
+      "year": "2026",
+      "genres": [
+        "Comedia"
+      ],
+      "cast": "Zach Braff, Donald Faison, Sarah Chalke, Ava Bunn, Shylo Shaner",
+      "posterUrl": "https://image.tmdb.org/t/p/original/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
+      "slug": "scrubs",
+      "tmdbId": "295778",
+      "type": "series"
+    },
+    {
+      "title": "Sasaki and Peeps",
+      "synopsis": "Sasaki es un oficinista de mediana edad que vive en Japón. La monotonía del mundo laboral le agota, así que un día decide entrar en una tienda de animales en busca de un nuevo compañero. Allí encuentra un adorable pájaro llamado Pi y se lo lleva a casa. Pero Sasaki no tarda en descubrir que Pi no es un pájaro cualquiera... ¡Es un mago muy poderoso proveniente de otro mundo! Juntos, se embarcan en una aventura mágica llena de espadas y hechicería.",
+      "rating": 6.8,
+      "year": "2024",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Tomokazu Sugita, Aoi Yuki, Rie Takahashi, Akari Kito, Miyu Tomita",
+      "posterUrl": "https://image.tmdb.org/t/p/original/m3D7giT0fyJJ5ssjOEhYgUXN7Sg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/xljpEwFQF6Rl1rU1w7SEs1pk3YE.jpg",
+      "slug": "sasaki-and-peeps",
+      "tmdbId": "206630",
+      "type": "series"
     }
   ],
   "movieSections": [
@@ -216,6 +213,24 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "SAKAMOTO DAYS",
+          "synopsis": "Un asesino de élite retirado que formó una familia con su esposa e hija debe protegerlas cuando su peligroso pasado regresa para amenazarlos.",
+          "rating": 7,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Comedia",
+            "Crimen"
+          ],
+          "cast": "目黒蓮, Fumiya Takahashi, Aya Ueto, 吉本実由, 横田真悠",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6IHypVNR2WBcfxU1E4WAZvCpN18.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cD3S6FZfCgNVpSdri7V7qQi17I3.jpg",
+          "slug": "sakamoto-days",
+          "tmdbId": "1548708",
+          "type": "movie",
+          "duration": "128 min"
+        },
         {
           "title": "Stop! That! Train!",
           "synopsis": "Dos amigas azafatas de tren cambian un aburrido ferrocarril por el lujoso Glamazonian Express. Durante una gran tormenta, deben trabajar con la estirada tripulación de primera clase y el presidente Gagwell para evitar un desastre en Los Ángeles.",
@@ -370,22 +385,6 @@
           "tmdbId": "1518257",
           "type": "movie",
           "duration": "96 min"
-        },
-        {
-          "title": "Schumacher 94: Nace una leyenda",
-          "synopsis": "La primera victoria de Michael Schumacher en el Campeonato Mundial cobra vida gracias a entrevistas personales e imágenes de archivo de la famosa temporada de F1 del 94.",
-          "rating": 7.53,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Michael Schumacher, Corinna Schumacher, Flavio Briatore, Bernie Ecclestone, David Coulthard",
-          "posterUrl": "https://image.tmdb.org/t/p/original/tTup4U76sGi5om7BUiMYwKWHvvl.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
-          "slug": "schumacher-94-nace-una-leyenda",
-          "tmdbId": "1752355",
-          "type": "movie",
-          "duration": "105 min"
         }
       ]
     },
@@ -412,9 +411,25 @@
           "duration": "22 min"
         },
         {
+          "title": "Schumacher 94: Nace una leyenda",
+          "synopsis": "La primera victoria de Michael Schumacher en el Campeonato Mundial cobra vida gracias a entrevistas personales e imágenes de archivo de la famosa temporada de F1 del 94.",
+          "rating": 7.53,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Michael Schumacher, Corinna Schumacher, Flavio Briatore, Bernie Ecclestone, David Coulthard",
+          "posterUrl": "https://image.tmdb.org/t/p/original/tTup4U76sGi5om7BUiMYwKWHvvl.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+          "slug": "schumacher-94-nace-una-leyenda",
+          "tmdbId": "1752355",
+          "type": "movie",
+          "duration": "105 min"
+        },
+        {
           "title": "Las cartas de la vida",
           "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 7.62,
+          "rating": 7.66,
           "year": "2026",
           "genres": [
             "Romance",
@@ -427,6 +442,38 @@
           "tmdbId": "1458857",
           "type": "movie",
           "duration": "112 min"
+        },
+        {
+          "title": "The Influencer Project",
+          "synopsis": "Influencer Chiara King travels to Copenhagen with a documentary crew promising an unfiltered look behind the glamorous business of online fame. But as the cameras and her devoted fans follow her every move, someone else is watching too. When an obsessive stalker begins closing in, the documentary mutates into something far more terrifying, blurring the line between content and evidence, follower and predator, fact and fiction.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Terror"
+          ],
+          "cast": "Chiara King, Luca Storm, Jazmine Summer, Alexandre Willaume, Eos Karlsson",
+          "posterUrl": "https://image.tmdb.org/t/p/original/3yolfJrhMf8XvfKVlBB6Zetn2wS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/q4WeLp7kmLAvHYpzQXEzlZWJMsn.jpg",
+          "slug": "the-influencer-project",
+          "tmdbId": "1654086",
+          "type": "movie",
+          "duration": "95 min"
+        },
+        {
+          "title": "Rolling Loud: La película",
+          "synopsis": "Un padre toma una decisión desacertada al llevar a su hijo pequeño a un desenfrenado festival de hip-hop, lo que desencadena el caos mientras ambos lidian con las multitudes, la seguridad y la dinámica familiar en compañía de personajes excéntricos.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Owen Wilson, Christian Convery, Jolene, Travis Scott, Matt Rife",
+          "posterUrl": "https://image.tmdb.org/t/p/original/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg",
+          "slug": "rolling-loud-la-pelicula",
+          "tmdbId": "1336166",
+          "type": "movie",
+          "duration": "99 min"
         },
         {
           "title": "Appofeniacs",
@@ -446,6 +493,23 @@
           "duration": "91 min"
         },
         {
+          "title": "Boiuna: La leyenda del Amazonas",
+          "synopsis": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
+          "rating": 5.8,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Suspenso"
+          ],
+          "cast": "Logan Marshall-Green, Kiana Madeira, Jessica Rothe, Jackson Bews, Juan Pablo Shuk",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hClFn5adaXOgmxrZyxixoKiBHEZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+          "slug": "boiuna-la-leyenda-del-amazonas",
+          "tmdbId": "1244523",
+          "type": "movie",
+          "duration": "104 min"
+        },
+        {
           "title": "Ricos sin dinero",
           "synopsis": "Los AlThahabi siempre han presumido de dinero y estatus. Pero, cuando descubren que no son tan ricos como creían, tienen que seguir aparentándolo para sobrevivir",
           "rating": 6.6,
@@ -462,26 +526,9 @@
           "type": "movie"
         },
         {
-          "title": "Boiuna: La leyenda del Amazonas",
-          "synopsis": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
-          "rating": 5.6,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Logan Marshall-Green, Kiana Madeira, Jessica Rothe, Jackson Bews, Juan Pablo Shuk",
-          "posterUrl": "https://image.tmdb.org/t/p/original/akm6jAZWebBOKweMp6G9TgkefrZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-          "slug": "boiuna-la-leyenda-del-amazonas",
-          "tmdbId": "1244523",
-          "type": "movie",
-          "duration": "104 min"
-        },
-        {
           "title": "En vivo desde el infierno",
           "synopsis": "Cuando Kevin Hart colabora con los streamers Kai Cenat y Druski en una transmisión en vivo que rompe récords de audiencia desde su mansión hipertecnológica, todo es muy divertido hasta que las bromas se transforman en pánico y deben resolver un asesinato real en cámara. El trío y sus invitados famosos quedan atrapados en una comedia de horror mientras millones los miran.",
-          "rating": 5.23,
+          "rating": 5.2,
           "year": "2026",
           "genres": [
             "Terror",
@@ -493,7 +540,7 @@
           "slug": "en-vivo-desde-el-infierno",
           "tmdbId": "1437195",
           "type": "movie",
-          "duration": "77 min"
+          "duration": "78 min"
         },
         {
           "title": "Verity. La sombra de un engaño",
@@ -504,65 +551,13 @@
             "Misterio",
             "Suspenso"
           ],
-          "cast": "Anne Hathaway, Dakota Johnson, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
+          "cast": "Dakota Johnson, Anne Hathaway, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
           "posterUrl": "https://image.tmdb.org/t/p/original/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
           "slug": "verity-la-sombra-de-un-engano",
           "tmdbId": "1283515",
           "type": "movie",
           "duration": "114 min"
-        },
-        {
-          "title": "Digger",
-          "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-          "rating": 7.52,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
-          "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-          "slug": "digger",
-          "tmdbId": "1248832",
-          "type": "movie",
-          "duration": "128 min"
-        },
-        {
-          "title": "Unabomber",
-          "synopsis": "Un estudiante de Harvard se convierte en 'Unabomber' tras someterse a una serie de experimentos psicológicos. Años más tarde, la investigación de un agente del FBI revela cómo su pasado determinó la campaña mortal que se cobró la vida de tres personas e hirió a otras veintitrés entre 1978 y 1995.",
-          "rating": 6.57,
-          "year": "2026",
-          "genres": [
-            "Suspenso",
-            "Drama",
-            "Crimen"
-          ],
-          "cast": "Russell Crowe, Jacob Tremblay, Shailene Woodley, Annabelle Wallis, Alexander Ludwig",
-          "posterUrl": "https://image.tmdb.org/t/p/original/crV6ba2FVfHW64PzjJehMxUj9e7.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-          "slug": "unabomber",
-          "tmdbId": "1492640",
-          "type": "movie",
-          "duration": "101 min"
-        },
-        {
-          "title": "Family",
-          "synopsis": "Verano de 2002. Al ver cómo su padre enfermo empeora, Johanna, de 11 años, invoca a un espíritu bueno para salvarlo. Pero algo más responde a su llamado.",
-          "rating": 6.43,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Terror"
-          ],
-          "cast": "Ruth Wilson, Ben Chaplin, Cameron Dawson Gray, Allan Corduner, Ryan Lucy",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cTXGUz1Mle56A6vAK2GAf1j8Wtn.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wXMsCAtOr27zaZLb1Nv63JFpQiV.jpg",
-          "slug": "family",
-          "tmdbId": "1229906",
-          "type": "movie",
-          "duration": "95 min"
         }
       ]
     }
@@ -573,6 +568,115 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Historia de dos ciudades",
+          "synopsis": "Londres, 1782. La tensión es máxima en la guerra entre Francia e Inglaterra. La vida de una joven, Lucie Manette, da un vuelco cuando recibe un mensaje de París: su padre, al que se creía muerto desde hace casi 20 años, podría estar vivo. El mensajero, el idealista emigrado francés Charles Darnay, es arrestado y acusado de traición. Lucie buscará la ayuda de un brillante pero inestable joven abogado, Sydney Carton, para liberar a Darnay con la esperanza de que la lleve a París para encontrar a su padre. El encuentro de Lucie con Darnay y Carton desata un poderoso y complejo triángulo amoroso, y los dos hombres lucharán por ser dignos del amor de la mujer mientras ella se debate entre uno u otro.",
+          "rating": 7.44,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "François Civil, Mirren Mack, Kit Harington, Sharon Duncan-Brewster, Guillaume Gallienne",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cHWIztU7qYEDFE2eAQsWFdGS19d.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
+          "slug": "historia-de-dos-ciudades",
+          "tmdbId": "301626",
+          "type": "series"
+        },
+        {
+          "title": "Un mundo diferente",
+          "synopsis": "Una nueva clase entra en el campus del Hillman College y caras muy queridas vuelven a casa. En el centro está Deborah Wayne, la cariñosamente protegida hija menor de Whitley y Dwayne, un espíritu libre con un don para ser el centro de atención y un gran corazón que todavía está descubriendo su propio camino en Hillman. Por el camino, se le une una nueva generación que refleja la amplitud de la vida negra en el campus: Rashida Duvall, una estudiante de justicia criminal de primera generación; Shaquille Johnson, un atleta de cinco estrellas que elige su legado; Amir Rodale, un avispado estudiante de psicología más dado a arreglar los problemas de los demás que a enfrentarse a los suyos propios; Hazel Henry, una chica de pueblo criada en la iglesia que define sus propios valores; y Kojo Achebe, un empresario de la moda ghanés-nigeriano que encuentra el valor para seguir su visión.",
+          "rating": 7.36,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Maleah Joi Moon, Alijah Kai, Cornell Young IV, Jordan Aaron Hall, Kennedi Reece",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
+          "slug": "un-mundo-diferente",
+          "tmdbId": "305357",
+          "type": "series"
+        },
+        {
+          "title": "4 Blocks Zero",
+          "synopsis": "Precuela de \"4 Blocks\" (2017-2019). Traslada la acción al Berlín de los años 90, mucho antes de que Toni Hamady se convirtiera en el líder criminal más poderoso de la ciudad. En esta ocasión, la historia se centra en los orígenes de la familia, que tras huir del Líbano intenta empezar de nuevo en Alemania enfrentándose a la burocracia, los prejuicios y la falta de un permiso de residencia estable. El padre de familia, Malik, sobrevive trabajando como cocinero sin formación mientras trata de sacar adelante a sus cuatro hijos: Ali, Abbas, Marwan y Amara. La situación cambia radicalmente cuando Ibrahim, cuñado de Malik, regresa a Berlín después de pasar ocho años en prisión. Su vuelta desencadena una cadena de acontecimientos que termina arrastrando a toda la familia hacia el crimen organizado de la capital alemana y pone a prueba sus principios.",
+          "rating": 5.3,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Tariq Al Saies, Tareq Nassery, Rami Fadel Khalaf, Soufiane El Mesaudi, Bella Dayne",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yvIUYRLeTF9KOQL12ojleVyqxAk.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
+          "slug": "4-blocks-zero",
+          "tmdbId": "310133",
+          "type": "series"
+        },
+        {
+          "title": "Amor",
+          "synopsis": "La fundadora de una aplicación de citas y su aventurado competidor ponen a prueba sus teorías opuestas sobre el amor con un reto de 60 días para encontrar a la pareja ideal.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Arjun Das, Aishwarya Lekshmi, Namita Krishnamurthy, Harini Sundararajan, Nanditha Sreekumar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cyJKP6Fsg8ds4O4g1Q1SCOKJQdn.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
+          "slug": "amor",
+          "tmdbId": "302882",
+          "type": "series"
+        },
+        {
+          "title": "Ronaldinho",
+          "synopsis": "Esta serie narra la vida y la carrera de Ronaldinho, estrella del fútbol brasileño, y repasa su trayectoria de joven prodigio a rey del deporte.",
+          "rating": 7.5,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Ronaldinho, Ronaldo, Galvão Bueno, Lionel Messi, Carles Puyol",
+          "posterUrl": "https://image.tmdb.org/t/p/original/qQncuGg8AiTXZgZencf1wJ349j9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/eBna9nTSwL89wsR3fmA5AVDxzxR.jpg",
+          "slug": "ronaldinho",
+          "tmdbId": "316544",
+          "type": "series"
+        },
+        {
+          "title": "Perfil falso",
+          "synopsis": "Camila conoce a su príncipe azul en una aplicación de citas. Después de una relación idílica, decide darle una sorpresa... y acaba atrapada en un falso paraíso.",
+          "rating": 7.34,
+          "year": "2023",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Carolina Miranda, Rodolfo Salas, Manuela González, Emiliano Pernia, Juanse Díez",
+          "posterUrl": "https://image.tmdb.org/t/p/original/luF32PEmbBaLK86qtW2l9uQPvSd.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7e7GKWe49a8g96KP037PcrGtG6I.jpg",
+          "slug": "perfil-falso",
+          "tmdbId": "227371",
+          "type": "series"
+        },
+        {
+          "title": "Academia Minerva",
+          "synopsis": "En la academia militar Minerva, los jóvenes lidian con la disciplina, la rivalidad y la presión familiar mientras un cadete busca respuestas sobre su amigo desaparecido.",
+          "rating": 7.82,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Ciro Minopoli, Nicole Malaj, Gaia Garavaglia, Michele Rosiello, Cristiana Capotondi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/8YuGi5NFR6rEUtzeQW4jHOT5DB8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
+          "slug": "academia-minerva",
+          "tmdbId": "312557",
+          "type": "series"
+        },
         {
           "title": "Causa abierta",
           "synopsis": "Cuando Ian Ridley, telefonista de emergencias, recibe la llamada histérica de una chica que cree que podría ser su hija desaparecida, no se detiene ante nada para encontrarla.",
@@ -622,119 +726,6 @@
           "slug": "ted-lasso",
           "tmdbId": "97546",
           "type": "series"
-        },
-        {
-          "title": "Brothers",
-          "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-          "rating": 8.2,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Matthew McConaughey, Woody Harrelson, Natalie Martinez, Brittany Ishibashi, Nolan Almeida",
-          "posterUrl": "https://image.tmdb.org/t/p/original/174exHxKuh2OkXWg6k8du4sWiqo.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-          "slug": "brothers",
-          "tmdbId": "250203",
-          "type": "series"
-        },
-        {
-          "title": "Un amor distinto al tuyo",
-          "synopsis": "Una historia de amor realista, emocional y cercana sobre una pareja en su décimo año de relación, que ve cómo sentimientos desconocidos ponen a prueba su estabilidad.",
-          "rating": 6.3,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "서강준, 안은진, 이주안, 조아람, 이민재",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
-          "slug": "un-amor-distinto-al-tuyo",
-          "tmdbId": "314939",
-          "type": "series"
-        },
-        {
-          "title": "Marshals: Una historia de Yellowstone",
-          "synopsis": "Kayce Dutton, un ex SEAL de la Marina, deja el rancho Yellowstone para unirse a los U.S. Marshals. Utiliza sus habilidades como vaquero y militar para luchar contra el crimen en Montana mientras lidia con los lazos familiares y el desgaste mental de las fuerzas del orden.",
-          "rating": 7.9,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Crimen",
-            "Acción",
-            "Aventura"
-          ],
-          "cast": "Luke Grimes, Logan Marshall-Green, Arielle Kebbel, Ash Santos, Tatanka Means",
-          "posterUrl": "https://image.tmdb.org/t/p/original/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-          "slug": "marshals-una-historia-de-yellowstone",
-          "tmdbId": "290856",
-          "type": "series"
-        },
-        {
-          "title": "Youth",
-          "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-          "rating": 7.8,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
-          "posterUrl": "https://image.tmdb.org/t/p/original/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
-          "slug": "youth",
-          "tmdbId": "285418",
-          "type": "series"
-        },
-        {
-          "title": "Linternas",
-          "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-          "rating": 8.34,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Misterio",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
-          "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-          "slug": "linternas",
-          "tmdbId": "95350",
-          "type": "series"
-        },
-        {
-          "title": "Adults",
-          "synopsis": "Un grupo de veinteañeros en Nueva York que tratan de ser buena gente aunque aún no sean ni \"buenos\" ni \"gente\".",
-          "rating": 6.4,
-          "year": "2025",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Malik Elassal, Lucy Freyer, Jack Innanen, Amita Rao, Owen Thiele",
-          "posterUrl": "https://image.tmdb.org/t/p/original/lypznNe82xNRw6O9580JvpnUkN6.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/plx2cifejzcbGPYDtpsYS2mpajB.jpg",
-          "slug": "adults",
-          "tmdbId": "260458",
-          "type": "series"
-        },
-        {
-          "title": "Medusa",
-          "synopsis": "Alguien quiere matar a Bárbara Hidalgo, la CEO de Medusa. Mientras ella intenta dar con el culpable, su familia conspira sin escrúpulos por el control de su imperio en Colombia.",
-          "rating": 7.29,
-          "year": "2025",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Juana Acosta, Manolo Cardona, Sebastián Martínez",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mFsjwJdNBKDRYLqPdBFaoVCKXLq.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/gm7OMY4t99UpiMpIShNOKvKLQwO.jpg",
-          "slug": "medusa",
-          "tmdbId": "284792",
-          "type": "series"
         }
       ]
     },
@@ -743,6 +734,37 @@
       "type": "series",
       "seeMoreSlug": "estrenos-series",
       "items": [
+        {
+          "title": "Amor",
+          "synopsis": "La fundadora de una aplicación de citas y su aventurado competidor ponen a prueba sus teorías opuestas sobre el amor con un reto de 60 días para encontrar a la pareja ideal.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Arjun Das, Aishwarya Lekshmi, Namita Krishnamurthy, Harini Sundararajan, Nanditha Sreekumar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cyJKP6Fsg8ds4O4g1Q1SCOKJQdn.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
+          "slug": "amor",
+          "tmdbId": "302882",
+          "type": "series"
+        },
+        {
+          "title": "4 Blocks Zero",
+          "synopsis": "Precuela de \"4 Blocks\" (2017-2019). Traslada la acción al Berlín de los años 90, mucho antes de que Toni Hamady se convirtiera en el líder criminal más poderoso de la ciudad. En esta ocasión, la historia se centra en los orígenes de la familia, que tras huir del Líbano intenta empezar de nuevo en Alemania enfrentándose a la burocracia, los prejuicios y la falta de un permiso de residencia estable. El padre de familia, Malik, sobrevive trabajando como cocinero sin formación mientras trata de sacar adelante a sus cuatro hijos: Ali, Abbas, Marwan y Amara. La situación cambia radicalmente cuando Ibrahim, cuñado de Malik, regresa a Berlín después de pasar ocho años en prisión. Su vuelta desencadena una cadena de acontecimientos que termina arrastrando a toda la familia hacia el crimen organizado de la capital alemana y pone a prueba sus principios.",
+          "rating": 5.3,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Tariq Al Saies, Tareq Nassery, Rami Fadel Khalaf, Soufiane El Mesaudi, Bella Dayne",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yvIUYRLeTF9KOQL12ojleVyqxAk.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
+          "slug": "4-blocks-zero",
+          "tmdbId": "310133",
+          "type": "series"
+        },
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
@@ -775,6 +797,22 @@
           "type": "series"
         },
         {
+          "title": "Un mundo diferente",
+          "synopsis": "Una nueva clase entra en el campus del Hillman College y caras muy queridas vuelven a casa. En el centro está Deborah Wayne, la cariñosamente protegida hija menor de Whitley y Dwayne, un espíritu libre con un don para ser el centro de atención y un gran corazón que todavía está descubriendo su propio camino en Hillman. Por el camino, se le une una nueva generación que refleja la amplitud de la vida negra en el campus: Rashida Duvall, una estudiante de justicia criminal de primera generación; Shaquille Johnson, un atleta de cinco estrellas que elige su legado; Amir Rodale, un avispado estudiante de psicología más dado a arreglar los problemas de los demás que a enfrentarse a los suyos propios; Hazel Henry, una chica de pueblo criada en la iglesia que define sus propios valores; y Kojo Achebe, un empresario de la moda ghanés-nigeriano que encuentra el valor para seguir su visión.",
+          "rating": 7.36,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Maleah Joi Moon, Alijah Kai, Cornell Young IV, Jordan Aaron Hall, Kennedi Reece",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
+          "slug": "un-mundo-diferente",
+          "tmdbId": "305357",
+          "type": "series"
+        },
+        {
           "title": "Brothers",
           "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
           "rating": 8.2,
@@ -787,6 +825,22 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
           "slug": "brothers",
           "tmdbId": "250203",
+          "type": "series"
+        },
+        {
+          "title": "Academia Minerva",
+          "synopsis": "En la academia militar Minerva, los jóvenes lidian con la disciplina, la rivalidad y la presión familiar mientras un cadete busca respuestas sobre su amigo desaparecido.",
+          "rating": 7.82,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Ciro Minopoli, Nicole Malaj, Gaia Garavaglia, Michele Rosiello, Cristiana Capotondi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/8YuGi5NFR6rEUtzeQW4jHOT5DB8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
+          "slug": "academia-minerva",
+          "tmdbId": "312557",
           "type": "series"
         },
         {
@@ -834,70 +888,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
           "slug": "el-escandalo",
           "tmdbId": "275102",
-          "type": "series"
-        },
-        {
-          "title": "Cautiva",
-          "synopsis": "Una joven devota entra en un convento de clausura sin sospechar que los abusos de la madre superiora acabarán quebrando su espíritu.",
-          "rating": 7,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Crimen"
-          ],
-          "cast": "Carolina Kopelioff, Lorena Vega, Valeria Lois, Tomás Wicz, Lautaro Bettoni",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uWCL01IPrfDTjO2VTzMwZvVPzXv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
-          "slug": "cautiva",
-          "tmdbId": "333631",
-          "type": "series"
-        },
-        {
-          "title": "Te conozco",
-          "synopsis": "Atrapada entre la maternidad y su carrera artística, Funda agradece recibir algo de ayuda. Pero su nueva y misteriosa niñera podría no ser lo que parece.",
-          "rating": 7.94,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Melis Sezen, Elçin Sangu, Ozan Dolunay",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hNIxYGmnnwtYDLsDq9U93XSwcLI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
-          "slug": "te-conozco",
-          "tmdbId": "320760",
-          "type": "series"
-        },
-        {
-          "title": "Belleza plástica",
-          "synopsis": "Una brillante cirujana de urgencias acaba ejerciendo la medicina estética y se enfrenta a una célebre doctora, dejando al descubierto un mundo dominado por el deseo y la codicia.",
-          "rating": 7.2,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "松岡茉優, 仲里依紗, Shotaro Mamiya, 田中みな実, Riku Hagiwara",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5wy9oAKgiEQBrP78p8qkoVcpVCQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
-          "slug": "belleza-plastica",
-          "tmdbId": "298008",
-          "type": "series"
-        },
-        {
-          "title": "Los solucionadores",
-          "synopsis": "Un antiguo gánster de capa caída se alía con el hijo de un astuto político para lidiar con los sucios secretos de importantes clientes de ambos lados de la ley.",
-          "rating": 6.57,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Comedia",
-            "Crimen"
-          ],
-          "cast": "李銘順, 婁峻碩, Tou Tsung-hua, 雷嘉汭, 傅孟柏",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ko97JkfotXWrf8x0nxrAnLWt0np.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
-          "slug": "los-solucionadores",
-          "tmdbId": "312663",
           "type": "series"
         }
       ]
