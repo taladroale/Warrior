@@ -35,6 +35,23 @@
       "duration": "98 min"
     },
     {
+      "title": "Digger",
+      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "rating": 7.52,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "slug": "digger",
+      "tmdbId": "1248832",
+      "type": "movie",
+      "duration": "128 min"
+    },
+    {
       "title": "Insidious: Fuera del más allá",
       "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
       "rating": 7.54,
@@ -70,38 +87,22 @@
       "duration": "92 min"
     },
     {
-      "title": "Digger",
-      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "rating": 7.52,
+      "title": "Resident Evil",
+      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 7.3,
       "year": "2026",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
       ],
-      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
-      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-      "slug": "digger",
-      "tmdbId": "1248832",
+      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "slug": "resident-evil-1423191",
+      "tmdbId": "1423191",
       "type": "movie",
-      "duration": "128 min"
-    },
-    {
-      "title": "Cada vez menos extraño",
-      "synopsis": "Jan Borysewicz, el líder de la banda polaca de rock Lady Pank, marca a toda una generación con su música mientras una serie de tragedias familiares lo marcan a él.",
-      "rating": 0,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Música"
-      ],
-      "cast": "Mikołaj Bukrewicz, Patryk Pietrzak, Hubert Miłkowski, Krzysztof Oleksyn, Mikołaj Matczak",
-      "posterUrl": "https://image.tmdb.org/t/p/original/5lxcAE2DLtK8bFfCXOV9TM13RDq.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/xn42TCarooeOxY1yrfOknEmMvAu.jpg",
-      "slug": "cada-vez-menos-extrano",
-      "tmdbId": "1620080",
-      "type": "movie",
-      "duration": "120 min"
+      "duration": "93 min"
     }
   ],
   "seriesHero": [
@@ -157,6 +158,22 @@
       "type": "series"
     },
     {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.48,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
       "title": "La detective está muerta (Tantei wa Mou, Shindeiru)",
       "synopsis": "Kimizuka pasa 3 años como asistente de la misteriosa detective Siesta. Cuando ella muere, él debe regresar a una vida típica de la escuela secundaria. Pero ¿está realmente muerta?",
       "rating": 5.6,
@@ -174,36 +191,22 @@
       "type": "series"
     },
     {
-      "title": "Scrubs",
-      "synopsis": "Los viejos amigos JD y Turk se reúnen por primera vez en mucho tiempo y descubren que la medicina ha cambiado, los internos han cambiado, pero su amistad ha resistido la prueba del tiempo.",
-      "rating": 7.72,
-      "year": "2026",
-      "genres": [
-        "Comedia"
-      ],
-      "cast": "Zach Braff, Donald Faison, Sarah Chalke, Ava Bunn, Shylo Shaner",
-      "posterUrl": "https://image.tmdb.org/t/p/original/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
-      "slug": "scrubs",
-      "tmdbId": "295778",
-      "type": "series"
-    },
-    {
-      "title": "Sasaki and Peeps",
-      "synopsis": "Sasaki es un oficinista de mediana edad que vive en Japón. La monotonía del mundo laboral le agota, así que un día decide entrar en una tienda de animales en busca de un nuevo compañero. Allí encuentra un adorable pájaro llamado Pi y se lo lleva a casa. Pero Sasaki no tarda en descubrir que Pi no es un pájaro cualquiera... ¡Es un mago muy poderoso proveniente de otro mundo! Juntos, se embarcan en una aventura mágica llena de espadas y hechicería.",
-      "rating": 6.8,
-      "year": "2024",
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu",
+      "synopsis": "La Academia de Magia Arnold es una escuela para la élite... y Ray White es simplemente un tipo común y corriente. De hecho, no parece particularmente hábil con la magia y es un poco torpe. Por eso no tiene nada que ver con el rumor de que uno de los grandes magos, el Hechicero Iceblade, es miembro de la clase entrante... ¿verdad? .....",
+      "rating": 7.2,
+      "year": "2023",
       "genres": [
         "Animación",
-        "Comedia",
+        "Acción",
+        "Aventura",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Tomokazu Sugita, Aoi Yuki, Rie Takahashi, Akari Kito, Miyu Tomita",
-      "posterUrl": "https://image.tmdb.org/t/p/original/m3D7giT0fyJJ5ssjOEhYgUXN7Sg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/xljpEwFQF6Rl1rU1w7SEs1pk3YE.jpg",
-      "slug": "sasaki-and-peeps",
-      "tmdbId": "206630",
+      "cast": "Junya Enoki, Iori Saeki, Nana Harumura, Azumi Waki, Kaede Hondo",
+      "posterUrl": "https://image.tmdb.org/t/p/original/nTUGnwgKYfcKqhYNUiol9c8UwRU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oL459mgvcnc3jL90K7zkfvXQu0.jpg",
+      "slug": "hyouken-no-majutsushi-ga-sekai-wo-suberu",
+      "tmdbId": "200777",
       "type": "series"
     }
   ],
