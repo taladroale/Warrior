@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T15:47:51Z",
+  "updatedAt": "2026-10-09T15:58:14Z",
   "source": "tpls",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -9888,6 +9888,7 @@
     "975120": {"slug": "padre-no-hay-mas-que-uno-3"},
     "975225": {"slug": "spinal-tap-ii-el-final-continua"},
     "975490": {"slug": "snoopy-presenta-el-cole-de-lucy"},
+    "975511": {"slug": "la-odisea-el-regreso"},
     "975533": {"slug": "los-archies"},
     "975615": {"slug": "cronicas-de-guerra"},
     "975714": {"slug": "colision"},
@@ -10432,6 +10433,7 @@
     "1100962": {"slug": "dieciocho-otra-vez"},
     "1100988": {"slug": "28-anos-despues"},
     "1101401": {"slug": "sugar-baby"},
+    "1101412": {"slug": "vertigo-2-punto-muerto"},
     "1101448": {"slug": "imparable-la-historia-de-anthony-robles"},
     "1102883": {"slug": "mother-mary"},
     "1103437": {"slug": "please-dont-feed-the-children"},
@@ -11003,6 +11005,7 @@
     "1286185": {"slug": "el-hijo-del-carpintero"},
     "1287322": {"slug": "christy"},
     "1287536": {"slug": "dora-en-busca-del-sol-dorado"},
+    "1288059": {"slug": "quiero-tu-sexo"},
     "1288341": {"slug": "siete-francotiradores"},
     "1289888": {"slug": "french-lover"},
     "1289936": {"slug": "downton-abbey-el-gran-final"},
@@ -11401,7 +11404,8 @@
     "1725116": {"slug": "the-simpsons-simpsley"},
     "1729723": {"slug": "los-simpson-yellow-mirror-la-realidad-paralela-de-homero"},
     "1731694": {"slug": "lego-star-wars-the-mandalorian"},
-    "1747796": {"slug": "supervivencia"}
+    "1747796": {"slug": "supervivencia"},
+    "1763619": {"slug": "ricos-sin-dinero"}
   },
   "series": {
     "25": {"slug": "star-wars-vintage-droids"},
@@ -13696,6 +13700,7 @@
     "287978": {"slug": "el-profe"},
     "288055": {"slug": "star-wars-cronicas-del-submundo"},
     "288671": {"slug": "el-mapa-de-los-anhelos"},
+    "288673": {"slug": "carrie"},
     "288752": {"slug": "valiendo-madres"},
     "288913": {"slug": "franklin"},
     "289219": {"slug": "star-wars-maul-senor-de-las-sombras"},
@@ -13706,6 +13711,7 @@
     "290230": {"slug": "santita"},
     "290231": {"slug": "amor-de-oficina"},
     "290232": {"slug": "no-tengo-miedo"},
+    "290233": {"slug": "el-circulo"},
     "290234": {"slug": "mal-de-amores"},
     "290276": {"slug": "pecados-inconfesables"},
     "290295": {"slug": "temporada-de-celo"},
@@ -13810,7 +13816,7 @@
     "314916": {"slug": "incondicional"},
     "315051": {"slug": "polen"},
     "315939": {"slug": "o11ce-nueva-generacion"},
-    "316205": {"slug": "el-rostro-de-la-venganza"},
+    "316205": {"slug": "profunda-venganza"},
     "316488": {"slug": "amores-inesperados"},
     "316832": {"slug": "la-isla-del-minotauro"},
     "316961": {"slug": "los-asesinos-de-colosio"},
