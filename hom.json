@@ -37,20 +37,21 @@
       "duration": "145 min"
     },
     {
-      "title": "Vértigo 2: Punto muerto",
-      "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
-      "rating": 7.12,
+      "title": "Insidious: Fuera del más allá",
+      "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
+      "rating": 7.54,
       "year": "2026",
       "genres": [
+        "Terror",
         "Suspenso"
       ],
-      "cast": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xQlESgkDM7rczAWySdB0WBomh39.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-      "slug": "vertigo-2-punto-muerto",
-      "tmdbId": "1101412",
+      "cast": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers",
+      "posterUrl": "https://image.tmdb.org/t/p/original/uIMddTcnM9P6PrJiDjsXIeYp902.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+      "slug": "insidious-fuera-del-mas-alla",
+      "tmdbId": "1291595",
       "type": "movie",
-      "duration": "98 min"
+      "duration": "106 min"
     },
     {
       "title": "Digger",
@@ -70,39 +71,36 @@
       "duration": "128 min"
     },
     {
-      "title": "Insidious: Fuera del más allá",
-      "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 7.54,
+      "title": "Vértigo 2: Punto muerto",
+      "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
+      "rating": 7.12,
       "year": "2026",
       "genres": [
-        "Terror",
         "Suspenso"
       ],
-      "cast": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers",
-      "posterUrl": "https://image.tmdb.org/t/p/original/uIMddTcnM9P6PrJiDjsXIeYp902.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-      "slug": "insidious-fuera-del-mas-alla",
-      "tmdbId": "1291595",
+      "cast": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xQlESgkDM7rczAWySdB0WBomh39.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "slug": "vertigo-2-punto-muerto",
+      "tmdbId": "1101412",
       "type": "movie",
-      "duration": "106 min"
+      "duration": "98 min"
     },
     {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.3,
+      "title": "Animales",
+      "synopsis": "Un grupo de amigos que se conocen de toda la vida descubre que hay puertas que nunca se deben de abrir. Lo que empieza como un juego de deseo se convierte en una espiral de celos, mentiras y traiciones que arrasa con sus relaciones. Muy pronto entenderán que todos tenemos un lado animal.",
+      "rating": 6.26,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
+        "Comedia",
+        "Suspenso"
       ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
-      "type": "movie",
-      "duration": "93 min"
+      "cast": "Nashla Bogaert, Frank Perozo, Pamela Sued, Camila Issa, Pedro Casals",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9fbZdiOI9fRinl44mNm3CYgEtYR.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3jgATRIFenOrgNKEC9bFv5QqKGf.jpg",
+      "slug": "animales",
+      "tmdbId": "1599993",
+      "type": "movie"
     }
   ],
   "seriesHero": [
@@ -163,7 +161,7 @@
     {
       "title": "Tierra de mafiosos",
       "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.48,
+      "rating": 8.49,
       "year": "2025",
       "genres": [
         "Crimen",
@@ -219,7 +217,7 @@
         {
           "title": "Solo necesitas matar",
           "synopsis": "Una soldado revive una y otra vez el día antes de morir en batalla contra una invasión alienígena. Para romper el ciclo y cambiar su destino, debe descubrir la clave para sobrevivir.",
-          "rating": 6.6,
+          "rating": 6.7,
           "year": "2026",
           "genres": [
             "Animación",
