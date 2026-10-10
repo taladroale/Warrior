@@ -3,7 +3,7 @@
     {
       "title": "Matchbox: La película",
       "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-      "rating": 6.5,
+      "rating": 7.63,
       "year": "2026",
       "genres": [
         "Acción",
@@ -21,7 +21,7 @@
     {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.3,
+      "rating": 8.38,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -30,16 +30,48 @@
       ],
       "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
       "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/yHMJbIEBHnKYWh20XtxV16emwXT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
       "slug": "spider-man-brand-new-day",
       "tmdbId": "969681",
       "type": "movie",
       "duration": "145 min"
     },
     {
+      "title": "La otra madre",
+      "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+      "rating": 6.16,
+      "year": "2026",
+      "genres": [
+        "Terror"
+      ],
+      "cast": "Jessica Chastain, Arabella Olivia Clark, Jay Duplass, Dichen Lachman, Arian Moayed",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+      "slug": "la-otra-madre",
+      "tmdbId": "1400837",
+      "type": "movie",
+      "duration": "93 min"
+    },
+    {
+      "title": "Fall 2: Deadpoint",
+      "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
+      "rating": 7.2,
+      "year": "2026",
+      "genres": [
+        "Suspenso"
+      ],
+      "cast": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "slug": "vertigo-2-punto-muerto",
+      "tmdbId": "1101412",
+      "type": "movie",
+      "duration": "98 min"
+    },
+    {
       "title": "Digger",
       "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "rating": 7.52,
+      "rating": 7.5,
       "year": "2026",
       "genres": [
         "Comedia",
@@ -56,7 +88,7 @@
     {
       "title": "Insidious: Fuera del más allá",
       "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 7.54,
+      "rating": 7.6,
       "year": "2026",
       "genres": [
         "Terror",
@@ -69,40 +101,6 @@
       "tmdbId": "1291595",
       "type": "movie",
       "duration": "106 min"
-    },
-    {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.3,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
-      "type": "movie",
-      "duration": "93 min"
-    },
-    {
-      "title": "Vértigo 2: Punto muerto",
-      "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
-      "rating": 7.12,
-      "year": "2026",
-      "genres": [
-        "Suspenso"
-      ],
-      "cast": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xQlESgkDM7rczAWySdB0WBomh39.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-      "slug": "vertigo-2-punto-muerto",
-      "tmdbId": "1101412",
-      "type": "movie",
-      "duration": "98 min"
     }
   ],
   "seriesHero": [
@@ -161,22 +159,6 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.49,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
-    {
       "title": "El hotel embrujado",
       "synopsis": "Una madre soltera hereda el hotel de su difunto hermano y se muda a vivir allí con su amable fantasma y unos huéspedes muy exigentes que no van a marcharse.",
       "rating": 7.8,
@@ -193,20 +175,36 @@
       "type": "series"
     },
     {
-      "title": "Materia oscura",
-      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "rating": 7.8,
-      "year": "2024",
+      "title": "Los diarios de la boticaria",
+      "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
+      "rating": 8.84,
+      "year": "2023",
       "genres": [
-        "Ciencia ficción",
-        "Fantasía",
+        "Animación",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Aoi Yuki, Takeo Otsuka, Katsuyuki Konishi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
+      "slug": "los-diarios-de-la-boticaria",
+      "tmdbId": "220542",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.49,
+      "year": "2025",
+      "genres": [
+        "Crimen",
         "Drama"
       ],
-      "cast": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson, Dayo Okeniyi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/iBc82qaA05ntzSnrVndw8scv4Bn.jpg",
-      "slug": "materia-oscura",
-      "tmdbId": "196322",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     }
   ],
@@ -216,6 +214,89 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "En directo",
+          "synopsis": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Suspenso"
+          ],
+          "cast": "Parineeti Chopra, Deven Bhojani, Adil Hussain, Shekhar Suman, Amol Palekar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/odpErwBCwZPrCqXbHt1COc00FK8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+          "slug": "reporting-live",
+          "tmdbId": "1389172",
+          "type": "movie",
+          "duration": "116 min"
+        },
+        {
+          "title": "Pioneras: solo querían jugar",
+          "synopsis": "España, años setenta. A pesar de que la ideología franquista siguen profundamente arraigada en la sociedad, un grupo de jóvenes pioneras y un promotor ambicioso están a punto de cambiar la historia del fútbol femenino.",
+          "rating": 7.4,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Sofía de Iznájar, Bruna Lucadamo, Daniel Ibáñez, Aixa Villagrán, Elena Irureta",
+          "posterUrl": "https://image.tmdb.org/t/p/original/coXlNNeiySibclnnqzHOuQIqGm.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vJryAefq6Ec6NiYdKTvXbFMRalB.jpg",
+          "slug": "pioneras-solo-querian-jugar",
+          "tmdbId": "1444595",
+          "type": "movie",
+          "duration": "106 min"
+        },
+        {
+          "title": "Basta Mamá",
+          "synopsis": "Fernando, un hombre de 45 años que aún vive con su sobreprotectora madre, intenta ocultarle ese secreto a su moderna novia, quien además es su jefa. Lo que comienza como una pequeña mentira durante una cena de cumpleaños se convierte en un enredo de secretos, choques generacionales y divertidas situaciones que lo obligarán a elegir entre la comodidad de mamá y el amor de su vida.",
+          "rating": 6.4,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Romance",
+            "Drama"
+          ],
+          "cast": "Flora Martínez, Marcela Benjumea, Bernardo García, Flora Martínez",
+          "posterUrl": "https://image.tmdb.org/t/p/original/t8EarPqNvaAttgzEmaOWlyawsJF.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mlq3sZRQzcUmkGJSX1PZ7EMN1Bz.jpg",
+          "slug": "basta-mama",
+          "tmdbId": "1627217",
+          "type": "movie",
+          "duration": "77 min"
+        },
+        {
+          "title": "Animales",
+          "synopsis": "Un grupo de amigos que se conocen de toda la vida descubre que hay puertas que nunca se deben de abrir. Lo que empieza como un juego de deseo se convierte en una espiral de celos, mentiras y traiciones que arrasa con sus relaciones. Muy pronto entenderán que todos tenemos un lado animal.",
+          "rating": 6.3,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Suspenso"
+          ],
+          "cast": "Nashla Bogaert, Frank Perozo, Pamela Sued, Camila Issa, Pedro Casals",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9fbZdiOI9fRinl44mNm3CYgEtYR.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3jgATRIFenOrgNKEC9bFv5QqKGf.jpg",
+          "slug": "animales",
+          "tmdbId": "1599993",
+          "type": "movie"
+        },
+        {
+          "title": "La otra madre",
+          "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+          "rating": 6.16,
+          "year": "2026",
+          "genres": [
+            "Terror"
+          ],
+          "cast": "Jessica Chastain, Arabella Olivia Clark, Jay Duplass, Dichen Lachman, Arian Moayed",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+          "slug": "la-otra-madre",
+          "tmdbId": "1400837",
+          "type": "movie",
+          "duration": "93 min"
+        },
         {
           "title": "Solo necesitas matar",
           "synopsis": "Una soldado revive una y otra vez el día antes de morir en batalla contra una invasión alienígena. Para romper el ciclo y cambiar su destino, debe descubrir la clave para sobrevivir.",
@@ -238,7 +319,7 @@
         {
           "title": "Matchbox: La película",
           "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-          "rating": 6.5,
+          "rating": 7.63,
           "year": "2026",
           "genres": [
             "Acción",
@@ -256,10 +337,11 @@
         {
           "title": "El Precio de la Red",
           "synopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
-          "rating": 7.76,
+          "rating": 7.6,
           "year": "2026",
           "genres": [
             "Drama",
+            "Historia",
             "Suspenso"
           ],
           "cast": "Mikey Madison, Jeremy Allen White, Jeremy Strong, Bill Burr, Wunmi Mosaku",
@@ -289,7 +371,7 @@
         {
           "title": "SAKAMOTO DAYS",
           "synopsis": "Un asesino de élite retirado que formó una familia con su esposa e hija debe protegerlas cuando su peligroso pasado regresa para amenazarlos.",
-          "rating": 7,
+          "rating": 7.25,
           "year": "2026",
           "genres": [
             "Acción",
@@ -303,91 +385,6 @@
           "tmdbId": "1548708",
           "type": "movie",
           "duration": "128 min"
-        },
-        {
-          "title": "Stop! That! Train!",
-          "synopsis": "Dos amigas azafatas de tren cambian un aburrido ferrocarril por el lujoso Glamazonian Express. Durante una gran tormenta, deben trabajar con la estirada tripulación de primera clase y el presidente Gagwell para evitar un desastre en Los Ángeles.",
-          "rating": 5,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Comedia"
-          ],
-          "cast": "RuPaul, Jujubee, Ginger Minj, Brooke Lynn Hytes, Marcia Marcia Marcia",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wPvh5kZyn1yQVq6Nqhio27JZ8Hc.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/erNAhcSYrDMXQqAU1TVthYyFA71.jpg",
-          "slug": "stop-that-train",
-          "tmdbId": "1541560",
-          "type": "movie",
-          "duration": "90 min"
-        },
-        {
-          "title": "Panda Plan: The Magical Tribe",
-          "synopsis": "El panda gigante Hu Hu y Jackie Chan tropiezan accidentalmente con una misteriosa tribu primitiva, dando comienzo a una desternillante aventura sin precedentes.",
-          "rating": 6.5,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Comedia",
-            "Familia",
-            "Fantasía"
-          ],
-          "cast": "Jackie Chan, 马丽, 喬杉, 于洋, 王影璐",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5uE4qDFSoPLcuQRGpXEFCInhNLT.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/jmWgUSrqvlLytWgBHvNuRyKq0WZ.jpg",
-          "slug": "panda-plan-the-magical-tribe",
-          "tmdbId": "1421552",
-          "type": "movie",
-          "duration": "100 min"
-        },
-        {
-          "title": "Cada vez menos extraño",
-          "synopsis": "Jan Borysewicz, el líder de la banda polaca de rock Lady Pank, marca a toda una generación con su música mientras una serie de tragedias familiares lo marcan a él.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Música"
-          ],
-          "cast": "Mikołaj Bukrewicz, Patryk Pietrzak, Hubert Miłkowski, Krzysztof Oleksyn, Mikołaj Matczak",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5lxcAE2DLtK8bFfCXOV9TM13RDq.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/xn42TCarooeOxY1yrfOknEmMvAu.jpg",
-          "slug": "cada-vez-menos-extrano",
-          "tmdbId": "1620080",
-          "type": "movie",
-          "duration": "120 min"
-        },
-        {
-          "title": "Quiero Tu Sexo",
-          "synopsis": "Cuando el joven e ingenuo Elliot consigue un emocionante trabajo para Erika Tracy, una reconocida artista, ícono y provocadora, sus fantasías se hacen realidad cuando ella lo elige para convertirlo en su musa sexual. Pero Elliot pronto descubre que la situación lo supera, mientras Erika lo conduce por un viaje mucho más profundo de lo que jamás habría imaginado, adentrándolo en un mundo de sexo, obsesión, poder, traición y asesinato.",
-          "rating": 6.08,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Olivia Wilde, Cooper Hoffman, Mason Gooding, Chase Sui Wonders, Johnny Knoxville",
-          "posterUrl": "https://image.tmdb.org/t/p/original/aMFx35t0T61S1ILDZrycPFRu95u.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/gQsjbxdjJUam7buy4U2TpVTiGSO.jpg",
-          "slug": "i-want-your-sex",
-          "tmdbId": "1288059",
-          "type": "movie",
-          "duration": "90 min"
-        },
-        {
-          "title": "Rolling Loud: La película",
-          "synopsis": "Un padre toma una decisión desacertada al llevar a su hijo pequeño a un desenfrenado festival de hip-hop, lo que desencadena el caos mientras ambos lidian con las multitudes, la seguridad y la dinámica familiar en compañía de personajes excéntricos.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Owen Wilson, Christian Convery, Jolene, Travis Scott, Matt Rife",
-          "posterUrl": "https://image.tmdb.org/t/p/original/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg",
-          "slug": "rolling-loud-la-pelicula",
-          "tmdbId": "1336166",
-          "type": "movie",
-          "duration": "99 min"
         }
       ]
     },
@@ -718,7 +715,7 @@
         {
           "title": "American Horror Story",
           "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-          "rating": 8.1,
+          "rating": 8.08,
           "year": "2011",
           "genres": [
             "Drama",
