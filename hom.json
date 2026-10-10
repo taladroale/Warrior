@@ -3,7 +3,7 @@
     {
       "title": "Matchbox: La película",
       "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-      "rating": 8,
+      "rating": 6.5,
       "year": "2026",
       "genres": [
         "Acción",
@@ -53,6 +53,23 @@
       "duration": "98 min"
     },
     {
+      "title": "Digger",
+      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "rating": 7.52,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "slug": "digger",
+      "tmdbId": "1248832",
+      "type": "movie",
+      "duration": "128 min"
+    },
+    {
       "title": "Insidious: Fuera del más allá",
       "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
       "rating": 7.54,
@@ -70,39 +87,22 @@
       "duration": "106 min"
     },
     {
-      "title": "Aniquilación",
-      "synopsis": "Una francotiradora del ejército utiliza sus habilidades para proteger a su hija de un escuadrón de máquinas asesinas que escapó de una base militar secreta, mientras unos mercenarios intentan contenerla.",
-      "rating": 5.74,
+      "title": "Resident Evil",
+      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 7.3,
       "year": "2026",
       "genres": [
-        "Acción",
         "Terror",
-        "Suspenso"
+        "Ciencia ficción",
+        "Aventura"
       ],
-      "cast": "Adria Arjona, Dan Stevens, Eric Wareheim, Reginald VelJohnson, Michael Biehn",
-      "posterUrl": "https://image.tmdb.org/t/p/original/tRVR2QNr7ua6xEL226N0zRVeDI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
-      "slug": "aniquilacion-1284046",
-      "tmdbId": "1284046",
+      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "slug": "resident-evil-1423191",
+      "tmdbId": "1423191",
       "type": "movie",
-      "duration": "92 min"
-    },
-    {
-      "title": "Digger",
-      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "rating": 7.52,
-      "year": "2026",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
-      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-      "slug": "digger",
-      "tmdbId": "1248832",
-      "type": "movie",
-      "duration": "128 min"
+      "duration": "93 min"
     }
   ],
   "seriesHero": [
@@ -573,6 +573,56 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Delirio mortal",
+          "synopsis": "El padre de Wan (Taew Natapohn) es acusado de un asesinato mientras su matrimonio se derrumba. A punto de perderlo todo, debe encontrar al asesino antes de que sea tarde.",
+          "rating": 7.1,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Misterio",
+            "Drama"
+          ],
+          "cast": "ณฐพร เตมีรักษ์, เจษฎ์พิพัฒ ติละพรพัฒน์, สุรศักดิ์ ชัยอรรถ, วชิรวิชญ์ ไพศาลกุลวงศ์, ศิราณี ญาณกิตติกานต์",
+          "posterUrl": "https://image.tmdb.org/t/p/original/aJboceWct3FYptVPavlhUOjiiSe.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cae4gjklRHnzQTmVCxpZnOdPw71.jpg",
+          "slug": "delirio-mortal",
+          "tmdbId": "331979",
+          "type": "series"
+        },
+        {
+          "title": "Mis muertos tristes",
+          "synopsis": "Pablo Larraín (\"El Conde\") desentraña las complejidades de lo sobrenatural, el terror y los lazos familiares en esta miniserie con Mercedes Morán que quedará grabada en tu memoria",
+          "rating": 6.42,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Mercedes Morán, Dolores Fonzi, Alejandra Flechner, Carolina Sánchez Álvarez, Carlos Portaluppi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7Yv3av3ULmndtGYC4n0zWNVakY5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gvBZ7qSCsszgUX74y8VLNw2in03.jpg",
+          "slug": "mis-muertos-tristes",
+          "tmdbId": "310290",
+          "type": "series"
+        },
+        {
+          "title": "Habeas Corpus",
+          "synopsis": "Un reconocido profesor de derecho y un equipo de estudiantes intentan demostrar la inocencia de un convicto, pero el estudiante más brillante está secretamente conectado con su pasado.",
+          "rating": 7.43,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Marjorie Estiano, Any Gabrielly, Vladimir Brichta, Hipólyto, Danton Mello",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pMkQ9LyDJIkMjyfnJ7TNJbKSEEv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg",
+          "slug": "habeas-corpus",
+          "tmdbId": "308963",
+          "type": "series"
+        },
+        {
           "title": "Team Moms: Baseball",
           "synopsis": "Sigue a un grupo de padres cuyos hijos asisten a Legendary Prep Academy: una escuela de entrenamiento de béisbol de primera en Scottsdale, Arizona, dedicada a formar la próxima generación de atletas estrella.",
           "rating": 7.5,
@@ -668,7 +718,7 @@
         {
           "title": "American Horror Story",
           "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-          "rating": 8.1,
+          "rating": 8.08,
           "year": "2011",
           "genres": [
             "Drama",
@@ -681,6 +731,47 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
           "slug": "american-horror-story",
           "tmdbId": "1413",
+          "type": "series"
+        }
+      ]
+    },
+    {
+      "title": "Estrenos",
+      "type": "series",
+      "seeMoreSlug": "estrenos-series",
+      "items": [
+        {
+          "title": "Carrie",
+          "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+          "rating": 8.4,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+          "slug": "carrie",
+          "tmdbId": "288673",
+          "type": "series"
+        },
+        {
+          "title": "Between Steps",
+          "synopsis": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Choo Young-woo, 김소현, 김민, 이규성, 심혜진",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vyrpZOFIZJkQG8ZWTezmlNGav8R.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
+          "slug": "between-steps",
+          "tmdbId": "307106",
           "type": "series"
         },
         {
@@ -696,61 +787,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/17ZgS7G4tVvJsuMfMxkFMHumXog.jpg",
           "slug": "africa-el-corazon-salvaje-de-la-tierra",
           "tmdbId": "334888",
-          "type": "series"
-        },
-        {
-          "title": "Historia de dos ciudades",
-          "synopsis": "Londres, 1782. La tensión es máxima en la guerra entre Francia e Inglaterra. La vida de una joven, Lucie Manette, da un vuelco cuando recibe un mensaje de París: su padre, al que se creía muerto desde hace casi 20 años, podría estar vivo. El mensajero, el idealista emigrado francés Charles Darnay, es arrestado y acusado de traición. Lucie buscará la ayuda de un brillante pero inestable joven abogado, Sydney Carton, para liberar a Darnay con la esperanza de que la lleve a París para encontrar a su padre. El encuentro de Lucie con Darnay y Carton desata un poderoso y complejo triángulo amoroso, y los dos hombres lucharán por ser dignos del amor de la mujer mientras ella se debate entre uno u otro.",
-          "rating": 7.44,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "François Civil, Mirren Mack, Kit Harington, Sharon Duncan-Brewster, Guillaume Gallienne",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cHWIztU7qYEDFE2eAQsWFdGS19d.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/1erQOjm3PZP6PNVRIuxdNmesCBu.jpg",
-          "slug": "historia-de-dos-ciudades",
-          "tmdbId": "301626",
-          "type": "series"
-        },
-        {
-          "title": "Un mundo diferente",
-          "synopsis": "Una nueva clase entra en el campus del Hillman College y caras muy queridas vuelven a casa. En el centro está Deborah Wayne, la cariñosamente protegida hija menor de Whitley y Dwayne, un espíritu libre con un don para ser el centro de atención y un gran corazón que todavía está descubriendo su propio camino en Hillman. Por el camino, se le une una nueva generación que refleja la amplitud de la vida negra en el campus: Rashida Duvall, una estudiante de justicia criminal de primera generación; Shaquille Johnson, un atleta de cinco estrellas que elige su legado; Amir Rodale, un avispado estudiante de psicología más dado a arreglar los problemas de los demás que a enfrentarse a los suyos propios; Hazel Henry, una chica de pueblo criada en la iglesia que define sus propios valores; y Kojo Achebe, un empresario de la moda ghanés-nigeriano que encuentra el valor para seguir su visión.",
-          "rating": 7.36,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Maleah Joi Moon, Alijah Kai, Cornell Young IV, Jordan Aaron Hall, Kennedi Reece",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
-          "slug": "un-mundo-diferente",
-          "tmdbId": "305357",
-          "type": "series"
-        }
-      ]
-    },
-    {
-      "title": "Estrenos",
-      "type": "series",
-      "seeMoreSlug": "estrenos-series",
-      "items": [
-        {
-          "title": "Between Steps",
-          "synopsis": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
-          "rating": 10,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Choo Young-woo, 김소현, 김민, 이규성, 심혜진",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vyrpZOFIZJkQG8ZWTezmlNGav8R.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
-          "slug": "between-steps",
-          "tmdbId": "307106",
           "type": "series"
         },
         {
@@ -770,33 +806,18 @@
           "type": "series"
         },
         {
-          "title": "África: El Corazón Salvaje de la Tierra",
-          "synopsis": "No hay un lugar como África. Alberga el desierto cálido más grande de la Tierra, el río más profundo y sabanas inmensas. Viaja a los confines de este magnífico continente, descubre mundos inexplorados, conoce criaturas nuevas para la ciencia y averigua cómo estos dinámicos parajes moldean la vida de quienes los llaman HOGAR.",
-          "rating": 8.6,
+          "title": "Paolo",
+          "synopsis": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
+          "rating": 5.5,
           "year": "2026",
           "genres": [
-            "Documental"
+            "Misterio"
           ],
-          "cast": "Wunmi Mosaku, Wunmi Mosaku",
-          "posterUrl": "https://image.tmdb.org/t/p/original/n2c9R2ucWJktg407YH3gY1EwPHs.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/17ZgS7G4tVvJsuMfMxkFMHumXog.jpg",
-          "slug": "africa-el-corazon-salvaje-de-la-tierra",
-          "tmdbId": "334888",
-          "type": "series"
-        },
-        {
-          "title": "4 Blocks Zero",
-          "synopsis": "Precuela de \"4 Blocks\" (2017-2019). Traslada la acción al Berlín de los años 90, mucho antes de que Toni Hamady se convirtiera en el líder criminal más poderoso de la ciudad. En esta ocasión, la historia se centra en los orígenes de la familia, que tras huir del Líbano intenta empezar de nuevo en Alemania enfrentándose a la burocracia, los prejuicios y la falta de un permiso de residencia estable. El padre de familia, Malik, sobrevive trabajando como cocinero sin formación mientras trata de sacar adelante a sus cuatro hijos: Ali, Abbas, Marwan y Amara. La situación cambia radicalmente cuando Ibrahim, cuñado de Malik, regresa a Berlín después de pasar ocho años en prisión. Su vuelta desencadena una cadena de acontecimientos que termina arrastrando a toda la familia hacia el crimen organizado de la capital alemana y pone a prueba sus principios.",
-          "rating": 5.3,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Tariq Al Saies, Tareq Nassery, Rami Fadel Khalaf, Soufiane El Mesaudi, Bella Dayne",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yvIUYRLeTF9KOQL12ojleVyqxAk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
-          "slug": "4-blocks-zero",
-          "tmdbId": "310133",
+          "cast": "Jérôme Niel, Yoann Gasiorowski, Magalie Lépine-Blondeau, Marie Oppert, Léo Chalié",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4EGhg689jbAO865qWs8AznalyWl.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
+          "slug": "paolo",
+          "tmdbId": "288385",
           "type": "series"
         },
         {
@@ -816,18 +837,18 @@
           "type": "series"
         },
         {
-          "title": "Paolo",
-          "synopsis": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
-          "rating": 5.5,
+          "title": "4 Blocks Zero",
+          "synopsis": "Precuela de \"4 Blocks\" (2017-2019). Traslada la acción al Berlín de los años 90, mucho antes de que Toni Hamady se convirtiera en el líder criminal más poderoso de la ciudad. En esta ocasión, la historia se centra en los orígenes de la familia, que tras huir del Líbano intenta empezar de nuevo en Alemania enfrentándose a la burocracia, los prejuicios y la falta de un permiso de residencia estable. El padre de familia, Malik, sobrevive trabajando como cocinero sin formación mientras trata de sacar adelante a sus cuatro hijos: Ali, Abbas, Marwan y Amara. La situación cambia radicalmente cuando Ibrahim, cuñado de Malik, regresa a Berlín después de pasar ocho años en prisión. Su vuelta desencadena una cadena de acontecimientos que termina arrastrando a toda la familia hacia el crimen organizado de la capital alemana y pone a prueba sus principios.",
+          "rating": 5.3,
           "year": "2026",
           "genres": [
-            "Misterio"
+            "Drama"
           ],
-          "cast": "Jérôme Niel, Yoann Gasiorowski, Magalie Lépine-Blondeau, Marie Oppert, Léo Chalié",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4EGhg689jbAO865qWs8AznalyWl.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
-          "slug": "paolo",
-          "tmdbId": "288385",
+          "cast": "Tariq Al Saies, Tareq Nassery, Rami Fadel Khalaf, Soufiane El Mesaudi, Bella Dayne",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yvIUYRLeTF9KOQL12ojleVyqxAk.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
+          "slug": "4-blocks-zero",
+          "tmdbId": "310133",
           "type": "series"
         },
         {
@@ -847,50 +868,33 @@
           "type": "series"
         },
         {
-          "title": "Brothers",
-          "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-          "rating": 8.2,
+          "title": "Shaque: No confíes en nadie",
+          "synopsis": "Nueve años después de que secuestraran a su bebé, una madre sigue buscándolo sin descanso y acaba destapando secretos que la hacen dudar incluso de lo que ve.",
+          "rating": 6.7,
           "year": "2026",
           "genres": [
-            "Comedia"
-          ],
-          "cast": "Matthew McConaughey, Woody Harrelson, Natalie Martinez, Brittany Ishibashi, Nolan Almeida",
-          "posterUrl": "https://image.tmdb.org/t/p/original/174exHxKuh2OkXWg6k8du4sWiqo.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-          "slug": "brothers",
-          "tmdbId": "250203",
-          "type": "series"
-        },
-        {
-          "title": "Academia Minerva",
-          "synopsis": "En la academia militar Minerva, los jóvenes lidian con la disciplina, la rivalidad y la presión familiar mientras un cadete busca respuestas sobre su amigo desaparecido.",
-          "rating": 7.82,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Ciro Minopoli, Nicole Malaj, Gaia Garavaglia, Michele Rosiello, Cristiana Capotondi",
-          "posterUrl": "https://image.tmdb.org/t/p/original/8YuGi5NFR6rEUtzeQW4jHOT5DB8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
-          "slug": "academia-minerva",
-          "tmdbId": "312557",
-          "type": "series"
-        },
-        {
-          "title": "Youth",
-          "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-          "rating": 7.8,
-          "year": "2026",
-          "genres": [
-            "Comedia",
+            "Crimen",
+            "Misterio",
             "Drama"
           ],
-          "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
-          "posterUrl": "https://image.tmdb.org/t/p/original/t0X9TVBkqJlTsdWZCTADsQqg4gC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
-          "slug": "youth",
-          "tmdbId": "285418",
+          "cast": "Parineeti Chopra, Jennifer Winget, Tahir Raj Bhasin, Anup Soni, Sumeet Vyas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2X0O4Bl3Ef2cQqH7d9O2hRIZvMj.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg",
+          "slug": "shaque-no-confies-en-nadie",
+          "tmdbId": "285147",
+          "type": "series"
+        },
+        {
+          "title": "Team Moms: Baseball",
+          "synopsis": "Sigue a un grupo de padres cuyos hijos asisten a Legendary Prep Academy: una escuela de entrenamiento de béisbol de primera en Scottsdale, Arizona, dedicada a formar la próxima generación de atletas estrella.",
+          "rating": 7.5,
+          "year": "2026",
+          "genres": [],
+          "cast": "Salvatore Baldri, Dallas Baldri, Rylee Baldri, KJ Dunmar, Melanie Dunmar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/DApMG3VJlsctuBNTig95eOarHB.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xXAYs3cDMFHUOgB7eVT5LhwV3Z1.jpg",
+          "slug": "team-moms-baseball",
+          "tmdbId": "332118",
           "type": "series"
         }
       ]
