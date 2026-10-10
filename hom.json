@@ -37,23 +37,6 @@
       "duration": "145 min"
     },
     {
-      "title": "Insidious: Fuera del más allá",
-      "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 7.54,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Suspenso"
-      ],
-      "cast": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers",
-      "posterUrl": "https://image.tmdb.org/t/p/original/uIMddTcnM9P6PrJiDjsXIeYp902.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-      "slug": "insidious-fuera-del-mas-alla",
-      "tmdbId": "1291595",
-      "type": "movie",
-      "duration": "106 min"
-    },
-    {
       "title": "Digger",
       "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
       "rating": 7.52,
@@ -71,6 +54,41 @@
       "duration": "128 min"
     },
     {
+      "title": "Insidious: Fuera del más allá",
+      "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
+      "rating": 7.54,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Suspenso"
+      ],
+      "cast": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers",
+      "posterUrl": "https://image.tmdb.org/t/p/original/uIMddTcnM9P6PrJiDjsXIeYp902.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+      "slug": "insidious-fuera-del-mas-alla",
+      "tmdbId": "1291595",
+      "type": "movie",
+      "duration": "106 min"
+    },
+    {
+      "title": "Resident Evil",
+      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 7.3,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "slug": "resident-evil-1423191",
+      "tmdbId": "1423191",
+      "type": "movie",
+      "duration": "93 min"
+    },
+    {
       "title": "Vértigo 2: Punto muerto",
       "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
       "rating": 7.12,
@@ -85,22 +103,6 @@
       "tmdbId": "1101412",
       "type": "movie",
       "duration": "98 min"
-    },
-    {
-      "title": "Animales",
-      "synopsis": "Un grupo de amigos que se conocen de toda la vida descubre que hay puertas que nunca se deben de abrir. Lo que empieza como un juego de deseo se convierte en una espiral de celos, mentiras y traiciones que arrasa con sus relaciones. Muy pronto entenderán que todos tenemos un lado animal.",
-      "rating": 6.26,
-      "year": "2026",
-      "genres": [
-        "Comedia",
-        "Suspenso"
-      ],
-      "cast": "Nashla Bogaert, Frank Perozo, Pamela Sued, Camila Issa, Pedro Casals",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9fbZdiOI9fRinl44mNm3CYgEtYR.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3jgATRIFenOrgNKEC9bFv5QqKGf.jpg",
-      "slug": "animales",
-      "tmdbId": "1599993",
-      "type": "movie"
     }
   ],
   "seriesHero": [
@@ -716,7 +718,7 @@
         {
           "title": "American Horror Story",
           "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-          "rating": 8.08,
+          "rating": 8.1,
           "year": "2011",
           "genres": [
             "Drama",
