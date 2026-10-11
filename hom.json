@@ -37,6 +37,23 @@
       "duration": "145 min"
     },
     {
+      "title": "Digger",
+      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "rating": 7.5,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "slug": "digger",
+      "tmdbId": "1248832",
+      "type": "movie",
+      "duration": "128 min"
+    },
+    {
       "title": "La otra madre",
       "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
       "rating": 6.16,
@@ -69,59 +86,25 @@
       "duration": "98 min"
     },
     {
-      "title": "Digger",
-      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "rating": 7.5,
-      "year": "2026",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
-      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-      "slug": "digger",
-      "tmdbId": "1248832",
-      "type": "movie",
-      "duration": "128 min"
-    },
-    {
-      "title": "Insidious: Fuera del más allá",
-      "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 7.6,
+      "title": "Resident Evil",
+      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 7.3,
       "year": "2026",
       "genres": [
         "Terror",
-        "Suspenso"
+        "Ciencia ficción",
+        "Aventura"
       ],
-      "cast": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers",
-      "posterUrl": "https://image.tmdb.org/t/p/original/uIMddTcnM9P6PrJiDjsXIeYp902.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-      "slug": "insidious-fuera-del-mas-alla",
-      "tmdbId": "1291595",
+      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "slug": "resident-evil-1423191",
+      "tmdbId": "1423191",
       "type": "movie",
-      "duration": "106 min"
+      "duration": "93 min"
     }
   ],
   "seriesHero": [
-    {
-      "title": "Link Click",
-      "synopsis": "Se dice que una imagen vale más que mil palabras. En este caso, guarda una cantidad infinita de secretos. Estos son secretos que solo Cheng Xiaoshi y Lu Guang pueden encontrar. En una pequeña tienda llamada \"Time Photo Studio\", los dos amigos brindan un servicio especial: usando sus extraordinarios poderes que les permiten ingresar fotografías, saltan a las imágenes que les traen los clientes para cumplir sus deseos. A través de los ojos del fotógrafo, viven los hechos que rodean la imagen e intentan descifrar cómo resolver la solicitud de su cliente.",
-      "rating": 8.07,
-      "year": "2021",
-      "genres": [
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía",
-        "Misterio"
-      ],
-      "cast": "Su Shangqing, 杨天翔, 李詩萌",
-      "posterUrl": "https://image.tmdb.org/t/p/original/gNeI4fA172iKOals4zP7e5Lqy6J.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2ns30HHRX5qgsVfEvvevwUcrD5E.jpg",
-      "slug": "link-click",
-      "tmdbId": "123542",
-      "type": "series"
-    },
     {
       "title": "Carrie",
       "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
@@ -138,6 +121,24 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "slug": "carrie",
       "tmdbId": "288673",
+      "type": "series"
+    },
+    {
+      "title": "Link Click",
+      "synopsis": "Se dice que una imagen vale más que mil palabras. En este caso, guarda una cantidad infinita de secretos. Estos son secretos que solo Cheng Xiaoshi y Lu Guang pueden encontrar. En una pequeña tienda llamada \"Time Photo Studio\", los dos amigos brindan un servicio especial: usando sus extraordinarios poderes que les permiten ingresar fotografías, saltan a las imágenes que les traen los clientes para cumplir sus deseos. A través de los ojos del fotógrafo, viven los hechos que rodean la imagen e intentan descifrar cómo resolver la solicitud de su cliente.",
+      "rating": 8.07,
+      "year": "2021",
+      "genres": [
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía",
+        "Misterio"
+      ],
+      "cast": "Su Shangqing, 杨天翔, 李詩萌",
+      "posterUrl": "https://image.tmdb.org/t/p/original/gNeI4fA172iKOals4zP7e5Lqy6J.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2ns30HHRX5qgsVfEvvevwUcrD5E.jpg",
+      "slug": "link-click",
+      "tmdbId": "123542",
       "type": "series"
     },
     {
@@ -159,19 +160,38 @@
       "type": "series"
     },
     {
-      "title": "El hotel embrujado",
-      "synopsis": "Una madre soltera hereda el hotel de su difunto hermano y se muda a vivir allí con su amable fantasma y unos huéspedes muy exigentes que no van a marcharse.",
-      "rating": 7.8,
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.49,
       "year": "2025",
       "genres": [
-        "Animación",
-        "Comedia"
+        "Crimen",
+        "Drama"
       ],
-      "cast": "Will Forte, Eliza Coupe, Skyler Gisondo, Natalie Palamides, Jimmi Simpson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/4arTlVw8oceZDOhGv9GFrgGztUq.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/lqsufP0yMhQ04SZx3ZlXTay4whw.jpg",
-      "slug": "el-hotel-embrujado",
-      "tmdbId": "255752",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
+      "title": "Black Clover",
+      "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
+      "rating": 8.49,
+      "year": "2017",
+      "genres": [
+        "Animación",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Gakuto Kajiwara, Nobunaga Shimazaki, Kana Yuuki, Junichi Suwabe, Genki Muro",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+      "slug": "black-clover",
+      "tmdbId": "73223",
       "type": "series"
     },
     {
@@ -190,22 +210,6 @@
       "slug": "los-diarios-de-la-boticaria",
       "tmdbId": "220542",
       "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.49,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
     }
   ],
   "movieSections": [
@@ -217,7 +221,7 @@
         {
           "title": "En directo",
           "synopsis": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
-          "rating": 10,
+          "rating": 7.5,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -394,12 +398,30 @@
       "seeMoreSlug": "estrenos",
       "items": [
         {
+          "title": "En directo",
+          "synopsis": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
+          "rating": 7.5,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Suspenso"
+          ],
+          "cast": "Parineeti Chopra, Deven Bhojani, Adil Hussain, Shekhar Suman, Amol Palekar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/odpErwBCwZPrCqXbHt1COc00FK8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+          "slug": "reporting-live",
+          "tmdbId": "1389172",
+          "type": "movie",
+          "duration": "116 min"
+        },
+        {
           "title": "El Precio de la Red",
           "synopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
-          "rating": 7.76,
+          "rating": 7.6,
           "year": "2026",
           "genres": [
             "Drama",
+            "Historia",
             "Suspenso"
           ],
           "cast": "Mikey Madison, Jeremy Allen White, Jeremy Strong, Bill Burr, Wunmi Mosaku",
@@ -411,9 +433,25 @@
           "duration": "112 min"
         },
         {
+          "title": "La otra madre",
+          "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+          "rating": 6.16,
+          "year": "2026",
+          "genres": [
+            "Terror"
+          ],
+          "cast": "Jessica Chastain, Arabella Olivia Clark, Jay Duplass, Dichen Lachman, Arian Moayed",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+          "slug": "la-otra-madre",
+          "tmdbId": "1400837",
+          "type": "movie",
+          "duration": "93 min"
+        },
+        {
           "title": "Padre de familia: Happy Hell-o-ween",
           "synopsis": "Brian y Stewie acaban en el infierno tras 24 temporadas de mal comportamiento y terminan al mando cuando consiguen sacar de quicio incluso al mismísimo diablo.",
-          "rating": 6.4,
+          "rating": 6.8,
           "year": "2026",
           "genres": [
             "Animación",
@@ -430,7 +468,7 @@
         {
           "title": "Matchbox: La película",
           "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-          "rating": 6.5,
+          "rating": 7.63,
           "year": "2026",
           "genres": [
             "Acción",
@@ -446,59 +484,9 @@
           "duration": "127 min"
         },
         {
-          "title": "Las cartas de la vida",
-          "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 7.66,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Drama"
-          ],
-          "cast": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent",
-          "posterUrl": "https://image.tmdb.org/t/p/original/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-          "slug": "las-cartas-de-la-vida",
-          "tmdbId": "1458857",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
-          "title": "Appofeniacs",
-          "synopsis": "When Duke goes on a frenzy of reckless deepfake creations, his callous disregard of consequences shows how, with a few clicks of an app on a phone, anyone can create a deceiving video of an unsuspecting victim and ruin their life… or end it.",
-          "rating": 6.5,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Sean Gunn, Jermaine Fowler, Scarlett DeMeo, Michael Abbott Jr., Harley Bronwyn",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cjlTNyyd5hqB3vXHVkjwTyvN9I4.jpg",
-          "slug": "appofeniacs",
-          "tmdbId": "1401433",
-          "type": "movie",
-          "duration": "91 min"
-        },
-        {
-          "title": "Rolling Loud: La película",
-          "synopsis": "Un padre toma una decisión desacertada al llevar a su hijo pequeño a un desenfrenado festival de hip-hop, lo que desencadena el caos mientras ambos lidian con las multitudes, la seguridad y la dinámica familiar en compañía de personajes excéntricos.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Owen Wilson, Christian Convery, Jolene, Travis Scott, Matt Rife",
-          "posterUrl": "https://image.tmdb.org/t/p/original/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg",
-          "slug": "rolling-loud-la-pelicula",
-          "tmdbId": "1336166",
-          "type": "movie",
-          "duration": "99 min"
-        },
-        {
           "title": "Schumacher 94: Nace una leyenda",
           "synopsis": "La primera victoria de Michael Schumacher en el Campeonato Mundial cobra vida gracias a entrevistas personales e imágenes de archivo de la famosa temporada de F1 del 94.",
-          "rating": 7.53,
+          "rating": 7.61,
           "year": "2026",
           "genres": [
             "Documental"
@@ -528,37 +516,54 @@
           "duration": "95 min"
         },
         {
-          "title": "Ricos sin dinero",
-          "synopsis": "Los AlThahabi siempre han presumido de dinero y estatus. Pero, cuando descubren que no son tan ricos como creían, tienen que seguir aparentándolo para sobrevivir",
-          "rating": 6.6,
+          "title": "Rolling Loud: La película",
+          "synopsis": "Un padre toma una decisión desacertada al llevar a su hijo pequeño a un desenfrenado festival de hip-hop, lo que desencadena el caos mientras ambos lidian con las multitudes, la seguridad y la dinámica familiar en compañía de personajes excéntricos.",
+          "rating": 8,
           "year": "2026",
           "genres": [
-            "Comedia",
-            "Drama"
+            "Comedia"
           ],
-          "cast": "آيدا القصي, أضواء بدر, زياد العمري, غادة الملا, فايز بن جريس",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bATrCc4HVGOkJyPb0GzEnBJrNQ0.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/e20V500lJHkQbf1iGet34Jc5h8r.jpg",
-          "slug": "ricos-sin-dinero",
-          "tmdbId": "1763619",
-          "type": "movie"
+          "cast": "Owen Wilson, Christian Convery, Jolene, Travis Scott, Matt Rife",
+          "posterUrl": "https://image.tmdb.org/t/p/original/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg",
+          "slug": "rolling-loud-la-pelicula",
+          "tmdbId": "1336166",
+          "type": "movie",
+          "duration": "99 min"
         },
         {
-          "title": "Boiuna: La leyenda del Amazonas",
-          "synopsis": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
-          "rating": 5.8,
+          "title": "Las cartas de la vida",
+          "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
+          "rating": 7.67,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Drama"
+          ],
+          "cast": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent",
+          "posterUrl": "https://image.tmdb.org/t/p/original/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+          "slug": "las-cartas-de-la-vida",
+          "tmdbId": "1458857",
+          "type": "movie",
+          "duration": "112 min"
+        },
+        {
+          "title": "Appofeniacs",
+          "synopsis": "When Duke goes on a frenzy of reckless deepfake creations, his callous disregard of consequences shows how, with a few clicks of an app on a phone, anyone can create a deceiving video of an unsuspecting victim and ruin their life… or end it.",
+          "rating": 6.5,
           "year": "2026",
           "genres": [
             "Terror",
             "Suspenso"
           ],
-          "cast": "Logan Marshall-Green, Kiana Madeira, Jessica Rothe, Jackson Bews, Juan Pablo Shuk",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hClFn5adaXOgmxrZyxixoKiBHEZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-          "slug": "boiuna-la-leyenda-del-amazonas",
-          "tmdbId": "1244523",
+          "cast": "Sean Gunn, Jermaine Fowler, Scarlett DeMeo, Michael Abbott Jr., Harley Bronwyn",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cjlTNyyd5hqB3vXHVkjwTyvN9I4.jpg",
+          "slug": "appofeniacs",
+          "tmdbId": "1401433",
           "type": "movie",
-          "duration": "104 min"
+          "duration": "91 min"
         }
       ]
     }
