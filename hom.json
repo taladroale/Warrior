@@ -37,21 +37,21 @@
       "duration": "145 min"
     },
     {
-      "title": "Digger",
-      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "rating": 7.5,
+      "title": "Insidious: Fuera del más allá",
+      "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
+      "rating": 7.6,
       "year": "2026",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Terror",
+        "Suspenso"
       ],
-      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
-      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-      "slug": "digger",
-      "tmdbId": "1248832",
+      "cast": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers",
+      "posterUrl": "https://image.tmdb.org/t/p/original/uIMddTcnM9P6PrJiDjsXIeYp902.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+      "slug": "insidious-fuera-del-mas-alla",
+      "tmdbId": "1291595",
       "type": "movie",
-      "duration": "128 min"
+      "duration": "106 min"
     },
     {
       "title": "La otra madre",
@@ -86,22 +86,21 @@
       "duration": "98 min"
     },
     {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.3,
+      "title": "Digger",
+      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "rating": 7.5,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
+        "Comedia",
+        "Drama"
       ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
+      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "slug": "digger",
+      "tmdbId": "1248832",
       "type": "movie",
-      "duration": "93 min"
+      "duration": "128 min"
     }
   ],
   "seriesHero": [
@@ -124,24 +123,6 @@
       "type": "series"
     },
     {
-      "title": "Link Click",
-      "synopsis": "Se dice que una imagen vale más que mil palabras. En este caso, guarda una cantidad infinita de secretos. Estos son secretos que solo Cheng Xiaoshi y Lu Guang pueden encontrar. En una pequeña tienda llamada \"Time Photo Studio\", los dos amigos brindan un servicio especial: usando sus extraordinarios poderes que les permiten ingresar fotografías, saltan a las imágenes que les traen los clientes para cumplir sus deseos. A través de los ojos del fotógrafo, viven los hechos que rodean la imagen e intentan descifrar cómo resolver la solicitud de su cliente.",
-      "rating": 8.07,
-      "year": "2021",
-      "genres": [
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía",
-        "Misterio"
-      ],
-      "cast": "Su Shangqing, 杨天翔, 李詩萌",
-      "posterUrl": "https://image.tmdb.org/t/p/original/gNeI4fA172iKOals4zP7e5Lqy6J.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2ns30HHRX5qgsVfEvvevwUcrD5E.jpg",
-      "slug": "link-click",
-      "tmdbId": "123542",
-      "type": "series"
-    },
-    {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "rating": 8.34,
@@ -157,6 +138,24 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "slug": "linternas",
       "tmdbId": "95350",
+      "type": "series"
+    },
+    {
+      "title": "Link Click",
+      "synopsis": "Se dice que una imagen vale más que mil palabras. En este caso, guarda una cantidad infinita de secretos. Estos son secretos que solo Cheng Xiaoshi y Lu Guang pueden encontrar. En una pequeña tienda llamada \"Time Photo Studio\", los dos amigos brindan un servicio especial: usando sus extraordinarios poderes que les permiten ingresar fotografías, saltan a las imágenes que les traen los clientes para cumplir sus deseos. A través de los ojos del fotógrafo, viven los hechos que rodean la imagen e intentan descifrar cómo resolver la solicitud de su cliente.",
+      "rating": 8.07,
+      "year": "2021",
+      "genres": [
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía",
+        "Misterio"
+      ],
+      "cast": "Su Shangqing, 杨天翔, 李詩萌",
+      "posterUrl": "https://image.tmdb.org/t/p/original/gNeI4fA172iKOals4zP7e5Lqy6J.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2ns30HHRX5qgsVfEvvevwUcrD5E.jpg",
+      "slug": "link-click",
+      "tmdbId": "123542",
       "type": "series"
     },
     {
@@ -230,7 +229,7 @@
           "cast": "Parineeti Chopra, Deven Bhojani, Adil Hussain, Shekhar Suman, Amol Palekar",
           "posterUrl": "https://image.tmdb.org/t/p/original/odpErwBCwZPrCqXbHt1COc00FK8.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
-          "slug": "reporting-live",
+          "slug": "en-directo",
           "tmdbId": "1389172",
           "type": "movie",
           "duration": "116 min"
@@ -238,7 +237,7 @@
         {
           "title": "Pioneras: solo querían jugar",
           "synopsis": "España, años setenta. A pesar de que la ideología franquista siguen profundamente arraigada en la sociedad, un grupo de jóvenes pioneras y un promotor ambicioso están a punto de cambiar la historia del fútbol femenino.",
-          "rating": 7.4,
+          "rating": 7.83,
           "year": "2026",
           "genres": [
             "Drama"
@@ -409,7 +408,7 @@
           "cast": "Parineeti Chopra, Deven Bhojani, Adil Hussain, Shekhar Suman, Amol Palekar",
           "posterUrl": "https://image.tmdb.org/t/p/original/odpErwBCwZPrCqXbHt1COc00FK8.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
-          "slug": "reporting-live",
+          "slug": "en-directo",
           "tmdbId": "1389172",
           "type": "movie",
           "duration": "116 min"
@@ -825,7 +824,7 @@
         {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 6.87,
+          "rating": 6.97,
           "year": "2026",
           "genres": [
             "Crimen",
