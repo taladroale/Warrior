@@ -37,6 +37,41 @@
       "duration": "145 min"
     },
     {
+      "title": "Digger",
+      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "rating": 7.5,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "slug": "digger",
+      "tmdbId": "1248832",
+      "type": "movie",
+      "duration": "128 min"
+    },
+    {
+      "title": "Resident Evil",
+      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 7.3,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "slug": "resident-evil-1423191",
+      "tmdbId": "1423191",
+      "type": "movie",
+      "duration": "93 min"
+    },
+    {
       "title": "Insidious: Fuera del más allá",
       "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
       "rating": 7.6,
@@ -68,78 +103,9 @@
       "tmdbId": "1400837",
       "type": "movie",
       "duration": "93 min"
-    },
-    {
-      "title": "Fall 2: Deadpoint",
-      "synopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final.",
-      "rating": 7.2,
-      "year": "2026",
-      "genres": [
-        "Suspenso"
-      ],
-      "cast": "Harriet Slater, Arsema Thomas, Tom Brittney, Virginia Gardner, สหจักร บุญธนกิจ",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-      "slug": "vertigo-2-punto-muerto",
-      "tmdbId": "1101412",
-      "type": "movie",
-      "duration": "98 min"
-    },
-    {
-      "title": "Digger",
-      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "rating": 7.5,
-      "year": "2026",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
-      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-      "slug": "digger",
-      "tmdbId": "1248832",
-      "type": "movie",
-      "duration": "128 min"
     }
   ],
   "seriesHero": [
-    {
-      "title": "Carrie",
-      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "rating": 8.4,
-      "year": "2026",
-      "genres": [
-        "Misterio",
-        "Drama",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "slug": "carrie",
-      "tmdbId": "288673",
-      "type": "series"
-    },
-    {
-      "title": "Linternas",
-      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.34,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
-      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "slug": "linternas",
-      "tmdbId": "95350",
-      "type": "series"
-    },
     {
       "title": "Link Click",
       "synopsis": "Se dice que una imagen vale más que mil palabras. En este caso, guarda una cantidad infinita de secretos. Estos son secretos que solo Cheng Xiaoshi y Lu Guang pueden encontrar. En una pequeña tienda llamada \"Time Photo Studio\", los dos amigos brindan un servicio especial: usando sus extraordinarios poderes que les permiten ingresar fotografías, saltan a las imágenes que les traen los clientes para cumplir sus deseos. A través de los ojos del fotógrafo, viven los hechos que rodean la imagen e intentan descifrar cómo resolver la solicitud de su cliente.",
@@ -159,19 +125,21 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.49,
-      "year": "2025",
+      "title": "Carrie",
+      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+      "rating": 8.4,
+      "year": "2026",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Misterio",
+        "Drama",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "slug": "carrie",
+      "tmdbId": "288673",
       "type": "series"
     },
     {
@@ -194,20 +162,53 @@
       "type": "series"
     },
     {
-      "title": "Los diarios de la boticaria",
-      "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
-      "rating": 8.84,
-      "year": "2023",
+      "title": "Linternas",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "rating": 8.34,
+      "year": "2026",
       "genres": [
-        "Animación",
         "Drama",
-        "Misterio"
+        "Misterio",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Aoi Yuki, Takeo Otsuka, Katsuyuki Konishi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
-      "slug": "los-diarios-de-la-boticaria",
-      "tmdbId": "220542",
+      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
+      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "slug": "linternas",
+      "tmdbId": "95350",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.49,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
+      "title": "Ted Lasso",
+      "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "rating": 8.36,
+      "year": "2020",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "slug": "ted-lasso",
+      "tmdbId": "97546",
       "type": "series"
     }
   ],
@@ -217,6 +218,77 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Scream 7",
+          "synopsis": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
+          "rating": 6.2,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Misterio",
+            "Crimen"
+          ],
+          "cast": "Neve Campbell, Courteney Cox, Isabel May, Jasmin Savoy Brown, Mason Gooding",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jgJCp2TOtTMGWS766tQhNcuFhjs.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
+          "slug": "scream-7",
+          "tmdbId": "1159559",
+          "type": "movie",
+          "duration": "114 min"
+        },
+        {
+          "title": "Oasis: Don't Look Back in Anger",
+          "synopsis": "Narra la gira de reunión de Liam y Noel Gallagher, \"Oasis Live ‘25\", uno de los regresos al rock más esperados. La película relata el acontecimiento musical de 2025, capturando tanto la experiencia de la banda como la de sus seguidores en todo el mundo. Esta perspectiva única incluye acceso a los ensayos, al detrás de cámaras y a los conciertos, además de las primeras entrevistas conjuntas con Noel y Liam en más de 20 años. Coincidiendo con la gira mundial de entradas agotadas de la banda, también explora el impacto emocional de este fenómeno cultural global y lo que su música significa para públicos y generaciones de todo el mundo.",
+          "rating": 7.5,
+          "year": "2026",
+          "genres": [
+            "Documental",
+            "Música"
+          ],
+          "cast": "Liam Gallagher, Noel Gallagher, Paul Arthurs, Gem Archer, Andy Bell",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
+          "slug": "oasis-dont-look-back-in-anger",
+          "tmdbId": "1447853",
+          "type": "movie",
+          "duration": "123 min"
+        },
+        {
+          "title": "Shell",
+          "synopsis": "Samantha es invitada al mundo glamuroso de Zoe Shannon, CEO de la empresa de bienestar SHELL. Cuando los pacientes de SHELL comienzan a desaparecer, Samantha se da cuenta de que Zoe podría estar ocultando un oscuro secreto.",
+          "rating": 4.98,
+          "year": "2025",
+          "genres": [
+            "Terror",
+            "Drama",
+            "Suspenso"
+          ],
+          "cast": "Elisabeth Moss, Kate Hudson, Kaia Gerber, Arian Moayed, Elizabeth Berkley",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fDYJh4EYnTevFe9eHOTlSBTeqpj.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/yGH7ke2rbeSI4IZx90UzIrMlWLq.jpg",
+          "slug": "shell",
+          "tmdbId": "787747",
+          "type": "movie",
+          "duration": "102 min"
+        },
+        {
+          "title": "V/H/S/Mixtape",
+          "synopsis": "Película episódica de la serie VHS con temática musical.",
+          "rating": 4.3,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Música",
+            "Suspenso"
+          ],
+          "cast": "Mike Derks, Michael Bishop, Brad Roberts, Casey Orr, Bob Gorman",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mpB4pgtUcc7rCLxvlknzCbAQQEE.jpg",
+          "slug": "vhsmixtape",
+          "tmdbId": "1742441",
+          "type": "movie",
+          "duration": "98 min"
+        },
         {
           "title": "En directo",
           "synopsis": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
@@ -287,14 +359,14 @@
         {
           "title": "La otra madre",
           "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-          "rating": 6.16,
+          "rating": 5.76,
           "year": "2026",
           "genres": [
             "Terror"
           ],
-          "cast": "Jessica Chastain, Arabella Olivia Clark, Jay Duplass, Dichen Lachman, Arian Moayed",
+          "cast": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed",
           "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
           "slug": "la-otra-madre",
           "tmdbId": "1400837",
           "type": "movie",
@@ -318,76 +390,6 @@
           "tmdbId": "1432547",
           "type": "movie",
           "duration": "86 min"
-        },
-        {
-          "title": "Matchbox: La película",
-          "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-          "rating": 7.63,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Comedia",
-            "Aventura"
-          ],
-          "cast": "John Cena, Jessica Biel, Sam Richardson, Arturo Castro, Teyonah Parris",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-          "slug": "matchbox-la-pelicula",
-          "tmdbId": "1148365",
-          "type": "movie",
-          "duration": "127 min"
-        },
-        {
-          "title": "El Precio de la Red",
-          "synopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
-          "rating": 7.6,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Historia",
-            "Suspenso"
-          ],
-          "cast": "Mikey Madison, Jeremy Allen White, Jeremy Strong, Bill Burr, Wunmi Mosaku",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-          "slug": "el-precio-de-la-red",
-          "tmdbId": "1281331",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
-          "title": "El Retorno",
-          "synopsis": "Un erudito sacerdote del Vaticano debe investigar un inesperado \"milagro\": Su hermano Abel ha salido de un coma irreversible jurando ser Jesucristo reencarnado.",
-          "rating": 0,
-          "year": "2025",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Miriam Giovanelli, Franco Masini, Luis Gnecco, Juanjo Puigcorbé, Elvira Onetto",
-          "posterUrl": "https://image.tmdb.org/t/p/original/eECi8bMz5XrAzqucLBLIXg90H4F.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/uXWHLN0Dy2UfpbesqVmEYg9imUn.jpg",
-          "slug": "el-retorno-1425752",
-          "tmdbId": "1425752",
-          "type": "movie",
-          "duration": "135 min"
-        },
-        {
-          "title": "SAKAMOTO DAYS",
-          "synopsis": "Un asesino de élite retirado que formó una familia con su esposa e hija debe protegerlas cuando su peligroso pasado regresa para amenazarlos.",
-          "rating": 7.25,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Comedia",
-            "Crimen"
-          ],
-          "cast": "目黒蓮, Fumiya Takahashi, Aya Ueto, 吉本実由, 横田真悠",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6IHypVNR2WBcfxU1E4WAZvCpN18.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cD3S6FZfCgNVpSdri7V7qQi17I3.jpg",
-          "slug": "sakamoto-days",
-          "tmdbId": "1548708",
-          "type": "movie",
-          "duration": "128 min"
         }
       ]
     },
@@ -396,6 +398,24 @@
       "type": "movie",
       "seeMoreSlug": "estrenos",
       "items": [
+        {
+          "title": "V/H/S/Mixtape",
+          "synopsis": "Película episódica de la serie VHS con temática musical.",
+          "rating": 4.3,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Música",
+            "Suspenso"
+          ],
+          "cast": "Mike Derks, Michael Bishop, Brad Roberts, Casey Orr, Bob Gorman",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mpB4pgtUcc7rCLxvlknzCbAQQEE.jpg",
+          "slug": "vhsmixtape",
+          "tmdbId": "1742441",
+          "type": "movie",
+          "duration": "98 min"
+        },
         {
           "title": "En directo",
           "synopsis": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
@@ -414,9 +434,25 @@
           "duration": "116 min"
         },
         {
+          "title": "La otra madre",
+          "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+          "rating": 5.76,
+          "year": "2026",
+          "genres": [
+            "Terror"
+          ],
+          "cast": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+          "slug": "la-otra-madre",
+          "tmdbId": "1400837",
+          "type": "movie",
+          "duration": "93 min"
+        },
+        {
           "title": "El Precio de la Red",
           "synopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
-          "rating": 7.6,
+          "rating": 7.32,
           "year": "2026",
           "genres": [
             "Drama",
@@ -432,32 +468,17 @@
           "duration": "112 min"
         },
         {
-          "title": "La otra madre",
-          "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-          "rating": 6.16,
-          "year": "2026",
-          "genres": [
-            "Terror"
-          ],
-          "cast": "Jessica Chastain, Arabella Olivia Clark, Jay Duplass, Dichen Lachman, Arian Moayed",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-          "slug": "la-otra-madre",
-          "tmdbId": "1400837",
-          "type": "movie",
-          "duration": "93 min"
-        },
-        {
           "title": "Padre de familia: Happy Hell-o-ween",
           "synopsis": "Brian y Stewie acaban en el infierno tras 24 temporadas de mal comportamiento y terminan al mando cuando consiguen sacar de quicio incluso al mismísimo diablo.",
-          "rating": 6.8,
+          "rating": 6.73,
           "year": "2026",
           "genres": [
             "Animación",
-            "Terror"
+            "Terror",
+            "Comedia"
           ],
           "cast": "Seth MacFarlane, Kieran Culkin, Alex Borstein, Seth Green, Mila Kunis",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/v4zLBCh6Gl8H4HI2rOBy0WN1qVz.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
           "slug": "family-guy-happy-hell-o-ween",
           "tmdbId": "1788735",
@@ -467,14 +488,14 @@
         {
           "title": "Matchbox: La película",
           "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-          "rating": 7.63,
+          "rating": 7.82,
           "year": "2026",
           "genres": [
             "Acción",
             "Comedia",
             "Aventura"
           ],
-          "cast": "John Cena, Jessica Biel, Sam Richardson, Arturo Castro, Teyonah Parris",
+          "cast": "John Cena, Jessica Biel, Arturo Castro, Sam Richardson, Teyonah Parris",
           "posterUrl": "https://image.tmdb.org/t/p/original/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
           "slug": "matchbox-la-pelicula",
@@ -483,9 +504,26 @@
           "duration": "127 min"
         },
         {
+          "title": "Appofeniacs",
+          "synopsis": "When Duke goes on a frenzy of reckless deepfake creations, his callous disregard of consequences shows how, with a few clicks of an app on a phone, anyone can create a deceiving video of an unsuspecting victim and ruin their life… or end it.",
+          "rating": 6.5,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Suspenso"
+          ],
+          "cast": "Aaron Holliday, Jermaine Fowler, Sean Gunn, Michael Abbott Jr., Will Brandt",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cjlTNyyd5hqB3vXHVkjwTyvN9I4.jpg",
+          "slug": "appofeniacs",
+          "tmdbId": "1401433",
+          "type": "movie",
+          "duration": "91 min"
+        },
+        {
           "title": "Schumacher 94: Nace una leyenda",
           "synopsis": "La primera victoria de Michael Schumacher en el Campeonato Mundial cobra vida gracias a entrevistas personales e imágenes de archivo de la famosa temporada de F1 del 94.",
-          "rating": 7.61,
+          "rating": 7.8,
           "year": "2026",
           "genres": [
             "Documental"
@@ -522,47 +560,13 @@
           "genres": [
             "Comedia"
           ],
-          "cast": "Owen Wilson, Christian Convery, Jolene, Travis Scott, Matt Rife",
+          "cast": "Owen Wilson, Matt Rife, Christian Convery, Jolene, Christine Ko",
           "posterUrl": "https://image.tmdb.org/t/p/original/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg",
           "slug": "rolling-loud-la-pelicula",
           "tmdbId": "1336166",
           "type": "movie",
           "duration": "99 min"
-        },
-        {
-          "title": "Las cartas de la vida",
-          "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 7.67,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Drama"
-          ],
-          "cast": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent",
-          "posterUrl": "https://image.tmdb.org/t/p/original/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-          "slug": "las-cartas-de-la-vida",
-          "tmdbId": "1458857",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
-          "title": "Appofeniacs",
-          "synopsis": "When Duke goes on a frenzy of reckless deepfake creations, his callous disregard of consequences shows how, with a few clicks of an app on a phone, anyone can create a deceiving video of an unsuspecting victim and ruin their life… or end it.",
-          "rating": 6.5,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Sean Gunn, Jermaine Fowler, Scarlett DeMeo, Michael Abbott Jr., Harley Bronwyn",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cjlTNyyd5hqB3vXHVkjwTyvN9I4.jpg",
-          "slug": "appofeniacs",
-          "tmdbId": "1401433",
-          "type": "movie",
-          "duration": "91 min"
         }
       ]
     }
@@ -576,7 +580,7 @@
         {
           "title": "Delirio mortal",
           "synopsis": "El padre de Wan (Taew Natapohn) es acusado de un asesinato mientras su matrimonio se derrumba. A punto de perderlo todo, debe encontrar al asesino antes de que sea tarde.",
-          "rating": 7.1,
+          "rating": 7.4,
           "year": "2026",
           "genres": [
             "Crimen",
