@@ -3,14 +3,14 @@
     {
       "title": "Matchbox: La película",
       "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-      "rating": 7.63,
+      "rating": 7.82,
       "year": "2026",
       "genres": [
         "Acción",
         "Comedia",
         "Aventura"
       ],
-      "cast": "John Cena, Jessica Biel, Sam Richardson, Arturo Castro, Teyonah Parris",
+      "cast": "John Cena, Jessica Biel, Arturo Castro, Sam Richardson, Teyonah Parris",
       "posterUrl": "https://image.tmdb.org/t/p/original/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
       "slug": "matchbox-la-pelicula",
@@ -21,7 +21,7 @@
     {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.38,
+      "rating": 8.41,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -39,7 +39,7 @@
     {
       "title": "Digger",
       "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "rating": 7.5,
+      "rating": 7.52,
       "year": "2026",
       "genres": [
         "Comedia",
@@ -64,10 +64,26 @@
         "Aventura"
       ],
       "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ntmaNFJ7O60n45E1E6HZlXeSV5e.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "slug": "resident-evil-1423191",
       "tmdbId": "1423191",
+      "type": "movie",
+      "duration": "93 min"
+    },
+    {
+      "title": "La otra madre",
+      "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+      "rating": 5.76,
+      "year": "2026",
+      "genres": [
+        "Terror"
+      ],
+      "cast": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "slug": "la-otra-madre",
+      "tmdbId": "1400837",
       "type": "movie",
       "duration": "93 min"
     },
@@ -87,22 +103,6 @@
       "tmdbId": "1291595",
       "type": "movie",
       "duration": "106 min"
-    },
-    {
-      "title": "La otra madre",
-      "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "rating": 6.16,
-      "year": "2026",
-      "genres": [
-        "Terror"
-      ],
-      "cast": "Jessica Chastain, Arabella Olivia Clark, Jay Duplass, Dichen Lachman, Arian Moayed",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-      "slug": "la-otra-madre",
-      "tmdbId": "1400837",
-      "type": "movie",
-      "duration": "93 min"
     }
   ],
   "seriesHero": [
@@ -578,6 +578,61 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Futurama",
+          "synopsis": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
+          "rating": 8.36,
+          "year": "1999",
+          "genres": [
+            "Animación",
+            "Comedia",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Billy West, Katey Sagal, John DiMaggio, Tress MacNeille, Maurice LaMarche",
+          "posterUrl": "https://image.tmdb.org/t/p/original/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+          "slug": "futurama",
+          "tmdbId": "615",
+          "type": "series"
+        },
+        {
+          "title": "Viviendo Con Un Asesino: Mi Hijo",
+          "synopsis": "Historias de padres que tienen que enfrentarse a la cruda y demoledora verdad de que su propio hijo se ha convertido en un monstruo capaz de cometer crímenes horribles. A través de entrevistas en primera persona, conoceremos cómo han vivido y digerido un descubrimiento que les ha cambiado la vida para siempre.",
+          "rating": 8.6,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Documental"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yRVjMeuY7E5lTtUPU9P7TNKA6mp.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/s7wJIVXtQXxZeg8yJNmJI65scJC.jpg",
+          "slug": "viviendo-con-un-asesino-mi-hijo",
+          "tmdbId": "315837",
+          "type": "series"
+        },
+        {
+          "title": "LEGO ONE PIECE",
+          "synopsis": "¡Los Sombrero de Paja surcan los mares en un especial de LEGO de dos partes! Acompaña a Luffy, Nami, Usopp y los demás en una increíble aventura recreada pieza a pieza.",
+          "rating": 7.68,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Acción",
+            "Aventura",
+            "Ciencia ficción",
+            "Fantasía",
+            "Comedia",
+            "Familia"
+          ],
+          "cast": "Iñaki Godoy, Emily Rudd, Mackenyu, Jacob Gibson, Taz Skylar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ywl1QmO2MBhMeRNxhg9LKdqSIr4.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
+          "slug": "lego-one-piece",
+          "tmdbId": "318918",
+          "type": "series"
+        },
+        {
           "title": "Delirio mortal",
           "synopsis": "El padre de Wan (Taew Natapohn) es acusado de un asesinato mientras su matrimonio se derrumba. A punto de perderlo todo, debe encontrar al asesino antes de que sea tarde.",
           "rating": 7.4,
@@ -686,56 +741,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
           "slug": "carrie",
           "tmdbId": "288673",
-          "type": "series"
-        },
-        {
-          "title": "Between Steps",
-          "synopsis": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
-          "rating": 10,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Choo Young-woo, 김소현, 김민, 이규성, 심혜진",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vyrpZOFIZJkQG8ZWTezmlNGav8R.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
-          "slug": "between-steps",
-          "tmdbId": "307106",
-          "type": "series"
-        },
-        {
-          "title": "American Hostage",
-          "synopsis": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
-          "rating": 6.3,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Drama"
-          ],
-          "cast": "Jon Hamm, Giovanni Ribisi, Kristoffer Polaha, William Jackson Harper, Mireille Enos",
-          "posterUrl": "https://image.tmdb.org/t/p/original/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
-          "slug": "american-hostage",
-          "tmdbId": "239618",
-          "type": "series"
-        },
-        {
-          "title": "American Horror Story",
-          "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
-          "rating": 8.08,
-          "year": "2011",
-          "genres": [
-            "Drama",
-            "Misterio",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
-          "slug": "american-horror-story",
-          "tmdbId": "1413",
           "type": "series"
         }
       ]
