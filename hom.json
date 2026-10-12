@@ -180,35 +180,37 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.49,
-      "year": "2025",
+      "title": "One Piece",
+      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "rating": 8.8,
+      "year": "1999",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Animación"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "slug": "one-piece",
+      "tmdbId": "37854",
       "type": "series"
     },
     {
-      "title": "Ted Lasso",
-      "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-      "rating": 8.36,
-      "year": "2020",
+      "title": "Mission: Yozakura Family",
+      "synopsis": "Taiyo Asano ha estado solo desde que murieron sus padres y el único que parece cuidar de él es su amigo de la infancia y compañero de clase, Mutsumi Yozakura. Pero Mutsumi tiene un secreto: ¡es la cabeza de una familia de espías! ¡Y además de eso, su hermano Kyoichiro es peligrosamente protector con ella! Para evitar que Kyoichiro lo mate, Taiyo y Mutsumi deben dar el último paso: ¡matrimonio! Porque en la familia Yozakura, la familia no puede matar a la familia.",
+      "rating": 6.78,
+      "year": "2024",
       "genres": [
-        "Drama",
+        "Animación",
         "Comedia"
       ],
-      "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "slug": "ted-lasso",
-      "tmdbId": "97546",
+      "cast": "Reiji Kawashima, Kaede Hondo, Katsuyuki Konishi, Akari Kito, Aoi Yuki",
+      "posterUrl": "https://image.tmdb.org/t/p/original/3PyzyGtkvnAQsCHPQSWoAU4cUYL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/xUC6mdVESvJN2umz8mNxKn89Htf.jpg",
+      "slug": "mission-yozakura-family",
+      "tmdbId": "216467",
       "type": "series"
     }
   ],
