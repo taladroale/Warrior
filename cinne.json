@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T17:02:33Z",
+  "updatedAt": "2026-10-12T14:22:14Z",
   "source": "cine",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -7933,6 +7933,7 @@
     "1616674": {"slug": "yo-antes-de-ser-yo"},
     "1618086": {"slug": "the-knock-knock-man"},
     "1618945": {"slug": "uf-solo-amigos"},
+    "1620080": {"slug": "mniej-obcy"},
     "1620551": {"slug": "sobran-las-palabras"},
     "1620655": {"slug": "by-his-hand"},
     "1621552": {"slug": "la-captura"},
