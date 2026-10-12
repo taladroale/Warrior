@@ -1,6 +1,24 @@
 {
   "movieHero": [
     {
+      "title": "Prácticamente magia 2",
+      "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+      "rating": 6.3,
+      "year": "2026",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ],
+      "cast": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña",
+      "posterUrl": "https://image.tmdb.org/t/p/original/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+      "slug": "practicamente-magia-2",
+      "tmdbId": "1302904",
+      "type": "movie",
+      "duration": "130 min"
+    },
+    {
       "title": "Matchbox: La película",
       "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
       "rating": 7.82,
@@ -86,23 +104,6 @@
       "tmdbId": "1248832",
       "type": "movie",
       "duration": "128 min"
-    },
-    {
-      "title": "Insidious: Fuera del más allá",
-      "synopsis": "La saga de terror vuelve a sus raíces sobrenaturales. Una nueva protagonista se enfrenta a misteriosas apariciones que van mucho más allá de los fenómenos de embrujamiento clásicos. El mal encuentra nuevos caminos en la realidad. Un trío de acechadores se infiltra en un tranquilo suburbio obligando a una nueva familia a entrar en el plano astral, donde descubren una aterradora verdad: el Más Allá está sangrando en el mundo real",
-      "rating": 7.6,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Suspenso"
-      ],
-      "cast": "Amelia Eve, Island Austin, Brandon Perea, Lin Shaye, Maisie Richardson-Sellers",
-      "posterUrl": "https://image.tmdb.org/t/p/original/uIMddTcnM9P6PrJiDjsXIeYp902.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-      "slug": "insidious-fuera-del-mas-alla",
-      "tmdbId": "1291595",
-      "type": "movie",
-      "duration": "106 min"
     }
   ],
   "seriesHero": [
@@ -136,7 +137,7 @@
         "Fantasía"
       ],
       "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "slug": "carrie",
       "tmdbId": "288673",
@@ -145,7 +146,7 @@
     {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.34,
+      "rating": 8.3,
       "year": "2026",
       "genres": [
         "Drama",
@@ -221,6 +222,21 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Terminator: la saga contra las máquinas",
+          "synopsis": "Un recorrido por la historia de una icónica saga de ciencia ficción, desde 1984 hasta su última entrega, centrada en la relación entre la humanidad y los peligros de la inteligencia artificial. Con imágenes de archivo y testimonios exclusivos, analiza cómo anticipó debates actuales y cómo Sarah Connor se convirtió en un icono feminista de la cultura popular.",
+          "rating": 7.07,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Ian Nathan, Robert Patrick, Kristanna Loken, Edward Furlong",
+          "posterUrl": "https://image.tmdb.org/t/p/original/nqfqy40R9rGJrdmk6C0Oifna71I.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/db0JyYJW1lp5rskvEHBJZEeFZNV.jpg",
+          "slug": "terminator-la-saga-contra-las-maquinas",
+          "tmdbId": "1758110",
+          "type": "movie"
+        },
+        {
           "title": "Scream 7",
           "synopsis": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
           "rating": 6.2,
@@ -231,7 +247,7 @@
             "Crimen"
           ],
           "cast": "Neve Campbell, Courteney Cox, Isabel May, Jasmin Savoy Brown, Mason Gooding",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jgJCp2TOtTMGWS766tQhNcuFhjs.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
           "slug": "scream-7",
           "tmdbId": "1159559",
@@ -373,25 +389,6 @@
           "tmdbId": "1400837",
           "type": "movie",
           "duration": "93 min"
-        },
-        {
-          "title": "Solo necesitas matar",
-          "synopsis": "Una soldado revive una y otra vez el día antes de morir en batalla contra una invasión alienígena. Para romper el ciclo y cambiar su destino, debe descubrir la clave para sobrevivir.",
-          "rating": 6.7,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Acción",
-            "Misterio",
-            "Ciencia ficción"
-          ],
-          "cast": "見上愛, Natsuki Hanae, Kana Hanazawa, ヒコロヒー, もう中学生",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6ILkBzgLiwDfhpyWBWKvh8iA35X.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/c2UTBDLSIFgxlz4XdjSooNGrMXb.jpg",
-          "slug": "solo-necesitas-matar",
-          "tmdbId": "1432547",
-          "type": "movie",
-          "duration": "86 min"
         }
       ]
     },
@@ -580,157 +577,133 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
-          "title": "Futurama",
-          "synopsis": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
-          "rating": 8.4,
-          "year": "1999",
+          "title": "Objetivo: París",
+          "synopsis": "Un grupo terrorista liderado por Jacob Pierce, excapitán de la Legión Francesa, irrumpe en un importante evento organizado en la embajada británica en París. Su objetivo es el ministro de Defensa francés, pero su guardaespaldas, Vincent Taleb, y una agente del MI6, Zara Taylor, frustran sus planes. Sin embargo, este asalto no es más que el primer ataque en un plan perfectamente construido.",
+          "rating": 7,
+          "year": "2024",
           "genres": [
-            "Animación",
-            "Comedia",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Billy West, Katey Sagal, John DiMaggio, Tress MacNeille, Maurice LaMarche",
-          "posterUrl": "https://image.tmdb.org/t/p/original/sqQGouRucsrFV2FgIZEKKkP5fSb.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-          "slug": "futurama",
-          "tmdbId": "615",
-          "type": "series"
-        },
-        {
-          "title": "Viviendo Con Un Asesino: Mi Hijo",
-          "synopsis": "Historias de padres que tienen que enfrentarse a la cruda y demoledora verdad de que su propio hijo se ha convertido en un monstruo capaz de cometer crímenes horribles. A través de entrevistas en primera persona, conoceremos cómo han vivido y digerido un descubrimiento que les ha cambiado la vida para siempre.",
-          "rating": 8.6,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Documental"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yRVjMeuY7E5lTtUPU9P7TNKA6mp.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/s7wJIVXtQXxZeg8yJNmJI65scJC.jpg",
-          "slug": "viviendo-con-un-asesino-mi-hijo",
-          "tmdbId": "315837",
-          "type": "series"
-        },
-        {
-          "title": "LEGO ONE PIECE",
-          "synopsis": "¡Los Sombrero de Paja surcan los mares en un especial de LEGO de dos partes! Acompaña a Luffy, Nami, Usopp y los demás en una increíble aventura recreada pieza a pieza.",
-          "rating": 7.68,
-          "year": "2026",
-          "genres": [
-            "Animación",
             "Acción",
             "Aventura",
-            "Ciencia ficción",
-            "Fantasía",
-            "Comedia",
-            "Familia"
+            "Guerra"
           ],
-          "cast": "Iñaki Godoy, Emily Rudd, Mackenyu, Jacob Gibson, Taz Skylar",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ywl1QmO2MBhMeRNxhg9LKdqSIr4.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
-          "slug": "lego-one-piece",
-          "tmdbId": "318918",
+          "cast": "Tewfik Jallab, Ritu Arya, Ross Anderson, Agung Bagus, Ben Cura",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2Gs0L3x1S5w7A10Iv2MShgiwxZl.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3yoTM5JtkxnPZvVzQOrL0c2ILVM.jpg",
+          "slug": "objetivo-paris",
+          "tmdbId": "232018",
           "type": "series"
         },
         {
-          "title": "Delirio mortal",
-          "synopsis": "El padre de Wan (Taew Natapohn) es acusado de un asesinato mientras su matrimonio se derrumba. A punto de perderlo todo, debe encontrar al asesino antes de que sea tarde.",
-          "rating": 7.4,
-          "year": "2026",
+          "title": "South Park",
+          "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+          "rating": 8.33,
+          "year": "1997",
           "genres": [
-            "Crimen",
-            "Misterio",
+            "Comedia",
+            "Animación"
+          ],
+          "cast": "Matt Stone, Mona Marshall, Jennifer Howell, John Hansen, Adrien Beard",
+          "posterUrl": "https://image.tmdb.org/t/p/original/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+          "slug": "south-park",
+          "tmdbId": "2190",
+          "type": "series"
+        },
+        {
+          "title": "Sacrifice",
+          "synopsis": "The series follows Daniella Hernandez, a highly sought-after entertainment lawyer in Los Angeles, as she navigates the nefarious lives of her rich and famous clients while dealing with her own complicated personal life as a recovering alcoholic who compensates for her suppressed addiction with men and the adrenaline of defending the worst in the entertainment world against an over-zealous D.A. sworn to bring them all to justice. She is the classic conundrum of doing good for bad reasons and doing bad for good reasons.",
+          "rating": 9,
+          "year": "2021",
+          "genres": [
             "Drama"
           ],
-          "cast": "ณฐพร เตมีรักษ์, เจษฎ์พิพัฒ ติละพรพัฒน์, สุรศักดิ์ ชัยอรรถ, วชิรวิชญ์ ไพศาลกุลวงศ์, ศิราณี ญาณกิตติกานต์",
-          "posterUrl": "https://image.tmdb.org/t/p/original/aJboceWct3FYptVPavlhUOjiiSe.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cae4gjklRHnzQTmVCxpZnOdPw71.jpg",
-          "slug": "delirio-mortal",
-          "tmdbId": "331979",
+          "cast": "Paula Patton",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wo272z8k2OBJu8j4vjxJovCEAcZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5tMQYIpLEnzzCtEybLY9LdSlqnP.jpg",
+          "slug": "sacrifice",
+          "tmdbId": "137948",
           "type": "series"
         },
         {
-          "title": "Mis muertos tristes",
-          "synopsis": "Pablo Larraín (\"El Conde\") desentraña las complejidades de lo sobrenatural, el terror y los lazos familiares en esta miniserie con Mercedes Morán que quedará grabada en tu memoria",
-          "rating": 6.42,
+          "title": "Prefiero la muerte",
+          "synopsis": "Un grupo de adolescentes intenta salvar su pueblo de una invasión de zombis después de que Archie, el 'loser' oficial del instituto, sea mordido por uno de ellos.",
+          "rating": 7.9,
           "year": "2026",
           "genres": [
-            "Drama",
-            "Ciencia ficción",
-            "Fantasía"
+            "Acción",
+            "Aventura",
+            "Comedia"
           ],
-          "cast": "Mercedes Morán, Dolores Fonzi, Alejandra Flechner, Carolina Sánchez Álvarez, Carlos Portaluppi",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7Yv3av3ULmndtGYC4n0zWNVakY5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/gvBZ7qSCsszgUX74y8VLNw2in03.jpg",
-          "slug": "mis-muertos-tristes",
-          "tmdbId": "310290",
+          "cast": "Fernanda Castillo, Luis Fernando Peña, Armando Hernández, Tiaré Scanda, Farah Justiniani",
+          "posterUrl": "https://image.tmdb.org/t/p/original/693nWyAysWVy6Wt8X2B4e8BrydZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
+          "slug": "prefiero-la-muerte",
+          "tmdbId": "335227",
           "type": "series"
         },
         {
-          "title": "Habeas Corpus",
-          "synopsis": "Un reconocido profesor de derecho y un equipo de estudiantes intentan demostrar la inocencia de un convicto, pero el estudiante más brillante está secretamente conectado con su pasado.",
-          "rating": 7.43,
+          "title": "Colisión",
+          "synopsis": "Muerto el magnate Miguel Ángel en un misterioso accidente, su hija Zoé y su esposa separada Belén luchan por su empresa.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Margarita Rosa de Francisco, Macarena Achaga, Diego Klein, Christian Vázquez, Juan Pablo Castaneda",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4loiHfZZx027yP0CtErtCPbkTc1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
+          "slug": "colision",
+          "tmdbId": "331033",
+          "type": "series"
+        },
+        {
+          "title": "Cuatro manos, dos sonatas",
+          "synopsis": "Cuando dos jóvenes pianistas de mundos completamente diferentes se conocen en una prestigiosa escuela de música, las melodías de sus vidas se entrelazan íntimamente.",
+          "rating": 9.3,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "송강, 이준영, 장규리, 윤세아, 정진영",
+          "posterUrl": "https://image.tmdb.org/t/p/original/d1EaBYk2EAd9LiAEM4hX7uJraTF.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
+          "slug": "cuatro-manos-dos-sonatas",
+          "tmdbId": "305644",
+          "type": "series"
+        },
+        {
+          "title": "Cautiva",
+          "synopsis": "Una joven devota entra en un convento de clausura sin sospechar que los abusos de la madre superiora acabarán quebrando su espíritu.",
+          "rating": 7.71,
           "year": "2026",
           "genres": [
             "Drama",
             "Crimen"
           ],
-          "cast": "Marjorie Estiano, Any Gabrielly, Vladimir Brichta, Hipólyto, Danton Mello",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pMkQ9LyDJIkMjyfnJ7TNJbKSEEv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg",
-          "slug": "habeas-corpus",
-          "tmdbId": "308963",
+          "cast": "Carolina Kopelioff, Lorena Vega, Valeria Lois, Tomás Wicz, Lautaro Bettoni",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uWCL01IPrfDTjO2VTzMwZvVPzXv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
+          "slug": "cautiva",
+          "tmdbId": "333631",
           "type": "series"
         },
         {
-          "title": "Team Moms: Baseball",
-          "synopsis": "Sigue a un grupo de padres cuyos hijos asisten a Legendary Prep Academy: una escuela de entrenamiento de béisbol de primera en Scottsdale, Arizona, dedicada a formar la próxima generación de atletas estrella.",
-          "rating": 7.5,
+          "title": "Habilidad física: 100-México",
+          "synopsis": "Albañiles, policías, campeones de CrossFit y más levantan pesos enormes, se enfrentan en combates cuerpo a cuerpo y superan pruebas físicas implacables por un atractivo premio.",
+          "rating": 8.61,
           "year": "2026",
           "genres": [],
-          "cast": "Salvatore Baldri, Dallas Baldri, Rylee Baldri, KJ Dunmar, Melanie Dunmar",
-          "posterUrl": "https://image.tmdb.org/t/p/original/DApMG3VJlsctuBNTig95eOarHB.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/xXAYs3cDMFHUOgB7eVT5LhwV3Z1.jpg",
-          "slug": "team-moms-baseball",
-          "tmdbId": "332118",
+          "cast": "Carlos Salcido, Pascal Nadaud, Juan Francisco Estrada, Pee Wee, Irma Garcia",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1XlmHy8pD2XQg0cttKA5xHt5sYh.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg",
+          "slug": "habilidad-fisica-100-mexico",
+          "tmdbId": "332282",
           "type": "series"
         },
         {
-          "title": "Shaque: No confíes en nadie",
-          "synopsis": "Nueve años después de que secuestraran a su bebé, una madre sigue buscándolo sin descanso y acaba destapando secretos que la hacen dudar incluso de lo que ve.",
-          "rating": 6.7,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Misterio",
-            "Drama"
-          ],
-          "cast": "Parineeti Chopra, Jennifer Winget, Tahir Raj Bhasin, Anup Soni, Sumeet Vyas",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2X0O4Bl3Ef2cQqH7d9O2hRIZvMj.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg",
-          "slug": "shaque-no-confies-en-nadie",
-          "tmdbId": "285147",
-          "type": "series"
-        },
-        {
-          "title": "El Billete Dorado de Willy Wonka",
-          "synopsis": "En este reality único en su género, los participantes entran en la fábrica de chocolate de Wonka para enfrentarse a juegos, pruebas y tentaciones impredecibles.",
-          "rating": 6,
-          "year": "2026",
-          "genres": [],
-          "cast": "Alison Holloway",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qOeafYT2nXnG9YPFUzlUkHdb4AE.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg",
-          "slug": "el-billete-dorado-de-willy-wonka",
-          "tmdbId": "286940",
-          "type": "series"
-        },
-        {
-          "title": "Carrie",
-          "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-          "rating": 8.4,
+          "title": "Coven Academy: El hechizo de las brujas",
+          "synopsis": "En el corazón embrujado de Nueva Orleans, \"Coven Academy: El hechizo de las brujas\" sigue a tres brujas adolescentes y a sus peligrosamente encantadores compañeros brujos en un selecto internado mágico donde el poder es moneda de cambio, los secretos son letales y la atracción es una desventaja. Atrapados entre antiguas guerras sobrenaturales e intereses amorosos prohibidos, el aquelarre debe decidir hasta dónde están dispuestos a llegar para proteger su ciudad y a sí mismos.",
+          "rating": 7.27,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -738,11 +711,26 @@
             "Ciencia ficción",
             "Fantasía"
           ],
-          "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-          "slug": "carrie",
-          "tmdbId": "288673",
+          "cast": "Malina Weissman, Malachi Barton, Jordan Leftwich, Ora Duplass, Louis Thresher",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+          "slug": "coven-academy-el-hechizo-de-las-brujas",
+          "tmdbId": "298505",
+          "type": "series"
+        },
+        {
+          "title": "WAR",
+          "synopsis": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
+          "rating": 7.9,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Dominic West, Sienna Miller, Phoebe Fox, James McArdle, Nina Sosanya",
+          "posterUrl": "https://image.tmdb.org/t/p/original/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
+          "slug": "war",
+          "tmdbId": "298852",
           "type": "series"
         }
       ]
@@ -764,16 +752,16 @@
             "Fantasía"
           ],
           "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
           "slug": "carrie",
           "tmdbId": "288673",
           "type": "series"
         },
         {
-          "title": "Between Steps",
-          "synopsis": "Minjae, a former swimmer, lost a leg to illness. Now a PhD student, he's built a quiet, controlled life, until Yujin, a master's student starting over after losing her way, throws it off balance. In a robotics lab, their romance turns fiery, bittersweet, and tender.",
-          "rating": 10,
+          "title": "Between steps",
+          "synopsis": "Minjae, un antiguo nadador que perdió una pierna debido a una enfermedad, lleva una vida tranquila y controlada mientras estudia un doctorado. Sin embargo, todo cambia cuando conoce a Yujin, una estudiante de máster que intenta empezar de nuevo tras perder el rumbo de su vida. En un laboratorio de robótica, surge entre ellos un romance apasionado, agridulce y lleno de ternura.",
+          "rating": 7.8,
           "year": "2026",
           "genres": [
             "Drama",
@@ -804,7 +792,7 @@
         {
           "title": "Amor",
           "synopsis": "La fundadora de una aplicación de citas y su aventurado competidor ponen a prueba sus teorías opuestas sobre el amor con un reto de 60 días para encontrar a la pareja ideal.",
-          "rating": 10,
+          "rating": 8,
           "year": "2026",
           "genres": [
             "Drama",
@@ -818,9 +806,57 @@
           "type": "series"
         },
         {
+          "title": "WAR",
+          "synopsis": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
+          "rating": 7.9,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Dominic West, Sienna Miller, Phoebe Fox, James McArdle, Nina Sosanya",
+          "posterUrl": "https://image.tmdb.org/t/p/original/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
+          "slug": "war",
+          "tmdbId": "298852",
+          "type": "series"
+        },
+        {
+          "title": "Al este del Edén",
+          "synopsis": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Florence Pugh, Christopher Abbott, Mike Faist, Hoon Lee, Ciarán Hinds",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+          "slug": "al-este-del-eden",
+          "tmdbId": "258165",
+          "type": "series"
+        },
+        {
+          "title": "Coven Academy: El hechizo de las brujas",
+          "synopsis": "En el corazón embrujado de Nueva Orleans, \"Coven Academy: El hechizo de las brujas\" sigue a tres brujas adolescentes y a sus peligrosamente encantadores compañeros brujos en un selecto internado mágico donde el poder es moneda de cambio, los secretos son letales y la atracción es una desventaja. Atrapados entre antiguas guerras sobrenaturales e intereses amorosos prohibidos, el aquelarre debe decidir hasta dónde están dispuestos a llegar para proteger su ciudad y a sí mismos.",
+          "rating": 7.27,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Malina Weissman, Malachi Barton, Jordan Leftwich, Ora Duplass, Louis Thresher",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+          "slug": "coven-academy-el-hechizo-de-las-brujas",
+          "tmdbId": "298505",
+          "type": "series"
+        },
+        {
           "title": "LEGO ONE PIECE",
           "synopsis": "¡Los Sombrero de Paja surcan los mares en un especial de LEGO de dos partes! Acompaña a Luffy, Nami, Usopp y los demás en una increíble aventura recreada pieza a pieza.",
-          "rating": 7.68,
+          "rating": 7.7,
           "year": "2026",
           "genres": [
             "Animación",
@@ -839,24 +875,9 @@
           "type": "series"
         },
         {
-          "title": "4 Blocks Zero",
-          "synopsis": "Precuela de \"4 Blocks\" (2017-2019). Traslada la acción al Berlín de los años 90, mucho antes de que Toni Hamady se convirtiera en el líder criminal más poderoso de la ciudad. En esta ocasión, la historia se centra en los orígenes de la familia, que tras huir del Líbano intenta empezar de nuevo en Alemania enfrentándose a la burocracia, los prejuicios y la falta de un permiso de residencia estable. El padre de familia, Malik, sobrevive trabajando como cocinero sin formación mientras trata de sacar adelante a sus cuatro hijos: Ali, Abbas, Marwan y Amara. La situación cambia radicalmente cuando Ibrahim, cuñado de Malik, regresa a Berlín después de pasar ocho años en prisión. Su vuelta desencadena una cadena de acontecimientos que termina arrastrando a toda la familia hacia el crimen organizado de la capital alemana y pone a prueba sus principios.",
-          "rating": 5.3,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Tariq Al Saies, Tareq Nassery, Rami Fadel Khalaf, Soufiane El Mesaudi, Bella Dayne",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yvIUYRLeTF9KOQL12ojleVyqxAk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
-          "slug": "4-blocks-zero",
-          "tmdbId": "310133",
-          "type": "series"
-        },
-        {
           "title": "El problema final",
           "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 7,
+          "rating": 7.11,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -882,39 +903,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
           "slug": "paolo",
           "tmdbId": "288385",
-          "type": "series"
-        },
-        {
-          "title": "Un mundo diferente",
-          "synopsis": "Una nueva clase entra en el campus del Hillman College y caras muy queridas vuelven a casa. En el centro está Deborah Wayne, la cariñosamente protegida hija menor de Whitley y Dwayne, un espíritu libre con un don para ser el centro de atención y un gran corazón que todavía está descubriendo su propio camino en Hillman. Por el camino, se le une una nueva generación que refleja la amplitud de la vida negra en el campus: Rashida Duvall, una estudiante de justicia criminal de primera generación; Shaquille Johnson, un atleta de cinco estrellas que elige su legado; Amir Rodale, un avispado estudiante de psicología más dado a arreglar los problemas de los demás que a enfrentarse a los suyos propios; Hazel Henry, una chica de pueblo criada en la iglesia que define sus propios valores; y Kojo Achebe, un empresario de la moda ghanés-nigeriano que encuentra el valor para seguir su visión.",
-          "rating": 7.36,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Maleah Joi Moon, Alijah Kai, Cornell Young IV, Jordan Aaron Hall, Kennedi Reece",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
-          "slug": "un-mundo-diferente",
-          "tmdbId": "305357",
-          "type": "series"
-        },
-        {
-          "title": "Shaque: No confíes en nadie",
-          "synopsis": "Nueve años después de que secuestraran a su bebé, una madre sigue buscándolo sin descanso y acaba destapando secretos que la hacen dudar incluso de lo que ve.",
-          "rating": 6.7,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Misterio",
-            "Drama"
-          ],
-          "cast": "Parineeti Chopra, Jennifer Winget, Tahir Raj Bhasin, Anup Soni, Sumeet Vyas",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2X0O4Bl3Ef2cQqH7d9O2hRIZvMj.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg",
-          "slug": "shaque-no-confies-en-nadie",
-          "tmdbId": "285147",
           "type": "series"
         }
       ]
