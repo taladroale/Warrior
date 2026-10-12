@@ -37,21 +37,20 @@
       "duration": "145 min"
     },
     {
-      "title": "Digger",
-      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "rating": 7.52,
+      "title": "La otra madre",
+      "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+      "rating": 5.76,
       "year": "2026",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Terror"
       ],
-      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
-      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-      "slug": "digger",
-      "tmdbId": "1248832",
+      "cast": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "slug": "la-otra-madre",
+      "tmdbId": "1400837",
       "type": "movie",
-      "duration": "128 min"
+      "duration": "93 min"
     },
     {
       "title": "Resident Evil",
@@ -72,20 +71,21 @@
       "duration": "93 min"
     },
     {
-      "title": "La otra madre",
-      "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "rating": 5.76,
+      "title": "Digger",
+      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "rating": 7.52,
       "year": "2026",
       "genres": [
-        "Terror"
+        "Comedia",
+        "Drama"
       ],
-      "cast": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "slug": "la-otra-madre",
-      "tmdbId": "1400837",
+      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "slug": "digger",
+      "tmdbId": "1248832",
       "type": "movie",
-      "duration": "93 min"
+      "duration": "128 min"
     },
     {
       "title": "Insidious: Fuera del más allá",
@@ -143,6 +143,24 @@
       "type": "series"
     },
     {
+      "title": "Linternas",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "rating": 8.34,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
+      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "slug": "linternas",
+      "tmdbId": "95350",
+      "type": "series"
+    },
+    {
       "title": "Black Clover",
       "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
       "rating": 8.49,
@@ -159,24 +177,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
       "slug": "black-clover",
       "tmdbId": "73223",
-      "type": "series"
-    },
-    {
-      "title": "Linternas",
-      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.34,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
-      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "slug": "linternas",
-      "tmdbId": "95350",
       "type": "series"
     },
     {
@@ -580,7 +580,7 @@
         {
           "title": "Futurama",
           "synopsis": "Serie de animación creada por Matt Groening (creador también de Los Simpson) y David X. Cohen (guionista también de Los Simpson). Ambientada en la ciudad de \"Nueva Nueva York\" en el año 3000, la serie comienza con Philip J. Fry, un joven repartidor de pizza neoyorquino fracasado y desmotivado que es criogénicamente congelado por accidente la Nochevieja de 1999. Mil años después es descongelado, encontrándose en Nueva Nueva York el 31 de diciembre de 2999. El intento de Fry por escapar de la entonces obligatoria asignación laboral como repartidor termina cuando es contratado en Planet Express, una pequeña compañía de mensajería intergaláctica propiedad de su sobrino lejano, como repartidor. La serie trata sobre las aventuras de Fry y sus colegas cuando viajan por el universo haciendo repartos para Planet Express.",
-          "rating": 8.36,
+          "rating": 8.4,
           "year": "1999",
           "genres": [
             "Animación",
@@ -816,34 +816,24 @@
           "type": "series"
         },
         {
-          "title": "Paolo",
-          "synopsis": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
-          "rating": 5.5,
+          "title": "LEGO ONE PIECE",
+          "synopsis": "¡Los Sombrero de Paja surcan los mares en un especial de LEGO de dos partes! Acompaña a Luffy, Nami, Usopp y los demás en una increíble aventura recreada pieza a pieza.",
+          "rating": 7.68,
           "year": "2026",
           "genres": [
-            "Misterio"
+            "Animación",
+            "Acción",
+            "Aventura",
+            "Ciencia ficción",
+            "Fantasía",
+            "Comedia",
+            "Familia"
           ],
-          "cast": "Jérôme Niel, Yoann Gasiorowski, Magalie Lépine-Blondeau, Marie Oppert, Léo Chalié",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4EGhg689jbAO865qWs8AznalyWl.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
-          "slug": "paolo",
-          "tmdbId": "288385",
-          "type": "series"
-        },
-        {
-          "title": "El problema final",
-          "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 6.97,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Misterio"
-          ],
-          "cast": "Jose Coronado, María Valverde, Martiño Rivas, Maribel Verdú, Gonzalo de Castro",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
-          "slug": "el-problema-final",
-          "tmdbId": "290720",
+          "cast": "Iñaki Godoy, Emily Rudd, Mackenyu, Jacob Gibson, Taz Skylar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ywl1QmO2MBhMeRNxhg9LKdqSIr4.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
+          "slug": "lego-one-piece",
+          "tmdbId": "318918",
           "type": "series"
         },
         {
@@ -859,6 +849,37 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
           "slug": "4-blocks-zero",
           "tmdbId": "310133",
+          "type": "series"
+        },
+        {
+          "title": "El problema final",
+          "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
+          "rating": 7,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Misterio"
+          ],
+          "cast": "Jose Coronado, María Valverde, Martiño Rivas, Maribel Verdú, Gonzalo de Castro",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+          "slug": "el-problema-final",
+          "tmdbId": "290720",
+          "type": "series"
+        },
+        {
+          "title": "Paolo",
+          "synopsis": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
+          "rating": 5.5,
+          "year": "2026",
+          "genres": [
+            "Misterio"
+          ],
+          "cast": "Jérôme Niel, Yoann Gasiorowski, Magalie Lépine-Blondeau, Marie Oppert, Léo Chalié",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4EGhg689jbAO865qWs8AznalyWl.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
+          "slug": "paolo",
+          "tmdbId": "288385",
           "type": "series"
         },
         {
@@ -892,19 +913,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/uBk4ho8aHGnAG5zNX182mGMeAeZ.jpg",
           "slug": "shaque-no-confies-en-nadie",
           "tmdbId": "285147",
-          "type": "series"
-        },
-        {
-          "title": "Team Moms: Baseball",
-          "synopsis": "Sigue a un grupo de padres cuyos hijos asisten a Legendary Prep Academy: una escuela de entrenamiento de béisbol de primera en Scottsdale, Arizona, dedicada a formar la próxima generación de atletas estrella.",
-          "rating": 7.5,
-          "year": "2026",
-          "genres": [],
-          "cast": "Salvatore Baldri, Dallas Baldri, Rylee Baldri, KJ Dunmar, Melanie Dunmar",
-          "posterUrl": "https://image.tmdb.org/t/p/original/DApMG3VJlsctuBNTig95eOarHB.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/xXAYs3cDMFHUOgB7eVT5LhwV3Z1.jpg",
-          "slug": "team-moms-baseball",
-          "tmdbId": "332118",
           "type": "series"
         }
       ]
