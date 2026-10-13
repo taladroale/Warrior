@@ -55,22 +55,6 @@
       "duration": "145 min"
     },
     {
-      "title": "La otra madre",
-      "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "rating": 5.76,
-      "year": "2026",
-      "genres": [
-        "Terror"
-      ],
-      "cast": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "slug": "la-otra-madre",
-      "tmdbId": "1400837",
-      "type": "movie",
-      "duration": "93 min"
-    },
-    {
       "title": "Digger",
       "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
       "rating": 7.52,
@@ -86,6 +70,22 @@
       "tmdbId": "1248832",
       "type": "movie",
       "duration": "128 min"
+    },
+    {
+      "title": "La otra madre",
+      "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+      "rating": 5.76,
+      "year": "2026",
+      "genres": [
+        "Terror"
+      ],
+      "cast": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "slug": "la-otra-madre",
+      "tmdbId": "1400837",
+      "type": "movie",
+      "duration": "93 min"
     },
     {
       "title": "Resident Evil",
@@ -162,6 +162,21 @@
       "type": "series"
     },
     {
+      "title": "Condena",
+      "synopsis": "Un prisionero consumido por la culpa, un oficial con una elección imposible. ¿Qué se necesita para sobrevivir? Una tensa historia de castigo y principios, protagonizada por Sean Bean y Stephen Graham.",
+      "rating": 7.6,
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "cast": "Bella Ramsey, Siobhan Finneran, Jodie Whittaker, Tamara Lawrance",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ugqOtb5u2K6mKMPr1MpIi6PUd5Z.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gJahHqSvFrBjjt3AX6oOL2B0yMP.jpg",
+      "slug": "condena",
+      "tmdbId": "126116",
+      "type": "series"
+    },
+    {
       "title": "Black Clover",
       "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
       "rating": 8.49,
@@ -181,36 +196,19 @@
       "type": "series"
     },
     {
-      "title": "Condena",
-      "synopsis": "Un prisionero consumido por la culpa, un oficial con una elección imposible. ¿Qué se necesita para sobrevivir? Una tensa historia de castigo y principios, protagonizada por Sean Bean y Stephen Graham.",
-      "rating": 7.6,
-      "year": "2021",
+      "title": "Ted Lasso",
+      "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "rating": 8.36,
+      "year": "2020",
       "genres": [
-        "Drama"
+        "Drama",
+        "Comedia"
       ],
-      "cast": "Bella Ramsey, Siobhan Finneran, Jodie Whittaker, Tamara Lawrance",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ugqOtb5u2K6mKMPr1MpIi6PUd5Z.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gJahHqSvFrBjjt3AX6oOL2B0yMP.jpg",
-      "slug": "condena",
-      "tmdbId": "126116",
-      "type": "series"
-    },
-    {
-      "title": "One Piece",
-      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
-      "rating": 8.8,
-      "year": "1999",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Comedia",
-        "Animación"
-      ],
-      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "slug": "one-piece",
-      "tmdbId": "37854",
+      "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "slug": "ted-lasso",
+      "tmdbId": "97546",
       "type": "series"
     }
   ],
@@ -689,7 +687,7 @@
         {
           "title": "Habilidad física: 100-México",
           "synopsis": "Albañiles, policías, campeones de CrossFit y más levantan pesos enormes, se enfrentan en combates cuerpo a cuerpo y superan pruebas físicas implacables por un atractivo premio.",
-          "rating": 8.61,
+          "rating": 8.6,
           "year": "2026",
           "genres": [],
           "cast": "Carlos Salcido, Pascal Nadaud, Juan Francisco Estrada, Pee Wee, Irma Garcia",
@@ -789,6 +787,21 @@
           "type": "series"
         },
         {
+          "title": "WAR",
+          "synopsis": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
+          "rating": 7.9,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Dominic West, Sienna Miller, Phoebe Fox, James McArdle, Nina Sosanya",
+          "posterUrl": "https://image.tmdb.org/t/p/original/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
+          "slug": "war",
+          "tmdbId": "298852",
+          "type": "series"
+        },
+        {
           "title": "Amor",
           "synopsis": "La fundadora de una aplicación de citas y su aventurado competidor ponen a prueba sus teorías opuestas sobre el amor con un reto de 60 días para encontrar a la pareja ideal.",
           "rating": 8,
@@ -805,33 +818,20 @@
           "type": "series"
         },
         {
-          "title": "WAR",
-          "synopsis": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
+          "title": "Prefiero la muerte",
+          "synopsis": "Un grupo de adolescentes intenta salvar su pueblo de una invasión de zombis después de que Archie, el 'loser' oficial del instituto, sea mordido por uno de ellos.",
           "rating": 7.9,
           "year": "2026",
           "genres": [
-            "Drama"
+            "Acción",
+            "Aventura",
+            "Comedia"
           ],
-          "cast": "Dominic West, Sienna Miller, Phoebe Fox, James McArdle, Nina Sosanya",
-          "posterUrl": "https://image.tmdb.org/t/p/original/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
-          "slug": "war",
-          "tmdbId": "298852",
-          "type": "series"
-        },
-        {
-          "title": "Al este del Edén",
-          "synopsis": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Florence Pugh, Christopher Abbott, Mike Faist, Hoon Lee, Ciarán Hinds",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
-          "slug": "al-este-del-eden",
-          "tmdbId": "258165",
+          "cast": "Fernanda Castillo, Luis Fernando Peña, Armando Hernández, Tiaré Scanda, Farah Justiniani",
+          "posterUrl": "https://image.tmdb.org/t/p/original/693nWyAysWVy6Wt8X2B4e8BrydZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
+          "slug": "prefiero-la-muerte",
+          "tmdbId": "335227",
           "type": "series"
         },
         {
@@ -850,6 +850,21 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
           "slug": "coven-academy-el-hechizo-de-las-brujas",
           "tmdbId": "298505",
+          "type": "series"
+        },
+        {
+          "title": "Al este del Edén",
+          "synopsis": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Florence Pugh, Christopher Abbott, Mike Faist, Hoon Lee, Ciarán Hinds",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+          "slug": "al-este-del-eden",
+          "tmdbId": "258165",
           "type": "series"
         },
         {
@@ -887,21 +902,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
           "slug": "el-problema-final",
           "tmdbId": "290720",
-          "type": "series"
-        },
-        {
-          "title": "Paolo",
-          "synopsis": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
-          "rating": 5.5,
-          "year": "2026",
-          "genres": [
-            "Misterio"
-          ],
-          "cast": "Jérôme Niel, Yoann Gasiorowski, Magalie Lépine-Blondeau, Marie Oppert, Léo Chalié",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4EGhg689jbAO865qWs8AznalyWl.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
-          "slug": "paolo",
-          "tmdbId": "288385",
           "type": "series"
         }
       ]
