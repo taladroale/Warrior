@@ -71,6 +71,23 @@
       "duration": "93 min"
     },
     {
+      "title": "Digger",
+      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "rating": 7.52,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "slug": "digger",
+      "tmdbId": "1248832",
+      "type": "movie",
+      "duration": "128 min"
+    },
+    {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
       "rating": 7.3,
@@ -87,23 +104,6 @@
       "tmdbId": "1423191",
       "type": "movie",
       "duration": "93 min"
-    },
-    {
-      "title": "Digger",
-      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "rating": 7.52,
-      "year": "2026",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
-      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-      "slug": "digger",
-      "tmdbId": "1248832",
-      "type": "movie",
-      "duration": "128 min"
     }
   ],
   "seriesHero": [
@@ -181,6 +181,21 @@
       "type": "series"
     },
     {
+      "title": "Condena",
+      "synopsis": "Un prisionero consumido por la culpa, un oficial con una elección imposible. ¿Qué se necesita para sobrevivir? Una tensa historia de castigo y principios, protagonizada por Sean Bean y Stephen Graham.",
+      "rating": 7.6,
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "cast": "Bella Ramsey, Siobhan Finneran, Jodie Whittaker, Tamara Lawrance",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ugqOtb5u2K6mKMPr1MpIi6PUd5Z.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gJahHqSvFrBjjt3AX6oOL2B0yMP.jpg",
+      "slug": "condena",
+      "tmdbId": "126116",
+      "type": "series"
+    },
+    {
       "title": "One Piece",
       "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
       "rating": 8.8,
@@ -196,22 +211,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
       "slug": "one-piece",
       "tmdbId": "37854",
-      "type": "series"
-    },
-    {
-      "title": "Mission: Yozakura Family",
-      "synopsis": "Taiyo Asano ha estado solo desde que murieron sus padres y el único que parece cuidar de él es su amigo de la infancia y compañero de clase, Mutsumi Yozakura. Pero Mutsumi tiene un secreto: ¡es la cabeza de una familia de espías! ¡Y además de eso, su hermano Kyoichiro es peligrosamente protector con ella! Para evitar que Kyoichiro lo mate, Taiyo y Mutsumi deben dar el último paso: ¡matrimonio! Porque en la familia Yozakura, la familia no puede matar a la familia.",
-      "rating": 6.78,
-      "year": "2024",
-      "genres": [
-        "Animación",
-        "Comedia"
-      ],
-      "cast": "Reiji Kawashima, Kaede Hondo, Katsuyuki Konishi, Akari Kito, Aoi Yuki",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3PyzyGtkvnAQsCHPQSWoAU4cUYL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/xUC6mdVESvJN2umz8mNxKn89Htf.jpg",
-      "slug": "mission-yozakura-family",
-      "tmdbId": "216467",
       "type": "series"
     }
   ],
@@ -579,7 +578,7 @@
         {
           "title": "Objetivo: París",
           "synopsis": "Un grupo terrorista liderado por Jacob Pierce, excapitán de la Legión Francesa, irrumpe en un importante evento organizado en la embajada británica en París. Su objetivo es el ministro de Defensa francés, pero su guardaespaldas, Vincent Taleb, y una agente del MI6, Zara Taylor, frustran sus planes. Sin embargo, este asalto no es más que el primer ataque en un plan perfectamente construido.",
-          "rating": 7,
+          "rating": 7.01,
           "year": "2024",
           "genres": [
             "Acción",
