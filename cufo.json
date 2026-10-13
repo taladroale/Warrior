@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T16:56:55Z",
+  "updatedAt": "2026-10-13T17:53:25Z",
   "source": "cufo",
-  "total": 22596,
+  "total": 22602,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias"},
     "12": {"slug":"buscando-a-nemo"},
@@ -18054,6 +18054,7 @@
     "1750432": {"slug":"spidey-and-the-avengers-halloween-team-up"},
     "1752159": {"slug":"momentos-decisivos-generacion-11-s"},
     "1752355": {"slug":"schumacher-94-nace-una-leyenda"},
+    "1758110": {"slug":"terminator-la-saga-contra-las-maquinas"},
     "1763619": {"slug":"ricos-sin-dinero"},
     "1788735": {"slug":"family-guy-happy-hell-o-ween"},
     "tt2407380": {"slug":"test-tt2407380"}
@@ -20625,6 +20626,7 @@
     "137872": {"slug":"soundtrack-1"},
     "137883": {"slug":"bandidos-de-hoy"},
     "137893": {"slug":"griselda"},
+    "137948": {"slug":"sacrifice"},
     "137967": {"slug":"la-periodista"},
     "137999": {"slug":"everybody-loves-natti"},
     "138089": {"slug":"harlem"},
@@ -22205,6 +22207,7 @@
     "258035": {"slug":"gigolo-por-cuenta-propia"},
     "258036": {"slug":"the-audacity"},
     "258154": {"slug":"angel-di-maria-romper-la-pared"},
+    "258165": {"slug":"al-este-del-eden"},
     "258190": {"slug":"coldwater"},
     "258230": {"slug":"causa-abierta"},
     "258306": {"slug":"martes-de-terror-extremo"},
@@ -22490,8 +22493,10 @@
     "298168": {"slug":"the-shards"},
     "298234": {"slug":"alias-charlie-sheen"},
     "298425": {"slug":"the-lady"},
+    "298505": {"slug":"coven-academy-el-hechizo-de-las-brujas"},
     "298610": {"slug":"muertos-de-amor"},
     "298682": {"slug":"naturaleza-de-pesadilla"},
+    "298852": {"slug":"war"},
     "299095": {"slug":"contra-la-ley"},
     "299167": {"slug":"rancho-dutton"},
     "299172": {"slug":"amor-animal"},
@@ -22601,6 +22606,7 @@
     "332863": {"slug":"en-coma"},
     "333096": {"slug":"hotel-todo-incluido"},
     "333631": {"slug":"cautiva"},
-    "334888": {"slug":"africa-el-corazon-salvaje-de-la-tierra"}
+    "334888": {"slug":"africa-el-corazon-salvaje-de-la-tierra"},
+    "335227": {"slug":"prefiero-la-muerte"}
   }
 }
