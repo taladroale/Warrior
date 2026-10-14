@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "updatedAt": "2026-10-13T17:55:13Z",
-  "total": 20084,
+  "updatedAt": "2026-10-14T15:15:52Z",
+  "total": 20087,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias-episodio-iv-una-nueva-esperanza","imdb":"tt0076759"},
     "12": {"slug":"buscando-a-nemo","imdb":"tt0266543"},
@@ -15749,6 +15749,7 @@
     "1656489": {"slug":"sultana-hUFIlu","imdb":"tt41228546"},
     "1659087": {"slug":"180-ANCAbB","imdb":"tt40891145"},
     "1659155": {"slug":"los-creyentes-rBSdVF","imdb":"tt41111628"},
+    "1659389": {"slug":"one-piece-heroinas-HdkkRs","imdb":"tt41295042"},
     "1662414": {"slug":"ven-a-volar-conmigo-dooN76","imdb":"tt41367695"},
     "1668364": {"slug":"deseo-79MBSw","imdb":"tt41617470"},
     "1668574": {"slug":"un-portero-muy-improbable-wZeJMx","imdb":"tt41282383"},
@@ -18061,6 +18062,7 @@
     "213306": {"slug":"cross","imdb":"tt11794812"},
     "213337": {"slug":"noches-en-vela","imdb":"tt23033802"},
     "213338": {"slug":"the-buccaneers-aristocratas-por-amor","imdb":"tt21108774"},
+    "213375": {"slug":"visionquest-nqh5Qu","imdb":"tt23112594"},
     "213608": {"slug":"nuestro-universo-r1LZ2a","imdb":"tt23181168"},
     "213609": {"slug":"la-vida-en-nuestro-planeta","imdb":"tt23181388"},
     "213635": {"slug":"policia-el-capitulo-en-bihar","imdb":"tt23037654"},
@@ -18912,6 +18914,7 @@
     "283367": {"slug":"caceria-implacable-osama-bin-laden","imdb":"tt35630036"},
     "283368": {"slug":"she-the-people","imdb":"tt36600592"},
     "283370": {"slug":"motorvalley-h8D4P8","imdb":"tt35449383"},
+    "283371": {"slug":"la-trampa-71esG5","imdb":"tt36470958"},
     "283390": {"slug":"diario-de-una-chica-experta-en-desastres-de-amor","imdb":"tt31828121"},
     "283392": {"slug":"me-late-que-si-KTc7jE","imdb":"tt35665197"},
     "283396": {"slug":"juan-gabriel-debo-puedo-y-quiero-p1nC6c","imdb":"tt28235034"},
