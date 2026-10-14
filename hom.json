@@ -19,24 +19,6 @@
       "duration": "157 min"
     },
     {
-      "title": "Buddy",
-      "synopsis": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
-      "rating": 7.85,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Comedia",
-        "Fantasía"
-      ],
-      "cast": "Keegan-Michael Key, Cristin Milioti, Delaney Quinn, Caleb Williams, Madison Skyy Polan",
-      "posterUrl": "https://image.tmdb.org/t/p/original/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-      "slug": "buddy",
-      "tmdbId": "1514026",
-      "type": "movie",
-      "duration": "95 min"
-    },
-    {
       "title": "Prácticamente magia 2",
       "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
       "rating": 6.3,
@@ -53,6 +35,24 @@
       "tmdbId": "1302904",
       "type": "movie",
       "duration": "130 min"
+    },
+    {
+      "title": "Buddy",
+      "synopsis": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
+      "rating": 7.85,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Comedia",
+        "Fantasía"
+      ],
+      "cast": "Keegan-Michael Key, Cristin Milioti, Delaney Quinn, Caleb Williams, Madison Skyy Polan",
+      "posterUrl": "https://image.tmdb.org/t/p/original/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+      "slug": "buddy",
+      "tmdbId": "1514026",
+      "type": "movie",
+      "duration": "95 min"
     },
     {
       "title": "Spider-Man: Brand New Day",
@@ -91,22 +91,21 @@
       "duration": "127 min"
     },
     {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.3,
+      "title": "Digger",
+      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "rating": 7.52,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
+        "Comedia",
+        "Drama"
       ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
+      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "slug": "digger",
+      "tmdbId": "1248832",
       "type": "movie",
-      "duration": "93 min"
+      "duration": "128 min"
     }
   ],
   "seriesHero": [
@@ -181,37 +180,35 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.5,
-      "year": "2025",
+      "title": "Slow Horses",
+      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "rating": 8.05,
+      "year": "2022",
       "genres": [
         "Crimen",
-        "Drama"
+        "Drama",
+        "Misterio"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
+      "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "slug": "slow-horses",
+      "tmdbId": "95480",
       "type": "series"
     },
     {
-      "title": "One Piece",
-      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
-      "rating": 8.8,
-      "year": "1999",
+      "title": "Brothers",
+      "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
+      "rating": 8.2,
+      "year": "2026",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Comedia",
-        "Animación"
+        "Comedia"
       ],
-      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "slug": "one-piece",
-      "tmdbId": "37854",
+      "cast": "Matthew McConaughey, Woody Harrelson, Natalie Martinez, Brittany Ishibashi, Nolan Almeida",
+      "posterUrl": "https://image.tmdb.org/t/p/original/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+      "slug": "brothers",
+      "tmdbId": "250203",
       "type": "series"
     }
   ],
@@ -579,7 +576,7 @@
         {
           "title": "Objetivo: París",
           "synopsis": "Un grupo terrorista liderado por Jacob Pierce, excapitán de la Legión Francesa, irrumpe en un importante evento organizado en la embajada británica en París. Su objetivo es el ministro de Defensa francés, pero su guardaespaldas, Vincent Taleb, y una agente del MI6, Zara Taylor, frustran sus planes. Sin embargo, este asalto no es más que el primer ataque en un plan perfectamente construido.",
-          "rating": 7.01,
+          "rating": 7,
           "year": "2024",
           "genres": [
             "Acción",
