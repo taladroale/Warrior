@@ -162,36 +162,38 @@
       "type": "series"
     },
     {
-      "title": "Link Click",
-      "synopsis": "Se dice que una imagen vale más que mil palabras. En este caso, guarda una cantidad infinita de secretos. Estos son secretos que solo Cheng Xiaoshi y Lu Guang pueden encontrar. En una pequeña tienda llamada \"Time Photo Studio\", los dos amigos brindan un servicio especial: usando sus extraordinarios poderes que les permiten ingresar fotografías, saltan a las imágenes que les traen los clientes para cumplir sus deseos. A través de los ojos del fotógrafo, viven los hechos que rodean la imagen e intentan descifrar cómo resolver la solicitud de su cliente.",
-      "rating": 8.07,
-      "year": "2021",
+      "title": "Black Clover",
+      "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
+      "rating": 8.49,
+      "year": "2017",
       "genres": [
         "Animación",
+        "Acción",
+        "Aventura",
         "Ciencia ficción",
-        "Fantasía",
-        "Misterio"
+        "Fantasía"
       ],
-      "cast": "Su Shangqing, 杨天翔, 李詩萌",
-      "posterUrl": "https://image.tmdb.org/t/p/original/gNeI4fA172iKOals4zP7e5Lqy6J.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2ns30HHRX5qgsVfEvvevwUcrD5E.jpg",
-      "slug": "link-click",
-      "tmdbId": "123542",
+      "cast": "Gakuto Kajiwara, Nobunaga Shimazaki, Kana Yuuki, Junichi Suwabe, Genki Muro",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+      "slug": "black-clover",
+      "tmdbId": "73223",
       "type": "series"
     },
     {
-      "title": "Condena",
-      "synopsis": "Un prisionero consumido por la culpa, un oficial con una elección imposible. ¿Qué se necesita para sobrevivir? Una tensa historia de castigo y principios, protagonizada por Sean Bean y Stephen Graham.",
-      "rating": 7.6,
-      "year": "2021",
+      "title": "South Park",
+      "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+      "rating": 8.33,
+      "year": "1997",
       "genres": [
-        "Drama"
+        "Comedia",
+        "Animación"
       ],
-      "cast": "Bella Ramsey, Siobhan Finneran, Jodie Whittaker, Tamara Lawrance",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ugqOtb5u2K6mKMPr1MpIi6PUd5Z.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gJahHqSvFrBjjt3AX6oOL2B0yMP.jpg",
-      "slug": "condena",
-      "tmdbId": "126116",
+      "cast": "Matt Stone, Mona Marshall, Jennifer Howell, John Hansen, Adrien Beard",
+      "posterUrl": "https://image.tmdb.org/t/p/original/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "slug": "south-park",
+      "tmdbId": "2190",
       "type": "series"
     },
     {
