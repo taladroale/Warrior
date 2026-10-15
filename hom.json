@@ -219,173 +219,181 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
-          "title": "Terminator: la saga contra las máquinas",
-          "synopsis": "Un recorrido por la historia de una icónica saga de ciencia ficción, desde 1984 hasta su última entrega, centrada en la relación entre la humanidad y los peligros de la inteligencia artificial. Con imágenes de archivo y testimonios exclusivos, analiza cómo anticipó debates actuales y cómo Sarah Connor se convirtió en un icono feminista de la cultura popular.",
-          "rating": 7.07,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Ian Nathan, Robert Patrick, Kristanna Loken, Edward Furlong",
-          "posterUrl": "https://image.tmdb.org/t/p/original/nqfqy40R9rGJrdmk6C0Oifna71I.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/db0JyYJW1lp5rskvEHBJZEeFZNV.jpg",
-          "slug": "terminator-la-saga-contra-las-maquinas",
-          "tmdbId": "1758110",
-          "type": "movie"
-        },
-        {
-          "title": "Scream 7",
-          "synopsis": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha construido una nueva vida, sus peores miedos se hacen realidad cuando su hija se convierte en el siguiente objetivo. Decidida a proteger a su familia, Sidney debe enfrentarse a los horrores de su pasado para poner fin a la masacre de una vez por todas.",
-          "rating": 6.2,
+          "title": "Leviticus",
+          "synopsis": "Dos adolescentes en un pequeño pueblo rural son atormentados por una violenta entidad sobrenatural que adopta la forma de la persona que más desean.",
+          "rating": 6.77,
           "year": "2026",
           "genres": [
             "Terror",
-            "Misterio",
-            "Crimen"
+            "Romance"
           ],
-          "cast": "Neve Campbell, Courteney Cox, Isabel May, Jasmin Savoy Brown, Mason Gooding",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hflipaW7mtfKZM9WFEyzUdFsgSk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
-          "slug": "scream-7",
-          "tmdbId": "1159559",
+          "cast": "Joe Bird, Stacy Clausen, Mia Wasikowska, Nicholas Hope, Tyallah Bullock",
+          "posterUrl": "https://image.tmdb.org/t/p/original/gS8Z2lepduus8x6Crwzb85F6Gli.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
+          "slug": "leviticus",
+          "tmdbId": "1564614",
           "type": "movie",
-          "duration": "114 min"
+          "duration": "88 min"
         },
         {
-          "title": "Oasis: Don't Look Back in Anger",
-          "synopsis": "Narra la gira de reunión de Liam y Noel Gallagher, \"Oasis Live ‘25\", uno de los regresos al rock más esperados. La película relata el acontecimiento musical de 2025, capturando tanto la experiencia de la banda como la de sus seguidores en todo el mundo. Esta perspectiva única incluye acceso a los ensayos, al detrás de cámaras y a los conciertos, además de las primeras entrevistas conjuntas con Noel y Liam en más de 20 años. Coincidiendo con la gira mundial de entradas agotadas de la banda, también explora el impacto emocional de este fenómeno cultural global y lo que su música significa para públicos y generaciones de todo el mundo.",
-          "rating": 7.5,
+          "title": "One Piece: Heroínas",
+          "synopsis": "Nami vuelve a la tienda cuando unos zapatos de mala calidad le hacen daño en los pies. El diseñador Lebno se ofrece a arreglarlos, a cambio de que ella desfile en su pasarela.",
+          "rating": 6.5,
           "year": "2026",
           "genres": [
-            "Documental",
-            "Música"
+            "Animación",
+            "Comedia",
+            "Acción"
           ],
-          "cast": "Liam Gallagher, Noel Gallagher, Paul Arthurs, Gem Archer, Andy Bell",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7Ud7QIJo21odjCaev6V4md9sK16.jpg",
-          "slug": "oasis-dont-look-back-in-anger",
-          "tmdbId": "1447853",
+          "cast": "Akemi Okamura, Yuriko Yamaguchi, Maaya Sakamoto, Takehito Koyasu, Mayumi Tanaka",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
+          "slug": "one-piece-heroinas",
+          "tmdbId": "1659389",
           "type": "movie",
-          "duration": "123 min"
+          "duration": "23 min"
         },
         {
-          "title": "Shell",
-          "synopsis": "Samantha es invitada al mundo glamuroso de Zoe Shannon, CEO de la empresa de bienestar SHELL. Cuando los pacientes de SHELL comienzan a desaparecer, Samantha se da cuenta de que Zoe podría estar ocultando un oscuro secreto.",
-          "rating": 4.98,
-          "year": "2025",
-          "genres": [
-            "Terror",
-            "Drama",
-            "Suspenso"
-          ],
-          "cast": "Elisabeth Moss, Kate Hudson, Kaia Gerber, Arian Moayed, Elizabeth Berkley",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fDYJh4EYnTevFe9eHOTlSBTeqpj.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/yGH7ke2rbeSI4IZx90UzIrMlWLq.jpg",
-          "slug": "shell",
-          "tmdbId": "787747",
-          "type": "movie",
-          "duration": "102 min"
-        },
-        {
-          "title": "V/H/S/Mixtape",
-          "synopsis": "Película episódica de la serie VHS con temática musical.",
-          "rating": 4.3,
+          "title": "Letras robadas",
+          "synopsis": "Rick, un cantante de bodas venido a menos, y Danny, una estrella de una 'boy band' en decadencia, forjan una amistad gracias a la música y a una improvisada sesión nocturna. Cuando Danny convierte la canción de Rick en un éxito, Rick se propone recuperar el reconocimiento que cree merecer.",
+          "rating": 7.14,
           "year": "2026",
           "genres": [
-            "Terror",
+            "Comedia",
             "Música",
-            "Suspenso"
-          ],
-          "cast": "Mike Derks, Michael Bishop, Brad Roberts, Casey Orr, Bob Gorman",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mpB4pgtUcc7rCLxvlknzCbAQQEE.jpg",
-          "slug": "vhsmixtape",
-          "tmdbId": "1742441",
-          "type": "movie",
-          "duration": "98 min"
-        },
-        {
-          "title": "En directo",
-          "synopsis": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
-          "rating": 7.5,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Suspenso"
-          ],
-          "cast": "Parineeti Chopra, Deven Bhojani, Adil Hussain, Shekhar Suman, Amol Palekar",
-          "posterUrl": "https://image.tmdb.org/t/p/original/odpErwBCwZPrCqXbHt1COc00FK8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
-          "slug": "en-directo",
-          "tmdbId": "1389172",
-          "type": "movie",
-          "duration": "116 min"
-        },
-        {
-          "title": "Pioneras: solo querían jugar",
-          "synopsis": "España, años setenta. A pesar de que la ideología franquista siguen profundamente arraigada en la sociedad, un grupo de jóvenes pioneras y un promotor ambicioso están a punto de cambiar la historia del fútbol femenino.",
-          "rating": 7.83,
-          "year": "2026",
-          "genres": [
             "Drama"
           ],
-          "cast": "Sofía de Iznájar, Bruna Lucadamo, Daniel Ibáñez, Aixa Villagrán, Elena Irureta",
-          "posterUrl": "https://image.tmdb.org/t/p/original/coXlNNeiySibclnnqzHOuQIqGm.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/vJryAefq6Ec6NiYdKTvXbFMRalB.jpg",
-          "slug": "pioneras-solo-querian-jugar",
-          "tmdbId": "1444595",
+          "cast": "Paul Rudd, Nick Jonas, Peter McDonald, Marcella Plunkett, Havana Rose Liu",
+          "posterUrl": "https://image.tmdb.org/t/p/original/oYqsgYCaPjCvd3NPE43yNbhgCtG.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
+          "slug": "letras-robadas",
+          "tmdbId": "1284016",
           "type": "movie",
-          "duration": "106 min"
+          "duration": "99 min"
         },
         {
-          "title": "Basta Mamá",
-          "synopsis": "Fernando, un hombre de 45 años que aún vive con su sobreprotectora madre, intenta ocultarle ese secreto a su moderna novia, quien además es su jefa. Lo que comienza como una pequeña mentira durante una cena de cumpleaños se convierte en un enredo de secretos, choques generacionales y divertidas situaciones que lo obligarán a elegir entre la comodidad de mamá y el amor de su vida.",
-          "rating": 6.4,
+          "title": "Llueve sobre Babel",
+          "synopsis": "En el bar Babel, donde vivos y muertos se mezclan, Dante busca recordar su pasado antes de que la Flaca, la Muerte en esta ciudad, cobre su deuda. Jacob esconde de su padre, un sacerdote fanático, su deseo de ser drag queen, mientras Uma, una gitana con su propia apuesta, intenta engañar a la Flaca para salvar a su hija. Entre pactos y desafíos, sus destinos chocan en una lucha contra lo inevitable.",
+          "rating": 7.3,
           "year": "2026",
           "genres": [
-            "Comedia",
+            "Fantasía",
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Jhon Narváez, John Alex Castillo, Sofia Buenaventura, Saray Nohemi Rebolledo Ospino, Felipe Aguilar Rodríguez",
+          "posterUrl": "https://image.tmdb.org/t/p/original/o6IDuFe3bBUR46DQbTy4tRCvnuk.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gmIQjFkhobVTkApuMljsMmewJzc.jpg",
+          "slug": "llueve-sobre-babel",
+          "tmdbId": "1388977",
+          "type": "movie",
+          "duration": "91 min"
+        },
+        {
+          "title": "Cars: Spooky Halloween Adventure",
+          "synopsis": "Es la noche de Halloween en Radiator Springs, y Rayo y su mejor amigo Mater disfrutan de la espeluznante fiesta anual del barrio. Pero Rayo se cansa de la gasolina de sabores, las tuercas tostadas y las conolinternas, así que convence a Mater para ir al viejo garaje encantado a las afueras de la ciudad. ¿Tendrán el valor suficiente para superar la noche sin llevarse un buen susto?",
+          "rating": 2.5,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Familia"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/n6rYvDmGAbXs0rRveyUEDbgtdBC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/qq7d86OpXsDBfsCvhEIQMi82ChT.jpg",
+          "slug": "cars-spooky-halloween-adventure",
+          "tmdbId": "1786400",
+          "type": "movie",
+          "duration": "2 min"
+        },
+        {
+          "title": "The Sun Never Sets",
+          "synopsis": "While on an unexpected break from her older, divorced boyfriend, a woman runs into her ex-partner, plunging her into a volatile love triangle that threatens to undo her life.",
+          "rating": 9.5,
+          "year": "2026",
+          "genres": [
             "Romance",
-            "Drama"
+            "Drama",
+            "Comedia"
           ],
-          "cast": "Flora Martínez, Marcela Benjumea, Bernardo García, Flora Martínez",
-          "posterUrl": "https://image.tmdb.org/t/p/original/t8EarPqNvaAttgzEmaOWlyawsJF.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mlq3sZRQzcUmkGJSX1PZ7EMN1Bz.jpg",
-          "slug": "basta-mama",
-          "tmdbId": "1627217",
+          "cast": "Dakota Fanning, Jake Johnson, Cory Michael Smith, Debby Ryan, Karley Sciortino",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hpzzGHyVN4nE0GzqoAu12ko6ER3.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ckDLzhqHG40CoNUwQWrAvzCYRIe.jpg",
+          "slug": "the-sun-never-sets",
+          "tmdbId": "1490214",
           "type": "movie",
-          "duration": "77 min"
+          "duration": "103 min"
         },
         {
-          "title": "Animales",
-          "synopsis": "Un grupo de amigos que se conocen de toda la vida descubre que hay puertas que nunca se deben de abrir. Lo que empieza como un juego de deseo se convierte en una espiral de celos, mentiras y traiciones que arrasa con sus relaciones. Muy pronto entenderán que todos tenemos un lado animal.",
-          "rating": 6.3,
+          "title": "Loco México Mágico",
+          "synopsis": "Un alcalde excéntrico obsesionado con convertir Alvarado, Veracruz en destino turístico decide filmar una película estilo Hollywood. Reúne un equipo improvisado de lugareños sin experiencia, liderado por un camarógrafo de XV años.",
+          "rating": 7.3,
           "year": "2026",
           "genres": [
+            "Comedia"
+          ],
+          "cast": "Silverio Palacios, Daniel Sosa, Fernando Cuautle, Sofía Carrera, Rocío Guzmán",
+          "posterUrl": "https://image.tmdb.org/t/p/original/aLufkmtCKCHwN6zrfQQ1jaJae9T.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8gg1n99c3LC0SEq99FLIDDXVSa.jpg",
+          "slug": "loco-mexico-magico",
+          "tmdbId": "1700680",
+          "type": "movie",
+          "duration": "105 min"
+        },
+        {
+          "title": "Ángel y el pistolero",
+          "synopsis": "Un forajido herido encuentra una misericordia inesperada al ser cuidado por la hija de un ranchero. La esperanza del amor lo atrae hacia una vida diferente, hasta que la ley y su violento pasado acechan su nuevo hogar. Ahora debe elegir qué clase de hombre quiere llegar a ser.",
+          "rating": 9,
+          "year": "2026",
+          "genres": [
+            "Western",
+            "Acción",
+            "Aventura",
+            "Romance"
+          ],
+          "cast": "Zachary Levi, Neal McDonough, Tommy Lee Jones, Meg Fraser, Jean Louisa Kelly",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mJe53zlhGBdcjtN1GqncNZ5Unm0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/qsXgcngz1gH7kRzJfzxU4gCktDn.jpg",
+          "slug": "angel-y-el-pistolero",
+          "tmdbId": "1669915",
+          "type": "movie",
+          "duration": "105 min"
+        },
+        {
+          "title": "La Odisea",
+          "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+          "rating": 8.01,
+          "year": "2026",
+          "genres": [
+            "Aventura",
+            "Acción",
+            "Fantasía"
+          ],
+          "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+          "posterUrl": "https://image.tmdb.org/t/p/original/sf2ke1nwFOLLcwLZiXu9VaMMv8e.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+          "slug": "la-odisea-1368337",
+          "tmdbId": "1368337",
+          "type": "movie",
+          "duration": "173 min"
+        },
+        {
+          "title": "Tadeo Jones y La Lámpara Maravillosa",
+          "synopsis": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+          "rating": 7.4,
+          "year": "2026",
+          "genres": [
+            "Animación",
             "Comedia",
-            "Suspenso"
+            "Familia"
           ],
-          "cast": "Nashla Bogaert, Frank Perozo, Pamela Sued, Camila Issa, Pedro Casals",
-          "posterUrl": "https://image.tmdb.org/t/p/original/9fbZdiOI9fRinl44mNm3CYgEtYR.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3jgATRIFenOrgNKEC9bFv5QqKGf.jpg",
-          "slug": "animales",
-          "tmdbId": "1599993",
-          "type": "movie"
-        },
-        {
-          "title": "La otra madre",
-          "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-          "rating": 5.76,
-          "year": "2026",
-          "genres": [
-            "Terror"
-          ],
-          "cast": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-          "slug": "la-otra-madre",
-          "tmdbId": "1400837",
+          "cast": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
+          "posterUrl": "https://image.tmdb.org/t/p/original/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
+          "slug": "tadeo-jones-y-la-lampara-maravillosa",
+          "tmdbId": "1187326",
           "type": "movie",
-          "duration": "93 min"
+          "duration": "94 min"
         }
       ]
     },
@@ -397,12 +405,11 @@
         {
           "title": "V/H/S/Mixtape",
           "synopsis": "Película episódica de la serie VHS con temática musical.",
-          "rating": 4.3,
+          "rating": 4.4,
           "year": "2026",
           "genres": [
             "Terror",
-            "Música",
-            "Suspenso"
+            "Música"
           ],
           "cast": "Mike Derks, Michael Bishop, Brad Roberts, Casey Orr, Bob Gorman",
           "posterUrl": "https://image.tmdb.org/t/p/original/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
@@ -415,14 +422,14 @@
         {
           "title": "En directo",
           "synopsis": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
-          "rating": 7.5,
+          "rating": 8.1,
           "year": "2026",
           "genres": [
             "Crimen",
             "Suspenso"
           ],
           "cast": "Parineeti Chopra, Deven Bhojani, Adil Hussain, Shekhar Suman, Amol Palekar",
-          "posterUrl": "https://image.tmdb.org/t/p/original/odpErwBCwZPrCqXbHt1COc00FK8.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4MQDsOft2xkNxTpOHvULBwKFbbn.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
           "slug": "en-directo",
           "tmdbId": "1389172",
@@ -430,9 +437,45 @@
           "duration": "116 min"
         },
         {
+          "title": "Ángel y el pistolero",
+          "synopsis": "Un forajido herido encuentra una misericordia inesperada al ser cuidado por la hija de un ranchero. La esperanza del amor lo atrae hacia una vida diferente, hasta que la ley y su violento pasado acechan su nuevo hogar. Ahora debe elegir qué clase de hombre quiere llegar a ser.",
+          "rating": 9,
+          "year": "2026",
+          "genres": [
+            "Western",
+            "Acción",
+            "Aventura",
+            "Romance"
+          ],
+          "cast": "Zachary Levi, Neal McDonough, Tommy Lee Jones, Meg Fraser, Jean Louisa Kelly",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mJe53zlhGBdcjtN1GqncNZ5Unm0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/qsXgcngz1gH7kRzJfzxU4gCktDn.jpg",
+          "slug": "angel-y-el-pistolero",
+          "tmdbId": "1669915",
+          "type": "movie",
+          "duration": "105 min"
+        },
+        {
+          "title": "El Precio de la Red",
+          "synopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
+          "rating": 7.05,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Suspenso"
+          ],
+          "cast": "Mikey Madison, Jeremy Allen White, Jeremy Strong, Bill Burr, Wunmi Mosaku",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+          "slug": "el-precio-de-la-red",
+          "tmdbId": "1281331",
+          "type": "movie",
+          "duration": "112 min"
+        },
+        {
           "title": "La otra madre",
           "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-          "rating": 5.76,
+          "rating": 6.02,
           "year": "2026",
           "genres": [
             "Terror"
@@ -446,27 +489,9 @@
           "duration": "93 min"
         },
         {
-          "title": "El Precio de la Red",
-          "synopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
-          "rating": 7.32,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Historia",
-            "Suspenso"
-          ],
-          "cast": "Mikey Madison, Jeremy Allen White, Jeremy Strong, Bill Burr, Wunmi Mosaku",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-          "slug": "el-precio-de-la-red",
-          "tmdbId": "1281331",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
           "title": "Padre de familia: Happy Hell-o-ween",
           "synopsis": "Brian y Stewie acaban en el infierno tras 24 temporadas de mal comportamiento y terminan al mando cuando consiguen sacar de quicio incluso al mismísimo diablo.",
-          "rating": 6.73,
+          "rating": 7.19,
           "year": "2026",
           "genres": [
             "Animación",
@@ -484,7 +509,7 @@
         {
           "title": "Matchbox: La película",
           "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-          "rating": 7.82,
+          "rating": 7.91,
           "year": "2026",
           "genres": [
             "Acción",
@@ -493,11 +518,28 @@
           ],
           "cast": "John Cena, Jessica Biel, Arturo Castro, Sam Richardson, Teyonah Parris",
           "posterUrl": "https://image.tmdb.org/t/p/original/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
           "slug": "matchbox-la-pelicula",
           "tmdbId": "1148365",
           "type": "movie",
           "duration": "127 min"
+        },
+        {
+          "title": "Las cartas de la vida",
+          "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
+          "rating": 7.7,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Drama"
+          ],
+          "cast": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent",
+          "posterUrl": "https://image.tmdb.org/t/p/original/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+          "slug": "las-cartas-de-la-vida",
+          "tmdbId": "1458857",
+          "type": "movie",
+          "duration": "112 min"
         },
         {
           "title": "Appofeniacs",
@@ -519,7 +561,7 @@
         {
           "title": "Schumacher 94: Nace una leyenda",
           "synopsis": "La primera victoria de Michael Schumacher en el Campeonato Mundial cobra vida gracias a entrevistas personales e imágenes de archivo de la famosa temporada de F1 del 94.",
-          "rating": 7.8,
+          "rating": 7.65,
           "year": "2026",
           "genres": [
             "Documental"
@@ -531,38 +573,6 @@
           "tmdbId": "1752355",
           "type": "movie",
           "duration": "105 min"
-        },
-        {
-          "title": "The Influencer Project",
-          "synopsis": "Influencer Chiara King travels to Copenhagen with a documentary crew promising an unfiltered look behind the glamorous business of online fame. But as the cameras and her devoted fans follow her every move, someone else is watching too. When an obsessive stalker begins closing in, the documentary mutates into something far more terrifying, blurring the line between content and evidence, follower and predator, fact and fiction.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Terror"
-          ],
-          "cast": "Chiara King, Luca Storm, Jazmine Summer, Alexandre Willaume, Eos Karlsson",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3yolfJrhMf8XvfKVlBB6Zetn2wS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/q4WeLp7kmLAvHYpzQXEzlZWJMsn.jpg",
-          "slug": "the-influencer-project",
-          "tmdbId": "1654086",
-          "type": "movie",
-          "duration": "95 min"
-        },
-        {
-          "title": "Rolling Loud: La película",
-          "synopsis": "Un padre toma una decisión desacertada al llevar a su hijo pequeño a un desenfrenado festival de hip-hop, lo que desencadena el caos mientras ambos lidian con las multitudes, la seguridad y la dinámica familiar en compañía de personajes excéntricos.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Owen Wilson, Matt Rife, Christian Convery, Jolene, Christine Ko",
-          "posterUrl": "https://image.tmdb.org/t/p/original/kx4ippA15v1Qc1xZjsjrb2r8NQZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/eQC3h5fyEjNhSULe7yQlFaDkSub.jpg",
-          "slug": "rolling-loud-la-pelicula",
-          "tmdbId": "1336166",
-          "type": "movie",
-          "duration": "99 min"
         }
       ]
     }
@@ -576,7 +586,7 @@
         {
           "title": "Objetivo: París",
           "synopsis": "Un grupo terrorista liderado por Jacob Pierce, excapitán de la Legión Francesa, irrumpe en un importante evento organizado en la embajada británica en París. Su objetivo es el ministro de Defensa francés, pero su guardaespaldas, Vincent Taleb, y una agente del MI6, Zara Taylor, frustran sus planes. Sin embargo, este asalto no es más que el primer ataque en un plan perfectamente construido.",
-          "rating": 7,
+          "rating": 7.02,
           "year": "2024",
           "genres": [
             "Acción",
