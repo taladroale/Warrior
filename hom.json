@@ -2,8 +2,8 @@
   "movieHero": [
     {
       "title": "Hope",
-      "synopsis": "Tras un extraño hallazgo cerca de una aislada ciudad portuaria, los habitantes se ven envueltos en una desesperada lucha por la supervivencia.",
-      "rating": 7.26,
+      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+      "rating": 7.22,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -12,7 +12,7 @@
       ],
       "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
       "posterUrl": "https://image.tmdb.org/t/p/original/hHPIefotew38oJm3YCJPAzpi26c.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/xBcKnWJHodUpvzUVIWTuNMnvEwl.jpg",
       "slug": "hope-1058424",
       "tmdbId": "1058424",
       "type": "movie",
@@ -21,7 +21,7 @@
     {
       "title": "Prácticamente magia 2",
       "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
-      "rating": 6.3,
+      "rating": 6.4,
       "year": "2026",
       "genres": [
         "Romance",
@@ -29,8 +29,8 @@
         "Comedia"
       ],
       "cast": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña",
-      "posterUrl": "https://image.tmdb.org/t/p/original/cQjtzBXcTMzHqvo7zmpJvcBFRdC.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xCXznyg1BOAKISMuduRJLtcAgCR.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
       "slug": "practicamente-magia-2",
       "tmdbId": "1302904",
       "type": "movie",
@@ -39,7 +39,7 @@
     {
       "title": "Buddy",
       "synopsis": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
-      "rating": 7.85,
+      "rating": 7.59,
       "year": "2026",
       "genres": [
         "Terror",
@@ -57,7 +57,7 @@
     {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.41,
+      "rating": 8.46,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -75,7 +75,7 @@
     {
       "title": "Matchbox: La película",
       "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-      "rating": 7.82,
+      "rating": 7.91,
       "year": "2026",
       "genres": [
         "Acción",
@@ -84,28 +84,29 @@
       ],
       "cast": "John Cena, Jessica Biel, Arturo Castro, Sam Richardson, Teyonah Parris",
       "posterUrl": "https://image.tmdb.org/t/p/original/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
       "slug": "matchbox-la-pelicula",
       "tmdbId": "1148365",
       "type": "movie",
       "duration": "127 min"
     },
     {
-      "title": "Digger",
-      "synopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "rating": 7.52,
+      "title": "Tadeo Jones y La Lámpara Maravillosa",
+      "synopsis": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "rating": 7.4,
       "year": "2026",
       "genres": [
+        "Animación",
         "Comedia",
-        "Drama"
+        "Familia"
       ],
-      "cast": "Tom Cruise, Riz Ahmed, John Goodman, Sandra Hüller, Michael Stuhlbarg",
-      "posterUrl": "https://image.tmdb.org/t/p/original/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-      "slug": "digger",
-      "tmdbId": "1248832",
+      "cast": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
+      "posterUrl": "https://image.tmdb.org/t/p/original/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
+      "slug": "tadeo-jones-y-la-lampara-maravillosa",
+      "tmdbId": "1187326",
       "type": "movie",
-      "duration": "128 min"
+      "duration": "94 min"
     }
   ],
   "seriesHero": [
@@ -164,22 +165,6 @@
       "type": "series"
     },
     {
-      "title": "Ted Lasso",
-      "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-      "rating": 8.36,
-      "year": "2020",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-      "slug": "ted-lasso",
-      "tmdbId": "97546",
-      "type": "series"
-    },
-    {
       "title": "Slow Horses",
       "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
       "rating": 8.05,
@@ -197,18 +182,35 @@
       "type": "series"
     },
     {
-      "title": "Brothers",
-      "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-      "rating": 8.2,
-      "year": "2026",
+      "title": "Ted Lasso",
+      "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+      "rating": 8.36,
+      "year": "2020",
       "genres": [
+        "Drama",
         "Comedia"
       ],
-      "cast": "Matthew McConaughey, Woody Harrelson, Natalie Martinez, Brittany Ishibashi, Nolan Almeida",
-      "posterUrl": "https://image.tmdb.org/t/p/original/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-      "slug": "brothers",
-      "tmdbId": "250203",
+      "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "slug": "ted-lasso",
+      "tmdbId": "97546",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.5,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     }
   ],
@@ -221,7 +223,7 @@
         {
           "title": "Leviticus",
           "synopsis": "Dos adolescentes en un pequeño pueblo rural son atormentados por una violenta entidad sobrenatural que adopta la forma de la persona que más desean.",
-          "rating": 6.77,
+          "rating": 6.78,
           "year": "2026",
           "genres": [
             "Terror",
@@ -584,6 +586,39 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Pequeños profetas",
+          "synopsis": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
+          "rating": 8.17,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Pearce Quigley, Michael Palin, Lauren Patel, Mackenzie Crook, Shola Adewusi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
+          "slug": "pequenos-profetas",
+          "tmdbId": "312693",
+          "type": "series"
+        },
+        {
+          "title": "Ted Lasso",
+          "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
+          "rating": 8.36,
+          "year": "2020",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+          "slug": "ted-lasso",
+          "tmdbId": "97546",
+          "type": "series"
+        },
+        {
           "title": "Objetivo: París",
           "synopsis": "Un grupo terrorista liderado por Jacob Pierce, excapitán de la Legión Francesa, irrumpe en un importante evento organizado en la embajada británica en París. Su objetivo es el ministro de Defensa francés, pero su guardaespaldas, Vincent Taleb, y una agente del MI6, Zara Taylor, frustran sus planes. Sin embargo, este asalto no es más que el primer ataque en un plan perfectamente construido.",
           "rating": 7.02,
@@ -705,39 +740,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/u1D8LJejEZA0HqoPYKg9MAgHfYc.jpg",
           "slug": "habilidad-fisica-100-mexico",
           "tmdbId": "332282",
-          "type": "series"
-        },
-        {
-          "title": "Coven Academy: El hechizo de las brujas",
-          "synopsis": "En el corazón embrujado de Nueva Orleans, \"Coven Academy: El hechizo de las brujas\" sigue a tres brujas adolescentes y a sus peligrosamente encantadores compañeros brujos en un selecto internado mágico donde el poder es moneda de cambio, los secretos son letales y la atracción es una desventaja. Atrapados entre antiguas guerras sobrenaturales e intereses amorosos prohibidos, el aquelarre debe decidir hasta dónde están dispuestos a llegar para proteger su ciudad y a sí mismos.",
-          "rating": 7.27,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Malina Weissman, Malachi Barton, Jordan Leftwich, Ora Duplass, Louis Thresher",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-          "slug": "coven-academy-el-hechizo-de-las-brujas",
-          "tmdbId": "298505",
-          "type": "series"
-        },
-        {
-          "title": "WAR",
-          "synopsis": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
-          "rating": 7.9,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Dominic West, Sienna Miller, Phoebe Fox, James McArdle, Nina Sosanya",
-          "posterUrl": "https://image.tmdb.org/t/p/original/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
-          "slug": "war",
-          "tmdbId": "298852",
           "type": "series"
         }
       ]
