@@ -19,6 +19,41 @@
       "duration": "157 min"
     },
     {
+      "title": "Street Fighter",
+      "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+      "rating": 6.6,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Fantasía"
+      ],
+      "cast": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Eric Andre",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "slug": "street-fighter-1153576",
+      "tmdbId": "1153576",
+      "type": "movie",
+      "duration": "125 min"
+    },
+    {
+      "title": "Prácticamente magia 2",
+      "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+      "rating": 6.4,
+      "year": "2026",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ],
+      "cast": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xCXznyg1BOAKISMuduRJLtcAgCR.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+      "slug": "practicamente-magia-2",
+      "tmdbId": "1302904",
+      "type": "movie",
+      "duration": "130 min"
+    },
+    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 8.46,
@@ -55,24 +90,6 @@
       "duration": "95 min"
     },
     {
-      "title": "Prácticamente magia 2",
-      "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
-      "rating": 6.4,
-      "year": "2026",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
-      ],
-      "cast": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xCXznyg1BOAKISMuduRJLtcAgCR.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-      "slug": "practicamente-magia-2",
-      "tmdbId": "1302904",
-      "type": "movie",
-      "duration": "130 min"
-    },
-    {
       "title": "Matchbox: La película",
       "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
       "rating": 7.91,
@@ -89,45 +106,9 @@
       "tmdbId": "1148365",
       "type": "movie",
       "duration": "127 min"
-    },
-    {
-      "title": "Tadeo Jones y La Lámpara Maravillosa",
-      "synopsis": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-      "rating": 7.4,
-      "year": "2026",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Familia"
-      ],
-      "cast": "Óscar Barberán, Michelle Jenner, Luis Posada, Joseph Balderrama, Trevor White",
-      "posterUrl": "https://image.tmdb.org/t/p/original/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
-      "slug": "tadeo-jones-y-la-lampara-maravillosa",
-      "tmdbId": "1187326",
-      "type": "movie",
-      "duration": "94 min"
     }
   ],
   "seriesHero": [
-    {
-      "title": "Link Click",
-      "synopsis": "Se dice que una imagen vale más que mil palabras. En este caso, guarda una cantidad infinita de secretos. Estos son secretos que solo Cheng Xiaoshi y Lu Guang pueden encontrar. En una pequeña tienda llamada \"Time Photo Studio\", los dos amigos brindan un servicio especial: usando sus extraordinarios poderes que les permiten ingresar fotografías, saltan a las imágenes que les traen los clientes para cumplir sus deseos. A través de los ojos del fotógrafo, viven los hechos que rodean la imagen e intentan descifrar cómo resolver la solicitud de su cliente.",
-      "rating": 8.07,
-      "year": "2021",
-      "genres": [
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía",
-        "Misterio"
-      ],
-      "cast": "Su Shangqing, 杨天翔, 李詩萌",
-      "posterUrl": "https://image.tmdb.org/t/p/original/gNeI4fA172iKOals4zP7e5Lqy6J.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2ns30HHRX5qgsVfEvvevwUcrD5E.jpg",
-      "slug": "link-click",
-      "tmdbId": "123542",
-      "type": "series"
-    },
     {
       "title": "La diplomática",
       "synopsis": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
@@ -147,7 +128,7 @@
     {
       "title": "Carrie",
       "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "rating": 8.4,
+      "rating": 8.45,
       "year": "2026",
       "genres": [
         "Misterio",
@@ -156,7 +137,7 @@
         "Fantasía"
       ],
       "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "slug": "carrie",
       "tmdbId": "288673",
@@ -179,21 +160,19 @@
       "type": "series"
     },
     {
-      "title": "Linternas",
-      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.3,
-      "year": "2026",
+      "title": "South Park",
+      "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+      "rating": 8.33,
+      "year": "1997",
       "genres": [
-        "Drama",
-        "Misterio",
-        "Ciencia ficción",
-        "Fantasía"
+        "Comedia",
+        "Animación"
       ],
-      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
-      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "slug": "linternas",
-      "tmdbId": "95350",
+      "cast": "Matt Stone, Mona Marshall, Jennifer Howell, John Hansen, Adrien Beard",
+      "posterUrl": "https://image.tmdb.org/t/p/original/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "slug": "south-park",
+      "tmdbId": "2190",
       "type": "series"
     },
     {
@@ -212,6 +191,24 @@
       "slug": "slow-horses",
       "tmdbId": "95480",
       "type": "series"
+    },
+    {
+      "title": "Linternas",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "rating": 8.3,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
+      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "slug": "linternas",
+      "tmdbId": "95350",
+      "type": "series"
     }
   ],
   "movieSections": [
@@ -229,7 +226,7 @@
             "Acción",
             "Fantasía"
           ],
-          "cast": "Andrew Koji, Noah Centineo, Callina Liang, Joe Anoa'i, David Dastmalchian",
+          "cast": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Eric Andre",
           "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
           "slug": "street-fighter-1153576",
@@ -404,6 +401,23 @@
       "seeMoreSlug": "estrenos",
       "items": [
         {
+          "title": "Street Fighter",
+          "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+          "rating": 6.6,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Fantasía"
+          ],
+          "cast": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Eric Andre",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+          "slug": "street-fighter-1153576",
+          "tmdbId": "1153576",
+          "type": "movie",
+          "duration": "125 min"
+        },
+        {
           "title": "V/H/S/Mixtape",
           "synopsis": "Película episódica de la serie VHS con temática musical.",
           "rating": 4.4,
@@ -490,24 +504,6 @@
           "duration": "93 min"
         },
         {
-          "title": "Padre de familia: Happy Hell-o-ween",
-          "synopsis": "Brian y Stewie acaban en el infierno tras 24 temporadas de mal comportamiento y terminan al mando cuando consiguen sacar de quicio incluso al mismísimo diablo.",
-          "rating": 7.19,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Terror",
-            "Comedia"
-          ],
-          "cast": "Seth MacFarlane, Kieran Culkin, Alex Borstein, Seth Green, Mila Kunis",
-          "posterUrl": "https://image.tmdb.org/t/p/original/v4zLBCh6Gl8H4HI2rOBy0WN1qVz.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
-          "slug": "family-guy-happy-hell-o-ween",
-          "tmdbId": "1788735",
-          "type": "movie",
-          "duration": "22 min"
-        },
-        {
           "title": "Matchbox: La película",
           "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
           "rating": 7.91,
@@ -524,6 +520,24 @@
           "tmdbId": "1148365",
           "type": "movie",
           "duration": "127 min"
+        },
+        {
+          "title": "Padre de familia: Happy Hell-o-ween",
+          "synopsis": "Brian y Stewie acaban en el infierno tras 24 temporadas de mal comportamiento y terminan al mando cuando consiguen sacar de quicio incluso al mismísimo diablo.",
+          "rating": 7.19,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Terror",
+            "Comedia"
+          ],
+          "cast": "Seth MacFarlane, Kieran Culkin, Alex Borstein, Seth Green, Mila Kunis",
+          "posterUrl": "https://image.tmdb.org/t/p/original/v4zLBCh6Gl8H4HI2rOBy0WN1qVz.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
+          "slug": "family-guy-happy-hell-o-ween",
+          "tmdbId": "1788735",
+          "type": "movie",
+          "duration": "22 min"
         },
         {
           "title": "Las cartas de la vida",
@@ -558,22 +572,6 @@
           "tmdbId": "1401433",
           "type": "movie",
           "duration": "91 min"
-        },
-        {
-          "title": "Schumacher 94: Nace una leyenda",
-          "synopsis": "La primera victoria de Michael Schumacher en el Campeonato Mundial cobra vida gracias a entrevistas personales e imágenes de archivo de la famosa temporada de F1 del 94.",
-          "rating": 7.65,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Michael Schumacher, Corinna Schumacher, Flavio Briatore, Bernie Ecclestone, David Coulthard",
-          "posterUrl": "https://image.tmdb.org/t/p/original/tTup4U76sGi5om7BUiMYwKWHvvl.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
-          "slug": "schumacher-94-nace-una-leyenda",
-          "tmdbId": "1752355",
-          "type": "movie",
-          "duration": "105 min"
         }
       ]
     }
@@ -584,6 +582,38 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Bajo la superficie",
+          "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
+          "rating": 7.24,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Josh Hartnett, Mackenzie Davis, Charlie Heaton, Ruby Stokes, Kaleb Horn",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+          "slug": "bajo-la-superficie",
+          "tmdbId": "285322",
+          "type": "series"
+        },
+        {
+          "title": "Strange: relatos de Junji Ito para noches en vela",
+          "synopsis": "Las pesadillas de Junji Ito cobran vida en acción real, retorciendo vidas cotidianas en lo extraño, lo grotesco y lo inevitable.",
+          "rating": 7.7,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama"
+          ],
+          "cast": "가을, 안유진, レイ, 장원영, 리즈",
+          "posterUrl": "https://image.tmdb.org/t/p/original/s4n0eYVWw4gqJoz93jui9VOJ904.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/6Ofj5BNqmYgI3g2rbriv9gZoRLy.jpg",
+          "slug": "strange-relatos-de-junji-ito-para-noches-en-vela",
+          "tmdbId": "319990",
+          "type": "series"
+        },
         {
           "title": "Machos de verdad",
           "synopsis": "En la Roma actual, cuatro hombres tienen que lidiar con un mundo cambiante en cuanto a las dinámicas de género.",
@@ -708,39 +738,6 @@
           "slug": "ted-lasso",
           "tmdbId": "97546",
           "type": "series"
-        },
-        {
-          "title": "Objetivo: París",
-          "synopsis": "Un grupo terrorista liderado por Jacob Pierce, excapitán de la Legión Francesa, irrumpe en un importante evento organizado en la embajada británica en París. Su objetivo es el ministro de Defensa francés, pero su guardaespaldas, Vincent Taleb, y una agente del MI6, Zara Taylor, frustran sus planes. Sin embargo, este asalto no es más que el primer ataque en un plan perfectamente construido.",
-          "rating": 7.02,
-          "year": "2024",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Guerra"
-          ],
-          "cast": "Tewfik Jallab, Ritu Arya, Ross Anderson, Agung Bagus, Ben Cura",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2Gs0L3x1S5w7A10Iv2MShgiwxZl.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3yoTM5JtkxnPZvVzQOrL0c2ILVM.jpg",
-          "slug": "objetivo-paris",
-          "tmdbId": "232018",
-          "type": "series"
-        },
-        {
-          "title": "South Park",
-          "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
-          "rating": 8.33,
-          "year": "1997",
-          "genres": [
-            "Comedia",
-            "Animación"
-          ],
-          "cast": "Matt Stone, Mona Marshall, Jennifer Howell, John Hansen, Adrien Beard",
-          "posterUrl": "https://image.tmdb.org/t/p/original/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-          "slug": "south-park",
-          "tmdbId": "2190",
-          "type": "series"
         }
       ]
     },
@@ -750,9 +747,41 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
+          "title": "Amor, dulce amor",
+          "synopsis": "En una idílica isla japonesa, la trabajadora agricultora Karin Shirahama entrega su corazón y alma a cultivar las mejores fresas posibles. Un día, Lee Yubin, un chico de ciudad con mala suerte llega a la isla y, tras un primer encuentro hilarantemente incómodo, ambos terminan pasando mucho más tiempo juntos debido a un malentendido inesperado.",
+          "rating": 9.5,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "지창욱, Mio Imada, 남윤수, Rinka Kumada, 정순원",
+          "posterUrl": "https://image.tmdb.org/t/p/original/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+          "slug": "amor-dulce-amor",
+          "tmdbId": "305551",
+          "type": "series"
+        },
+        {
+          "title": "El círculo",
+          "synopsis": "El asesinato de una famosa actriz revela una caja de Pandora de secretos y espionaje que amenaza con destruir la vida de cuatro amigos de la infancia.",
+          "rating": 6,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Crimen"
+          ],
+          "cast": "Zuria Vega, Osvaldo Benavides, Raúl Briones, Michel Brown",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hkZ8ID4k0nGOdGJa1ynjj8nTmiW.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
+          "slug": "el-circulo",
+          "tmdbId": "290233",
+          "type": "series"
+        },
+        {
           "title": "Carrie",
           "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-          "rating": 8.4,
+          "rating": 8.45,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -761,7 +790,7 @@
             "Fantasía"
           ],
           "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-          "posterUrl": "https://image.tmdb.org/t/p/original/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
           "slug": "carrie",
           "tmdbId": "288673",
@@ -784,9 +813,42 @@
           "type": "series"
         },
         {
+          "title": "Prefiero la muerte",
+          "synopsis": "Un grupo de adolescentes intenta salvar su pueblo de una invasión de zombis después de que Archie, el 'loser' oficial del instituto, sea mordido por uno de ellos.",
+          "rating": 7.9,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Comedia"
+          ],
+          "cast": "Fernanda Castillo, Luis Fernando Peña, Armando Hernández, Tiaré Scanda, Farah Justiniani",
+          "posterUrl": "https://image.tmdb.org/t/p/original/693nWyAysWVy6Wt8X2B4e8BrydZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
+          "slug": "prefiero-la-muerte",
+          "tmdbId": "335227",
+          "type": "series"
+        },
+        {
+          "title": "Amor",
+          "synopsis": "La fundadora de una aplicación de citas y su aventurado competidor ponen a prueba sus teorías opuestas sobre el amor con un reto de 60 días para encontrar a la pareja ideal.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Arjun Das, Aishwarya Lekshmi, Namita Krishnamurthy, Harini Sundararajan, Nanditha Sreekumar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cyJKP6Fsg8ds4O4g1Q1SCOKJQdn.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
+          "slug": "amor",
+          "tmdbId": "302882",
+          "type": "series"
+        },
+        {
           "title": "África: El Corazón Salvaje de la Tierra",
           "synopsis": "No hay un lugar como África. Alberga el desierto cálido más grande de la Tierra, el río más profundo y sabanas inmensas. Viaja a los confines de este magnífico continente, descubre mundos inexplorados, conoce criaturas nuevas para la ciencia y averigua cómo estos dinámicos parajes moldean la vida de quienes los llaman HOGAR.",
-          "rating": 8.6,
+          "rating": 8.83,
           "year": "2026",
           "genres": [
             "Documental"
@@ -814,60 +876,9 @@
           "type": "series"
         },
         {
-          "title": "Amor",
-          "synopsis": "La fundadora de una aplicación de citas y su aventurado competidor ponen a prueba sus teorías opuestas sobre el amor con un reto de 60 días para encontrar a la pareja ideal.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Arjun Das, Aishwarya Lekshmi, Namita Krishnamurthy, Harini Sundararajan, Nanditha Sreekumar",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cyJKP6Fsg8ds4O4g1Q1SCOKJQdn.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
-          "slug": "amor",
-          "tmdbId": "302882",
-          "type": "series"
-        },
-        {
-          "title": "Prefiero la muerte",
-          "synopsis": "Un grupo de adolescentes intenta salvar su pueblo de una invasión de zombis después de que Archie, el 'loser' oficial del instituto, sea mordido por uno de ellos.",
-          "rating": 7.9,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Comedia"
-          ],
-          "cast": "Fernanda Castillo, Luis Fernando Peña, Armando Hernández, Tiaré Scanda, Farah Justiniani",
-          "posterUrl": "https://image.tmdb.org/t/p/original/693nWyAysWVy6Wt8X2B4e8BrydZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
-          "slug": "prefiero-la-muerte",
-          "tmdbId": "335227",
-          "type": "series"
-        },
-        {
-          "title": "Coven Academy: El hechizo de las brujas",
-          "synopsis": "En el corazón embrujado de Nueva Orleans, \"Coven Academy: El hechizo de las brujas\" sigue a tres brujas adolescentes y a sus peligrosamente encantadores compañeros brujos en un selecto internado mágico donde el poder es moneda de cambio, los secretos son letales y la atracción es una desventaja. Atrapados entre antiguas guerras sobrenaturales e intereses amorosos prohibidos, el aquelarre debe decidir hasta dónde están dispuestos a llegar para proteger su ciudad y a sí mismos.",
-          "rating": 7.27,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Malina Weissman, Malachi Barton, Jordan Leftwich, Ora Duplass, Louis Thresher",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-          "slug": "coven-academy-el-hechizo-de-las-brujas",
-          "tmdbId": "298505",
-          "type": "series"
-        },
-        {
           "title": "Al este del Edén",
           "synopsis": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
-          "rating": 8,
+          "rating": 8.06,
           "year": "2026",
           "genres": [
             "Drama"
@@ -880,40 +891,21 @@
           "type": "series"
         },
         {
-          "title": "LEGO ONE PIECE",
-          "synopsis": "¡Los Sombrero de Paja surcan los mares en un especial de LEGO de dos partes! Acompaña a Luffy, Nami, Usopp y los demás en una increíble aventura recreada pieza a pieza.",
-          "rating": 7.7,
+          "title": "Coven Academy: El hechizo de las brujas",
+          "synopsis": "En el corazón embrujado de Nueva Orleans, \"Coven Academy: El hechizo de las brujas\" sigue a tres brujas adolescentes y a sus peligrosamente encantadores compañeros brujos en un selecto internado mágico donde el poder es moneda de cambio, los secretos son letales y la atracción es una desventaja. Atrapados entre antiguas guerras sobrenaturales e intereses amorosos prohibidos, el aquelarre debe decidir hasta dónde están dispuestos a llegar para proteger su ciudad y a sí mismos.",
+          "rating": 7.46,
           "year": "2026",
           "genres": [
-            "Animación",
-            "Acción",
-            "Aventura",
+            "Misterio",
+            "Drama",
             "Ciencia ficción",
-            "Fantasía",
-            "Comedia",
-            "Familia"
+            "Fantasía"
           ],
-          "cast": "Iñaki Godoy, Emily Rudd, Mackenyu, Jacob Gibson, Taz Skylar",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ywl1QmO2MBhMeRNxhg9LKdqSIr4.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
-          "slug": "lego-one-piece",
-          "tmdbId": "318918",
-          "type": "series"
-        },
-        {
-          "title": "El problema final",
-          "synopsis": "En la primavera de 1959, un actor retirado que anteriormente encarnó a Sherlock Holmes debe investigar un asesinato en un pequeño hotel de un islote próximo a Mallorca.",
-          "rating": 7.11,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Misterio"
-          ],
-          "cast": "Jose Coronado, María Valverde, Martiño Rivas, Maribel Verdú, Gonzalo de Castro",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jVHx7Yxh41Xf1txD5AsX5MZ4E1e.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
-          "slug": "el-problema-final",
-          "tmdbId": "290720",
+          "cast": "Malina Weissman, Malachi Barton, Jordan Leftwich, Ora Duplass, Louis Thresher",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+          "slug": "coven-academy-el-hechizo-de-las-brujas",
+          "tmdbId": "298505",
           "type": "series"
         }
       ]
