@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T17:59:09Z",
+  "updatedAt": "2026-10-16T18:56:33Z",
   "source": "tpls",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -5613,6 +5613,7 @@
     "413658": {"slug": "el-portal-del-guerrero"},
     "413760": {"slug": "camaleon"},
     "413780": {"slug": "the-worthy"},
+    "413846": {"slug": "1992"},
     "413857": {"slug": "tragedy-girls"},
     "413990": {"slug": "pottersville"},
     "413992": {"slug": "sweet-virginia"},
@@ -11402,6 +11403,7 @@
     "1668364": {"slug": "deseo"},
     "1676318": {"slug": "regreso-a-los-90"},
     "1684226": {"slug": "la-novia-del-ano"},
+    "1700680": {"slug": "loco-mexico-magico"},
     "1710008": {"slug": "hasta-el-final-2026"},
     "1725116": {"slug": "the-simpsons-simpsley"},
     "1729723": {"slug": "los-simpson-yellow-mirror-la-realidad-paralela-de-homero"},
@@ -13698,6 +13700,7 @@
     "287238": {"slug": "furious"},
     "287358": {"slug": "yakarta"},
     "287527": {"slug": "los-testamentos"},
+    "287556": {"slug": "mirame-asi-el-camino-de-noa"},
     "287620": {"slug": "stuart-no-consigue-salvar-el-universo"},
     "287652": {"slug": "at-newmamita-la-madre-de-todas-las-mentiras"},
     "287976": {"slug": "verano-del-36"},
@@ -13821,7 +13824,7 @@
     "314916": {"slug": "incondicional"},
     "315051": {"slug": "polen"},
     "315939": {"slug": "o11ce-nueva-generacion"},
-    "316205": {"slug": "el-rostro-de-la-venganza"},
+    "316205": {"slug": "profunda-venganza"},
     "316488": {"slug": "amores-inesperados"},
     "316832": {"slug": "la-isla-del-minotauro"},
     "316961": {"slug": "los-asesinos-de-colosio"},
@@ -13857,6 +13860,7 @@
     "332401": {"slug": "city-of-blood"},
     "332863": {"slug": "en-coma"},
     "333096": {"slug": "hotel-todo-incluido"},
+    "333101": {"slug": "la-isla-del-tesoro"},
     "333410": {"slug": "escort-boys"},
     "334859": {"slug": "chavez-vs-chavez"}
   },
@@ -14186,6 +14190,7 @@
     "305329": {"slug": "needy-girl-overdose"},
     "306762": {"slug": "el-amor-a-traves-de-un-prisma"},
     "312266": {"slug": "hanaori-san-still-wants-to-fight-in-the-next-life"},
+    "312359": {"slug": "dragon-ball-super-beerus"},
     "312949": {"slug": "chainsmoker-cat"},
     "326119": {"slug": "thunder-3"}
   }
