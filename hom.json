@@ -1,9 +1,43 @@
 {
   "movieHero": [
     {
+      "title": "Masterplan",
+      "synopsis": "Cuando un ladrón legendario pone sus ojos en la Mona Lisa, recluta a dos jóvenes desconocidos para que le ayuden: Chiara, una perspicaz experta italiana en ciberdelincuencia, y Jay, un fanfarrón especialista francés en explosivos. Además de contarles sus planes, les revelar que ambos son hermanos... y que él es su padre. Sumergidos en un reencuentro caótico que nunca pidieron, esta nueva familia debe aprender a trabajar en equipo -y tratar de no matarse entre ellos- si quieren tener alguna posibilidad de llevar a cabo el golpe del siglo.",
+      "rating": 7.8,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Suspenso"
+      ],
+      "cast": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Bruno Bilotta",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+      "slug": "masterplan",
+      "tmdbId": "1561726",
+      "type": "movie",
+      "duration": "109 min"
+    },
+    {
+      "title": "Tenzing",
+      "synopsis": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
+      "rating": 7,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "cast": "更登彭措, Tom Hiddleston, Willem Dafoe, Caitríona Balfe, Thinley Lhamo",
+      "posterUrl": "https://image.tmdb.org/t/p/original/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wUe0QbbPDU2BD3L2QnsZlAr55Je.jpg",
+      "slug": "tenzing",
+      "tmdbId": "1288069",
+      "type": "movie",
+      "duration": "126 min"
+    },
+    {
       "title": "Street Fighter",
       "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "rating": 6.6,
+      "rating": 6.42,
       "year": "2026",
       "genres": [
         "Acción",
@@ -37,7 +71,7 @@
     {
       "title": "Hope",
       "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
-      "rating": 7.22,
+      "rating": 7.11,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -46,7 +80,7 @@
       ],
       "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
       "posterUrl": "https://image.tmdb.org/t/p/original/hHPIefotew38oJm3YCJPAzpi26c.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/xBcKnWJHodUpvzUVIWTuNMnvEwl.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
       "slug": "hope-1058424",
       "tmdbId": "1058424",
       "type": "movie",
@@ -55,7 +89,7 @@
     {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.46,
+      "rating": 8.47,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -69,61 +103,9 @@
       "tmdbId": "969681",
       "type": "movie",
       "duration": "145 min"
-    },
-    {
-      "title": "Prácticamente magia 2",
-      "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
-      "rating": 6.4,
-      "year": "2026",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
-      ],
-      "cast": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xCXznyg1BOAKISMuduRJLtcAgCR.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-      "slug": "practicamente-magia-2",
-      "tmdbId": "1302904",
-      "type": "movie",
-      "duration": "130 min"
-    },
-    {
-      "title": "Buddy",
-      "synopsis": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
-      "rating": 7.59,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Comedia",
-        "Fantasía"
-      ],
-      "cast": "Keegan-Michael Key, Cristin Milioti, Delaney Quinn, Caleb Williams, Madison Skyy Polan",
-      "posterUrl": "https://image.tmdb.org/t/p/original/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-      "slug": "buddy",
-      "tmdbId": "1514026",
-      "type": "movie",
-      "duration": "95 min"
     }
   ],
   "seriesHero": [
-    {
-      "title": "La diplomática",
-      "synopsis": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
-      "rating": 7.54,
-      "year": "2023",
-      "genres": [
-        "Drama",
-        "Guerra"
-      ],
-      "cast": "Keri Russell, Rufus Sewell, David Gyasi, Ali Ahn, Rory Kinnear",
-      "posterUrl": "https://image.tmdb.org/t/p/original/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "slug": "la-diplomatica",
-      "tmdbId": "203857",
-      "type": "series"
-    },
     {
       "title": "Tulsa King",
       "synopsis": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
@@ -139,6 +121,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
       "slug": "tulsa-king",
       "tmdbId": "153312",
+      "type": "series"
+    },
+    {
+      "title": "La diplomática",
+      "synopsis": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "rating": 7.54,
+      "year": "2023",
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "cast": "Keri Russell, Rufus Sewell, David Gyasi, Ali Ahn, Rory Kinnear",
+      "posterUrl": "https://image.tmdb.org/t/p/original/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "slug": "la-diplomatica",
+      "tmdbId": "203857",
       "type": "series"
     },
     {
@@ -160,35 +158,19 @@
       "type": "series"
     },
     {
-      "title": "South Park",
-      "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
-      "rating": 8.33,
-      "year": "1997",
-      "genres": [
-        "Comedia",
-        "Animación"
-      ],
-      "cast": "Matt Stone, Mona Marshall, Jennifer Howell, John Hansen, Adrien Beard",
-      "posterUrl": "https://image.tmdb.org/t/p/original/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "slug": "south-park",
-      "tmdbId": "2190",
-      "type": "series"
-    },
-    {
-      "title": "Verdades ocultas",
-      "synopsis": "Un librero en Tulsa (Arizona) se convierte en periodista de investigación para destapar la corrupción local. Cuando sus pesquisas dan con conexiones siniestras, tendrá que proteger tanto a su familia como a la verdad.",
-      "rating": 6.7,
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.5,
       "year": "2025",
       "genres": [
         "Crimen",
         "Drama"
       ],
-      "cast": "Ethan Hawke, Keith David, Ethan Hawke",
-      "posterUrl": "https://image.tmdb.org/t/p/original/aPd3Zn6c3iAMwhr79TPTtb6ovzF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/TMfV5xdAEZhzGN9MYXYomuhePz.jpg",
-      "slug": "the-lowdown",
-      "tmdbId": "273247",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -207,6 +189,22 @@
       "slug": "materia-oscura",
       "tmdbId": "196322",
       "type": "series"
+    },
+    {
+      "title": "South Park",
+      "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+      "rating": 8.33,
+      "year": "1997",
+      "genres": [
+        "Comedia",
+        "Animación"
+      ],
+      "cast": "Matt Stone, Mona Marshall, Jennifer Howell, John Hansen, Adrien Beard",
+      "posterUrl": "https://image.tmdb.org/t/p/original/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "slug": "south-park",
+      "tmdbId": "2190",
+      "type": "series"
     }
   ],
   "movieSections": [
@@ -215,6 +213,216 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Haciendo amigos",
+          "synopsis": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+          "rating": 6.7,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Quim Gutiérrez, Antonio Resines, Megan Montaner, Daniel Fez, Giovani Florido",
+          "posterUrl": "https://image.tmdb.org/t/p/original/aOEKqiRldd6pvNNopdDUsMfnlmJ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/rR0PEHlQU7pZEKxV1E9JYk7copr.jpg",
+          "slug": "haciendo-amigos",
+          "tmdbId": "1632981",
+          "type": "movie",
+          "duration": "110 min"
+        },
+        {
+          "title": "Tres de más",
+          "synopsis": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
+          "rating": 7.5,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Kira Miró, Salva Reina, Luna Fulgencio, Ian Cortegoso, Adriana Bidae",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9Y6zDmHgXadnyZ7ZRJWa3WI2nhx.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/bERXJB7QSf3T8hlwN8RCzWToTAM.jpg",
+          "slug": "tres-de-mas",
+          "tmdbId": "1498036",
+          "type": "movie"
+        },
+        {
+          "title": "Cada día nace un listo",
+          "synopsis": "Toni Lomas alcanzó la fama cuando participó en un exitoso talent show. Ahora no tiene donde caerse muerto. Su situación cambia cuando Malena, un amor del pasado, le pone en contacto con Junior, el hijo de un rico empresario, para que robe un valioso cuadro de la casa familiar. Para llevar a cabo el golpe, Toni buscará dos aliados: la Mari y el Gallego, formando un equipo en el que cada uno persigue sus propios intereses.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Hugo Silva, Susi Sánchez, Dafne Fernández, Jaime Olías, Ginés García Millán",
+          "posterUrl": "https://image.tmdb.org/t/p/original/h9MlIuR0HGdmY0T16C9Sy0LJ7l9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/jvxp3EuQQI0UNYrVhxNeeSvauED.jpg",
+          "slug": "cada-dia-nace-un-listo",
+          "tmdbId": "1446912",
+          "type": "movie",
+          "duration": "97 min"
+        },
+        {
+          "title": "Solterísima también",
+          "synopsis": "Dineo y Noni, dos mejores amigas, tienen pensado salir juntas de fiesta, pero las cosas cambian cuando el novio de Noni le pide matrimonio de improviso.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Romance"
+          ],
+          "cast": "Fulu Modibedi, Tumi Morake, Buntu Petse, Keke Mphuthi, Yonda Thomas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xj9zvjuyt5MEhxjnbQbNCZDHR2l.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vVVTDymwLVogjz4JxoNv1BAfYCH.jpg",
+          "slug": "solterisima-tambien",
+          "tmdbId": "1773759",
+          "type": "movie",
+          "duration": "99 min"
+        },
+        {
+          "title": "Lo dejamos acá",
+          "synopsis": "Un psicoanalista de prestigio ya no cree en los métodos tradicionales de la terapia. Convencido de que el consultorio no alcanza, empieza a intervenir en secreto en la vida de sus pacientes y a cruzar los límites de la práctica, con resultados que parecen darle la razón. El esquema se complica cuando un escritor con bloqueo creativo llega a su consulta.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Suspenso",
+            "Drama"
+          ],
+          "cast": "Ricardo Darín, Diego Peretti, Inés Efrón, Carlos Santamaría, Miriam Odorico",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bk8T4enLxtWgHgVS5iX5yksWlMA.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7PkFVqf2d6sIJLPKKjyyNssaLdy.jpg",
+          "slug": "lo-dejamos-aca",
+          "tmdbId": "1487317",
+          "type": "movie",
+          "duration": "97 min"
+        },
+        {
+          "title": "Der Tiger (El tanque)",
+          "synopsis": "Frente oriental, 1943: la dotación alemana de un tanque Tiger se embarca en una peligrosa misión tras las líneas enemigas. A medida que atraviesan la mortífera tierra de nadie, deberán enfrentarse al enemigo y a sus propios fantasmas del pasado.",
+          "rating": 7.1,
+          "year": "2025",
+          "genres": [
+            "Guerra",
+            "Acción",
+            "Drama"
+          ],
+          "cast": "Laurence Rupp, David Schütter, Sebastian Urzendowsky, Leonard Kunz, Yoran Leicher",
+          "posterUrl": "https://image.tmdb.org/t/p/original/td8bh7p876r36OF0P9PN7fitrCG.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vMxOmgmBGegjVObjlb8ugsjGgkD.jpg",
+          "slug": "der-tiger-el-tanque",
+          "tmdbId": "1252037",
+          "type": "movie",
+          "duration": "117 min"
+        },
+        {
+          "title": "El drama",
+          "synopsis": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+          "rating": 6.9,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Zendaya, Robert Pattinson, Alana Haim, Mamoudou Athie, Hailey Benton Gates",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+          "slug": "el-drama",
+          "tmdbId": "1325734",
+          "type": "movie",
+          "duration": "105 min"
+        },
+        {
+          "title": "Balls Up: Con un par",
+          "synopsis": "Los ejecutivos de marketing Brad y Elijah lanzan un audaz patrocinio de preservativos de cobertura total directamente a la Copa del Mundo. Después de que su ebria celebración en Brasil desencadene un escándalo mundial, deberán huir de hinchas furiosos, delincuentes y funcionarios sedientos de poder para salvar sus carreras y volver a casa con vida.",
+          "rating": 5.8,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Acción",
+            "Aventura"
+          ],
+          "cast": "Mark Wahlberg, Paul Walter Hauser, Sacha Baron Cohen, Benjamin Bratt, Luciano Szafir",
+          "posterUrl": "https://image.tmdb.org/t/p/original/50V1E3NE3UDFmq0fhMpByx1b4Ka.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/qE0FswzjACs2kvAycYVS2zcmgec.jpg",
+          "slug": "balls-up-con-un-par",
+          "tmdbId": "1084577",
+          "type": "movie",
+          "duration": "104 min"
+        },
+        {
+          "title": "Las ovejas detectives",
+          "synopsis": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+          "rating": 7.9,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Familia",
+            "Misterio"
+          ],
+          "cast": "Hugh Jackman, Nicholas Braun, Nicholas Galitzine, Molly Gordon, Julia Louis-Dreyfus",
+          "posterUrl": "https://image.tmdb.org/t/p/original/3RpiAGjwlV517P3L378QzEVFBP4.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+          "slug": "las-ovejas-detectives",
+          "tmdbId": "1301421",
+          "type": "movie",
+          "duration": "109 min"
+        },
+        {
+          "title": "Clown Panic",
+          "synopsis": "En 2016, niños de Carolina del Sur vieron payasos en el bosque. Los informes se extendieron por todo Estados Unidos, causando bloqueos y sondeos. Utilizando contenido de archivo y entrevistas, examina cómo el miedo y las redes sociales transformaron un extraño mito en histeria.",
+          "rating": 6,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/51M331d6lEMidnZlAEbTKox5ih4.jpg",
+          "slug": "clown-panic",
+          "tmdbId": "1776531",
+          "type": "movie",
+          "duration": "84 min"
+        }
+      ]
+    },
+    {
+      "title": "Estrenos",
+      "type": "movie",
+      "seeMoreSlug": "estrenos",
+      "items": [
+        {
+          "title": "Solterísima también",
+          "synopsis": "Dineo y Noni, dos mejores amigas, tienen pensado salir juntas de fiesta, pero las cosas cambian cuando el novio de Noni le pide matrimonio de improviso.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Romance"
+          ],
+          "cast": "Fulu Modibedi, Tumi Morake, Buntu Petse, Keke Mphuthi, Yonda Thomas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xj9zvjuyt5MEhxjnbQbNCZDHR2l.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vVVTDymwLVogjz4JxoNv1BAfYCH.jpg",
+          "slug": "solterisima-tambien",
+          "tmdbId": "1773759",
+          "type": "movie",
+          "duration": "99 min"
+        },
+        {
+          "title": "Masterplan",
+          "synopsis": "Cuando un ladrón legendario pone sus ojos en la Mona Lisa, recluta a dos jóvenes desconocidos para que le ayuden: Chiara, una perspicaz experta italiana en ciberdelincuencia, y Jay, un fanfarrón especialista francés en explosivos. Además de contarles sus planes, les revelar que ambos son hermanos... y que él es su padre. Sumergidos en un reencuentro caótico que nunca pidieron, esta nueva familia debe aprender a trabajar en equipo -y tratar de no matarse entre ellos- si quieren tener alguna posibilidad de llevar a cabo el golpe del siglo.",
+          "rating": 7.8,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Suspenso"
+          ],
+          "cast": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Bruno Bilotta",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+          "slug": "masterplan",
+          "tmdbId": "1561726",
+          "type": "movie",
+          "duration": "109 min"
+        },
         {
           "title": "La tormenta",
           "synopsis": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
@@ -235,7 +443,7 @@
         {
           "title": "Street Fighter",
           "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-          "rating": 6.6,
+          "rating": 6.42,
           "year": "2026",
           "genres": [
             "Acción",
@@ -250,190 +458,76 @@
           "duration": "125 min"
         },
         {
-          "title": "Leviticus",
-          "synopsis": "Dos adolescentes en un pequeño pueblo rural son atormentados por una violenta entidad sobrenatural que adopta la forma de la persona que más desean.",
-          "rating": 6.8,
+          "title": "Clown Panic",
+          "synopsis": "En 2016, niños de Carolina del Sur vieron payasos en el bosque. Los informes se extendieron por todo Estados Unidos, causando bloqueos y sondeos. Utilizando contenido de archivo y entrevistas, examina cómo el miedo y las redes sociales transformaron un extraño mito en histeria.",
+          "rating": 6,
           "year": "2026",
           "genres": [
-            "Terror",
-            "Romance"
-          ],
-          "cast": "Joe Bird, Stacy Clausen, Mia Wasikowska, Nicholas Hope, Tyallah Bullock",
-          "posterUrl": "https://image.tmdb.org/t/p/original/gS8Z2lepduus8x6Crwzb85F6Gli.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg",
-          "slug": "leviticus",
-          "tmdbId": "1564614",
-          "type": "movie",
-          "duration": "88 min"
-        },
-        {
-          "title": "One Piece: Heroínas",
-          "synopsis": "Nami vuelve a la tienda cuando unos zapatos de mala calidad le hacen daño en los pies. El diseñador Lebno se ofrece a arreglarlos, a cambio de que ella desfile en su pasarela.",
-          "rating": 6.5,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Comedia",
-            "Acción"
-          ],
-          "cast": "Akemi Okamura, Yuriko Yamaguchi, Maaya Sakamoto, Takehito Koyasu, Mayumi Tanaka",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
-          "slug": "one-piece-heroinas",
-          "tmdbId": "1659389",
-          "type": "movie",
-          "duration": "23 min"
-        },
-        {
-          "title": "Letras robadas",
-          "synopsis": "Rick, un cantante de bodas venido a menos, y Danny, una estrella de una 'boy band' en decadencia, forjan una amistad gracias a la música y a una improvisada sesión nocturna. Cuando Danny convierte la canción de Rick en un éxito, Rick se propone recuperar el reconocimiento que cree merecer.",
-          "rating": 7.14,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Música",
-            "Drama"
-          ],
-          "cast": "Paul Rudd, Nick Jonas, Peter McDonald, Marcella Plunkett, Havana Rose Liu",
-          "posterUrl": "https://image.tmdb.org/t/p/original/oYqsgYCaPjCvd3NPE43yNbhgCtG.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
-          "slug": "letras-robadas",
-          "tmdbId": "1284016",
-          "type": "movie",
-          "duration": "99 min"
-        },
-        {
-          "title": "Llueve sobre Babel",
-          "synopsis": "En el bar Babel, donde vivos y muertos se mezclan, Dante busca recordar su pasado antes de que la Flaca, la Muerte en esta ciudad, cobre su deuda. Jacob esconde de su padre, un sacerdote fanático, su deseo de ser drag queen, mientras Uma, una gitana con su propia apuesta, intenta engañar a la Flaca para salvar a su hija. Entre pactos y desafíos, sus destinos chocan en una lucha contra lo inevitable.",
-          "rating": 7.3,
-          "year": "2026",
-          "genres": [
-            "Fantasía",
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Jhon Narváez, John Alex Castillo, Sofia Buenaventura, Saray Nohemi Rebolledo Ospino, Felipe Aguilar Rodríguez",
-          "posterUrl": "https://image.tmdb.org/t/p/original/o6IDuFe3bBUR46DQbTy4tRCvnuk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/gmIQjFkhobVTkApuMljsMmewJzc.jpg",
-          "slug": "llueve-sobre-babel",
-          "tmdbId": "1388977",
-          "type": "movie",
-          "duration": "91 min"
-        },
-        {
-          "title": "Cars: Spooky Halloween Adventure",
-          "synopsis": "Es la noche de Halloween en Radiator Springs, y Rayo y su mejor amigo Mater disfrutan de la espeluznante fiesta anual del barrio. Pero Rayo se cansa de la gasolina de sabores, las tuercas tostadas y las conolinternas, así que convence a Mater para ir al viejo garaje encantado a las afueras de la ciudad. ¿Tendrán el valor suficiente para superar la noche sin llevarse un buen susto?",
-          "rating": 2.5,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Familia"
+            "Documental"
           ],
           "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/n6rYvDmGAbXs0rRveyUEDbgtdBC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/qq7d86OpXsDBfsCvhEIQMi82ChT.jpg",
-          "slug": "cars-spooky-halloween-adventure",
-          "tmdbId": "1786400",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/51M331d6lEMidnZlAEbTKox5ih4.jpg",
+          "slug": "clown-panic",
+          "tmdbId": "1776531",
           "type": "movie",
-          "duration": "2 min"
+          "duration": "84 min"
         },
         {
-          "title": "The Sun Never Sets",
-          "synopsis": "While on an unexpected break from her older, divorced boyfriend, a woman runs into her ex-partner, plunging her into a volatile love triangle that threatens to undo her life.",
-          "rating": 9.5,
+          "title": "Verde Brumoso",
+          "synopsis": "Años después de su gran éxito en Hollywood, una actriz talentosa cuya carrera se ha estancado lucha por su segundo acto.",
+          "rating": 10,
           "year": "2026",
           "genres": [
-            "Romance",
             "Drama",
             "Comedia"
           ],
-          "cast": "Dakota Fanning, Jake Johnson, Cory Michael Smith, Debby Ryan, Karley Sciortino",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hpzzGHyVN4nE0GzqoAu12ko6ER3.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ckDLzhqHG40CoNUwQWrAvzCYRIe.jpg",
-          "slug": "the-sun-never-sets",
-          "tmdbId": "1490214",
+          "cast": "Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Topher Grace",
+          "posterUrl": "https://image.tmdb.org/t/p/original/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
+          "slug": "verde-brumoso",
+          "tmdbId": "1381221",
           "type": "movie",
           "duration": "103 min"
         },
         {
-          "title": "Loco México Mágico",
-          "synopsis": "Un alcalde excéntrico obsesionado con convertir Alvarado, Veracruz en destino turístico decide filmar una película estilo Hollywood. Reúne un equipo improvisado de lugareños sin experiencia, liderado por un camarógrafo de XV años.",
-          "rating": 7.3,
+          "title": "Tenzing",
+          "synopsis": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
+          "rating": 7,
           "year": "2026",
           "genres": [
-            "Comedia"
+            "Drama",
+            "Historia"
           ],
-          "cast": "Silverio Palacios, Daniel Sosa, Fernando Cuautle, Sofía Carrera, Rocío Guzmán",
-          "posterUrl": "https://image.tmdb.org/t/p/original/aLufkmtCKCHwN6zrfQQ1jaJae9T.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8gg1n99c3LC0SEq99FLIDDXVSa.jpg",
-          "slug": "loco-mexico-magico",
-          "tmdbId": "1700680",
+          "cast": "更登彭措, Tom Hiddleston, Willem Dafoe, Caitríona Balfe, Thinley Lhamo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wUe0QbbPDU2BD3L2QnsZlAr55Je.jpg",
+          "slug": "tenzing",
+          "tmdbId": "1288069",
           "type": "movie",
-          "duration": "105 min"
+          "duration": "126 min"
         },
         {
-          "title": "Ángel y el pistolero",
-          "synopsis": "Un forajido herido encuentra una misericordia inesperada al ser cuidado por la hija de un ranchero. La esperanza del amor lo atrae hacia una vida diferente, hasta que la ley y su violento pasado acechan su nuevo hogar. Ahora debe elegir qué clase de hombre quiere llegar a ser.",
-          "rating": 9,
+          "title": "En directo",
+          "synopsis": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
+          "rating": 8.1,
           "year": "2026",
           "genres": [
-            "Western",
-            "Acción",
-            "Aventura",
-            "Romance"
+            "Crimen",
+            "Suspenso"
           ],
-          "cast": "Zachary Levi, Neal McDonough, Tommy Lee Jones, Meg Fraser, Jean Louisa Kelly",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mJe53zlhGBdcjtN1GqncNZ5Unm0.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/qsXgcngz1gH7kRzJfzxU4gCktDn.jpg",
-          "slug": "angel-y-el-pistolero",
-          "tmdbId": "1669915",
+          "cast": "Parineeti Chopra, Deven Bhojani, आदिल हुसैन, Shekhar Suman, Amol Palekar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4MQDsOft2xkNxTpOHvULBwKFbbn.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+          "slug": "en-directo",
+          "tmdbId": "1389172",
           "type": "movie",
-          "duration": "105 min"
-        }
-      ]
-    },
-    {
-      "title": "Estrenos",
-      "type": "movie",
-      "seeMoreSlug": "estrenos",
-      "items": [
-        {
-          "title": "La tormenta",
-          "synopsis": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
-          "rating": 8.2,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Gustaf Skarsgård, Aliette Opheim, Filip Berg, Josephine Bornebusch, Jonas Karlsson",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7hzCmg7a8nb2K3VQtm36E1YehnH.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
-          "slug": "la-tormenta",
-          "tmdbId": "1623256",
-          "type": "movie"
-        },
-        {
-          "title": "Street Fighter",
-          "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-          "rating": 6.6,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Fantasía"
-          ],
-          "cast": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Eric Andre",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-          "slug": "street-fighter-1153576",
-          "tmdbId": "1153576",
-          "type": "movie",
-          "duration": "125 min"
+          "duration": "116 min"
         },
         {
           "title": "V/H/S/Mixtape",
           "synopsis": "Película episódica de la serie VHS con temática musical.",
-          "rating": 4.4,
+          "rating": 4.7,
           "year": "2026",
           "genres": [
             "Terror",
@@ -448,23 +542,6 @@
           "duration": "98 min"
         },
         {
-          "title": "En directo",
-          "synopsis": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
-          "rating": 8.1,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Suspenso"
-          ],
-          "cast": "Parineeti Chopra, Deven Bhojani, Adil Hussain, Shekhar Suman, Amol Palekar",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4MQDsOft2xkNxTpOHvULBwKFbbn.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
-          "slug": "en-directo",
-          "tmdbId": "1389172",
-          "type": "movie",
-          "duration": "116 min"
-        },
-        {
           "title": "Ángel y el pistolero",
           "synopsis": "Un forajido herido encuentra una misericordia inesperada al ser cuidado por la hija de un ranchero. La esperanza del amor lo atrae hacia una vida diferente, hasta que la ley y su violento pasado acechan su nuevo hogar. Ahora debe elegir qué clase de hombre quiere llegar a ser.",
           "rating": 9,
@@ -482,92 +559,6 @@
           "tmdbId": "1669915",
           "type": "movie",
           "duration": "105 min"
-        },
-        {
-          "title": "El Precio de la Red",
-          "synopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
-          "rating": 7.05,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Suspenso"
-          ],
-          "cast": "Mikey Madison, Jeremy Allen White, Jeremy Strong, Bill Burr, Wunmi Mosaku",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-          "slug": "el-precio-de-la-red",
-          "tmdbId": "1281331",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
-          "title": "La otra madre",
-          "synopsis": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-          "rating": 6.02,
-          "year": "2026",
-          "genres": [
-            "Terror"
-          ],
-          "cast": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-          "slug": "la-otra-madre",
-          "tmdbId": "1400837",
-          "type": "movie",
-          "duration": "93 min"
-        },
-        {
-          "title": "Padre de familia: Happy Hell-o-ween",
-          "synopsis": "Brian y Stewie acaban en el infierno tras 24 temporadas de mal comportamiento y terminan al mando cuando consiguen sacar de quicio incluso al mismísimo diablo.",
-          "rating": 7.19,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Terror",
-            "Comedia"
-          ],
-          "cast": "Seth MacFarlane, Kieran Culkin, Alex Borstein, Seth Green, Mila Kunis",
-          "posterUrl": "https://image.tmdb.org/t/p/original/v4zLBCh6Gl8H4HI2rOBy0WN1qVz.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
-          "slug": "family-guy-happy-hell-o-ween",
-          "tmdbId": "1788735",
-          "type": "movie",
-          "duration": "22 min"
-        },
-        {
-          "title": "Matchbox: La película",
-          "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-          "rating": 7.91,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Comedia",
-            "Aventura"
-          ],
-          "cast": "John Cena, Jessica Biel, Arturo Castro, Sam Richardson, Teyonah Parris",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
-          "slug": "matchbox-la-pelicula",
-          "tmdbId": "1148365",
-          "type": "movie",
-          "duration": "127 min"
-        },
-        {
-          "title": "Las cartas de la vida",
-          "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
-          "rating": 7.7,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Drama"
-          ],
-          "cast": "Naomi Baker, Jay Reeves, Tamberla Perry, Karen Obilom, Jasmine Sargent",
-          "posterUrl": "https://image.tmdb.org/t/p/original/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
-          "slug": "las-cartas-de-la-vida",
-          "tmdbId": "1458857",
-          "type": "movie",
-          "duration": "112 min"
         }
       ]
     }
@@ -579,9 +570,22 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Las Kardashian",
+          "synopsis": "La familia a la que tanto conoces y adoras vuelve con una nueva serie dando acceso pleno a toda su vida. Kris, Kourtney, Kim, Khloé, Kendall y Kylie se exponen ante las cámaras para revelar los secretos que hay tras los titulares. Desde la enorme presión de dirigir negocios multimillonarios hasta los divertidos momentos llenos de juegos y abandono escolar. Esta serie no dejará a ningún espectador indiferente con esta fascinante y honesta historia de amor y vida ante los focos.",
+          "rating": 8.5,
+          "year": "2022",
+          "genres": [],
+          "cast": "Kourtney Kardashian Barker, Kim Kardashian, Khloé Kardashian, Kendall Jenner, Kylie Jenner",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bBASCWaCKj5jdzNoXIFCSb4zEDj.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
+          "slug": "las-kardashian",
+          "tmdbId": "154521",
+          "type": "series"
+        },
+        {
           "title": "La chispa del amor",
           "synopsis": "El heredero de una fortuna, cuyo corazón artificial funciona con una batería, llega a un acuerdo con una chica electrizante para que lo recargue. ¿Surgirán chispas?",
-          "rating": 8.58,
+          "rating": 8.6,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
@@ -720,23 +724,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
           "slug": "el-circulo",
           "tmdbId": "290233",
-          "type": "series"
-        },
-        {
-          "title": "Slow Horses",
-          "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-          "rating": 8.05,
-          "year": "2022",
-          "genres": [
-            "Crimen",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-          "slug": "slow-horses",
-          "tmdbId": "95480",
           "type": "series"
         }
       ]
