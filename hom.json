@@ -36,24 +36,6 @@
       "duration": "125 min"
     },
     {
-      "title": "Prácticamente magia 2",
-      "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
-      "rating": 6.4,
-      "year": "2026",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
-      ],
-      "cast": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xCXznyg1BOAKISMuduRJLtcAgCR.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-      "slug": "practicamente-magia-2",
-      "tmdbId": "1302904",
-      "type": "movie",
-      "duration": "130 min"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 8.46,
@@ -88,6 +70,24 @@
       "tmdbId": "1514026",
       "type": "movie",
       "duration": "95 min"
+    },
+    {
+      "title": "Prácticamente magia 2",
+      "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+      "rating": 6.4,
+      "year": "2026",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ],
+      "cast": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xCXznyg1BOAKISMuduRJLtcAgCR.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+      "slug": "practicamente-magia-2",
+      "tmdbId": "1302904",
+      "type": "movie",
+      "duration": "130 min"
     },
     {
       "title": "Matchbox: La película",
@@ -128,7 +128,7 @@
     {
       "title": "Carrie",
       "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "rating": 8.45,
+      "rating": 8.44,
       "year": "2026",
       "genres": [
         "Misterio",
@@ -176,23 +176,6 @@
       "type": "series"
     },
     {
-      "title": "Slow Horses",
-      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-      "rating": 8.05,
-      "year": "2022",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-      "slug": "slow-horses",
-      "tmdbId": "95480",
-      "type": "series"
-    },
-    {
       "title": "Linternas",
       "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
       "rating": 8.3,
@@ -209,6 +192,22 @@
       "slug": "linternas",
       "tmdbId": "95350",
       "type": "series"
+    },
+    {
+      "title": "Bajo la superficie",
+      "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
+      "rating": 7.22,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Josh Hartnett, Mackenzie Davis, Charlie Heaton, Ruby Stokes, Kaleb Horn",
+      "posterUrl": "https://image.tmdb.org/t/p/original/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "slug": "bajo-la-superficie",
+      "tmdbId": "285322",
+      "type": "series"
     }
   ],
   "movieSections": [
@@ -217,6 +216,22 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "La tormenta",
+          "synopsis": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
+          "rating": 8.07,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Gustaf Skarsgård, Aliette Opheim, Filip Berg, Josephine Bornebusch, Jonas Karlsson",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7hzCmg7a8nb2K3VQtm36E1YehnH.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+          "slug": "la-tormenta",
+          "tmdbId": "1623256",
+          "type": "movie"
+        },
         {
           "title": "Street Fighter",
           "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
@@ -374,24 +389,6 @@
           "tmdbId": "1669915",
           "type": "movie",
           "duration": "105 min"
-        },
-        {
-          "title": "La Odisea",
-          "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-          "rating": 8.01,
-          "year": "2026",
-          "genres": [
-            "Aventura",
-            "Acción",
-            "Fantasía"
-          ],
-          "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
-          "posterUrl": "https://image.tmdb.org/t/p/original/sf2ke1nwFOLLcwLZiXu9VaMMv8e.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
-          "slug": "la-odisea-1368337",
-          "tmdbId": "1368337",
-          "type": "movie",
-          "duration": "173 min"
         }
       ]
     },
@@ -400,6 +397,22 @@
       "type": "movie",
       "seeMoreSlug": "estrenos",
       "items": [
+        {
+          "title": "La tormenta",
+          "synopsis": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
+          "rating": 8.9,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Gustaf Skarsgård, Aliette Opheim, Filip Berg, Josephine Bornebusch, Jonas Karlsson",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7hzCmg7a8nb2K3VQtm36E1YehnH.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+          "slug": "la-tormenta",
+          "tmdbId": "1623256",
+          "type": "movie"
+        },
         {
           "title": "Street Fighter",
           "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
@@ -504,24 +517,6 @@
           "duration": "93 min"
         },
         {
-          "title": "Matchbox: La película",
-          "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-          "rating": 7.91,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Comedia",
-            "Aventura"
-          ],
-          "cast": "John Cena, Jessica Biel, Arturo Castro, Sam Richardson, Teyonah Parris",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
-          "slug": "matchbox-la-pelicula",
-          "tmdbId": "1148365",
-          "type": "movie",
-          "duration": "127 min"
-        },
-        {
           "title": "Padre de familia: Happy Hell-o-ween",
           "synopsis": "Brian y Stewie acaban en el infierno tras 24 temporadas de mal comportamiento y terminan al mando cuando consiguen sacar de quicio incluso al mismísimo diablo.",
           "rating": 7.19,
@@ -540,6 +535,24 @@
           "duration": "22 min"
         },
         {
+          "title": "Matchbox: La película",
+          "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
+          "rating": 7.91,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Comedia",
+            "Aventura"
+          ],
+          "cast": "John Cena, Jessica Biel, Arturo Castro, Sam Richardson, Teyonah Parris",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
+          "slug": "matchbox-la-pelicula",
+          "tmdbId": "1148365",
+          "type": "movie",
+          "duration": "127 min"
+        },
+        {
           "title": "Las cartas de la vida",
           "synopsis": "A través de emotivas cartas, una madre soltera y un recluso forjan un vínculo que da paso a la redención, a la esperanza y a un amor improbable.",
           "rating": 7.7,
@@ -555,23 +568,6 @@
           "tmdbId": "1458857",
           "type": "movie",
           "duration": "112 min"
-        },
-        {
-          "title": "Appofeniacs",
-          "synopsis": "When Duke goes on a frenzy of reckless deepfake creations, his callous disregard of consequences shows how, with a few clicks of an app on a phone, anyone can create a deceiving video of an unsuspecting victim and ruin their life… or end it.",
-          "rating": 6.5,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Aaron Holliday, Jermaine Fowler, Sean Gunn, Michael Abbott Jr., Will Brandt",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6uKZM73i8HnR3wmrGWzxHtjmvYb.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cjlTNyyd5hqB3vXHVkjwTyvN9I4.jpg",
-          "slug": "appofeniacs",
-          "tmdbId": "1401433",
-          "type": "movie",
-          "duration": "91 min"
         }
       ]
     }
@@ -583,9 +579,61 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "La chispa del amor",
+          "synopsis": "El heredero de una fortuna, cuyo corazón artificial funciona con una batería, llega a un acuerdo con una chica electrizante para que lo recargue. ¿Surgirán chispas?",
+          "rating": 8.5,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Fantasía",
+            "Comedia"
+          ],
+          "cast": "김영광, 채수빈, Cha Woo-min",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2KLblBXNDX05ZqLwubCyjeokGvZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+          "slug": "la-chispa-del-amor",
+          "tmdbId": "289423",
+          "type": "series"
+        },
+        {
+          "title": "Aquel",
+          "synopsis": "Los orígenes, la trayecoria y la música de Raphael inspiran esta íntima serie biográfica sobre su extraordinaria carrera de 60 años de éxitos internacionales.",
+          "rating": 7.8,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Javier Morgade, Álvaro González, Carlos Santos, Francesco Carril, Natalia Varela",
+          "posterUrl": "https://image.tmdb.org/t/p/original/y4kX6n4PgEJcmvG49MDQRuH9ay5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8UzqMeAs2ShIzmOA0ZAniWLLeKz.jpg",
+          "slug": "aquel",
+          "tmdbId": "295684",
+          "type": "series"
+        },
+        {
+          "title": "Avatar: Los Siete Refugios",
+          "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
+          "rating": 8.87,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Acción",
+            "Aventura",
+            "Ciencia ficción",
+            "Fantasía",
+            "Familia"
+          ],
+          "cast": "Saheli Khan, Aishwarya 'Aishu' Devan, Major Curda, Akshay Khanna, Sakina Jaffrey",
+          "posterUrl": "https://image.tmdb.org/t/p/original/iMs2rnOGZm37pdGkWGbEtNewvJv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+          "slug": "avatar-los-siete-refugios",
+          "tmdbId": "284833",
+          "type": "series"
+        },
+        {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-          "rating": 7.24,
+          "rating": 7.22,
           "year": "2026",
           "genres": [
             "Drama",
@@ -690,54 +738,6 @@
           "slug": "slow-horses",
           "tmdbId": "95480",
           "type": "series"
-        },
-        {
-          "title": "The Drop: Una historia de Snowfall",
-          "synopsis": "A medida que Los Ángeles pasaba del crack al rap en la década de los noventa, los territorios de las bandas controlados por los Bloods y los Crips se convirtieron en el epicentro de una escena musical emergente en South Central.",
-          "rating": 8.21,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Gail Bean, Isaiah John, Asante Blackk, Peyton Alex Smith, Simmie Sims III",
-          "posterUrl": "https://image.tmdb.org/t/p/original/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
-          "slug": "the-drop-a-snowfall-saga",
-          "tmdbId": "304842",
-          "type": "series"
-        },
-        {
-          "title": "Pequeños profetas",
-          "synopsis": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
-          "rating": 8.17,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Pearce Quigley, Michael Palin, Lauren Patel, Mackenzie Crook, Shola Adewusi",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
-          "slug": "pequenos-profetas",
-          "tmdbId": "312693",
-          "type": "series"
-        },
-        {
-          "title": "Ted Lasso",
-          "synopsis": "Un ingenuo entrenador de fútbol americano decide probar suerte en un club de fútbol inglés, pero su inexperiencia despierta recelo y desdén entre jugadores y aficionados. ¿Logrará conquistarlos con sus peculiares métodos?",
-          "rating": 8.36,
-          "year": "2020",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Brett Goldstein, Brendan Hunt",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6YUzArR2TElmGMj1HmnnfVlgunL.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
-          "slug": "ted-lasso",
-          "tmdbId": "97546",
-          "type": "series"
         }
       ]
     },
@@ -746,6 +746,22 @@
       "type": "series",
       "seeMoreSlug": "estrenos-series",
       "items": [
+        {
+          "title": "Bajo la superficie",
+          "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
+          "rating": 7.22,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Josh Hartnett, Mackenzie Davis, Charlie Heaton, Ruby Stokes, Kaleb Horn",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+          "slug": "bajo-la-superficie",
+          "tmdbId": "285322",
+          "type": "series"
+        },
         {
           "title": "Amor, dulce amor",
           "synopsis": "En una idílica isla japonesa, la trabajadora agricultora Karin Shirahama entrega su corazón y alma a cultivar las mejores fresas posibles. Un día, Lee Yubin, un chico de ciudad con mala suerte llega a la isla y, tras un primer encuentro hilarantemente incómodo, ambos terminan pasando mucho más tiempo juntos debido a un malentendido inesperado.",
@@ -760,6 +776,24 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
           "slug": "amor-dulce-amor",
           "tmdbId": "305551",
+          "type": "series"
+        },
+        {
+          "title": "Carrie",
+          "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+          "rating": 8.44,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+          "slug": "carrie",
+          "tmdbId": "288673",
           "type": "series"
         },
         {
@@ -779,24 +813,6 @@
           "type": "series"
         },
         {
-          "title": "Carrie",
-          "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-          "rating": 8.45,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-          "slug": "carrie",
-          "tmdbId": "288673",
-          "type": "series"
-        },
-        {
           "title": "Between steps",
           "synopsis": "Minjae, un antiguo nadador que perdió una pierna debido a una enfermedad, lleva una vida tranquila y controlada mientras estudia un doctorado. Sin embargo, todo cambia cuando conoce a Yujin, una estudiante de máster que intenta empezar de nuevo tras perder el rumbo de su vida. En un laboratorio de robótica, surge entre ellos un romance apasionado, agridulce y lleno de ternura.",
           "rating": 7.2,
@@ -810,6 +826,21 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
           "slug": "between-steps",
           "tmdbId": "307106",
+          "type": "series"
+        },
+        {
+          "title": "WAR",
+          "synopsis": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
+          "rating": 7.9,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Dominic West, Sienna Miller, Phoebe Fox, James McArdle, Nina Sosanya",
+          "posterUrl": "https://image.tmdb.org/t/p/original/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
+          "slug": "war",
+          "tmdbId": "298852",
           "type": "series"
         },
         {
@@ -861,21 +892,6 @@
           "type": "series"
         },
         {
-          "title": "WAR",
-          "synopsis": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
-          "rating": 7.9,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Dominic West, Sienna Miller, Phoebe Fox, James McArdle, Nina Sosanya",
-          "posterUrl": "https://image.tmdb.org/t/p/original/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
-          "slug": "war",
-          "tmdbId": "298852",
-          "type": "series"
-        },
-        {
           "title": "Al este del Edén",
           "synopsis": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
           "rating": 8.06,
@@ -888,24 +904,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
           "slug": "al-este-del-eden",
           "tmdbId": "258165",
-          "type": "series"
-        },
-        {
-          "title": "Coven Academy: El hechizo de las brujas",
-          "synopsis": "En el corazón embrujado de Nueva Orleans, \"Coven Academy: El hechizo de las brujas\" sigue a tres brujas adolescentes y a sus peligrosamente encantadores compañeros brujos en un selecto internado mágico donde el poder es moneda de cambio, los secretos son letales y la atracción es una desventaja. Atrapados entre antiguas guerras sobrenaturales e intereses amorosos prohibidos, el aquelarre debe decidir hasta dónde están dispuestos a llegar para proteger su ciudad y a sí mismos.",
-          "rating": 7.46,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Malina Weissman, Malachi Barton, Jordan Leftwich, Ora Duplass, Louis Thresher",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hcmeaEjGZE1mYfPp4KFd8mNgYbO.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-          "slug": "coven-academy-el-hechizo-de-las-brujas",
-          "tmdbId": "298505",
           "type": "series"
         }
       ]
