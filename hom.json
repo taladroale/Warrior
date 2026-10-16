@@ -36,6 +36,22 @@
       "duration": "125 min"
     },
     {
+      "title": "La tormenta",
+      "synopsis": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
+      "rating": 8.07,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "cast": "Gustaf Skarsgård, Aliette Opheim, Filip Berg, Josephine Bornebusch, Jonas Karlsson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/7hzCmg7a8nb2K3VQtm36E1YehnH.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+      "slug": "la-tormenta",
+      "tmdbId": "1623256",
+      "type": "movie"
+    },
+    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 8.46,
@@ -52,24 +68,6 @@
       "tmdbId": "969681",
       "type": "movie",
       "duration": "145 min"
-    },
-    {
-      "title": "Buddy",
-      "synopsis": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
-      "rating": 7.59,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Comedia",
-        "Fantasía"
-      ],
-      "cast": "Keegan-Michael Key, Cristin Milioti, Delaney Quinn, Caleb Williams, Madison Skyy Polan",
-      "posterUrl": "https://image.tmdb.org/t/p/original/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-      "slug": "buddy",
-      "tmdbId": "1514026",
-      "type": "movie",
-      "duration": "95 min"
     },
     {
       "title": "Prácticamente magia 2",
@@ -90,22 +88,22 @@
       "duration": "130 min"
     },
     {
-      "title": "Matchbox: La película",
-      "synopsis": "Varios amigos de la infancia se reúnen y el reencuentro se sale de madre cuando acaban metidos en un peligroso complot internacional y se ven obligados a salvar el mundo.",
-      "rating": 7.91,
+      "title": "Buddy",
+      "synopsis": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
+      "rating": 7.59,
       "year": "2026",
       "genres": [
-        "Acción",
+        "Terror",
         "Comedia",
-        "Aventura"
+        "Fantasía"
       ],
-      "cast": "John Cena, Jessica Biel, Arturo Castro, Sam Richardson, Teyonah Parris",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
-      "slug": "matchbox-la-pelicula",
-      "tmdbId": "1148365",
+      "cast": "Keegan-Michael Key, Cristin Milioti, Delaney Quinn, Caleb Williams, Madison Skyy Polan",
+      "posterUrl": "https://image.tmdb.org/t/p/original/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+      "slug": "buddy",
+      "tmdbId": "1514026",
       "type": "movie",
-      "duration": "127 min"
+      "duration": "95 min"
     }
   ],
   "seriesHero": [
@@ -144,22 +142,6 @@
       "type": "series"
     },
     {
-      "title": "Verdades ocultas",
-      "synopsis": "Un librero en Tulsa (Arizona) se convierte en periodista de investigación para destapar la corrupción local. Cuando sus pesquisas dan con conexiones siniestras, tendrá que proteger tanto a su familia como a la verdad.",
-      "rating": 6.7,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Ethan Hawke, Keith David, Ethan Hawke",
-      "posterUrl": "https://image.tmdb.org/t/p/original/aPd3Zn6c3iAMwhr79TPTtb6ovzF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/TMfV5xdAEZhzGN9MYXYomuhePz.jpg",
-      "slug": "the-lowdown",
-      "tmdbId": "273247",
-      "type": "series"
-    },
-    {
       "title": "South Park",
       "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
       "rating": 8.33,
@@ -173,6 +155,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
       "slug": "south-park",
       "tmdbId": "2190",
+      "type": "series"
+    },
+    {
+      "title": "Verdades ocultas",
+      "synopsis": "Un librero en Tulsa (Arizona) se convierte en periodista de investigación para destapar la corrupción local. Cuando sus pesquisas dan con conexiones siniestras, tendrá que proteger tanto a su familia como a la verdad.",
+      "rating": 6.7,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Ethan Hawke, Keith David, Ethan Hawke",
+      "posterUrl": "https://image.tmdb.org/t/p/original/aPd3Zn6c3iAMwhr79TPTtb6ovzF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/TMfV5xdAEZhzGN9MYXYomuhePz.jpg",
+      "slug": "the-lowdown",
+      "tmdbId": "273247",
       "type": "series"
     },
     {
@@ -400,7 +398,7 @@
         {
           "title": "La tormenta",
           "synopsis": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
-          "rating": 8.9,
+          "rating": 8.07,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -747,6 +745,58 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
+          "title": "Aquel",
+          "synopsis": "Los orígenes, la trayecoria y la música de Raphael inspiran esta íntima serie biográfica sobre su extraordinaria carrera de 60 años de éxitos internacionales.",
+          "rating": 7.8,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Javier Morgade, Álvaro González, Carlos Santos, Francesco Carril, Natalia Varela",
+          "posterUrl": "https://image.tmdb.org/t/p/original/y4kX6n4PgEJcmvG49MDQRuH9ay5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8UzqMeAs2ShIzmOA0ZAniWLLeKz.jpg",
+          "slug": "aquel",
+          "tmdbId": "295684",
+          "type": "series"
+        },
+        {
+          "title": "La chispa del amor",
+          "synopsis": "El heredero de una fortuna, cuyo corazón artificial funciona con una batería, llega a un acuerdo con una chica electrizante para que lo recargue. ¿Surgirán chispas?",
+          "rating": 8.5,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Fantasía",
+            "Comedia"
+          ],
+          "cast": "김영광, 채수빈, Cha Woo-min",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2KLblBXNDX05ZqLwubCyjeokGvZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+          "slug": "la-chispa-del-amor",
+          "tmdbId": "289423",
+          "type": "series"
+        },
+        {
+          "title": "Avatar: Los Siete Refugios",
+          "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
+          "rating": 8.87,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Acción",
+            "Aventura",
+            "Ciencia ficción",
+            "Fantasía",
+            "Familia"
+          ],
+          "cast": "Saheli Khan, Aishwarya 'Aishu' Devan, Major Curda, Akshay Khanna, Sakina Jaffrey",
+          "posterUrl": "https://image.tmdb.org/t/p/original/iMs2rnOGZm37pdGkWGbEtNewvJv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+          "slug": "avatar-los-siete-refugios",
+          "tmdbId": "284833",
+          "type": "series"
+        },
+        {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
           "rating": 7.22,
@@ -760,22 +810,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
           "slug": "bajo-la-superficie",
           "tmdbId": "285322",
-          "type": "series"
-        },
-        {
-          "title": "Amor, dulce amor",
-          "synopsis": "En una idílica isla japonesa, la trabajadora agricultora Karin Shirahama entrega su corazón y alma a cultivar las mejores fresas posibles. Un día, Lee Yubin, un chico de ciudad con mala suerte llega a la isla y, tras un primer encuentro hilarantemente incómodo, ambos terminan pasando mucho más tiempo juntos debido a un malentendido inesperado.",
-          "rating": 9.5,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "지창욱, Mio Imada, 남윤수, Rinka Kumada, 정순원",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
-          "slug": "amor-dulce-amor",
-          "tmdbId": "305551",
           "type": "series"
         },
         {
@@ -813,6 +847,22 @@
           "type": "series"
         },
         {
+          "title": "Amor, dulce amor",
+          "synopsis": "En una idílica isla japonesa, la trabajadora agricultora Karin Shirahama entrega su corazón y alma a cultivar las mejores fresas posibles. Un día, Lee Yubin, un chico de ciudad con mala suerte llega a la isla y, tras un primer encuentro hilarantemente incómodo, ambos terminan pasando mucho más tiempo juntos debido a un malentendido inesperado.",
+          "rating": 9.5,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "지창욱, Mio Imada, 남윤수, Rinka Kumada, 정순원",
+          "posterUrl": "https://image.tmdb.org/t/p/original/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+          "slug": "amor-dulce-amor",
+          "tmdbId": "305551",
+          "type": "series"
+        },
+        {
           "title": "Between steps",
           "synopsis": "Minjae, un antiguo nadador que perdió una pierna debido a una enfermedad, lleva una vida tranquila y controlada mientras estudia un doctorado. Sin embargo, todo cambia cuando conoce a Yujin, una estudiante de máster que intenta empezar de nuevo tras perder el rumbo de su vida. En un laboratorio de robótica, surge entre ellos un romance apasionado, agridulce y lleno de ternura.",
           "rating": 7.2,
@@ -826,38 +876,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
           "slug": "between-steps",
           "tmdbId": "307106",
-          "type": "series"
-        },
-        {
-          "title": "WAR",
-          "synopsis": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
-          "rating": 7.9,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Dominic West, Sienna Miller, Phoebe Fox, James McArdle, Nina Sosanya",
-          "posterUrl": "https://image.tmdb.org/t/p/original/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
-          "slug": "war",
-          "tmdbId": "298852",
-          "type": "series"
-        },
-        {
-          "title": "Prefiero la muerte",
-          "synopsis": "Un grupo de adolescentes intenta salvar su pueblo de una invasión de zombis después de que Archie, el 'loser' oficial del instituto, sea mordido por uno de ellos.",
-          "rating": 7.9,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Comedia"
-          ],
-          "cast": "Fernanda Castillo, Luis Fernando Peña, Armando Hernández, Tiaré Scanda, Farah Justiniani",
-          "posterUrl": "https://image.tmdb.org/t/p/original/693nWyAysWVy6Wt8X2B4e8BrydZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
-          "slug": "prefiero-la-muerte",
-          "tmdbId": "335227",
           "type": "series"
         },
         {
@@ -889,21 +907,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/17ZgS7G4tVvJsuMfMxkFMHumXog.jpg",
           "slug": "africa-el-corazon-salvaje-de-la-tierra",
           "tmdbId": "334888",
-          "type": "series"
-        },
-        {
-          "title": "Al este del Edén",
-          "synopsis": "A comienzos del siglo XX, una mujer de espíritu independiente separa a dos hermanos y desencadena una historia que marcará a dos generaciones.",
-          "rating": 8.06,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Florence Pugh, Christopher Abbott, Mike Faist, Hoon Lee, Ciarán Hinds",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pPVwSNnIHiSmNzGUHMPGLRqMxW0.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
-          "slug": "al-este-del-eden",
-          "tmdbId": "258165",
           "type": "series"
         }
       ]
