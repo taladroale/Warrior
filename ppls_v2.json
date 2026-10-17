@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "updatedAt": "2026-10-16T18:54:29Z",
-  "total": 20104,
+  "updatedAt": "2026-10-19T08:52:43Z",
+  "total": 20106,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias-episodio-iv-una-nueva-esperanza","imdb":"tt0076759"},
     "12": {"slug":"buscando-a-nemo","imdb":"tt0266543"},
@@ -19072,6 +19072,7 @@
     "298234": {"slug":"alias-charlie-sheen","imdb":"tt37898320"},
     "298343": {"slug":"la-ley-de-las-vegas-AP3Mlz","imdb":"tt37937030"},
     "298505": {"slug":"coven-academy-el-hechizo-de-la-PXhETn","imdb":"tt36064406"},
+    "298550": {"slug":"juegos-amigos-y-sexo-xjfNT7","imdb":"tt37180305"},
     "298610": {"slug":"muertos-de-amor-LsMMka","imdb":"tt40247521"},
     "298682": {"slug":"naturaleza-de-pesadilla-jxAGZt","imdb":"tt38067673"},
     "298699": {"slug":"hombres-de-verdad-fsfPLz","imdb":"tt33034757"},
@@ -19199,6 +19200,7 @@
     "319338": {"slug":"travis-japan-summer-vacation-7-MDQpib","imdb":"tt38937921"},
     "319990": {"slug":"-Gc1VL6","imdb":"tt43619474"},
     "320096": {"slug":"krypto-saves-the-day-w3qAgf","imdb":"tt37899471"},
+    "320754": {"slug":"criminales-organizados-TbTgmK","imdb":"tt38732131"},
     "320760": {"slug":"te-conozco-uI8sLK","imdb":"tt39397536"},
     "321338": {"slug":"entre-padre-e-hijo-KO2hA1","imdb":"tt42171045"},
     "321594": {"slug":"futuro-desierto-V1sa50","imdb":"tt31049024"},
