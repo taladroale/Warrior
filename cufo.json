@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T17:19:08Z",
+  "updatedAt": "2026-10-19T08:47:22Z",
   "source": "cufo",
-  "total": 22630,
+  "total": 22632,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias"},
     "12": {"slug":"buscando-a-nemo"},
@@ -17406,6 +17406,7 @@
     "1443260": {"slug":"rob1n"},
     "1443324": {"slug":"bad-btch"},
     "1443435": {"slug":"american-wages"},
+    "1443576": {"slug":"los-domingos"},
     "1443762": {"slug":"el-falsificador-1443762"},
     "1443940": {"slug":"truth-and-treason"},
     "1444249": {"slug":"the-highest-stakes"},
@@ -22493,6 +22494,7 @@
     "293130": {"slug":"the-many-deaths-of-nora-dalmasso"},
     "293298": {"slug":"most-wanted-julius-kivimaki"},
     "293598": {"slug":"murder-most-puzzling"},
+    "293610": {"slug":"doctor-x-mafia-in-white"},
     "293808": {"slug":"marcada"},
     "294063": {"slug":"suga-ride-or-die"},
     "294344": {"slug":"los-colorado"},
