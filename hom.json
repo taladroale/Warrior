@@ -52,23 +52,6 @@
       "duration": "125 min"
     },
     {
-      "title": "La tormenta",
-      "synopsis": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
-      "rating": 8.2,
-      "year": "2026",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "cast": "Gustaf Skarsgård, Aliette Opheim, Filip Berg, Josephine Bornebusch, Jonas Karlsson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/7hzCmg7a8nb2K3VQtm36E1YehnH.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
-      "slug": "la-tormenta",
-      "tmdbId": "1623256",
-      "type": "movie",
-      "duration": "101 min"
-    },
-    {
       "title": "Hope",
       "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
       "rating": 7.11,
@@ -87,22 +70,39 @@
       "duration": "157 min"
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.47,
+      "title": "La tormenta",
+      "synopsis": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
+      "rating": 8.2,
       "year": "2026",
       "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
+        "Comedia",
+        "Drama"
       ],
-      "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681",
+      "cast": "Gustaf Skarsgård, Aliette Opheim, Filip Berg, Josephine Bornebusch, Jonas Karlsson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/7hzCmg7a8nb2K3VQtm36E1YehnH.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+      "slug": "la-tormenta",
+      "tmdbId": "1623256",
       "type": "movie",
-      "duration": "145 min"
+      "duration": "101 min"
+    },
+    {
+      "title": "Sacrifice",
+      "synopsis": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
+      "rating": 5.7,
+      "year": "2026",
+      "genres": [
+        "Aventura",
+        "Comedia",
+        "Acción"
+      ],
+      "cast": "Chris Evans, Anya Taylor-Joy, Vincent Cassel, Salma Hayek Pinault, John Malkovich",
+      "posterUrl": "https://image.tmdb.org/t/p/original/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
+      "slug": "sacrifice-1284186",
+      "tmdbId": "1284186",
+      "type": "movie",
+      "duration": "103 min"
     }
   ],
   "seriesHero": [
@@ -158,6 +158,23 @@
       "type": "series"
     },
     {
+      "title": "Reacher",
+      "synopsis": "Cuando el exagente de la Policía Militar Jack Reacher es detenido por un asesinato que no ha cometido, se ve envuelto en una mortífera conspiración llena de policías corruptos, empresarios dudosos y políticos intrigantes. Armado solo con su ingenio, debe averiguar qué pasa en Margrave, Georgia. La primera temporada de Reacher se basa en Zona peligrosa, el superventas internacional de Lee Child.",
+      "rating": 8.13,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Crimen"
+      ],
+      "cast": "Alan Ritchson, Agnez Mo, Sydelle Noel, Anggun, Christopher Rodriguez Marquette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6iuVqg86hJPwTWAO1TDWKLxjgn4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+      "slug": "reacher",
+      "tmdbId": "108978",
+      "type": "series"
+    },
+    {
       "title": "Tierra de mafiosos",
       "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
       "rating": 8.5,
@@ -189,22 +206,6 @@
       "slug": "materia-oscura",
       "tmdbId": "196322",
       "type": "series"
-    },
-    {
-      "title": "South Park",
-      "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
-      "rating": 8.33,
-      "year": "1997",
-      "genres": [
-        "Comedia",
-        "Animación"
-      ],
-      "cast": "Matt Stone, Mona Marshall, Jennifer Howell, John Hansen, Adrien Beard",
-      "posterUrl": "https://image.tmdb.org/t/p/original/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "slug": "south-park",
-      "tmdbId": "2190",
-      "type": "series"
     }
   ],
   "movieSections": [
@@ -213,6 +214,22 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Los domingos",
+          "synopsis": "Ainara es una joven idealista y brillante de 17 años que, a priori, ha de decidir qué carrera universitaria estudiará. Sin embargo, la joven manifiesta que se siente cada vez más cerca de Dios y que está dispuesta a abrazar la vida de monja de clausura. La noticia pilla por sorpresa a toda la familia provocando un abismo y una prueba de fuego para todos.",
+          "rating": 6.87,
+          "year": "2025",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Blanca Soroa, Patricia López Arnaiz, Miguel Garcés, Juan Minujín, Mabel Rivera",
+          "posterUrl": "https://image.tmdb.org/t/p/original/kwpDm6qtON8pLCSY0C8MltMofEE.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/jVwvhKpw6a7c7JmHhMykKAn7buQ.jpg",
+          "slug": "los-domingos",
+          "tmdbId": "1443576",
+          "type": "movie",
+          "duration": "112 min"
+        },
         {
           "title": "Haciendo amigos",
           "synopsis": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
@@ -365,22 +382,6 @@
           "tmdbId": "1301421",
           "type": "movie",
           "duration": "109 min"
-        },
-        {
-          "title": "Clown Panic",
-          "synopsis": "En 2016, niños de Carolina del Sur vieron payasos en el bosque. Los informes se extendieron por todo Estados Unidos, causando bloqueos y sondeos. Utilizando contenido de archivo y entrevistas, examina cómo el miedo y las redes sociales transformaron un extraño mito en histeria.",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/51M331d6lEMidnZlAEbTKox5ih4.jpg",
-          "slug": "clown-panic",
-          "tmdbId": "1776531",
-          "type": "movie",
-          "duration": "84 min"
         }
       ]
     },
@@ -570,6 +571,39 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Doctor X Mafia in White",
+          "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
+          "rating": 9,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+          "slug": "doctor-x-mafia-in-white",
+          "tmdbId": "293610",
+          "type": "series"
+        },
+        {
+          "title": "Furia",
+          "synopsis": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
+          "rating": 6.5,
+          "year": "2025",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Claudia Salas, Ana Torrent, Maribel Verdú, Carmen Maura, María León",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xWTgLbS1HLr2sqwZH9sD6zO16Jj.jpg",
+          "slug": "furia-280880",
+          "tmdbId": "280880",
+          "type": "series"
+        },
+        {
           "title": "Las Kardashian",
           "synopsis": "La familia a la que tanto conoces y adoras vuelve con una nueva serie dando acceso pleno a toda su vida. Kris, Kourtney, Kim, Khloé, Kendall y Kylie se exponen ante las cámaras para revelar los secretos que hay tras los titulares. Desde la enorme presión de dirigir negocios multimillonarios hasta los divertidos momentos llenos de juegos y abandono escolar. Esta serie no dejará a ningún espectador indiferente con esta fascinante y honesta historia de amor y vida ante los focos.",
           "rating": 8.5,
@@ -696,35 +730,6 @@
           "slug": "amor-dulce-amor",
           "tmdbId": "305551",
           "type": "series"
-        },
-        {
-          "title": "Los Tinelli",
-          "synopsis": "Marcelo Tinelli abre las puertas de su mansión en Punta del Este para recibir a su familia y amigos. Aprovecha la oportunidad para presentarles a su novia, Milett, 30 años más joven que él. Sin embargo, la reacción de sus hijas no es la esperada. Un fuerte desequilibrio emocional surge en el grupo a pocos meses de un evento trascendental como el casamiento de Cande, la segunda hija de Marcelo.",
-          "rating": 8,
-          "year": "2025",
-          "genres": [],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/dLJ5yKt2puHx04HECs5iQ0baVC3.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/rLaTDIkZTceQ6Hr6Qg3FKovBX1A.jpg",
-          "slug": "los-tinelli",
-          "tmdbId": "280416",
-          "type": "series"
-        },
-        {
-          "title": "El círculo",
-          "synopsis": "El asesinato de una famosa actriz revela una caja de Pandora de secretos y espionaje que amenaza con destruir la vida de cuatro amigos de la infancia.",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Crimen"
-          ],
-          "cast": "Zuria Vega, Osvaldo Benavides, Raúl Briones, Michel Brown",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hkZ8ID4k0nGOdGJa1ynjj8nTmiW.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
-          "slug": "el-circulo",
-          "tmdbId": "290233",
-          "type": "series"
         }
       ]
     },
@@ -734,35 +739,20 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
-          "title": "Aquel",
-          "synopsis": "Los orígenes, la trayecoria y la música de Raphael inspiran esta íntima serie biográfica sobre su extraordinaria carrera de 60 años de éxitos internacionales.",
-          "rating": 7.8,
+          "title": "Doctor X Mafia in White",
+          "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
+          "rating": 9,
           "year": "2026",
           "genres": [
-            "Drama"
+            "Misterio",
+            "Drama",
+            "Crimen"
           ],
-          "cast": "Javier Morgade, Álvaro González, Carlos Santos, Francesco Carril, Natalia Varela",
-          "posterUrl": "https://image.tmdb.org/t/p/original/y4kX6n4PgEJcmvG49MDQRuH9ay5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8UzqMeAs2ShIzmOA0ZAniWLLeKz.jpg",
-          "slug": "aquel",
-          "tmdbId": "295684",
-          "type": "series"
-        },
-        {
-          "title": "La chispa del amor",
-          "synopsis": "El heredero de una fortuna, cuyo corazón artificial funciona con una batería, llega a un acuerdo con una chica electrizante para que lo recargue. ¿Surgirán chispas?",
-          "rating": 8.58,
-          "year": "2026",
-          "genres": [
-            "Ciencia ficción",
-            "Fantasía",
-            "Comedia"
-          ],
-          "cast": "김영광, 채수빈, Cha Woo-min",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2KLblBXNDX05ZqLwubCyjeokGvZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-          "slug": "la-chispa-del-amor",
-          "tmdbId": "289423",
+          "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+          "slug": "doctor-x-mafia-in-white",
+          "tmdbId": "293610",
           "type": "series"
         },
         {
@@ -786,6 +776,38 @@
           "type": "series"
         },
         {
+          "title": "Aquel",
+          "synopsis": "Los orígenes, la trayecoria y la música de Raphael inspiran esta íntima serie biográfica sobre su extraordinaria carrera de 60 años de éxitos internacionales.",
+          "rating": 7.8,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Javier Morgade, Álvaro González, Carlos Santos, Francesco Carril, Natalia Varela",
+          "posterUrl": "https://image.tmdb.org/t/p/original/y4kX6n4PgEJcmvG49MDQRuH9ay5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8UzqMeAs2ShIzmOA0ZAniWLLeKz.jpg",
+          "slug": "aquel",
+          "tmdbId": "295684",
+          "type": "series"
+        },
+        {
+          "title": "La chispa del amor",
+          "synopsis": "El heredero de una fortuna, cuyo corazón artificial funciona con una batería, llega a un acuerdo con una chica electrizante para que lo recargue. ¿Surgirán chispas?",
+          "rating": 8.6,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Fantasía",
+            "Comedia"
+          ],
+          "cast": "김영광, 채수빈, Cha Woo-min",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2KLblBXNDX05ZqLwubCyjeokGvZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+          "slug": "la-chispa-del-amor",
+          "tmdbId": "289423",
+          "type": "series"
+        },
+        {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
           "rating": 7.22,
@@ -799,6 +821,22 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
           "slug": "bajo-la-superficie",
           "tmdbId": "285322",
+          "type": "series"
+        },
+        {
+          "title": "Amor, dulce amor",
+          "synopsis": "En una idílica isla japonesa, la trabajadora agricultora Karin Shirahama entrega su corazón y alma a cultivar las mejores fresas posibles. Un día, Lee Yubin, un chico de ciudad con mala suerte llega a la isla y, tras un primer encuentro hilarantemente incómodo, ambos terminan pasando mucho más tiempo juntos debido a un malentendido inesperado.",
+          "rating": 9.5,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "지창욱, Mio Imada, 남윤수, Rinka Kumada, 정순원",
+          "posterUrl": "https://image.tmdb.org/t/p/original/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+          "slug": "amor-dulce-amor",
+          "tmdbId": "305551",
           "type": "series"
         },
         {
@@ -836,22 +874,6 @@
           "type": "series"
         },
         {
-          "title": "Amor, dulce amor",
-          "synopsis": "En una idílica isla japonesa, la trabajadora agricultora Karin Shirahama entrega su corazón y alma a cultivar las mejores fresas posibles. Un día, Lee Yubin, un chico de ciudad con mala suerte llega a la isla y, tras un primer encuentro hilarantemente incómodo, ambos terminan pasando mucho más tiempo juntos debido a un malentendido inesperado.",
-          "rating": 9.5,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "지창욱, Mio Imada, 남윤수, Rinka Kumada, 정순원",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
-          "slug": "amor-dulce-amor",
-          "tmdbId": "305551",
-          "type": "series"
-        },
-        {
           "title": "Between steps",
           "synopsis": "Minjae, un antiguo nadador que perdió una pierna debido a una enfermedad, lleva una vida tranquila y controlada mientras estudia un doctorado. Sin embargo, todo cambia cuando conoce a Yujin, una estudiante de máster que intenta empezar de nuevo tras perder el rumbo de su vida. En un laboratorio de robótica, surge entre ellos un romance apasionado, agridulce y lleno de ternura.",
           "rating": 7.2,
@@ -881,21 +903,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
           "slug": "amor",
           "tmdbId": "302882",
-          "type": "series"
-        },
-        {
-          "title": "África: El Corazón Salvaje de la Tierra",
-          "synopsis": "No hay un lugar como África. Alberga el desierto cálido más grande de la Tierra, el río más profundo y sabanas inmensas. Viaja a los confines de este magnífico continente, descubre mundos inexplorados, conoce criaturas nuevas para la ciencia y averigua cómo estos dinámicos parajes moldean la vida de quienes los llaman HOGAR.",
-          "rating": 8.83,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Wunmi Mosaku, Wunmi Mosaku",
-          "posterUrl": "https://image.tmdb.org/t/p/original/n2c9R2ucWJktg407YH3gY1EwPHs.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/17ZgS7G4tVvJsuMfMxkFMHumXog.jpg",
-          "slug": "africa-el-corazon-salvaje-de-la-tierra",
-          "tmdbId": "334888",
           "type": "series"
         }
       ]
