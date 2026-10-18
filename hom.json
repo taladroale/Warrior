@@ -53,6 +53,24 @@
       "duration": "157 min"
     },
     {
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 8.47,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681",
+      "type": "movie",
+      "duration": "145 min"
+    },
+    {
       "title": "Street Fighter",
       "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
       "rating": 6.42,
@@ -70,39 +88,22 @@
       "duration": "125 min"
     },
     {
-      "title": "Lo dejamos acá",
-      "synopsis": "Un psicoanalista de prestigio ya no cree en los métodos tradicionales de la terapia. Convencido de que el consultorio no alcanza, empieza a intervenir en secreto en la vida de sus pacientes y a cruzar los límites de la práctica, con resultados que parecen darle la razón. El esquema se complica cuando un escritor con bloqueo creativo llega a su consulta.",
-      "rating": 0,
+      "title": "Sacrifice",
+      "synopsis": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
+      "rating": 5.7,
       "year": "2026",
       "genres": [
-        "Suspenso",
-        "Drama"
+        "Aventura",
+        "Comedia",
+        "Acción"
       ],
-      "cast": "Ricardo Darín, Diego Peretti, Inés Efrón, Carlos Santamaría, Miriam Odorico",
-      "posterUrl": "https://image.tmdb.org/t/p/original/bk8T4enLxtWgHgVS5iX5yksWlMA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/7PkFVqf2d6sIJLPKKjyyNssaLdy.jpg",
-      "slug": "lo-dejamos-aca",
-      "tmdbId": "1487317",
+      "cast": "Chris Evans, Anya Taylor-Joy, Vincent Cassel, Salma Hayek Pinault, John Malkovich",
+      "posterUrl": "https://image.tmdb.org/t/p/original/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
+      "slug": "sacrifice-1284186",
+      "tmdbId": "1284186",
       "type": "movie",
-      "duration": "97 min"
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.47,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ],
-      "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681",
-      "type": "movie",
-      "duration": "145 min"
+      "duration": "103 min"
     }
   ],
   "seriesHero": [
@@ -142,39 +143,6 @@
       "type": "series"
     },
     {
-      "title": "La diplomática",
-      "synopsis": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
-      "rating": 7.54,
-      "year": "2023",
-      "genres": [
-        "Drama",
-        "Guerra"
-      ],
-      "cast": "Keri Russell, Rufus Sewell, David Gyasi, Ali Ahn, Rory Kinnear",
-      "posterUrl": "https://image.tmdb.org/t/p/original/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "slug": "la-diplomatica",
-      "tmdbId": "203857",
-      "type": "series"
-    },
-    {
-      "title": "Materia oscura",
-      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "rating": 7.81,
-      "year": "2024",
-      "genres": [
-        "Ciencia ficción",
-        "Fantasía",
-        "Drama"
-      ],
-      "cast": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson, Dayo Okeniyi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-      "slug": "materia-oscura",
-      "tmdbId": "196322",
-      "type": "series"
-    },
-    {
       "title": "Tierra de mafiosos",
       "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
       "rating": 8.5,
@@ -191,19 +159,56 @@
       "type": "series"
     },
     {
-      "title": "South Park",
-      "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
-      "rating": 8.33,
-      "year": "1997",
+      "title": "La diplomática",
+      "synopsis": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "rating": 7.54,
+      "year": "2023",
       "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "cast": "Keri Russell, Rufus Sewell, David Gyasi, Ali Ahn, Rory Kinnear",
+      "posterUrl": "https://image.tmdb.org/t/p/original/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "slug": "la-diplomatica",
+      "tmdbId": "203857",
+      "type": "series"
+    },
+    {
+      "title": "Black Clover",
+      "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
+      "rating": 8.49,
+      "year": "2017",
+      "genres": [
+        "Animación",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Gakuto Kajiwara, Nobunaga Shimazaki, Kana Yuuki, Junichi Suwabe, Genki Muro",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+      "slug": "black-clover",
+      "tmdbId": "73223",
+      "type": "series"
+    },
+    {
+      "title": "One Piece",
+      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "rating": 8.8,
+      "year": "1999",
+      "genres": [
+        "Acción",
+        "Aventura",
         "Comedia",
         "Animación"
       ],
-      "cast": "Matt Stone, Mona Marshall, Jennifer Howell, John Hansen, Adrien Beard",
-      "posterUrl": "https://image.tmdb.org/t/p/original/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "slug": "south-park",
-      "tmdbId": "2190",
+      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "slug": "one-piece",
+      "tmdbId": "37854",
       "type": "series"
     }
   ],
@@ -572,7 +577,7 @@
         {
           "title": "Doctor X Mafia in White",
           "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-          "rating": 9.09,
+          "rating": 9.2,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -670,7 +675,7 @@
         {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-          "rating": 7.22,
+          "rating": 7.25,
           "year": "2026",
           "genres": [
             "Drama",
@@ -740,7 +745,7 @@
         {
           "title": "Doctor X Mafia in White",
           "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-          "rating": 9.09,
+          "rating": 9.1,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -809,7 +814,7 @@
         {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-          "rating": 7.22,
+          "rating": 7.27,
           "year": "2026",
           "genres": [
             "Drama",
@@ -859,7 +864,7 @@
         {
           "title": "El círculo",
           "synopsis": "El asesinato de una famosa actriz revela una caja de Pandora de secretos y espionaje que amenaza con destruir la vida de cuatro amigos de la infancia.",
-          "rating": 6,
+          "rating": 6.17,
           "year": "2026",
           "genres": [
             "Misterio",
