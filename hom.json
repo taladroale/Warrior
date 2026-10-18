@@ -35,24 +35,6 @@
       "duration": "126 min"
     },
     {
-      "title": "Hope",
-      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
-      "rating": 7.11,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Misterio",
-        "Acción"
-      ],
-      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hHPIefotew38oJm3YCJPAzpi26c.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
-      "slug": "hope-1058424",
-      "tmdbId": "1058424",
-      "type": "movie",
-      "duration": "157 min"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 8.47,
@@ -69,6 +51,24 @@
       "tmdbId": "969681",
       "type": "movie",
       "duration": "145 min"
+    },
+    {
+      "title": "Hope",
+      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+      "rating": 7.11,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Acción"
+      ],
+      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hHPIefotew38oJm3YCJPAzpi26c.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
+      "slug": "hope-1058424",
+      "tmdbId": "1058424",
+      "type": "movie",
+      "duration": "157 min"
     },
     {
       "title": "Street Fighter",
@@ -108,23 +108,6 @@
   ],
   "seriesHero": [
     {
-      "title": "Tulsa King",
-      "synopsis": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
-      "rating": 8.3,
-      "year": "2022",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Comedia"
-      ],
-      "cast": "Sylvester Stallone, Martin Starr, Jay Will, Vincent Piazza, Annabella Sciorra",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-      "slug": "tulsa-king",
-      "tmdbId": "153312",
-      "type": "series"
-    },
-    {
       "title": "Carrie",
       "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
       "rating": 8.44,
@@ -143,35 +126,38 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.5,
-      "year": "2025",
+      "title": "One Piece",
+      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "rating": 8.8,
+      "year": "1999",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Animación"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "slug": "one-piece",
+      "tmdbId": "37854",
       "type": "series"
     },
     {
-      "title": "La diplomática",
-      "synopsis": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
-      "rating": 7.54,
-      "year": "2023",
+      "title": "Tulsa King",
+      "synopsis": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
+      "rating": 8.3,
+      "year": "2022",
       "genres": [
+        "Crimen",
         "Drama",
-        "Guerra"
+        "Comedia"
       ],
-      "cast": "Keri Russell, Rufus Sewell, David Gyasi, Ali Ahn, Rory Kinnear",
-      "posterUrl": "https://image.tmdb.org/t/p/original/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "slug": "la-diplomatica",
-      "tmdbId": "203857",
+      "cast": "Sylvester Stallone, Martin Starr, Jay Will, Vincent Piazza, Annabella Sciorra",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "slug": "tulsa-king",
+      "tmdbId": "153312",
       "type": "series"
     },
     {
@@ -194,21 +180,38 @@
       "type": "series"
     },
     {
-      "title": "One Piece",
-      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
-      "rating": 8.8,
-      "year": "1999",
+      "title": "Bleach",
+      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
+      "rating": 8.3,
+      "year": "2004",
       "genres": [
         "Acción",
         "Aventura",
-        "Comedia",
-        "Animación"
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "slug": "one-piece",
-      "tmdbId": "37854",
+      "cast": "Masakazu Morita, Fumiko Orikasa, Hiroki Yasumoto, 松岡由貴, Noriaki Sugiyama",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "slug": "bleach",
+      "tmdbId": "30984",
+      "type": "series"
+    },
+    {
+      "title": "La diplomática",
+      "synopsis": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
+      "rating": 7.54,
+      "year": "2023",
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "cast": "Keri Russell, Rufus Sewell, David Gyasi, Ali Ahn, Rory Kinnear",
+      "posterUrl": "https://image.tmdb.org/t/p/original/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+      "slug": "la-diplomatica",
+      "tmdbId": "203857",
       "type": "series"
     }
   ],
@@ -655,7 +658,7 @@
         {
           "title": "Avatar: Los Siete Refugios",
           "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
-          "rating": 9.1,
+          "rating": 9.17,
           "year": "2026",
           "genres": [
             "Animación",
@@ -675,7 +678,7 @@
         {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-          "rating": 7.25,
+          "rating": 7.3,
           "year": "2026",
           "genres": [
             "Drama",
@@ -745,7 +748,7 @@
         {
           "title": "Doctor X Mafia in White",
           "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-          "rating": 9.1,
+          "rating": 9.2,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -814,7 +817,7 @@
         {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-          "rating": 7.27,
+          "rating": 7.25,
           "year": "2026",
           "genres": [
             "Drama",
@@ -864,7 +867,7 @@
         {
           "title": "El círculo",
           "synopsis": "El asesinato de una famosa actriz revela una caja de Pandora de secretos y espionaje que amenaza con destruir la vida de cuatro amigos de la infancia.",
-          "rating": 6.17,
+          "rating": 6.71,
           "year": "2026",
           "genres": [
             "Misterio",
