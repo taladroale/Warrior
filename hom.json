@@ -88,25 +88,43 @@
       "duration": "125 min"
     },
     {
-      "title": "Sacrifice",
-      "synopsis": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
-      "rating": 5.7,
+      "title": "Buddy",
+      "synopsis": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
+      "rating": 7.24,
       "year": "2026",
       "genres": [
-        "Aventura",
+        "Terror",
         "Comedia",
-        "Acción"
+        "Fantasía"
       ],
-      "cast": "Chris Evans, Anya Taylor-Joy, Vincent Cassel, Salma Hayek Pinault, John Malkovich",
-      "posterUrl": "https://image.tmdb.org/t/p/original/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oAUf1pvGlafCZVlEuPt1JyONHR1.jpg",
-      "slug": "sacrifice-1284186",
-      "tmdbId": "1284186",
+      "cast": "Keegan-Michael Key, Cristin Milioti, Delaney Quinn, Caleb Williams, Madison Skyy Polan",
+      "posterUrl": "https://image.tmdb.org/t/p/original/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/kghxBvN7f3vUt377yjO4ygbefYN.jpg",
+      "slug": "buddy",
+      "tmdbId": "1514026",
       "type": "movie",
-      "duration": "103 min"
+      "duration": "96 min"
     }
   ],
   "seriesHero": [
+    {
+      "title": "Link Click",
+      "synopsis": "Se dice que una imagen vale más que mil palabras. En este caso, guarda una cantidad infinita de secretos. Estos son secretos que solo Cheng Xiaoshi y Lu Guang pueden encontrar. En una pequeña tienda llamada \"Time Photo Studio\", los dos amigos brindan un servicio especial: usando sus extraordinarios poderes que les permiten ingresar fotografías, saltan a las imágenes que les traen los clientes para cumplir sus deseos. A través de los ojos del fotógrafo, viven los hechos que rodean la imagen e intentan descifrar cómo resolver la solicitud de su cliente.",
+      "rating": 8.07,
+      "year": "2021",
+      "genres": [
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía",
+        "Misterio"
+      ],
+      "cast": "Su Shangqing, 杨天翔, 李詩萌",
+      "posterUrl": "https://image.tmdb.org/t/p/original/gNeI4fA172iKOals4zP7e5Lqy6J.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2ns30HHRX5qgsVfEvvevwUcrD5E.jpg",
+      "slug": "link-click",
+      "tmdbId": "123542",
+      "type": "series"
+    },
     {
       "title": "Carrie",
       "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
@@ -144,23 +162,6 @@
       "type": "series"
     },
     {
-      "title": "Tulsa King",
-      "synopsis": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
-      "rating": 8.3,
-      "year": "2022",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Comedia"
-      ],
-      "cast": "Sylvester Stallone, Martin Starr, Jay Will, Vincent Piazza, Annabella Sciorra",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-      "slug": "tulsa-king",
-      "tmdbId": "153312",
-      "type": "series"
-    },
-    {
       "title": "Black Clover",
       "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
       "rating": 8.49,
@@ -180,22 +181,20 @@
       "type": "series"
     },
     {
-      "title": "Bleach",
-      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
+      "title": "Tulsa King",
+      "synopsis": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
       "rating": 8.3,
-      "year": "2004",
+      "year": "2022",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía"
+        "Crimen",
+        "Drama",
+        "Comedia"
       ],
-      "cast": "Masakazu Morita, Fumiko Orikasa, Hiroki Yasumoto, 松岡由貴, Noriaki Sugiyama",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "slug": "bleach",
-      "tmdbId": "30984",
+      "cast": "Sylvester Stallone, Martin Starr, Jay Will, Vincent Piazza, Annabella Sciorra",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+      "slug": "tulsa-king",
+      "tmdbId": "153312",
       "type": "series"
     },
     {
@@ -765,7 +764,7 @@
         {
           "title": "Avatar: Los Siete Refugios",
           "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
-          "rating": 9.17,
+          "rating": 9.16,
           "year": "2026",
           "genres": [
             "Animación",
@@ -817,7 +816,7 @@
         {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-          "rating": 7.3,
+          "rating": 7.26,
           "year": "2026",
           "genres": [
             "Drama",
