@@ -1,23 +1,6 @@
 {
   "movieHero": [
     {
-      "title": "Masterplan",
-      "synopsis": "Cuando un ladrón legendario pone sus ojos en la Mona Lisa, recluta a dos jóvenes desconocidos para que le ayuden: Chiara, una perspicaz experta italiana en ciberdelincuencia, y Jay, un fanfarrón especialista francés en explosivos. Además de contarles sus planes, les revelar que ambos son hermanos... y que él es su padre. Sumergidos en un reencuentro caótico que nunca pidieron, esta nueva familia debe aprender a trabajar en equipo -y tratar de no matarse entre ellos- si quieren tener alguna posibilidad de llevar a cabo el golpe del siglo.",
-      "rating": 7.8,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Suspenso"
-      ],
-      "cast": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Bruno Bilotta",
-      "posterUrl": "https://image.tmdb.org/t/p/original/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
-      "slug": "masterplan",
-      "tmdbId": "1561726",
-      "type": "movie",
-      "duration": "109 min"
-    },
-    {
       "title": "Tenzing",
       "synopsis": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
       "rating": 7,
@@ -33,6 +16,23 @@
       "tmdbId": "1288069",
       "type": "movie",
       "duration": "126 min"
+    },
+    {
+      "title": "Masterplan",
+      "synopsis": "Cuando un ladrón legendario pone sus ojos en la Mona Lisa, recluta a dos jóvenes desconocidos para que le ayuden: Chiara, una perspicaz experta italiana en ciberdelincuencia, y Jay, un fanfarrón especialista francés en explosivos. Además de contarles sus planes, les revelar que ambos son hermanos... y que él es su padre. Sumergidos en un reencuentro caótico que nunca pidieron, esta nueva familia debe aprender a trabajar en equipo -y tratar de no matarse entre ellos- si quieren tener alguna posibilidad de llevar a cabo el golpe del siglo.",
+      "rating": 7.8,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Suspenso"
+      ],
+      "cast": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Bruno Bilotta",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+      "slug": "masterplan",
+      "tmdbId": "1561726",
+      "type": "movie",
+      "duration": "109 min"
     },
     {
       "title": "Hope",
@@ -53,6 +53,23 @@
       "duration": "157 min"
     },
     {
+      "title": "Street Fighter",
+      "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+      "rating": 6.42,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Fantasía"
+      ],
+      "cast": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Eric Andre",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "slug": "street-fighter-1153576",
+      "tmdbId": "1153576",
+      "type": "movie",
+      "duration": "125 min"
+    },
+    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 8.47,
@@ -71,39 +88,21 @@
       "duration": "145 min"
     },
     {
-      "title": "Street Fighter",
-      "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "rating": 6.42,
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.18,
       "year": "2026",
       "genres": [
-        "Acción",
-        "Fantasía"
+        "Terror",
+        "Suspenso"
       ],
-      "cast": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Eric Andre",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-      "slug": "street-fighter-1153576",
-      "tmdbId": "1153576",
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
       "type": "movie",
-      "duration": "125 min"
-    },
-    {
-      "title": "Prácticamente magia 2",
-      "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
-      "rating": 6.69,
-      "year": "2026",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
-      ],
-      "cast": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xCXznyg1BOAKISMuduRJLtcAgCR.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
-      "slug": "practicamente-magia-2",
-      "tmdbId": "1302904",
-      "type": "movie",
-      "duration": "130 min"
+      "duration": "109 min"
     }
   ],
   "seriesHero": [
@@ -126,24 +125,6 @@
       "type": "series"
     },
     {
-      "title": "One Piece",
-      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
-      "rating": 8.8,
-      "year": "1999",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Comedia",
-        "Animación"
-      ],
-      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "slug": "one-piece",
-      "tmdbId": "37854",
-      "type": "series"
-    },
-    {
       "title": "Carrie",
       "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
       "rating": 8.44,
@@ -159,6 +140,24 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
       "slug": "carrie",
       "tmdbId": "288673",
+      "type": "series"
+    },
+    {
+      "title": "One Piece",
+      "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
+      "rating": 8.8,
+      "year": "1999",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Animación"
+      ],
+      "cast": "Mayumi Tanaka, Kazuya Nakai, 矢口真里, Akemi Okamura, Kappei Yamaguchi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s4VY1FZt509sHEJgqtgoEJDjFS3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "slug": "one-piece",
+      "tmdbId": "37854",
       "type": "series"
     },
     {
@@ -179,22 +178,19 @@
       "type": "series"
     },
     {
-      "title": "Bleach",
-      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
-      "rating": 8.3,
-      "year": "2004",
+      "title": "Bajo la superficie",
+      "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
+      "rating": 7.24,
+      "year": "2026",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía"
+        "Drama",
+        "Misterio"
       ],
-      "cast": "Masakazu Morita, Fumiko Orikasa, Hiroki Yasumoto, 松岡由貴, Noriaki Sugiyama",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "slug": "bleach",
-      "tmdbId": "30984",
+      "cast": "Josh Hartnett, Mackenzie Davis, Charlie Heaton, Ruby Stokes, Kaleb Horn",
+      "posterUrl": "https://image.tmdb.org/t/p/original/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "slug": "bajo-la-superficie",
+      "tmdbId": "285322",
       "type": "series"
     },
     {
@@ -680,7 +676,7 @@
         {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-          "rating": 7.25,
+          "rating": 7.24,
           "year": "2026",
           "genres": [
             "Drama",
@@ -750,7 +746,7 @@
         {
           "title": "Doctor X Mafia in White",
           "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-          "rating": 9.2,
+          "rating": 9.29,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -767,7 +763,7 @@
         {
           "title": "Avatar: Los Siete Refugios",
           "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
-          "rating": 9.16,
+          "rating": 9.2,
           "year": "2026",
           "genres": [
             "Animación",
@@ -819,7 +815,7 @@
         {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-          "rating": 7.25,
+          "rating": 7.28,
           "year": "2026",
           "genres": [
             "Drama",
