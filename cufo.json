@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T08:47:22Z",
+  "updatedAt": "2026-10-24T00:29:12Z",
   "source": "cufo",
-  "total": 22632,
+  "total": 22633,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias"},
     "12": {"slug":"buscando-a-nemo"},
@@ -22376,6 +22376,7 @@
     "280571": {"slug":"murder-before-evensong"},
     "280872": {"slug":"hinchas-enemigos"},
     "280878": {"slug":"el-clan-olimpia"},
+    "280880": {"slug":"furia-280880"},
     "280888": {"slug":"dos-tumbas"},
     "280890": {"slug":"manual-para-senoritas"},
     "280945": {"slug":"bon-appetit-majestad"},
