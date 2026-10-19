@@ -88,22 +88,22 @@
       "duration": "125 min"
     },
     {
-      "title": "Buddy",
-      "synopsis": "Un mágico unicornio naranja que canta retiene a su elenco como rehén en una dimensión surrealista de programa de televisión, mientras se vuelve cada vez más demente.",
-      "rating": 7.24,
+      "title": "Prácticamente magia 2",
+      "synopsis": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+      "rating": 6.69,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Comedia",
-        "Fantasía"
+        "Romance",
+        "Fantasía",
+        "Comedia"
       ],
-      "cast": "Keegan-Michael Key, Cristin Milioti, Delaney Quinn, Caleb Williams, Madison Skyy Polan",
-      "posterUrl": "https://image.tmdb.org/t/p/original/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/kghxBvN7f3vUt377yjO4ygbefYN.jpg",
-      "slug": "buddy",
-      "tmdbId": "1514026",
+      "cast": "Sandra Bullock, Nicole Kidman, Joey King, Maisie Williams, Xolo Maridueña",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xCXznyg1BOAKISMuduRJLtcAgCR.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+      "slug": "practicamente-magia-2",
+      "tmdbId": "1302904",
       "type": "movie",
-      "duration": "96 min"
+      "duration": "130 min"
     }
   ],
   "seriesHero": [
@@ -126,24 +126,6 @@
       "type": "series"
     },
     {
-      "title": "Carrie",
-      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "rating": 8.44,
-      "year": "2026",
-      "genres": [
-        "Misterio",
-        "Drama",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "slug": "carrie",
-      "tmdbId": "288673",
-      "type": "series"
-    },
-    {
       "title": "One Piece",
       "synopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece.",
       "rating": 8.8,
@@ -162,22 +144,21 @@
       "type": "series"
     },
     {
-      "title": "Black Clover",
-      "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
-      "rating": 8.49,
-      "year": "2017",
+      "title": "Carrie",
+      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+      "rating": 8.44,
+      "year": "2026",
       "genres": [
-        "Animación",
-        "Acción",
-        "Aventura",
+        "Misterio",
+        "Drama",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Gakuto Kajiwara, Nobunaga Shimazaki, Kana Yuuki, Junichi Suwabe, Genki Muro",
-      "posterUrl": "https://image.tmdb.org/t/p/original/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
-      "slug": "black-clover",
-      "tmdbId": "73223",
+      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "slug": "carrie",
+      "tmdbId": "288673",
       "type": "series"
     },
     {
@@ -198,19 +179,41 @@
       "type": "series"
     },
     {
-      "title": "La diplomática",
-      "synopsis": "En plena crisis internacional, una diplomática estadounidense tiene dos desafíos: su puesto de embajadora en el Reino Unido y su tenso matrimonio con un célebre político.",
-      "rating": 7.54,
-      "year": "2023",
+      "title": "Bleach",
+      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
+      "rating": 8.3,
+      "year": "2004",
       "genres": [
-        "Drama",
-        "Guerra"
+        "Acción",
+        "Aventura",
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Keri Russell, Rufus Sewell, David Gyasi, Ali Ahn, Rory Kinnear",
-      "posterUrl": "https://image.tmdb.org/t/p/original/1jEUtX0NQyZjZUt575061fKIaXm.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
-      "slug": "la-diplomatica",
-      "tmdbId": "203857",
+      "cast": "Masakazu Morita, Fumiko Orikasa, Hiroki Yasumoto, 松岡由貴, Noriaki Sugiyama",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "slug": "bleach",
+      "tmdbId": "30984",
+      "type": "series"
+    },
+    {
+      "title": "Black Clover",
+      "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
+      "rating": 8.49,
+      "year": "2017",
+      "genres": [
+        "Animación",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Gakuto Kajiwara, Nobunaga Shimazaki, Kana Yuuki, Junichi Suwabe, Genki Muro",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+      "slug": "black-clover",
+      "tmdbId": "73223",
       "type": "series"
     }
   ],
@@ -223,7 +226,7 @@
         {
           "title": "Los domingos",
           "synopsis": "Ainara es una joven idealista y brillante de 17 años que, a priori, ha de decidir qué carrera universitaria estudiará. Sin embargo, la joven manifiesta que se siente cada vez más cerca de Dios y que está dispuesta a abrazar la vida de monja de clausura. La noticia pilla por sorpresa a toda la familia provocando un abismo y una prueba de fuego para todos.",
-          "rating": 6.87,
+          "rating": 6.9,
           "year": "2025",
           "genres": [
             "Drama"
@@ -579,7 +582,7 @@
         {
           "title": "Doctor X Mafia in White",
           "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-          "rating": 9.2,
+          "rating": 9.29,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -596,7 +599,7 @@
         {
           "title": "Furia",
           "synopsis": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
-          "rating": 6.54,
+          "rating": 6.55,
           "year": "2025",
           "genres": [
             "Drama",
@@ -648,7 +651,7 @@
             "Drama"
           ],
           "cast": "Javier Morgade, Álvaro González, Carlos Santos, Francesco Carril, Natalia Varela",
-          "posterUrl": "https://image.tmdb.org/t/p/original/y4kX6n4PgEJcmvG49MDQRuH9ay5.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/10wH74nYxv3mU9TEaAL0zqp4ZJj.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/8UzqMeAs2ShIzmOA0ZAniWLLeKz.jpg",
           "slug": "aquel",
           "tmdbId": "295684",
@@ -657,7 +660,7 @@
         {
           "title": "Avatar: Los Siete Refugios",
           "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
-          "rating": 9.16,
+          "rating": 9.2,
           "year": "2026",
           "genres": [
             "Animación",
@@ -677,7 +680,7 @@
         {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-          "rating": 7.26,
+          "rating": 7.25,
           "year": "2026",
           "genres": [
             "Drama",
@@ -790,7 +793,7 @@
             "Drama"
           ],
           "cast": "Javier Morgade, Álvaro González, Carlos Santos, Francesco Carril, Natalia Varela",
-          "posterUrl": "https://image.tmdb.org/t/p/original/y4kX6n4PgEJcmvG49MDQRuH9ay5.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/10wH74nYxv3mU9TEaAL0zqp4ZJj.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/8UzqMeAs2ShIzmOA0ZAniWLLeKz.jpg",
           "slug": "aquel",
           "tmdbId": "295684",
@@ -816,7 +819,7 @@
         {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-          "rating": 7.26,
+          "rating": 7.25,
           "year": "2026",
           "genres": [
             "Drama",
