@@ -53,23 +53,6 @@
       "duration": "157 min"
     },
     {
-      "title": "Street Fighter",
-      "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "rating": 6.42,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ],
-      "cast": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Eric Andre",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-      "slug": "street-fighter-1153576",
-      "tmdbId": "1153576",
-      "type": "movie",
-      "duration": "125 min"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 8.47,
@@ -88,21 +71,38 @@
       "duration": "145 min"
     },
     {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.18,
+      "title": "Street Fighter",
+      "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+      "rating": 6.42,
       "year": "2026",
       "genres": [
-        "Terror",
+        "Acción",
+        "Fantasía"
+      ],
+      "cast": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Eric Andre",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "slug": "street-fighter-1153576",
+      "tmdbId": "1153576",
+      "type": "movie",
+      "duration": "125 min"
+    },
+    {
+      "title": "Bad Apples",
+      "synopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
+      "rating": 7.1,
+      "year": "2026",
+      "genres": [
+        "Comedia",
         "Suspenso"
       ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
+      "cast": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ch1g1X6TfezRwbmiBiYRpALTQjN.jpg",
+      "slug": "bad-apples",
+      "tmdbId": "1198654",
       "type": "movie",
-      "duration": "109 min"
+      "duration": "100 min"
     }
   ],
   "seriesHero": [
@@ -122,24 +122,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/2ns30HHRX5qgsVfEvvevwUcrD5E.jpg",
       "slug": "link-click",
       "tmdbId": "123542",
-      "type": "series"
-    },
-    {
-      "title": "Carrie",
-      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "rating": 8.44,
-      "year": "2026",
-      "genres": [
-        "Misterio",
-        "Drama",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "slug": "carrie",
-      "tmdbId": "288673",
       "type": "series"
     },
     {
@@ -178,38 +160,55 @@
       "type": "series"
     },
     {
-      "title": "Bajo la superficie",
-      "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-      "rating": 7.24,
+      "title": "Carrie",
+      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+      "rating": 8.44,
       "year": "2026",
       "genres": [
+        "Misterio",
         "Drama",
-        "Misterio"
-      ],
-      "cast": "Josh Hartnett, Mackenzie Davis, Charlie Heaton, Ruby Stokes, Kaleb Horn",
-      "posterUrl": "https://image.tmdb.org/t/p/original/mieCT53TaHGVVRdeq8Bx3VwtgIW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "slug": "bajo-la-superficie",
-      "tmdbId": "285322",
-      "type": "series"
-    },
-    {
-      "title": "Black Clover",
-      "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
-      "rating": 8.49,
-      "year": "2017",
-      "genres": [
-        "Animación",
-        "Acción",
-        "Aventura",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Gakuto Kajiwara, Nobunaga Shimazaki, Kana Yuuki, Junichi Suwabe, Genki Muro",
-      "posterUrl": "https://image.tmdb.org/t/p/original/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
-      "slug": "black-clover",
-      "tmdbId": "73223",
+      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "slug": "carrie",
+      "tmdbId": "288673",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.5,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
+      "title": "Linternas",
+      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
+      "rating": 8.3,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Misterio",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
+      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+      "slug": "linternas",
+      "tmdbId": "95350",
       "type": "series"
     }
   ],
@@ -578,7 +577,7 @@
         {
           "title": "Doctor X Mafia in White",
           "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-          "rating": 9.29,
+          "rating": 9.3,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -676,7 +675,7 @@
         {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-          "rating": 7.24,
+          "rating": 7.28,
           "year": "2026",
           "genres": [
             "Drama",
