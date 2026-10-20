@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "updatedAt": "2026-10-24T00:34:26Z",
+  "updatedAt": "2026-10-20T17:11:29Z",
   "total": 20133,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias-episodio-iv-una-nueva-esperanza","imdb":"tt0076759"},
@@ -19342,7 +19342,7 @@
     "24912": {"slug":"tantei-gakuen-q","imdb":"tt0434725"},
     "25015": {"slug":"frontera-sin-ley","imdb":"tt0315011"},
     "25117": {"slug":"ashita-no-joe-eshEK2","imdb":"tt1690397"},
-    "25707": {"slug":"campeones-oliver-y-benji-NUqOSs","imdb":"tt0294023"},
+    "25707": {"slug":"los-super-campeones","imdb":"tt10399630"},
     "26318": {"slug":"slayers","imdb":"tt0112166"},
     "26453": {"slug":"trigun","imdb":"tt0251439"},
     "26707": {"slug":"spice-and-wolf","imdb":"tt1158671"},
