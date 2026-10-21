@@ -88,21 +88,22 @@
       "duration": "110 min"
     },
     {
-      "title": "Street Fighter",
-      "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "rating": 6.27,
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 8.47,
       "year": "2026",
       "genres": [
+        "Ciencia ficción",
         "Acción",
-        "Fantasía"
+        "Aventura"
       ],
-      "cast": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Mel Jarnson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
-      "slug": "street-fighter-1153576",
-      "tmdbId": "1153576",
+      "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681",
       "type": "movie",
-      "duration": "119 min"
+      "duration": "145 min"
     }
   ],
   "seriesHero": [
@@ -163,6 +164,24 @@
       "type": "series"
     },
     {
+      "title": "Carrie",
+      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+      "rating": 8.44,
+      "year": "2026",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "slug": "carrie",
+      "tmdbId": "288673",
+      "type": "series"
+    },
+    {
       "title": "Bleach",
       "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
       "rating": 8.3,
@@ -182,39 +201,19 @@
       "type": "series"
     },
     {
-      "title": "Carrie",
-      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "rating": 8.44,
-      "year": "2026",
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.5,
+      "year": "2025",
       "genres": [
-        "Misterio",
-        "Drama",
-        "Ciencia ficción",
-        "Fantasía"
+        "Crimen",
+        "Drama"
       ],
-      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "slug": "carrie",
-      "tmdbId": "288673",
-      "type": "series"
-    },
-    {
-      "title": "Linternas",
-      "synopsis": "Sigue al nuevo recluta John Stewart y al legendario Linterna Hal Jordan, dos policías intergalácticos que se ven envueltos en un oscuro misterio terrestre mientras investigan un asesinato en el corazón de Estados Unidos. Esto les lleva a misterios y ajustes de cuentas más oscuros.",
-      "rating": 8.3,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Misterio",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Kyle Chandler, Aaron Pierre, Kelly Macdonald, Vanessa Baden Kelly, Justin Riemer",
-      "posterUrl": "https://image.tmdb.org/t/p/original/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-      "slug": "linternas",
-      "tmdbId": "95350",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     }
   ],
@@ -224,6 +223,142 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Incautado: La lucha de Amanda Ogle",
+          "synopsis": "Amanda Ogle vive en las calles de Seattle, refugiada en su viejo Toyota Camry. Cuando le roban el coche y las autoridades lo envían al depósito, se ve atrapada en una larga y desgastante lucha contra una burocracia tan implacable como indiferente. Lo que empieza como un intento desesperado por recuperar su único hogar termina convirtiéndose en un conmovedor relato sobre la resistencia, la dignidad y la fuerza de una mujer decidida a hacerse oír frente a un sistema que parece haberla olvidado.",
+          "rating": 6.64,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Rose Byrne, Dominic Sessa, Octavia Spencer, Ariana DeBose, Demi Lovato",
+          "posterUrl": "https://image.tmdb.org/t/p/original/brdQS2cD3kfxXncwuBYJmrBrRZF.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cRhOM5UDUpBV7EdpdXxkstpli86.jpg",
+          "slug": "incautado-la-lucha-de-amanda-ogle",
+          "tmdbId": "1244517",
+          "type": "movie",
+          "duration": "105 min"
+        },
+        {
+          "title": "It's My Time",
+          "synopsis": "At the age of seventy, a fiercely non-conformist grandmother partners with a lethargic, underachieving young prodigy to navigate the highly competitive and eccentric subculture of speedcubing, defying familial skepticism and generational expectations.",
+          "rating": 6.2,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Michelle Yeoh, 刘昊然, 萨日娜, 白客, 韓童生",
+          "posterUrl": "https://image.tmdb.org/t/p/original/qvTiG4LSu6wFCfXjg2KTiqHeQBF.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/bLxfaYqA9YlVuXbU9eK1E2u3MLI.jpg",
+          "slug": "its-my-time",
+          "tmdbId": "1257942",
+          "type": "movie",
+          "duration": "107 min"
+        },
+        {
+          "title": "EPiC: Elvis Presley in Concert",
+          "synopsis": "Rescata la figura del gran Elvis Presley, con imágenes de archivo y grabaciones nunca vistas del Rey del rock.",
+          "rating": 8.2,
+          "year": "2026",
+          "genres": [
+            "Música",
+            "Documental"
+          ],
+          "cast": "Elvis Presley, James Burton, John Wilkinson, Charlie Hodge, Jerry Scheff",
+          "posterUrl": "https://image.tmdb.org/t/p/original/soWM6RbsfDcDVWLbTv1LOpml64M.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
+          "slug": "epic-elvis-presley-in-concert",
+          "tmdbId": "1445363",
+          "type": "movie",
+          "duration": "98 min"
+        },
+        {
+          "title": "Manila's Finest",
+          "synopsis": "Set during the first quarter storm in the 1970s, policemen Homer, Conrad, and Billy are consumed by the murder case of troublemaking teenagers in the slums.",
+          "rating": 0,
+          "year": "2025",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Piolo Pascual, Enrique Gil, Ashtine Olviga, Rica Peralejo, Ariel Rivera",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cWNkpDIwt1Qt3JtWLL2c2vUWVwd.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/12zO6K0EAQfpLPyb9K9M1d1vFJ3.jpg",
+          "slug": "manilas-finest",
+          "tmdbId": "1536232",
+          "type": "movie",
+          "duration": "120 min"
+        },
+        {
+          "title": "No alimentes a los niños",
+          "synopsis": "Un grupo de niños huérfanos viaja al sur en busca de una nueva vida después de que un virus mortal haya diezmado a la mayor parte de los adultos del país. Los niños acabarán encontrándose a merced de una mujer psicótica que esconde un peligroso secreto.",
+          "rating": 6.13,
+          "year": "2025",
+          "genres": [
+            "Terror",
+            "Suspenso"
+          ],
+          "cast": "Michelle Dockery, Zoe Colletti, Andrew Liner, Dean Scott Vazquez, Regan Aliyah",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4OmQJksitrRqjwHyv8xWEkIlsLw.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/qd2YZfTAlI31CPpIIWovVyKhRzD.jpg",
+          "slug": "please-dont-feed-the-children",
+          "tmdbId": "1103437",
+          "type": "movie",
+          "duration": "94 min"
+        },
+        {
+          "title": "Trap House",
+          "synopsis": "Un agente de la DEA y su compañero persiguen un peculiar grupo de ladrones: sus propios hijos adolescentes rebeldes, que han empezado a robar a un peligroso cártel, utilizando para ello las tácticas de sus padres y la información de alto secreto.",
+          "rating": 6.63,
+          "year": "2025",
+          "genres": [
+            "Acción",
+            "Crimen",
+            "Suspenso"
+          ],
+          "cast": "Dave Bautista, Jack Champion, Sophia Lillis, Whitney Peak, Bobby Cannavale",
+          "posterUrl": "https://image.tmdb.org/t/p/original/p9zbrDpAKyj3jeemkyAoBmlo3KG.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
+          "slug": "trap-house-628847",
+          "tmdbId": "628847",
+          "type": "movie",
+          "duration": "102 min"
+        },
+        {
+          "title": "Forgiveness Girl",
+          "synopsis": "Una joven chica con parálisis cerebral encuentra una amiga inesperada en la recién llegada a la escuela, pero la crueldad de sus compañeros pone a prueba su vínculo.",
+          "rating": 8.3,
+          "year": "2025",
+          "genres": [
+            "Familia",
+            "Drama"
+          ],
+          "cast": "Scarlett Diamond, Mia Hansen, Walter Platz, Melinda Yeaman, Ryann Bailey",
+          "posterUrl": "https://image.tmdb.org/t/p/original/3d5BPSr0TxLNJAvPsV0lXZiA0dZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/j1wJET8RWyFjI8u3Kpq0w0AL57V.jpg",
+          "slug": "forgiveness-girl",
+          "tmdbId": "1587195",
+          "type": "movie",
+          "duration": "111 min"
+        },
+        {
+          "title": "El último gran golpe",
+          "synopsis": "El dueño de un club nocturno está a punto de dejar atrás su peligroso pasado para volver a vivir con su novia. Cuando unos pistoleros enmascarados le roban y se ve acorralado por despiadados cárteles, llega un misterioso hombre interesado en comprar el negocio. Con el peligro acechándole por todos lados, deberá atravesar una mortífera red de engaños, poder y supervivencia, de la que escapar puede que ya no sea una opción.",
+          "rating": 6.01,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Suspenso"
+          ],
+          "cast": "Russell Crowe, Luke Evans, Teresa Palmer, Daniel Zovatto, Josh McConville",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mDVnHFcxxUJC9TQFVeKh1TJNBzh.jpg",
+          "slug": "the-get-out",
+          "tmdbId": "1279493",
+          "type": "movie",
+          "duration": "96 min"
+        },
         {
           "title": "El amor de tu vida",
           "synopsis": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
@@ -235,157 +370,28 @@
           ],
           "cast": "Margaret Qualley, Gabriel Basso, Aaron Pierre, Patrick Schwarzenegger, Catherine Keener",
           "posterUrl": "https://image.tmdb.org/t/p/original/nqeDR6qGU8mqguQHRkAUg2ySBZv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/f1jZDs4dJoFXxazmpBKGmId2hFU.jpg",
           "slug": "el-amor-de-tu-vida",
           "tmdbId": "1381078",
           "type": "movie",
           "duration": "109 min"
         },
         {
-          "title": "The Militia",
-          "synopsis": "Daniel Pierce dreams of joining the local Militia alongside his father once he turns eighteen, but when his Dad becomes the target of the local Sheriff, Daniel and his friends form their own militia in a troubled effort to save him.",
-          "rating": 9,
+          "title": "La milicia",
+          "synopsis": "Daniel sueña con unirse a la milicia local junto a su padre. Pero cuando su padre se convierte en el objetivo del sheriff, Daniel y sus amigos forman su propia milicia en un esfuerzo desesperado por salvarlo.",
+          "rating": 7.5,
           "year": "2026",
           "genres": [
             "Drama",
             "Suspenso"
           ],
           "cast": "Sam Williamson, Michael Broderick, Luke Stratte-McClure, Chris Bylsma, Laurel Feierbach",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bBAeq5GAt6QKUL5eS0UalflLysH.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yUa5I0Wb4pVbKcrIRBYrLF4guje.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/twI5fNZrX4UnUVu8mAeO1P7VAUk.jpg",
           "slug": "the-militia",
           "tmdbId": "1759875",
           "type": "movie",
           "duration": "117 min"
-        },
-        {
-          "title": "Ayahuasca Haunting: The Vine of Souls",
-          "synopsis": "A reclusive prodigy turns to the occult, brewing ayahuasca, the fabled vine of souls, and unknowingly opens a portal, unleashing an entity from another dimension.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Terror"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/65zy6d92VbxAPSKFu0OFCLzdvPo.jpg",
-          "backdropUrl": null,
-          "slug": "ayahuasca-haunting-the-vine-of-souls",
-          "tmdbId": "1800824",
-          "type": "movie"
-        },
-        {
-          "title": "In the Company of Wolves: An American Journey",
-          "synopsis": "Follows the journey of wolves and other animals as co-travelers through American history.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Jeff Bridges, Jason Baldes, David Quammen, Cristina Eiseberg",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6sLHJk5KNgqTGKhQ4hRabvG18HU.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/kesgjZm8OdrpBUIDaFrT5ZIaJyj.jpg",
-          "slug": "in-the-company-of-wolves-an-american-journey",
-          "tmdbId": "1689398",
-          "type": "movie"
-        },
-        {
-          "title": "'Tis the Season for Setups",
-          "synopsis": "Hyper organized single mom and party planner Lexi, her free-spirited mother June, and teen daughter Piper are set to spend Christmas at a local ski resort after Lexi is hired to organize their annual holiday party. Upon arrival, she immediately butts heads with Ridge, the ski instructor and son of the lodge's owner, Dan.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Romance"
-          ],
-          "cast": "Amanda Schull, Victor Webster, Barbara Niven, Verity Marks, John B. Lowe",
-          "posterUrl": "https://image.tmdb.org/t/p/original/gf3lx7vxAoSONF2TYerFwLDeHzV.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/kOf2kqgdaLkoOBNn8W041E8JVve.jpg",
-          "slug": "tis-the-season-for-setups",
-          "tmdbId": "1772765",
-          "type": "movie",
-          "duration": "84 min"
-        },
-        {
-          "title": "Tu corazón se romperá",
-          "synopsis": "Polina, una estudiante de secundaria, encuentra un salvavidas inesperado frente al acoso que sufre en su nuevo instituto. Para frenar el bullying, sella un pacto con Bars, el cabecilla de los abusadores: él fingirá ser su novio y se convertirá en su protector, pero a cambio, ella tendrá que obedecerle en todo lo que él le pida.  Lo que empieza como un juego de supervivencia se complica cuando la química entre los dos se vuelve real. Sin embargo, su historia tiene los días contados: tanto sus familias como sus propios compañeros harán lo imposible por dinamitar una relación que nadie aprueba.",
-          "rating": 7.1,
-          "year": "2026",
-          "genres": [
-            "Romance"
-          ],
-          "cast": "Даниэль Вегас, Вероника Журавлёва, Иван Трушин, Максим Сапрыкин, Аля Майер",
-          "posterUrl": "https://image.tmdb.org/t/p/original/siSnG1h8JKkuHgM0RuOWLcNxSbz.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/fRjy6zDeNjfzmjpKz8mElA9Aa6l.jpg",
-          "slug": "tu-corazon-se-rompera",
-          "tmdbId": "1523145",
-          "type": "movie",
-          "duration": "134 min"
-        },
-        {
-          "title": "El estafador ruso",
-          "synopsis": "En Moscú, 1996, un joven banquero y su amigo, cautivados por la promesa de riqueza y poder, se ven atrapados en un inmenso esquema de malversación. Después de su arresto, enfrentan una dura realidad en una celda abarrotada, poniendo a prueba su determinación moral.",
-          "rating": 6.5,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Александр Петров, Елизавета Базыкина, Михаил Тройник, Никита Павленко, Дмитрий Кузнецов",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fdmSOAcF9X7urBv5A7THG57NyyW.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/sYzbBw2N9spLgOkUnJxHWwAHt06.jpg",
-          "slug": "el-estafador-ruso",
-          "tmdbId": "1590206",
-          "type": "movie",
-          "duration": "96 min"
-        },
-        {
-          "title": "Higher Calling",
-          "synopsis": "Where do we go when we die? After losing his brother, a young man sets off on a motorcycle through the Himalayas, seeking a cure for his broken heart but finding something far more unexpected.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Documental",
-            "Aventura"
-          ],
-          "cast": "Benjamin Forman, Curtin Myers, Kyle Tevlin, Ashish Biswakarma, Benjamin Forman",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7BiRGmRHZTGgQ35vio0w1px4x07.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/b2crt8GvlB4ukmjldO88DWzuipC.jpg",
-          "slug": "higher-calling",
-          "tmdbId": "1730999",
-          "type": "movie",
-          "duration": "73 min"
-        },
-        {
-          "title": "Crude Awakenings",
-          "synopsis": "At a ruthless PR firm, an ambitious publicist takes on a notorious energy company at the promise of a promotion. As a mysterious sickness spreads throughout her firm, she must decide whether to sacrifice her morals in favour of corporate success.",
-          "rating": 6.5,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Django Chan Reeves, Doug Colling, Gary Fannin, LaToya Harding",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vww1uAUCAXfLyyhy3bY21Co8XdB.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/kPaqVM5RFwEp00mxA7QRsF5gvSw.jpg",
-          "slug": "crude-awakenings",
-          "tmdbId": "1111295",
-          "type": "movie",
-          "duration": "69 min"
-        },
-        {
-          "title": "El discípulo: Una fábula de Wu-Tang",
-          "synopsis": "En este documental se narra el insólito ascenso de Cilvaringz, desde sus inicios como fan hasta alcanzar la fama con Wu-Tang  Clan y el famoso álbum 'Once Upon a Time in Shaolin'",
-          "rating": 4,
-          "year": "2026",
-          "genres": [
-            "Documental",
-            "Música"
-          ],
-          "cast": "Cilvaringz, Vanessa Kirby",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2vrQxy3Xrb6AvPtsa7jAU9DKxvu.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/xrIXY0B0fxnCWc1jNHWb48Tm4qJ.jpg",
-          "slug": "el-discipulo-una-fabula-de-wu-tang",
-          "tmdbId": "1596285",
-          "type": "movie",
-          "duration": "105 min"
         }
       ]
     },
@@ -429,7 +435,7 @@
         {
           "title": "Masterplan",
           "synopsis": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
-          "rating": 7.07,
+          "rating": 7.03,
           "year": "2026",
           "genres": [
             "Acción",
@@ -479,7 +485,7 @@
         {
           "title": "La tormenta",
           "synopsis": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
-          "rating": 6.44,
+          "rating": 6.4,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -496,14 +502,14 @@
         {
           "title": "Whalefall",
           "synopsis": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-          "rating": 6.69,
+          "rating": 6.6,
           "year": "2026",
           "genres": [
             "Suspenso"
           ],
           "cast": "Austin Abrams, Josh Brolin, Elisabeth Shue, John Ortiz, Jane Levy",
           "posterUrl": "https://image.tmdb.org/t/p/original/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hBoY4pwszgeBEXLZ53WDTyLIMhr.jpg",
           "slug": "whalefall",
           "tmdbId": "1255833",
           "type": "movie",
@@ -512,7 +518,7 @@
         {
           "title": "Street Fighter",
           "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-          "rating": 6.27,
+          "rating": 6.3,
           "year": "2026",
           "genres": [
             "Acción",
@@ -545,7 +551,7 @@
         {
           "title": "En directo",
           "synopsis": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
-          "rating": 7.42,
+          "rating": 7.4,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -571,7 +577,7 @@
         {
           "title": "Doctor X Mafia in White",
           "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-          "rating": 9.41,
+          "rating": 9.39,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -649,7 +655,7 @@
         {
           "title": "Avatar: Los Siete Refugios",
           "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
-          "rating": 9.12,
+          "rating": 9.13,
           "year": "2026",
           "genres": [
             "Animación",
@@ -737,9 +743,24 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
+          "title": "Los crímenes del cementerio de animales: una historia de terror",
+          "synopsis": "Un policía de Nueva Orleans investiga el asesinato del dueño de un cementerio de mascotas y descubre un pasado que aún persigue a la comunidad.",
+          "rating": 7.2,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Patricia Newman, Brain Vallelungo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mqJ2SwlEHBzAFykQXt820xmyUMF.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
+          "slug": "los-crimenes-del-cementerio-de-animales-una-historia-de-terror",
+          "tmdbId": "336418",
+          "type": "series"
+        },
+        {
           "title": "Doctor X Mafia in White",
           "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-          "rating": 9.3,
+          "rating": 9.39,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -754,9 +775,26 @@
           "type": "series"
         },
         {
+          "title": "La chispa del amor",
+          "synopsis": "El heredero de una fortuna, cuyo corazón artificial funciona con una batería, llega a un acuerdo con una chica electrizante para que lo recargue. ¿Surgirán chispas?",
+          "rating": 8.6,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Fantasía",
+            "Comedia"
+          ],
+          "cast": "김영광, 채수빈, Cha Woo-min",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2KLblBXNDX05ZqLwubCyjeokGvZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+          "slug": "la-chispa-del-amor",
+          "tmdbId": "289423",
+          "type": "series"
+        },
+        {
           "title": "Avatar: Los Siete Refugios",
           "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
-          "rating": 9.12,
+          "rating": 9.13,
           "year": "2026",
           "genres": [
             "Animación",
@@ -789,26 +827,9 @@
           "type": "series"
         },
         {
-          "title": "La chispa del amor",
-          "synopsis": "El heredero de una fortuna, cuyo corazón artificial funciona con una batería, llega a un acuerdo con una chica electrizante para que lo recargue. ¿Surgirán chispas?",
-          "rating": 8.6,
-          "year": "2026",
-          "genres": [
-            "Ciencia ficción",
-            "Fantasía",
-            "Comedia"
-          ],
-          "cast": "김영광, 채수빈, Cha Woo-min",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2KLblBXNDX05ZqLwubCyjeokGvZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-          "slug": "la-chispa-del-amor",
-          "tmdbId": "289423",
-          "type": "series"
-        },
-        {
           "title": "Bajo la superficie",
           "synopsis": "Una misteriosa criatura marina siembra el terror en un pequeño pueblo de Terranova y un curtido pescador y su familia se convierten en la única esperanza de sus vecinos.",
-          "rating": 7.22,
+          "rating": 7.2,
           "year": "2026",
           "genres": [
             "Drama",
@@ -819,6 +840,22 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
           "slug": "bajo-la-superficie",
           "tmdbId": "285322",
+          "type": "series"
+        },
+        {
+          "title": "El círculo",
+          "synopsis": "El asesinato de una famosa actriz revela una caja de Pandora de secretos y espionaje que amenaza con destruir la vida de cuatro amigos de la infancia.",
+          "rating": 7.13,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Crimen"
+          ],
+          "cast": "Zuria Vega, Osvaldo Benavides, Raúl Briones, Michel Brown",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hkZ8ID4k0nGOdGJa1ynjj8nTmiW.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
+          "slug": "el-circulo",
+          "tmdbId": "290233",
           "type": "series"
         },
         {
@@ -856,22 +893,6 @@
           "type": "series"
         },
         {
-          "title": "El círculo",
-          "synopsis": "El asesinato de una famosa actriz revela una caja de Pandora de secretos y espionaje que amenaza con destruir la vida de cuatro amigos de la infancia.",
-          "rating": 6.71,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Crimen"
-          ],
-          "cast": "Zuria Vega, Osvaldo Benavides, Raúl Briones, Michel Brown",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hkZ8ID4k0nGOdGJa1ynjj8nTmiW.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
-          "slug": "el-circulo",
-          "tmdbId": "290233",
-          "type": "series"
-        },
-        {
           "title": "Between steps",
           "synopsis": "Minjae, un antiguo nadador que perdió una pierna debido a una enfermedad, lleva una vida tranquila y controlada mientras estudia un doctorado. Sin embargo, todo cambia cuando conoce a Yujin, una estudiante de máster que intenta empezar de nuevo tras perder el rumbo de su vida. En un laboratorio de robótica, surge entre ellos un romance apasionado, agridulce y lleno de ternura.",
           "rating": 7.2,
@@ -885,22 +906,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/mA4ClzkBvBCiTHQ8zHFsuWRaLW2.jpg",
           "slug": "between-steps",
           "tmdbId": "307106",
-          "type": "series"
-        },
-        {
-          "title": "Amor",
-          "synopsis": "La fundadora de una aplicación de citas y su aventurado competidor ponen a prueba sus teorías opuestas sobre el amor con un reto de 60 días para encontrar a la pareja ideal.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Arjun Das, Aishwarya Lekshmi, Namita Krishnamurthy, Harini Sundararajan, Nanditha Sreekumar",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cyJKP6Fsg8ds4O4g1Q1SCOKJQdn.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/xrm5XNKMuAnvnG9sokNYlaAng2G.jpg",
-          "slug": "amor",
-          "tmdbId": "302882",
           "type": "series"
         }
       ]
