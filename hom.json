@@ -36,6 +36,23 @@
       "duration": "107 min"
     },
     {
+      "title": "Tenzing",
+      "synopsis": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
+      "rating": 8.3,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "cast": "更登彭措, Tom Hiddleston, Willem Dafoe, Samdrup Dorje Lama, Bhuchung Kata",
+      "posterUrl": "https://image.tmdb.org/t/p/original/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
+      "slug": "tenzing",
+      "tmdbId": "1288069",
+      "type": "movie",
+      "duration": "126 min"
+    },
+    {
       "title": "Hope",
       "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
       "rating": 6.87,
@@ -52,23 +69,6 @@
       "tmdbId": "1058424",
       "type": "movie",
       "duration": "157 min"
-    },
-    {
-      "title": "Tenzing",
-      "synopsis": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
-      "rating": 8.3,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "cast": "更登彭措, Tom Hiddleston, Willem Dafoe, Samdrup Dorje Lama, Bhuchung Kata",
-      "posterUrl": "https://image.tmdb.org/t/p/original/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-      "slug": "tenzing",
-      "tmdbId": "1288069",
-      "type": "movie",
-      "duration": "126 min"
     },
     {
       "title": "Spider-Man: Brand New Day",
@@ -89,78 +89,96 @@
       "duration": "145 min"
     },
     {
-      "title": "Street Fighter",
-      "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "rating": 6.3,
+      "title": "Masterplan",
+      "synopsis": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
+      "rating": 7.03,
       "year": "2026",
       "genres": [
         "Acción",
-        "Fantasía"
+        "Suspenso"
       ],
-      "cast": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Mel Jarnson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
-      "slug": "street-fighter-1153576",
-      "tmdbId": "1153576",
+      "cast": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Barbara Lo Gaglio",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+      "slug": "masterplan",
+      "tmdbId": "1561726",
       "type": "movie",
-      "duration": "119 min"
+      "duration": "110 min"
     }
   ],
   "seriesHero": [
     {
+      "title": "Cyberpunk: Edgerunners",
+      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
+      "rating": 8.56,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
+      "slug": "cyberpunk-edgerunners",
+      "tmdbId": "105248",
+      "type": "series"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners",
+      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
+      "rating": 8.56,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
+      "slug": "cyberpunk-edgerunners",
+      "tmdbId": "105248",
+      "type": "series"
+    },
+    {
       "title": "Link Click",
       "synopsis": "Se dice que una imagen vale más que mil palabras. En este caso, guarda una cantidad infinita de secretos. Estos son secretos que solo Cheng Xiaoshi y Lu Guang pueden encontrar. En una pequeña tienda llamada \"Time Photo Studio\", los dos amigos brindan un servicio especial: usando sus extraordinarios poderes que les permiten ingresar fotografías, saltan a las imágenes que les traen los clientes para cumplir sus deseos. A través de los ojos del fotógrafo, viven los hechos que rodean la imagen e intentan descifrar cómo resolver la solicitud de su cliente.",
-      "rating": 8.07,
+      "rating": 8,
       "year": "2021",
       "genres": [
         "Animación",
         "Ciencia ficción",
         "Fantasía",
-        "Misterio"
+        "Misterio",
+        "Drama"
       ],
-      "cast": "Su Shangqing, 杨天翔, 李詩萌",
-      "posterUrl": "https://image.tmdb.org/t/p/original/gNeI4fA172iKOals4zP7e5Lqy6J.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2ns30HHRX5qgsVfEvvevwUcrD5E.jpg",
+      "cast": "苏尚卿, 杨天翔, 李詩萌",
+      "posterUrl": "https://image.tmdb.org/t/p/original/44cNZ5PmLOwTIOkYwlAewgzn8Bl.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
       "slug": "link-click",
       "tmdbId": "123542",
       "type": "series"
     },
     {
-      "title": "Cyberpunk: Edgerunners",
-      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
-      "rating": 8.56,
+      "title": "La lista final",
+      "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "rating": 8.03,
       "year": "2022",
       "genres": [
         "Acción",
         "Aventura",
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía"
+        "Drama"
       ],
-      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
-      "slug": "cyberpunk-edgerunners",
-      "tmdbId": "105248",
-      "type": "series"
-    },
-    {
-      "title": "Cyberpunk: Edgerunners",
-      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
-      "rating": 8.56,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
-      "slug": "cyberpunk-edgerunners",
-      "tmdbId": "105248",
+      "cast": "Chris Pratt, Constance Wu, Taylor Kitsch, Riley Keough, Arlo Mertz",
+      "posterUrl": "https://image.tmdb.org/t/p/original/90mQFRWXolU8wS2kCqYvO3LIbHX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+      "slug": "la-lista-final",
+      "tmdbId": "120911",
       "type": "series"
     },
     {
@@ -181,40 +199,19 @@
       "type": "series"
     },
     {
-      "title": "Carrie",
-      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "rating": 8.44,
+      "title": "Crystal Lake",
+      "synopsis": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
+      "rating": 8.6,
       "year": "2026",
       "genres": [
-        "Misterio",
         "Drama",
-        "Ciencia ficción",
-        "Fantasía"
+        "Misterio"
       ],
-      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "slug": "carrie",
-      "tmdbId": "288673",
-      "type": "series"
-    },
-    {
-      "title": "Bleach",
-      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
-      "rating": 8.3,
-      "year": "2004",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Masakazu Morita, Fumiko Orikasa, Hiroki Yasumoto, 松岡由貴, Noriaki Sugiyama",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "slug": "bleach",
-      "tmdbId": "30984",
+      "cast": "Linda Cardellini, William Catlett, Gwendolyn Sundstrom, Cameron Scoggins, Devin Kessler",
+      "posterUrl": "https://image.tmdb.org/t/p/original/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+      "slug": "crystal-lake",
+      "tmdbId": "213562",
       "type": "series"
     }
   ],
@@ -225,9 +222,42 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Zeta",
+          "synopsis": "Cuatro ex-oficiales de inteligencia españoles son asesinados al mismo tiempo en distintas embajadas del mundo. El CNI descubre que todos participaron hace 35 años en la oculta “Operación Ciénaga”, que ocurrió en Colombia y donde un quinto oficial de inteligencia –el único que ha escapado de los asesinos– estuvo implicado. Encontrarle será el primer objetivo para el CNI, que pone al frente de la misión a su mejor miembro: Zeta.",
+          "rating": 6.7,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Suspenso"
+          ],
+          "cast": "Mario Casas, Mariela Garriga, Luis Zahera, Nora Navas, Christian Tappan",
+          "posterUrl": "https://image.tmdb.org/t/p/original/tEFMZGcmxBDCodbLAqmrjdjCTwm.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cmP55W8EqqIE41Ck9D7uWRpzLwS.jpg",
+          "slug": "zeta",
+          "tmdbId": "1314786",
+          "type": "movie",
+          "duration": "132 min"
+        },
+        {
+          "title": "Todos los colores",
+          "synopsis": "Belén, de 17 años, es la líder indiscutible de su grupo de amigas. Con un carácter arrollador, y su silla de ruedas, siempre consigue salirse con la suya. Pero con el fin del bachillerato a la vuelta de la esquina, todo empieza a cambiar. Sus amigas tienen la mirada puesta en el futuro y Belén teme quedarse atrás. Belén se sumerge en un momento vital de descubrimiento, de vínculos que se transforman, de deseos que despiertan y de emociones que se mezclan como si fuera una paleta con todos los colores a la vez.",
+          "rating": 5,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Mafalda Carbonell, Silvia Abril, Claudia Mora, Amalia Martos Olivares, Carlota Jiménez",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fiXF1BmnMKSiIv6Gj9msRYhtvpv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/obzcZFtwtJ7Qckq8MmQj7q3ydWa.jpg",
+          "slug": "todos-los-colores",
+          "tmdbId": "1509717",
+          "type": "movie",
+          "duration": "92 min"
+        },
+        {
           "title": "Incautado: La lucha de Amanda Ogle",
           "synopsis": "Amanda Ogle vive en las calles de Seattle, refugiada en su viejo Toyota Camry. Cuando le roban el coche y las autoridades lo envían al depósito, se ve atrapada en una larga y desgastante lucha contra una burocracia tan implacable como indiferente. Lo que empieza como un intento desesperado por recuperar su único hogar termina convirtiéndose en un conmovedor relato sobre la resistencia, la dignidad y la fuerza de una mujer decidida a hacerse oír frente a un sistema que parece haberla olvidado.",
-          "rating": 6.6,
+          "rating": 6.73,
           "year": "2026",
           "genres": [
             "Drama"
@@ -359,40 +389,6 @@
           "tmdbId": "1279493",
           "type": "movie",
           "duration": "96 min"
-        },
-        {
-          "title": "El amor de tu vida",
-          "synopsis": "Maya, una enfermera de Boston de 26 años, abandona su vida y su matrimonio con Charlie tras la pandemia. Convertida en nómada digital en Portugal, conoce a Felix, con quien se muda a Inglaterra mientras afronta su identidad, sus deseos y la opción de volver a amar.",
-          "rating": 6.8,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Drama"
-          ],
-          "cast": "Margaret Qualley, Gabriel Basso, Aaron Pierre, Patrick Schwarzenegger, Catherine Keener",
-          "posterUrl": "https://image.tmdb.org/t/p/original/nqeDR6qGU8mqguQHRkAUg2ySBZv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/f1jZDs4dJoFXxazmpBKGmId2hFU.jpg",
-          "slug": "el-amor-de-tu-vida",
-          "tmdbId": "1381078",
-          "type": "movie",
-          "duration": "109 min"
-        },
-        {
-          "title": "La milicia",
-          "synopsis": "Daniel sueña con unirse a la milicia local junto a su padre. Pero cuando su padre se convierte en el objetivo del sheriff, Daniel y sus amigos forman su propia milicia en un esfuerzo desesperado por salvarlo.",
-          "rating": 7.5,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Suspenso"
-          ],
-          "cast": "Sam Williamson, Michael Broderick, Luke Stratte-McClure, Chris Bylsma, Laurel Feierbach",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yUa5I0Wb4pVbKcrIRBYrLF4guje.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/twI5fNZrX4UnUVu8mAeO1P7VAUk.jpg",
-          "slug": "the-militia",
-          "tmdbId": "1759875",
-          "type": "movie",
-          "duration": "117 min"
         }
       ]
     },
@@ -578,7 +574,7 @@
         {
           "title": "Crystal Lake",
           "synopsis": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
-          "rating": 8.57,
+          "rating": 8.6,
           "year": "2026",
           "genres": [
             "Drama",
@@ -756,7 +752,7 @@
         {
           "title": "Crystal Lake",
           "synopsis": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
-          "rating": 8.57,
+          "rating": 8.6,
           "year": "2026",
           "genres": [
             "Drama",
