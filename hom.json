@@ -54,6 +54,24 @@
       "duration": "100 min"
     },
     {
+      "title": "Hope",
+      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+      "rating": 6.88,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Acción"
+      ],
+      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
+      "posterUrl": "https://image.tmdb.org/t/p/original/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+      "slug": "hope-1058424",
+      "tmdbId": "1058424",
+      "type": "movie",
+      "duration": "157 min"
+    },
+    {
       "title": "Por todos los medios",
       "synopsis": "En el Mississippi de 1966, un joven agente negro del FBI es enviado a investigar una oleada de brutales asesinatos de líderes de los derechos civiles. Obligado a trabajar junto al famoso sicario de la mafia Greg Scarpa, se ve arrastrado a una caza mortal en la que la justicia y la venganza empiezan a confundirse.",
       "rating": 6.66,
@@ -71,24 +89,6 @@
       "tmdbId": "1380417",
       "type": "movie",
       "duration": "107 min"
-    },
-    {
-      "title": "Hope",
-      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
-      "rating": 6.88,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Misterio",
-        "Acción"
-      ],
-      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
-      "posterUrl": "https://image.tmdb.org/t/p/original/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-      "slug": "hope-1058424",
-      "tmdbId": "1058424",
-      "type": "movie",
-      "duration": "157 min"
     },
     {
       "title": "Masterplan",
@@ -223,6 +223,95 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Biker",
+          "synopsis": "A seasoned motocross rider returns to the grueling sport he once abandoned, confronting fierce competition and a father who might push him to the brink.",
+          "rating": 6.2,
+          "year": "2026",
+          "genres": [
+            "Aventura",
+            "Drama",
+            "Familia"
+          ],
+          "cast": "శర్వానంద్, Dr. Rajasekhar, Malavika Nair, Atul Kulkarni, Brahmaji",
+          "posterUrl": "https://image.tmdb.org/t/p/original/AgYtuXgCPsAlAY4ml1C7BVDJPZr.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+          "slug": "biker",
+          "tmdbId": "1423251",
+          "type": "movie",
+          "duration": "162 min"
+        },
+        {
+          "title": "Clayface",
+          "synopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
+          "rating": 7.4,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Suspenso",
+            "Ciencia ficción"
+          ],
+          "cast": "Tom Rhys Harries, Naomi Ackie, Eddie Marsan, Max Minghella, David Dencik",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+          "slug": "clayface",
+          "tmdbId": "1400940",
+          "type": "movie",
+          "duration": "108 min"
+        },
+        {
+          "title": "Colony",
+          "synopsis": "El profesor Se-jeong es arrojado a una pesadilla cuando un  virus en rápida mutación se libera durante una conferencia de  biotecnología, lo que lleva a las autoridades a sellar las  instalaciones. Atrapado dentro sin escapatoria, Se-jeong, junto a un  pequeño grupo de supervivientes, debe luchar por mantenerse con vida  mientras los infectados sufren transformaciones horribles.",
+          "rating": 8.11,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Acción",
+            "Ciencia ficción"
+          ],
+          "cast": "전지현, 구교환, 지창욱, 김신록, 신현빈",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bWzwORubAQ40nvzsTZidle19Dbm.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/pGxUbJ1vKuMYeEjKDokFI7DNbSG.jpg",
+          "slug": "colony",
+          "tmdbId": "1375646",
+          "type": "movie",
+          "duration": "123 min"
+        },
+        {
+          "title": "Idiots",
+          "synopsis": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
+          "rating": 6.1,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Crimen"
+          ],
+          "cast": "Dave Franco, O'Shea Jackson Jr., Mason Thames, Kiernan Shipka, Peter Dinklage",
+          "posterUrl": "https://image.tmdb.org/t/p/original/iPBQ9btO6VBX6z8qJUdKBwiEGo8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
+          "slug": "idiots",
+          "tmdbId": "445466",
+          "type": "movie",
+          "duration": "100 min"
+        },
+        {
+          "title": "Dulce sabor a muerte",
+          "synopsis": "Lo que comienza siendo un verano idílico, en un pequeño y tranquilo pueblo vacacional, se convierte en una auténtica pesadilla cuando los más pequeños comienzan a mostrar instintos asesinos y deseos insaciables por acabar con todos los adultos. Son víctimas de una curiosa maldición provocada por los helados que comen que afecta a todos, menos a tres niños que tendrán que intentar escapar y salvar a todo el pueblo.",
+          "rating": 4.86,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Comedia",
+            "Suspenso"
+          ],
+          "cast": "Ari Millen, Charlie Zeltzer, Shiloh O’Reilly, Kiori Mirza Waldman, Sarah Abbott",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uVuP2ZTYLn5hdL1aUOe4BiFD6d3.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+          "slug": "dulce-sabor-a-muerte",
+          "tmdbId": "1477712",
+          "type": "movie",
+          "duration": "86 min"
+        },
+        {
           "title": "Un juego de tres",
           "synopsis": "El eterno enamoramiento de un joven le lleva a un trío inesperado, cree que es su última fantasía hecha realidad. Cuando la fantasía termina, los tres se ven obligados a asumir la responsabilidad de sus actos.",
           "rating": 6.3,
@@ -243,7 +332,7 @@
         {
           "title": "Malas manzanas",
           "synopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
-          "rating": 6.6,
+          "rating": 6.5,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -251,7 +340,7 @@
           ],
           "cast": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola",
           "posterUrl": "https://image.tmdb.org/t/p/original/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ch1g1X6TfezRwbmiBiYRpALTQjN.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
           "slug": "bad-apples",
           "tmdbId": "1198654",
           "type": "movie",
@@ -278,7 +367,7 @@
         {
           "title": "En tierra de muertos",
           "synopsis": "Ava, una mujer desesperada cuyo marido ha desaparecido tras un catastrófico experimento militar, se une a una \"unidad de recuperación de cadáveres\", pero su búsqueda da un giro escalofriante cuando los cadáveres que está enterrando empiezan a dar señales de vida.",
-          "rating": 6.14,
+          "rating": 6.1,
           "year": "2026",
           "genres": [
             "Terror",
@@ -295,7 +384,7 @@
         {
           "title": "Zeta",
           "synopsis": "Cuatro ex-oficiales de inteligencia españoles son asesinados al mismo tiempo en distintas embajadas del mundo. El CNI descubre que todos participaron hace 35 años en la oculta “Operación Ciénaga”, que ocurrió en Colombia y donde un quinto oficial de inteligencia –el único que ha escapado de los asesinos– estuvo implicado. Encontrarle será el primer objetivo para el CNI, que pone al frente de la misión a su mejor miembro: Zeta.",
-          "rating": 6.7,
+          "rating": 6.69,
           "year": "2026",
           "genres": [
             "Drama",
@@ -308,89 +397,6 @@
           "tmdbId": "1314786",
           "type": "movie",
           "duration": "132 min"
-        },
-        {
-          "title": "Todos los colores",
-          "synopsis": "Belén, de 17 años, es la líder indiscutible de su grupo de amigas. Con un carácter arrollador, y su silla de ruedas, siempre consigue salirse con la suya. Pero con el fin del bachillerato a la vuelta de la esquina, todo empieza a cambiar. Sus amigas tienen la mirada puesta en el futuro y Belén teme quedarse atrás. Belén se sumerge en un momento vital de descubrimiento, de vínculos que se transforman, de deseos que despiertan y de emociones que se mezclan como si fuera una paleta con todos los colores a la vez.",
-          "rating": 6.67,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Mafalda Carbonell, Silvia Abril, Claudia Mora, Amalia Martos Olivares, Carlota Jiménez",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fiXF1BmnMKSiIv6Gj9msRYhtvpv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/obzcZFtwtJ7Qckq8MmQj7q3ydWa.jpg",
-          "slug": "todos-los-colores",
-          "tmdbId": "1509717",
-          "type": "movie",
-          "duration": "92 min"
-        },
-        {
-          "title": "Incautado: La lucha de Amanda Ogle",
-          "synopsis": "Amanda Ogle vive en las calles de Seattle, refugiada en su viejo Toyota Camry. Cuando le roban el coche y las autoridades lo envían al depósito, se ve atrapada en una larga y desgastante lucha contra una burocracia tan implacable como indiferente. Lo que empieza como un intento desesperado por recuperar su único hogar termina convirtiéndose en un conmovedor relato sobre la resistencia, la dignidad y la fuerza de una mujer decidida a hacerse oír frente a un sistema que parece haberla olvidado.",
-          "rating": 6.73,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Rose Byrne, Dominic Sessa, Octavia Spencer, Ariana DeBose, Demi Lovato",
-          "posterUrl": "https://image.tmdb.org/t/p/original/h4UVnm6U4mtx8YPYdBvjiU5Ivkx.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cRhOM5UDUpBV7EdpdXxkstpli86.jpg",
-          "slug": "incautado-la-lucha-de-amanda-ogle",
-          "tmdbId": "1244517",
-          "type": "movie",
-          "duration": "105 min"
-        },
-        {
-          "title": "It's My Time",
-          "synopsis": "At the age of seventy, a fiercely non-conformist grandmother partners with a lethargic, underachieving young prodigy to navigate the highly competitive and eccentric subculture of speedcubing, defying familial skepticism and generational expectations.",
-          "rating": 6.2,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Michelle Yeoh, 刘昊然, 萨日娜, 白客, 韓童生",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qvTiG4LSu6wFCfXjg2KTiqHeQBF.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/bLxfaYqA9YlVuXbU9eK1E2u3MLI.jpg",
-          "slug": "its-my-time",
-          "tmdbId": "1257942",
-          "type": "movie",
-          "duration": "107 min"
-        },
-        {
-          "title": "EPiC: Elvis Presley in Concert",
-          "synopsis": "Rescata la figura del gran Elvis Presley, con imágenes de archivo y grabaciones nunca vistas del Rey del rock.",
-          "rating": 8.2,
-          "year": "2026",
-          "genres": [
-            "Música",
-            "Documental"
-          ],
-          "cast": "Elvis Presley, James Burton, John Wilkinson, Charlie Hodge, Jerry Scheff",
-          "posterUrl": "https://image.tmdb.org/t/p/original/soWM6RbsfDcDVWLbTv1LOpml64M.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
-          "slug": "epic-elvis-presley-in-concert",
-          "tmdbId": "1445363",
-          "type": "movie",
-          "duration": "98 min"
-        },
-        {
-          "title": "Manila's Finest",
-          "synopsis": "Set during the first quarter storm in the 1970s, policemen Homer, Conrad, and Billy are consumed by the murder case of troublemaking teenagers in the slums.",
-          "rating": 0,
-          "year": "2025",
-          "genres": [
-            "Crimen",
-            "Drama"
-          ],
-          "cast": "Piolo Pascual, Enrique Gil, Ashtine Olviga, Rica Peralejo, Ariel Rivera",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cWNkpDIwt1Qt3JtWLL2c2vUWVwd.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/12zO6K0EAQfpLPyb9K9M1d1vFJ3.jpg",
-          "slug": "manilas-finest",
-          "tmdbId": "1536232",
-          "type": "movie",
-          "duration": "120 min"
         }
       ]
     },
@@ -434,7 +440,7 @@
         {
           "title": "Masterplan",
           "synopsis": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
-          "rating": 7.06,
+          "rating": 6.95,
           "year": "2026",
           "genres": [
             "Acción",
@@ -484,7 +490,7 @@
         {
           "title": "La tormenta",
           "synopsis": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
-          "rating": 6.4,
+          "rating": 6.34,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -501,14 +507,14 @@
         {
           "title": "Whalefall",
           "synopsis": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-          "rating": 6.5,
+          "rating": 6.52,
           "year": "2026",
           "genres": [
             "Suspenso"
           ],
           "cast": "Austin Abrams, Josh Brolin, Elisabeth Shue, John Ortiz, Jane Levy",
           "posterUrl": "https://image.tmdb.org/t/p/original/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hBoY4pwszgeBEXLZ53WDTyLIMhr.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
           "slug": "whalefall",
           "tmdbId": "1255833",
           "type": "movie",
@@ -517,13 +523,13 @@
         {
           "title": "Street Fighter",
           "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-          "rating": 6.22,
+          "rating": 6.31,
           "year": "2026",
           "genres": [
             "Acción",
             "Fantasía"
           ],
-          "cast": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Mel Jarnson",
+          "cast": "Noah Centineo, Andrew Koji, Callina Liang, David Dastmalchian, Andrew Schulz",
           "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
           "slug": "street-fighter-1153576",
@@ -550,7 +556,7 @@
         {
           "title": "En directo",
           "synopsis": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
-          "rating": 7.07,
+          "rating": 7.1,
           "year": "2026",
           "genres": [
             "Crimen",
