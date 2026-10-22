@@ -1,11 +1,12 @@
 {
   "movieHero": [
     {
-      "title": "A cualquier precio",
-      "synopsis": "Un joven agente negro del FBI es enviado al Misisipi de los años 60 para investigar una ola de brutales asesinatos dirigidos contra líderes de los derechos civiles. Obligado a trabajar junto al notorio sicario de la mafia Greg Scarpa, se ve arrastrado a una cacería mortal en la que los límites entre la justicia y la venganza comienzan a difuminarse.",
-      "rating": 6.9,
+      "title": "Por todos los medios",
+      "synopsis": "En el Mississippi de 1966, un joven agente negro del FBI es enviado a investigar una oleada de brutales asesinatos de líderes de los derechos civiles. Obligado a trabajar junto al famoso sicario de la mafia Greg Scarpa, se ve arrastrado a una caza mortal en la que la justicia y la venganza empiezan a confundirse.",
+      "rating": 6.7,
       "year": "2026",
       "genres": [
+        "Suspenso",
         "Historia",
         "Crimen",
         "Drama"
@@ -19,27 +20,9 @@
       "duration": "107 min"
     },
     {
-      "title": "Hope",
-      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
-      "rating": 6.87,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Misterio",
-        "Acción"
-      ],
-      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hHPIefotew38oJm3YCJPAzpi26c.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-      "slug": "hope-1058424",
-      "tmdbId": "1058424",
-      "type": "movie",
-      "duration": "157 min"
-    },
-    {
-      "title": "Bad Apples",
+      "title": "Malas manzanas",
       "synopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
-      "rating": 6.73,
+      "rating": 6.48,
       "year": "2026",
       "genres": [
         "Comedia",
@@ -56,7 +39,7 @@
     {
       "title": "Vaiana",
       "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
-      "rating": 7.5,
+      "rating": 7.49,
       "year": "2026",
       "genres": [
         "Familia",
@@ -73,78 +56,75 @@
       "duration": "115 min"
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.47,
+      "title": "La Odisea",
+      "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+      "rating": 8.01,
+      "year": "2026",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ],
+      "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sf2ke1nwFOLLcwLZiXu9VaMMv8e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
+      "slug": "la-odisea-1368337",
+      "tmdbId": "1368337",
+      "type": "movie",
+      "duration": "173 min"
+    },
+    {
+      "title": "Hope",
+      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+      "rating": 6.88,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
-        "Acción",
-        "Aventura"
+        "Misterio",
+        "Acción"
       ],
-      "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681",
+      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
+      "posterUrl": "https://image.tmdb.org/t/p/original/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+      "slug": "hope-1058424",
+      "tmdbId": "1058424",
       "type": "movie",
-      "duration": "145 min"
+      "duration": "157 min"
     },
     {
-      "title": "Tenzing",
-      "synopsis": "Un hombre se embarca en una arriesgada expedición para, contra todo pronóstico, intentar cumplir el sueño de ser el primero en alcanzar la cima del Everest.",
-      "rating": 8.3,
+      "title": "Masterplan",
+      "synopsis": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
+      "rating": 7.06,
       "year": "2026",
       "genres": [
-        "Drama",
-        "Historia"
+        "Acción",
+        "Suspenso"
       ],
-      "cast": "更登彭措, Tom Hiddleston, Willem Dafoe, Samdrup Dorje Lama, Bhuchung Kata",
-      "posterUrl": "https://image.tmdb.org/t/p/original/5i3qw2aDNQP6SWl2hNQaiIoUYHE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
-      "slug": "tenzing",
-      "tmdbId": "1288069",
+      "cast": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Barbara Lo Gaglio",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+      "slug": "masterplan",
+      "tmdbId": "1561726",
       "type": "movie",
-      "duration": "126 min"
+      "duration": "110 min"
     }
   ],
   "seriesHero": [
     {
-      "title": "Cyberpunk: Edgerunners",
-      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
-      "rating": 8.56,
-      "year": "2022",
+      "title": "Los diarios de la boticaria",
+      "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
+      "rating": 8.84,
+      "year": "2023",
       "genres": [
-        "Acción",
-        "Aventura",
         "Animación",
-        "Ciencia ficción",
-        "Fantasía"
+        "Drama",
+        "Misterio"
       ],
-      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
-      "slug": "cyberpunk-edgerunners",
-      "tmdbId": "105248",
-      "type": "series"
-    },
-    {
-      "title": "Cyberpunk: Edgerunners",
-      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
-      "rating": 8.56,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
-      "slug": "cyberpunk-edgerunners",
-      "tmdbId": "105248",
+      "cast": "Aoi Yuki, Takeo Otsuka, Katsuyuki Konishi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
+      "slug": "los-diarios-de-la-boticaria",
+      "tmdbId": "220542",
       "type": "series"
     },
     {
@@ -165,28 +145,47 @@
       "type": "series"
     },
     {
-      "title": "Link Click",
-      "synopsis": "Se dice que una imagen vale más que mil palabras. En este caso, guarda una cantidad infinita de secretos. Estos son secretos que solo Cheng Xiaoshi y Lu Guang pueden encontrar. En una pequeña tienda llamada \"Time Photo Studio\", los dos amigos brindan un servicio especial: usando sus extraordinarios poderes que les permiten ingresar fotografías, saltan a las imágenes que les traen los clientes para cumplir sus deseos. A través de los ojos del fotógrafo, viven los hechos que rodean la imagen e intentan descifrar cómo resolver la solicitud de su cliente.",
-      "rating": 8,
-      "year": "2021",
+      "title": "Cyberpunk: Edgerunners",
+      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
+      "rating": 8.56,
+      "year": "2022",
       "genres": [
+        "Acción",
+        "Aventura",
         "Animación",
         "Ciencia ficción",
-        "Fantasía",
-        "Misterio",
-        "Drama"
+        "Fantasía"
       ],
-      "cast": "苏尚卿, 杨天翔, 李詩萌",
-      "posterUrl": "https://image.tmdb.org/t/p/original/44cNZ5PmLOwTIOkYwlAewgzn8Bl.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
-      "slug": "link-click",
-      "tmdbId": "123542",
+      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
+      "slug": "cyberpunk-edgerunners",
+      "tmdbId": "105248",
+      "type": "series"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners",
+      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
+      "rating": 8.56,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
+      "slug": "cyberpunk-edgerunners",
+      "tmdbId": "105248",
       "type": "series"
     },
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.81,
+      "rating": 8.8,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -201,20 +200,19 @@
       "type": "series"
     },
     {
-      "title": "Slow Horses",
-      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-      "rating": 8.06,
-      "year": "2022",
+      "title": "Crystal Lake",
+      "synopsis": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
+      "rating": 8.6,
+      "year": "2026",
       "genres": [
-        "Crimen",
         "Drama",
         "Misterio"
       ],
-      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-      "slug": "slow-horses",
-      "tmdbId": "95480",
+      "cast": "Linda Cardellini, William Catlett, Gwendolyn Sundstrom, Cameron Scoggins, Devin Kessler",
+      "posterUrl": "https://image.tmdb.org/t/p/original/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+      "slug": "crystal-lake",
+      "tmdbId": "213562",
       "type": "series"
     }
   ],
@@ -224,6 +222,41 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Un juego de tres",
+          "synopsis": "El eterno enamoramiento de un joven le lleva a un trío inesperado, cree que es su última fantasía hecha realidad. Cuando la fantasía termina, los tres se ven obligados a asumir la responsabilidad de sus actos.",
+          "rating": 6.3,
+          "year": "2025",
+          "genres": [
+            "Comedia",
+            "Romance",
+            "Drama"
+          ],
+          "cast": "Zoey Deutch, Jonah Hauer-King, Ruby Cruz, Jaboukie Young-White, Josh Segarra",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4Ptyvpmnk9RcxxdK610VtXpHf1w.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vXYRqIySwaa56quJGRKxXfSaTh0.jpg",
+          "slug": "the-threesome",
+          "tmdbId": "993708",
+          "type": "movie",
+          "duration": "112 min"
+        },
+        {
+          "title": "Malas manzanas",
+          "synopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
+          "rating": 6.6,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Suspenso"
+          ],
+          "cast": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola",
+          "posterUrl": "https://image.tmdb.org/t/p/original/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ch1g1X6TfezRwbmiBiYRpALTQjN.jpg",
+          "slug": "bad-apples",
+          "tmdbId": "1198654",
+          "type": "movie",
+          "duration": "100 min"
+        },
         {
           "title": "28 años después: El templo de los huesos",
           "synopsis": "El Dr. Kelson (Ralph Fiennes) se ve envuelto en una nueva y sorprendente relación, cuyas consecuencias podrían cambiar el mundo tal y como se conoce. Por otra parte, el encuentro de Spike (Alfie Williams) con el Gran Lord Jimmy Crystal (Jack O'Connell) se convierte en una pesadilla de la que el chico no puede escapar. En este mundo, los infectados ya no son la mayor amenaza para la supervivencia, ya que la inhumanidad de los supervivientes puede ser aún más extraña y aterradora.",
@@ -279,7 +312,7 @@
         {
           "title": "Todos los colores",
           "synopsis": "Belén, de 17 años, es la líder indiscutible de su grupo de amigas. Con un carácter arrollador, y su silla de ruedas, siempre consigue salirse con la suya. Pero con el fin del bachillerato a la vuelta de la esquina, todo empieza a cambiar. Sus amigas tienen la mirada puesta en el futuro y Belén teme quedarse atrás. Belén se sumerge en un momento vital de descubrimiento, de vínculos que se transforman, de deseos que despiertan y de emociones que se mezclan como si fuera una paleta con todos los colores a la vez.",
-          "rating": 5,
+          "rating": 6.67,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -358,41 +391,6 @@
           "tmdbId": "1536232",
           "type": "movie",
           "duration": "120 min"
-        },
-        {
-          "title": "No alimentes a los niños",
-          "synopsis": "Un grupo de niños huérfanos viaja al sur en busca de una nueva vida después de que un virus mortal haya diezmado a la mayor parte de los adultos del país. Los niños acabarán encontrándose a merced de una mujer psicótica que esconde un peligroso secreto.",
-          "rating": 6.13,
-          "year": "2025",
-          "genres": [
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Michelle Dockery, Zoe Colletti, Andrew Liner, Dean Scott Vazquez, Regan Aliyah",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4OmQJksitrRqjwHyv8xWEkIlsLw.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/qd2YZfTAlI31CPpIIWovVyKhRzD.jpg",
-          "slug": "please-dont-feed-the-children",
-          "tmdbId": "1103437",
-          "type": "movie",
-          "duration": "94 min"
-        },
-        {
-          "title": "Trap House",
-          "synopsis": "Un agente de la DEA y su compañero persiguen un peculiar grupo de ladrones: sus propios hijos adolescentes rebeldes, que han empezado a robar a un peligroso cártel, utilizando para ello las tácticas de sus padres y la información de alto secreto.",
-          "rating": 6.63,
-          "year": "2025",
-          "genres": [
-            "Acción",
-            "Crimen",
-            "Suspenso"
-          ],
-          "cast": "Dave Bautista, Jack Champion, Sophia Lillis, Whitney Peak, Bobby Cannavale",
-          "posterUrl": "https://image.tmdb.org/t/p/original/p9zbrDpAKyj3jeemkyAoBmlo3KG.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
-          "slug": "trap-house-628847",
-          "tmdbId": "628847",
-          "type": "movie",
-          "duration": "102 min"
         }
       ]
     },
@@ -436,7 +434,7 @@
         {
           "title": "Masterplan",
           "synopsis": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
-          "rating": 7.03,
+          "rating": 7.06,
           "year": "2026",
           "genres": [
             "Acción",
@@ -469,7 +467,7 @@
         {
           "title": "Solterísima también",
           "synopsis": "Dineo y Noni, dos mejores amigas, tienen pensado salir juntas de fiesta, pero las cosas cambian cuando el novio de Noni le pide matrimonio de improviso.",
-          "rating": 0.5,
+          "rating": 5.25,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -503,7 +501,7 @@
         {
           "title": "Whalefall",
           "synopsis": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-          "rating": 6.6,
+          "rating": 6.5,
           "year": "2026",
           "genres": [
             "Suspenso"
@@ -519,7 +517,7 @@
         {
           "title": "Street Fighter",
           "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-          "rating": 6.3,
+          "rating": 6.22,
           "year": "2026",
           "genres": [
             "Acción",
@@ -527,7 +525,7 @@
           ],
           "cast": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Mel Jarnson",
           "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
           "slug": "street-fighter-1153576",
           "tmdbId": "1153576",
           "type": "movie",
@@ -552,7 +550,7 @@
         {
           "title": "En directo",
           "synopsis": "Una reportera joven y su reticente cámara buscan una historia... y acaban formando parte de una red de extracción ilegal de arena dirigida por una despiadada organización mafiosa.",
-          "rating": 7.4,
+          "rating": 7.07,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -576,169 +574,171 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
-          "title": "Dragon Striker",
-          "synopsis": "Sigue a Key, un granjero de doce años que descubre que puede ser el legendario \"Dragon Striker\", y se une a un equipo de desvalidos para enfrentarse a los campeones de la escuela, mientras lucha por evitar que resurja un antiguo mal.",
-          "rating": 7.9,
+          "title": "Sociedade da Virtude: A Série",
+          "synopsis": "¡Descubre los orígenes de nuestros héroes, que se unen para hacer frente a una terrible amenaza: un multimillonario que, con su megacorporación, intenta conquistar el mundo!",
+          "rating": 7.8,
           "year": "2026",
           "genres": [
             "Animación",
-            "Ciencia ficción",
-            "Fantasía",
-            "Familia",
-            "Acción",
-            "Aventura"
+            "Comedia"
           ],
-          "cast": "Akshay Kumar, Rebecca LaChance, Yeukayi Ushe, Waylon Jacobs, Evanna Lynch",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hoLPJjPfYdEWJXG1y7OCgOeipaF.jpg",
-          "slug": "dragon-striker",
-          "tmdbId": "204135",
+          "cast": "Guilherme Briggs, Maíra Góes, Marcelo Garcia, Antonio Tabet, Renan Freitas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/qeTgTrZQ0xl634nSf2ahDZWzexc.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dxcRZgViVjQsabWEgUi3PQMbtRU.jpg",
+          "slug": "sociedade-da-virtude-a-serie",
+          "tmdbId": "320619",
           "type": "series"
         },
         {
-          "title": "Rafa",
-          "synopsis": "Mientras pelea una última victoria en la pista, Rafa Nadal se sincera como nunca antes sobre cómo consagró una de las carreras más legendarias en la historia del tenis.",
-          "rating": 8.4,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Rafael Nadal, Carlos Moyá, Toni Nadal, Rafael Maymó, Sebastian Nadal",
-          "posterUrl": "https://image.tmdb.org/t/p/original/aYC4t2FwIK3kouPMc7d9CAL49Mp.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/gHPr19knxIUckVn2r11Jjb4WvjM.jpg",
-          "slug": "rafa",
-          "tmdbId": "279884",
-          "type": "series"
-        },
-        {
-          "title": "Todos nuestros años",
-          "synopsis": "Todos nuestros años de Carley Fortune es una historia nostálgica sobre el primer amor y las personas y decisiones que nos marcan para siempre.",
-          "rating": 8.23,
+          "title": "Minami, abogada extraordinaria",
+          "synopsis": "Con una memoria prodigiosa y una perspectiva única, Minami se enfrenta a retos dentro y fuera de los tribunales como abogada novata con trastorno del espectro autista",
+          "rating": 6,
           "year": "2026",
           "genres": [
             "Drama"
           ],
-          "cast": "Sadie Soverall, Matt Cornett, Aurora Perrineau, Abigail Cowen, Michael Bradway",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pnwqkduWZR2wITBtjU4EopeMiCv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/to5eI3AWbT4spz1K58mIK5HQRbD.jpg",
-          "slug": "todos-nuestros-anos",
-          "tmdbId": "260592",
+          "cast": "芦田愛菜, Fumiya Takahashi, 細田佳央太, 久保史緒里, 柿原りんか",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ax4KpZOjZ59hp6IjYNOfJMAYge0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/w7p0SUuixmEyf5a5wVKAgHNkh8e.jpg",
+          "slug": "minami-abogada-extraordinaria",
+          "tmdbId": "332713",
           "type": "series"
         },
         {
-          "title": "Así aprenderás",
-          "synopsis": "Unos inspectores insólitos entran en escena en los colegios, con lecciones duras de las que no aparecen en los libros de texto, para acabar con las reiteradas faltas de respeto.",
-          "rating": 9.35,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "김무열, 이성민, 진기주, 피오",
-          "posterUrl": "https://image.tmdb.org/t/p/original/lG83nWVT7cHl3nSxonaYhOjqyWH.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-          "slug": "asi-aprenderas",
-          "tmdbId": "276161",
-          "type": "series"
-        },
-        {
-          "title": "Tragedia en el Estadio Corregidora",
-          "synopsis": "Parte de los acontecimientos del 5 de marzo de 2022 durante el partido entre Querétaro y Atlas para reconstruir los hechos y profundizar en sus consecuencias, las distintas versiones que surgieron alrededor del caso y las preguntas que, cuatro años después, permanecen abiertas.",
-          "rating": 8.5,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/t0pGitCoIMbo9KVtSoSoBuIqyy1.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7JfkmNgRd8POgIUV7Qi9hfs9wRY.jpg",
-          "slug": "tragedia-en-el-estadio-corregidora",
-          "tmdbId": "337911",
-          "type": "series"
-        },
-        {
-          "title": "Cien años de soledad",
-          "synopsis": "En el atemporal pueblo de Macondo, siete generaciones de la familia Buendía transitan entre el amor, el olvido, un pasado ineludible... y el destino.",
-          "rating": 8.09,
-          "year": "2024",
-          "genres": [
-            "Drama",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Claudio Cataño, Carla Baratta, Maria Adelaida Puerta, Juanita Molina, Laura Taylor",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
-          "slug": "cien-anos-de-soledad",
-          "tmdbId": "207333",
-          "type": "series"
-        },
-        {
-          "title": "Socorro (2026)",
-          "synopsis": "",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/rpB5uM8s95jlWfCVZuhExuSvxCW.jpg",
-          "backdropUrl": null,
-          "slug": "socorro-2026",
-          "tmdbId": "338770",
-          "type": "series"
-        },
-        {
-          "title": "Criminales organizados",
-          "synopsis": "Un mapa mítico cae en manos de un timador legendario que decide llevar a cabo un último golpe antes de dejarlo todo atrás para siempre.",
-          "rating": 6,
+          "title": "Un amor infiltrado",
+          "synopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
+          "rating": 6.33,
           "year": "2026",
           "genres": [
             "Comedia",
+            "Drama",
             "Crimen",
             "Acción",
             "Aventura"
           ],
-          "cast": "Yılmaz Erdoğan, Kıvanç Tatlıtuğ, Ezgi Mola, Bensu Soral, Rıza Kocaoğlu",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
-          "slug": "criminales-organizados",
-          "tmdbId": "320754",
+          "cast": "Yim Si-wan, 설인아, 김정현, 연우, 류승수",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+          "slug": "un-amor-infiltrado",
+          "tmdbId": "303745",
           "type": "series"
         },
         {
-          "title": "Juegos amigos y sexo",
-          "synopsis": "Dos antiguos compañeros de colegio se reencuentran por casualidad, lo que da pie a un juego en el que cuatro parejas intercambian parejas durante una noche.",
+          "title": "Farsante",
+          "synopsis": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
           "rating": 7,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Connie Britton, Sam Nivola, Grace Brennan, Maliq Johnson, Meera Syal",
+          "posterUrl": "https://image.tmdb.org/t/p/original/apCa4rZYNa0sId2cQQ0xSq5h7sM.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/kVf3qP9DHfiW7H9ZzFmE1XrNpJ4.jpg",
+          "slug": "farsante",
+          "tmdbId": "275139",
+          "type": "series"
+        },
+        {
+          "title": "Bailando sobre hielo",
+          "synopsis": "Una exbailarina sobre hielo vuelve a la pista con un nuevo y emocionante compañero mientras aún siente algo por su antigua pareja: su primer amor.",
+          "rating": 7.6,
           "year": "2026",
           "genres": [
             "Drama"
           ],
-          "cast": "Paula Kalenberg, Fridolin Sandmeyer, Salka Weber, Martin Bruchmann, Mona Pirzad",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2XVAJEE6FGUPei4yaFYnMR5TU09.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
-          "slug": "juegos-amigos-y-sexo",
-          "tmdbId": "298550",
+          "cast": "Madelyn Keys, Alice Malakhov, Alexandra Beaton, Harmon Walsh, Cale Ambrozic",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7t6iXlbfoBSfVyINLRHms5kqfze.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3aeYYriPQN7886in9bIGKnbC5eQ.jpg",
+          "slug": "bailando-sobre-hielo",
+          "tmdbId": "281401",
           "type": "series"
         },
         {
-          "title": "De puntillas",
-          "synopsis": "Leo, propietario de un bar en Canal Street, y su vecino Clive, electricista con hijos adolescentes, ven cómo sus vidas se desmoronan en su barrio de Mánchester, donde desacuerdos menores se tornan peligrosos.",
-          "rating": 7,
+          "title": "Los SUPERfrikis",
+          "synopsis": "En esta disparatada comedia de acción, un grupo de vecinos de lo más pintoresco adquieren superpoderes por accidente y luchan contra el mal en plena histeria apocalíptica.",
+          "rating": 8.8,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Comedia",
+            "Ciencia ficción",
+            "Fantasía",
+            "Drama"
+          ],
+          "cast": "Park Eun-Bin, 차은우, 최대훈, 임성재, 김해숙",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zEZuIW4UDU9OHTwN7zMf8BE5tOF.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+          "slug": "los-superfrikis",
+          "tmdbId": "259837",
+          "type": "series"
+        },
+        {
+          "title": "Por cuatro perras",
+          "synopsis": "Zero y la panda apenas pueden con su vida, pero se juntan para salvar a Jabalí, que se ha metido en un buen lío con unos criminales.",
+          "rating": 8.38,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Comedia",
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Valerio Mastandrea",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jvNy5QhlSDf2fVBizcsXTM9TlpH.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/paQMPDcFDbuHT5noXwJsmIflHYN.jpg",
+          "slug": "por-cuatro-perras",
+          "tmdbId": "304597",
+          "type": "series"
+        },
+        {
+          "title": "La trampa",
+          "synopsis": "La exitosa escritora Lisa Konrad no ha salido de casa desde que presenció el asesinato de su hermana Anna, hace casi diez años. Pero al creer ver al asesino en televisión, se propone tenderle una trampa utilizándose a sí misma como cebo.",
+          "rating": 6.55,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Friederike Becht, Hans Löw, Alexander Schubert, Katja Ponickau, Naila Schuberth",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rN6pM9msiS8IZr782o9aWr6WBJO.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+          "slug": "la-trampa",
+          "tmdbId": "283371",
+          "type": "series"
+        },
+        {
+          "title": "100 días de engaño",
+          "synopsis": "La carterista más consumada de Gyeongseong anhela la libertad. Para lograrla, se infiltra en el Gobierno colonial japonés para robar secretos… y se enamora del hijo de su objetivo.",
+          "rating": 8.8,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Drama"
+          ],
+          "cast": "김유정, Jinyoung, 김현주, 이무생, 진선규",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zOSAKuyQfj3HmnvH4HU6GLu9cU8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+          "slug": "100-dias-de-engano",
+          "tmdbId": "293607",
+          "type": "series"
+        },
+        {
+          "title": "Timbiriche",
+          "synopsis": "Timbiriche, un gran fenómeno musical de los 80s que muestra la compleja vida de sus jóvenes: fama, conflictos, adicciones y cambios de integrantes.",
+          "rating": 9,
           "year": "2026",
           "genres": [
             "Drama"
           ],
-          "cast": "Alan Cumming, David Morrissey, Elizabeth Berrington, Pooky Quesnel, Iz Hesketh",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5glbR8QQUMMv3iAAtWvnhtc0yik.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mX5njTGmCl8QGgdoBWiSKmHEy23.jpg",
-          "slug": "de-puntillas",
-          "tmdbId": "286617",
+          "cast": "Jesusa Ochoa, Michelle Pellicer, Sol Wainer, Luis de la Rosa, Sebastián Poza",
+          "posterUrl": "https://image.tmdb.org/t/p/original/tye6G2ACvlVF4jEmVqWaAhucLic.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/4YP7E7UMfkZ3eKtBHpuJXs5XEyw.jpg",
+          "slug": "timbiriche",
+          "tmdbId": "336785",
           "type": "series"
         }
       ]
@@ -749,24 +749,6 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
-          "title": "Criminales organizados",
-          "synopsis": "Un mapa mítico cae en manos de un timador legendario que decide llevar a cabo un último golpe antes de dejarlo todo atrás para siempre.",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Crimen",
-            "Acción",
-            "Aventura"
-          ],
-          "cast": "Yılmaz Erdoğan, Kıvanç Tatlıtuğ, Ezgi Mola, Bensu Soral, Rıza Kocaoğlu",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
-          "slug": "criminales-organizados",
-          "tmdbId": "320754",
-          "type": "series"
-        },
-        {
           "title": "Socorro (2026)",
           "synopsis": "",
           "rating": 6,
@@ -797,6 +779,24 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
           "slug": "juegos-amigos-y-sexo",
           "tmdbId": "298550",
+          "type": "series"
+        },
+        {
+          "title": "Criminales organizados",
+          "synopsis": "Un mapa mítico cae en manos de un timador legendario que decide llevar a cabo un último golpe antes de dejarlo todo atrás para siempre.",
+          "rating": 6,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Crimen",
+            "Acción",
+            "Aventura"
+          ],
+          "cast": "Yılmaz Erdoğan, Kıvanç Tatlıtuğ, Ezgi Mola, Bensu Soral, Rıza Kocaoğlu",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
+          "slug": "criminales-organizados",
+          "tmdbId": "320754",
           "type": "series"
         },
         {
@@ -850,7 +850,7 @@
         {
           "title": "VisionQuest",
           "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-          "rating": 8.78,
+          "rating": 8.8,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
