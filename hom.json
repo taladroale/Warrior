@@ -19,23 +19,6 @@
       "duration": "108 min"
     },
     {
-      "title": "Malas manzanas",
-      "synopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
-      "rating": 6.49,
-      "year": "2026",
-      "genres": [
-        "Comedia",
-        "Suspenso"
-      ],
-      "cast": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola",
-      "posterUrl": "https://image.tmdb.org/t/p/original/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
-      "slug": "bad-apples",
-      "tmdbId": "1198654",
-      "type": "movie",
-      "duration": "100 min"
-    },
-    {
       "title": "Vaiana",
       "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
       "rating": 7.5,
@@ -73,21 +56,21 @@
       "duration": "157 min"
     },
     {
-      "title": "Street Fighter",
-      "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "rating": 6.31,
+      "title": "Malas manzanas",
+      "synopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
+      "rating": 6.69,
       "year": "2026",
       "genres": [
-        "Acción",
-        "Fantasía"
+        "Comedia",
+        "Suspenso"
       ],
-      "cast": "Noah Centineo, Andrew Koji, Callina Liang, David Dastmalchian, Andrew Schulz",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
-      "slug": "street-fighter-1153576",
-      "tmdbId": "1153576",
+      "cast": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola",
+      "posterUrl": "https://image.tmdb.org/t/p/original/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+      "slug": "bad-apples",
+      "tmdbId": "1198654",
       "type": "movie",
-      "duration": "119 min"
+      "duration": "100 min"
     },
     {
       "title": "Spider-Man: Brand New Day",
@@ -106,6 +89,25 @@
       "tmdbId": "969681",
       "type": "movie",
       "duration": "145 min"
+    },
+    {
+      "title": "Por todos los medios",
+      "synopsis": "En el Mississippi de 1966, un joven agente negro del FBI es enviado a investigar una oleada de brutales asesinatos de líderes de los derechos civiles. Obligado a trabajar junto al famoso sicario de la mafia Greg Scarpa, se ve arrastrado a una caza mortal en la que la justicia y la venganza empiezan a confundirse.",
+      "rating": 6.66,
+      "year": "2026",
+      "genres": [
+        "Suspenso",
+        "Historia",
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Yahya Abdul-Mateen II, Mark Wahlberg, Nicole Beharie, Josh Lucas, David Strathairn",
+      "posterUrl": "https://image.tmdb.org/t/p/original/q0uTeO1wUGcAuJYdplTbnrz5bEq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
+      "slug": "a-cualquier-precio-1380417",
+      "tmdbId": "1380417",
+      "type": "movie",
+      "duration": "107 min"
     }
   ],
   "seriesHero": [
@@ -185,7 +187,7 @@
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.7,
+      "rating": 8.78,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -227,7 +229,7 @@
         {
           "title": "Malas manzanas",
           "synopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
-          "rating": 6.49,
+          "rating": 6.69,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -585,6 +587,21 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "WAR",
+          "synopsis": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
+          "rating": 7.4,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Dominic West, Sienna Miller, Phoebe Fox, James McArdle, Nina Sosanya",
+          "posterUrl": "https://image.tmdb.org/t/p/original/df111eu7t3yAcRZLi2LO2dm3dUI.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
+          "slug": "war",
+          "tmdbId": "298852",
+          "type": "series"
+        },
+        {
           "title": "Between steps",
           "synopsis": "Minjae, un antiguo nadador que perdió una pierna debido a una enfermedad, lleva una vida tranquila y controlada mientras estudia un doctorado. Sin embargo, todo cambia cuando conoce a Yujin, una estudiante de máster que intenta empezar de nuevo tras perder el rumbo de su vida. En un laboratorio de robótica, surge entre ellos un romance apasionado, agridulce y lleno de ternura.",
           "rating": 8.9,
@@ -695,8 +712,8 @@
           "type": "series"
         },
         {
-          "title": "The New Stanford Prison Experiment",
-          "synopsis": "In this modern reimagining of the infamous study, 30 people enter a real prison for two weeks and shifting power dynamics expose what they're capable of.",
+          "title": "El experimento de la cárcel de Stanford: Un nuevo enfoque",
+          "synopsis": "Miniserie de TV. 6 episodios. En esta reinterpretación moderna del infame estudio de Stanford, treinta personas ingresan en una cárcel real durante dos semanas, y las cambiantes dinámicas de poder revelan de qué son capaces.",
           "rating": 8,
           "year": "2026",
           "genres": [],
@@ -721,23 +738,6 @@
           "slug": "the-drop-a-snowfall-saga",
           "tmdbId": "304842",
           "type": "series"
-        },
-        {
-          "title": "Slow Horses",
-          "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-          "rating": 8.06,
-          "year": "2022",
-          "genres": [
-            "Crimen",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-          "slug": "slow-horses",
-          "tmdbId": "95480",
-          "type": "series"
         }
       ]
     },
@@ -747,8 +747,8 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
-          "title": "The New Stanford Prison Experiment",
-          "synopsis": "In this modern reimagining of the infamous study, 30 people enter a real prison for two weeks and shifting power dynamics expose what they're capable of.",
+          "title": "El experimento de la cárcel de Stanford: Un nuevo enfoque",
+          "synopsis": "Miniserie de TV. 6 episodios. En esta reinterpretación moderna del infame estudio de Stanford, treinta personas ingresan en una cárcel real durante dos semanas, y las cambiantes dinámicas de poder revelan de qué son capaces.",
           "rating": 8,
           "year": "2026",
           "genres": [],
