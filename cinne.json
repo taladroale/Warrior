@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T15:08:44Z",
+  "updatedAt": "2026-10-23T15:30:01Z",
   "source": "cine",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -7319,6 +7319,7 @@
     "1321439": {"slug": "el-otro-paris"},
     "1321952": {"slug": "tu-sangre"},
     "1322218": {"slug": "mononoke-ii-las-cenizas-de-la-ira"},
+    "1322562": {"slug": "%e5%8a%87%e5%a0%b4%e7%89%88%e3%83%a2%e3%83%8e%e3%83%8e%e6%80%aa-%e7%ac%ac%e4%b8%89%e7%ab%a0-%e8%9b%87%e7%a5%9e"},
     "1322593": {"slug": "sorop"},
     "1323437": {"slug": "brainbugs"},
     "1323475": {"slug": "el-encanto-del-champan"},
