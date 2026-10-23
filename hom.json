@@ -19,6 +19,41 @@
       "duration": "108 min"
     },
     {
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 8.5,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681",
+      "type": "movie",
+      "duration": "145 min"
+    },
+    {
+      "title": "Malas manzanas",
+      "synopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
+      "rating": 6.73,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Suspenso"
+      ],
+      "cast": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola",
+      "posterUrl": "https://image.tmdb.org/t/p/original/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+      "slug": "bad-apples",
+      "tmdbId": "1198654",
+      "type": "movie",
+      "duration": "100 min"
+    },
+    {
       "title": "Vaiana",
       "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
       "rating": 7.5,
@@ -56,58 +91,21 @@
       "duration": "157 min"
     },
     {
-      "title": "Malas manzanas",
-      "synopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
-      "rating": 6.69,
+      "title": "Street Fighter",
+      "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+      "rating": 6.31,
       "year": "2026",
       "genres": [
-        "Comedia",
-        "Suspenso"
-      ],
-      "cast": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola",
-      "posterUrl": "https://image.tmdb.org/t/p/original/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
-      "slug": "bad-apples",
-      "tmdbId": "1198654",
-      "type": "movie",
-      "duration": "100 min"
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.5,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
         "Acción",
-        "Aventura"
+        "Fantasía"
       ],
-      "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681",
+      "cast": "Noah Centineo, Andrew Koji, Callina Liang, David Dastmalchian, Andrew Schulz",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+      "slug": "street-fighter-1153576",
+      "tmdbId": "1153576",
       "type": "movie",
-      "duration": "145 min"
-    },
-    {
-      "title": "Por todos los medios",
-      "synopsis": "En el Mississippi de 1966, un joven agente negro del FBI es enviado a investigar una oleada de brutales asesinatos de líderes de los derechos civiles. Obligado a trabajar junto al famoso sicario de la mafia Greg Scarpa, se ve arrastrado a una caza mortal en la que la justicia y la venganza empiezan a confundirse.",
-      "rating": 6.66,
-      "year": "2026",
-      "genres": [
-        "Suspenso",
-        "Historia",
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Yahya Abdul-Mateen II, Mark Wahlberg, Nicole Beharie, Josh Lucas, David Strathairn",
-      "posterUrl": "https://image.tmdb.org/t/p/original/q0uTeO1wUGcAuJYdplTbnrz5bEq.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/1jANqIbqrWJZb8GM5Kb3L6U8iHi.jpg",
-      "slug": "a-cualquier-precio-1380417",
-      "tmdbId": "1380417",
-      "type": "movie",
-      "duration": "107 min"
+      "duration": "119 min"
     }
   ],
   "seriesHero": [
@@ -126,6 +124,23 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
       "slug": "los-diarios-de-la-boticaria",
       "tmdbId": "220542",
+      "type": "series"
+    },
+    {
+      "title": "Lupin",
+      "synopsis": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
+      "rating": 7.7,
+      "year": "2021",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Omar Sy",
+      "posterUrl": "https://image.tmdb.org/t/p/original/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "slug": "lupin",
+      "tmdbId": "96677",
       "type": "series"
     },
     {
@@ -185,38 +200,19 @@
       "type": "series"
     },
     {
-      "title": "VisionQuest",
-      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.78,
-      "year": "2026",
+      "title": "Nadie quiere esto",
+      "synopsis": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
+      "rating": 7.3,
+      "year": "2024",
       "genres": [
-        "Ciencia ficción",
-        "Fantasía",
+        "Comedia",
         "Drama"
       ],
-      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "slug": "visionquest",
-      "tmdbId": "213375",
-      "type": "series"
-    },
-    {
-      "title": "Carrie",
-      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "rating": 8.3,
-      "year": "2026",
-      "genres": [
-        "Misterio",
-        "Drama",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "slug": "carrie",
-      "tmdbId": "288673",
+      "cast": "Kristen Bell, Adam Brody, Justine Lupe, Timothy Simons",
+      "posterUrl": "https://image.tmdb.org/t/p/original/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/q8BwtVM3t0SOtB1nZsXpOKZp8IM.jpg",
+      "slug": "nadie-quiere-esto",
+      "tmdbId": "250923",
       "type": "series"
     }
   ],
@@ -229,7 +225,7 @@
         {
           "title": "Malas manzanas",
           "synopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
-          "rating": 6.69,
+          "rating": 6.73,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -587,6 +583,55 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Tierra de mafiosos",
+          "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+          "rating": 8.54,
+          "year": "2025",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+          "slug": "mobland",
+          "tmdbId": "247718",
+          "type": "series"
+        },
+        {
+          "title": "Materia oscura",
+          "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+          "rating": 7.82,
+          "year": "2024",
+          "genres": [
+            "Ciencia ficción",
+            "Fantasía",
+            "Drama"
+          ],
+          "cast": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson, Dayo Okeniyi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+          "slug": "materia-oscura",
+          "tmdbId": "196322",
+          "type": "series"
+        },
+        {
+          "title": "Verdades ocultas",
+          "synopsis": "Un librero en Tulsa (Arizona) se convierte en periodista de investigación para destapar la corrupción local. Cuando sus pesquisas dan con conexiones siniestras, tendrá que proteger tanto a su familia como a la verdad.",
+          "rating": 6.8,
+          "year": "2025",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Ethan Hawke, JD McPherson, Ethan Hawke",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jgfHT7oLJtBDlRABiTTEp2AEret.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
+          "slug": "the-lowdown",
+          "tmdbId": "273247",
+          "type": "series"
+        },
+        {
           "title": "WAR",
           "synopsis": "Una serie antológica ambientada en el elitista mundo de la abogacía londinense que sigue a dos bufetes rivales, Cathcarts y Taylor & Byrne, mientras se enfrentan en una batalla legal diferente que acapara titulares cada temporada.",
           "rating": 7.4,
@@ -599,6 +644,41 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
           "slug": "war",
           "tmdbId": "298852",
+          "type": "series"
+        },
+        {
+          "title": "Doctor X Mafia in White",
+          "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
+          "rating": 9.4,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+          "slug": "doctor-x-mafia-in-white",
+          "tmdbId": "293610",
+          "type": "series"
+        },
+        {
+          "title": "American Horror Story",
+          "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+          "rating": 8.08,
+          "year": "2011",
+          "genres": [
+            "Drama",
+            "Misterio",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+          "slug": "american-horror-story",
+          "tmdbId": "1413",
           "type": "series"
         },
         {
@@ -620,12 +700,12 @@
         {
           "title": "Las Kardashian",
           "synopsis": "La familia a la que tanto conoces y adoras vuelve con una nueva serie dando acceso pleno a toda su vida. Kris, Kourtney, Kim, Khloé, Kendall y Kylie se exponen ante las cámaras para revelar los secretos que hay tras los titulares. Desde la enorme presión de dirigir negocios multimillonarios hasta los divertidos momentos llenos de juegos y abandono escolar. Esta serie no dejará a ningún espectador indiferente con esta fascinante y honesta historia de amor y vida ante los focos.",
-          "rating": 8.47,
+          "rating": 8.5,
           "year": "2022",
           "genres": [],
           "cast": "Kourtney Kardashian Barker, Kim Kardashian, Khloé Kardashian, Kendall Jenner, Kylie Jenner",
           "posterUrl": "https://image.tmdb.org/t/p/original/bBASCWaCKj5jdzNoXIFCSb4zEDj.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/oYC4X9DEhX1B0FrQZv0dEwOKxnH.jpg",
           "slug": "las-kardashian",
           "tmdbId": "154521",
           "type": "series"
@@ -649,7 +729,7 @@
         {
           "title": "Los Hilos del Miedo",
           "synopsis": "Los Hilos del Miedo es una miniserie de suspense psicológico que convierte situaciones cotidianas en experiencias inquietantes y perturbadoras. A través de ocho episodios, explora cómo el miedo puede surgir en los lugares más inesperados, transformando lo familiar en una auténtica pesadilla.",
-          "rating": 0,
+          "rating": 10,
           "year": "2026",
           "genres": [
             "Misterio"
@@ -659,84 +739,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/kGagOgOWpsxvbNezuGDtNKZoeSh.jpg",
           "slug": "los-hilos-del-miedo",
           "tmdbId": "329665",
-          "type": "series"
-        },
-        {
-          "title": "LA LISTA FINAL",
-          "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-          "rating": 8,
-          "year": "2022",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Drama"
-          ],
-          "cast": "Chris Pratt, Wanda Ndlovu, Jared Shaw, Chris Pratt",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
-          "slug": "la-lista-final",
-          "tmdbId": "120911",
-          "type": "series"
-        },
-        {
-          "title": "Verdades ocultas",
-          "synopsis": "Un librero en Tulsa (Arizona) se convierte en periodista de investigación para destapar la corrupción local. Cuando sus pesquisas dan con conexiones siniestras, tendrá que proteger tanto a su familia como a la verdad.",
-          "rating": 6.8,
-          "year": "2025",
-          "genres": [
-            "Crimen",
-            "Drama"
-          ],
-          "cast": "Ethan Hawke, JD McPherson, Ethan Hawke",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jgfHT7oLJtBDlRABiTTEp2AEret.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
-          "slug": "the-lowdown",
-          "tmdbId": "273247",
-          "type": "series"
-        },
-        {
-          "title": "Pequeños profetas",
-          "synopsis": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Pearce Quigley, Michael Palin, Lauren Patel, Mackenzie Crook, Shola Adewusi",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
-          "slug": "pequenos-profetas",
-          "tmdbId": "312693",
-          "type": "series"
-        },
-        {
-          "title": "El experimento de la cárcel de Stanford: Un nuevo enfoque",
-          "synopsis": "Miniserie de TV. 6 episodios. En esta reinterpretación moderna del infame estudio de Stanford, treinta personas ingresan en una cárcel real durante dos semanas, y las cambiantes dinámicas de poder revelan de qué son capaces.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/heoESrHAdmPeYECs2B7R8RIqLyN.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/zdKp0ycLliNrN1PZHaluN3v24GH.jpg",
-          "slug": "the-new-stanford-prison-experiment",
-          "tmdbId": "335319",
-          "type": "series"
-        },
-        {
-          "title": "The Drop: Una historia de Snowfall",
-          "synopsis": "A medida que Los Ángeles pasaba del crack al rap en la década de los noventa, los territorios de las bandas controlados por los Bloods y los Crips se convirtieron en el epicentro de una escena musical emergente en South Central.",
-          "rating": 8.1,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Gail Bean, Isaiah John, Asante Blackk, Peyton Alex Smith, Simmie Sims III",
-          "posterUrl": "https://image.tmdb.org/t/p/original/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
-          "slug": "the-drop-a-snowfall-saga",
-          "tmdbId": "304842",
           "type": "series"
         }
       ]
