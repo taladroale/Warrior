@@ -37,42 +37,6 @@
       "duration": "145 min"
     },
     {
-      "title": "Malas manzanas",
-      "synopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
-      "rating": 6.73,
-      "year": "2026",
-      "genres": [
-        "Comedia",
-        "Suspenso"
-      ],
-      "cast": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola",
-      "posterUrl": "https://image.tmdb.org/t/p/original/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
-      "slug": "bad-apples",
-      "tmdbId": "1198654",
-      "type": "movie",
-      "duration": "100 min"
-    },
-    {
-      "title": "Vaiana",
-      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
-      "rating": 7.5,
-      "year": "2026",
-      "genres": [
-        "Familia",
-        "Fantasía",
-        "Comedia",
-        "Aventura"
-      ],
-      "cast": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "slug": "vaiana-1108427",
-      "tmdbId": "1108427",
-      "type": "movie",
-      "duration": "115 min"
-    },
-    {
       "title": "Hope",
       "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
       "rating": 6.9,
@@ -91,41 +55,58 @@
       "duration": "157 min"
     },
     {
-      "title": "Street Fighter",
-      "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "rating": 6.31,
+      "title": "Masterplan",
+      "synopsis": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
+      "rating": 6.95,
       "year": "2026",
       "genres": [
         "Acción",
-        "Fantasía"
+        "Suspenso"
       ],
-      "cast": "Noah Centineo, Andrew Koji, Callina Liang, David Dastmalchian, Andrew Schulz",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
-      "slug": "street-fighter-1153576",
-      "tmdbId": "1153576",
+      "cast": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Barbara Lo Gaglio",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+      "slug": "masterplan",
+      "tmdbId": "1561726",
       "type": "movie",
-      "duration": "119 min"
+      "duration": "110 min"
+    },
+    {
+      "title": "Malas manzanas",
+      "synopsis": "Una maestra de primaria con dificultades empieza a tomar decisiones cuestionables después de que uno de sus alumnos resulta herido.",
+      "rating": 6.73,
+      "year": "2026",
+      "genres": [
+        "Comedia",
+        "Suspenso"
+      ],
+      "cast": "Saoirse Ronan, Eddie Waller, Nia Brown, Jacob Anderson, Rakie Ayola",
+      "posterUrl": "https://image.tmdb.org/t/p/original/kFQaT7NuZvLx7hFmPhigaTedOOB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg",
+      "slug": "bad-apples",
+      "tmdbId": "1198654",
+      "type": "movie",
+      "duration": "100 min"
+    },
+    {
+      "title": "La bola negra",
+      "synopsis": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "rating": 8.3,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "cast": "Miguel Bernardeau, Carlos González, Milo Quifes, Lola Dueñas, Penélope Cruz",
+      "posterUrl": "https://image.tmdb.org/t/p/original/dbpyc3Zo0m4E15XcQ7tTwlLBEtE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "slug": "la-bola-negra",
+      "tmdbId": "1422041",
+      "type": "movie",
+      "duration": "155 min"
     }
   ],
   "seriesHero": [
-    {
-      "title": "Los diarios de la boticaria",
-      "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
-      "rating": 8.84,
-      "year": "2023",
-      "genres": [
-        "Animación",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Aoi Yuki, Takeo Otsuka, Katsuyuki Konishi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
-      "slug": "los-diarios-de-la-boticaria",
-      "tmdbId": "220542",
-      "type": "series"
-    },
     {
       "title": "Lupin",
       "synopsis": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
@@ -141,6 +122,23 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
       "slug": "lupin",
       "tmdbId": "96677",
+      "type": "series"
+    },
+    {
+      "title": "Los diarios de la boticaria",
+      "synopsis": "Maomao llevaba una vida tranquila ayudando a su padre, un boticario. Todo cambia el día que la venden como sirvienta al palacio del emperador, pero la vida entre nobles y realeza no es para ella. Cuando la familia imperial enferma, ella decide intervenir para encontrar una cura, lo que llama la atención de Jinshi, un guapo oficial de palacio que decide ascenderla como dama de compañía de una de las concubinas del emperador. ¡Su habilidad con la medicina la hará conocida en el palacio por ayudar a resolver muchos misterios!",
+      "rating": 8.84,
+      "year": "2023",
+      "genres": [
+        "Animación",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Aoi Yuki, Takeo Otsuka, Katsuyuki Konishi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sUep3kEPjvXp3VKAfNikpzBZmzw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
+      "slug": "los-diarios-de-la-boticaria",
+      "tmdbId": "220542",
       "type": "series"
     },
     {
@@ -200,19 +198,19 @@
       "type": "series"
     },
     {
-      "title": "Nadie quiere esto",
-      "synopsis": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
-      "rating": 7.3,
-      "year": "2024",
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.54,
+      "year": "2025",
       "genres": [
-        "Comedia",
+        "Crimen",
         "Drama"
       ],
-      "cast": "Kristen Bell, Adam Brody, Justine Lupe, Timothy Simons",
-      "posterUrl": "https://image.tmdb.org/t/p/original/kiMhxXmkmqtpeY9jB8il3KajrDu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/q8BwtVM3t0SOtB1nZsXpOKZp8IM.jpg",
-      "slug": "nadie-quiere-esto",
-      "tmdbId": "250923",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     }
   ],
@@ -407,6 +405,23 @@
       "seeMoreSlug": "estrenos",
       "items": [
         {
+          "title": "Klara y el Sol",
+          "synopsis": "Una niña robot, creada con el propósito de prevenir la soledad, se propone salvar a una familia de humanos con el corazón roto.",
+          "rating": 6.2,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Drama"
+          ],
+          "cast": "Jenna Ortega, Mia Tharia, Amy Adams, Natasha Lyonne, Aran Murphy",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5bHjVU75RMNAbfYRZidFwuDjniD.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/s4E7NDJCOG3wqc5psv2RLr9QfUm.jpg",
+          "slug": "klara-y-el-sol",
+          "tmdbId": "858035",
+          "type": "movie",
+          "duration": "116 min"
+        },
+        {
           "title": "Clayface",
           "synopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
           "rating": 7.32,
@@ -438,6 +453,23 @@
           "slug": "ayahuasca-haunting-the-vine-of-souls",
           "tmdbId": "1800824",
           "type": "movie"
+        },
+        {
+          "title": "Masterplan",
+          "synopsis": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
+          "rating": 6.95,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Suspenso"
+          ],
+          "cast": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Barbara Lo Gaglio",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+          "slug": "masterplan",
+          "tmdbId": "1561726",
+          "type": "movie",
+          "duration": "110 min"
         },
         {
           "title": "Solterísima también",
@@ -490,23 +522,6 @@
           "duration": "84 min"
         },
         {
-          "title": "Masterplan",
-          "synopsis": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
-          "rating": 6.95,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Suspenso"
-          ],
-          "cast": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Barbara Lo Gaglio",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
-          "slug": "masterplan",
-          "tmdbId": "1561726",
-          "type": "movie",
-          "duration": "110 min"
-        },
-        {
           "title": "La tormenta",
           "synopsis": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
           "rating": 6.34,
@@ -555,22 +570,6 @@
           "tmdbId": "1153576",
           "type": "movie",
           "duration": "119 min"
-        },
-        {
-          "title": "Clown Panic",
-          "synopsis": "En 2016, niños de Carolina del Sur vieron payasos en el bosque. Los informes se extendieron por todo Estados Unidos, causando bloqueos y sondeos. Utilizando contenido de archivo y entrevistas, examina cómo el miedo y las redes sociales transformaron un extraño mito en histeria.",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/51M331d6lEMidnZlAEbTKox5ih4.jpg",
-          "slug": "clown-panic",
-          "tmdbId": "1776531",
-          "type": "movie",
-          "duration": "84 min"
         }
       ]
     }
@@ -581,6 +580,56 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Avatar: Los Siete Refugios",
+          "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
+          "rating": 9.15,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Acción",
+            "Aventura",
+            "Ciencia ficción",
+            "Fantasía",
+            "Familia"
+          ],
+          "cast": "Saheli Khan, Aishwarya 'Aishu' Devan, Major Curda, Akshay Khanna, Sakina Jaffrey",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7B8LtDGwnGcfAtboneaKj7f3PSH.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
+          "slug": "avatar-los-siete-refugios",
+          "tmdbId": "284833",
+          "type": "series"
+        },
+        {
+          "title": "Relatos de la noche: Brujas",
+          "synopsis": "Cuatro episodios exclusivos sobre leyendas de brujas de México, contados por Uriel Reyes, creador del podcast Relatos de la Noche.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/whS6DZ1Ph0fAMAeskecQsLxzek8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/u0JTZBRuOAZCl40ABVOkWbd5ype.jpg",
+          "slug": "relatos-de-la-noche-brujas",
+          "tmdbId": "339525",
+          "type": "series"
+        },
+        {
+          "title": "Tulsa King",
+          "synopsis": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
+          "rating": 8.3,
+          "year": "2022",
+          "genres": [
+            "Crimen",
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Sylvester Stallone, Martin Starr, Jay Will, Vincent Piazza, Annabella Sciorra",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+          "slug": "tulsa-king",
+          "tmdbId": "153312",
+          "type": "series"
+        },
         {
           "title": "Nadie quiere esto",
           "synopsis": "Una agnóstica podcastera sobre sexo y un rabino recién separado se enamoran, pero ¿sobrevivirá su relación a unas vidas tan radicalmente opuestas y a sus entrometidas familias?",
@@ -694,51 +743,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
           "slug": "american-horror-story",
           "tmdbId": "1413",
-          "type": "series"
-        },
-        {
-          "title": "Between steps",
-          "synopsis": "Minjae, un antiguo nadador que perdió una pierna debido a una enfermedad, lleva una vida tranquila y controlada mientras estudia un doctorado. Sin embargo, todo cambia cuando conoce a Yujin, una estudiante de máster que intenta empezar de nuevo tras perder el rumbo de su vida. En un laboratorio de robótica, surge entre ellos un romance apasionado, agridulce y lleno de ternura.",
-          "rating": 8.9,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Choo Young-woo, 김소현",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vyrpZOFIZJkQG8ZWTezmlNGav8R.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
-          "slug": "between-steps",
-          "tmdbId": "307106",
-          "type": "series"
-        },
-        {
-          "title": "Las Kardashian",
-          "synopsis": "La familia a la que tanto conoces y adoras vuelve con una nueva serie dando acceso pleno a toda su vida. Kris, Kourtney, Kim, Khloé, Kendall y Kylie se exponen ante las cámaras para revelar los secretos que hay tras los titulares. Desde la enorme presión de dirigir negocios multimillonarios hasta los divertidos momentos llenos de juegos y abandono escolar. Esta serie no dejará a ningún espectador indiferente con esta fascinante y honesta historia de amor y vida ante los focos.",
-          "rating": 8.5,
-          "year": "2022",
-          "genres": [],
-          "cast": "Kourtney Kardashian Barker, Kim Kardashian, Khloé Kardashian, Kendall Jenner, Kylie Jenner",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bBASCWaCKj5jdzNoXIFCSb4zEDj.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/oYC4X9DEhX1B0FrQZv0dEwOKxnH.jpg",
-          "slug": "las-kardashian",
-          "tmdbId": "154521",
-          "type": "series"
-        },
-        {
-          "title": "Rompiendo el hielo",
-          "synopsis": "A Koyuki le cuesta relacionarse y le parece bien pasar sus años de instituto sola... hasta que aparece Minato, que se empeña en derretir su muro de hielo.",
-          "rating": 8.7,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Drama"
-          ],
-          "cast": "Anna Nagase, Fuka Izumi, Shoya Chiba, Satoshi Inomata",
-          "posterUrl": "https://image.tmdb.org/t/p/original/n2DMlpO3DPqSmW1r8atuhcIgl7A.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
-          "slug": "rompiendo-el-hielo",
-          "tmdbId": "283428",
           "type": "series"
         }
       ]
