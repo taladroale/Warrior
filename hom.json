@@ -19,23 +19,6 @@
       "duration": "108 min"
     },
     {
-      "title": "Noche fatídica",
-      "synopsis": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
-      "rating": 0.5,
-      "year": "2026",
-      "genres": [
-        "Suspenso",
-        "Crimen"
-      ],
-      "cast": "मनोज बाजपेयी, Divya Dutta, Nushrratt Bharuccha, Saqib Saleem, Kiku Sharda",
-      "posterUrl": "https://image.tmdb.org/t/p/original/un3NZLu9lMneHtRlzdaMonF7qHY.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/cdcW8GeAyBLPVBhTbOoTlBywNtp.jpg",
-      "slug": "noche-fatidica",
-      "tmdbId": "1453407",
-      "type": "movie",
-      "duration": "124 min"
-    },
-    {
       "title": "La bola negra",
       "synopsis": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
       "rating": 8.2,
@@ -51,24 +34,6 @@
       "tmdbId": "1422041",
       "type": "movie",
       "duration": "155 min"
-    },
-    {
-      "title": "La Oveja Shaun: Misión Calabaza",
-      "synopsis": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
-      "rating": 7.4,
-      "year": "2026",
-      "genres": [
-        "Animación",
-        "Ciencia ficción",
-        "Comedia"
-      ],
-      "cast": "Justin Fletcher, John Sparkes, Nina Sosanya, Kate Harbour, Rich Webber",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-      "slug": "la-oveja-shaun-mision-calabaza",
-      "tmdbId": "1477104",
-      "type": "movie",
-      "duration": "81 min"
     },
     {
       "title": "Hope",
@@ -105,6 +70,41 @@
       "tmdbId": "969681",
       "type": "movie",
       "duration": "145 min"
+    },
+    {
+      "title": "Noche fatídica",
+      "synopsis": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
+      "rating": 0.5,
+      "year": "2026",
+      "genres": [
+        "Suspenso",
+        "Crimen"
+      ],
+      "cast": "मनोज बाजपेयी, Divya Dutta, Nushrratt Bharuccha, Saqib Saleem, Kiku Sharda",
+      "posterUrl": "https://image.tmdb.org/t/p/original/un3NZLu9lMneHtRlzdaMonF7qHY.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/cdcW8GeAyBLPVBhTbOoTlBywNtp.jpg",
+      "slug": "noche-fatidica",
+      "tmdbId": "1453407",
+      "type": "movie",
+      "duration": "124 min"
+    },
+    {
+      "title": "La Oveja Shaun: Misión Calabaza",
+      "synopsis": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
+      "rating": 7.4,
+      "year": "2026",
+      "genres": [
+        "Animación",
+        "Ciencia ficción",
+        "Comedia"
+      ],
+      "cast": "Justin Fletcher, John Sparkes, Nina Sosanya, Kate Harbour, Rich Webber",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "slug": "la-oveja-shaun-mision-calabaza",
+      "tmdbId": "1477104",
+      "type": "movie",
+      "duration": "81 min"
     }
   ],
   "seriesHero": [
@@ -126,6 +126,23 @@
       "type": "series"
     },
     {
+      "title": "Slow Horses",
+      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "rating": 8.1,
+      "year": "2022",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
+      "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "slug": "slow-horses",
+      "tmdbId": "95480",
+      "type": "series"
+    },
+    {
       "title": "LA LISTA FINAL",
       "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
       "rating": 8,
@@ -140,41 +157,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
       "slug": "la-lista-final",
       "tmdbId": "120911",
-      "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.54,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
-    {
-      "title": "Cyberpunk: Edgerunners",
-      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
-      "rating": 8.56,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
-      "slug": "cyberpunk-edgerunners",
-      "tmdbId": "105248",
       "type": "series"
     },
     {
@@ -198,19 +180,40 @@
       "type": "series"
     },
     {
-      "title": "Grande de España",
-      "synopsis": "Don Leandro, un marqués arruinado que vive de las apariencias y sueña con ser nombrado Grande de España, ve una única salida a su desastre económico: vender su decadente palacete familiar en Madrid. La ocasión perfecta parece presentarse cuando la riquísima empresaria Sofía Carrington se interesa por la propiedad. Pero, a medida que avanzan las negociaciones - y las seducciones - queda claro que ​n​o son quienes aparentan ser.",
-      "rating": 0,
+      "title": "Cyberpunk: Edgerunners",
+      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
+      "rating": 8.56,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
+      "slug": "cyberpunk-edgerunners",
+      "tmdbId": "105248",
+      "type": "series"
+    },
+    {
+      "title": "Carrie",
+      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+      "rating": 8.3,
       "year": "2026",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Misterio",
+        "Drama",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Antonio de la Torre, Alexandra Jiménez, Enric Benavent, Fernando Andina, Mercedes Sampietro",
-      "posterUrl": "https://image.tmdb.org/t/p/original/jhjVQtqQgSYjv91IoYWyZvMoqZF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
-      "slug": "grande-de-espana",
-      "tmdbId": "335535",
+      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "slug": "carrie",
+      "tmdbId": "288673",
       "type": "series"
     }
   ],
@@ -220,6 +223,42 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Magallanes",
+          "synopsis": "Magallanes presenta la colonización de Filipinas como un encuentro primigenio e impactante con lo desconocido y una reinterpretación radical de las narrativas europeas de descubrimiento y exploración.",
+          "rating": 6.3,
+          "year": "2025",
+          "genres": [
+            "Historia",
+            "Aventura",
+            "Drama"
+          ],
+          "cast": "Gael García Bernal, Amado Arjay Babon, Ronnie Lazaro, Ângela Ramos, Dario Yazbek Bernal",
+          "posterUrl": "https://image.tmdb.org/t/p/original/foN8ncD7QNAQcP7eCE2NyNcfIzB.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8nv5MUtEBMX4DDkrFkDhkppRxuD.jpg",
+          "slug": "magallanes",
+          "tmdbId": "975335",
+          "type": "movie",
+          "duration": "164 min"
+        },
+        {
+          "title": "Hot Wheels ¡A correr!: El ataque del T-Rex",
+          "synopsis": "Cuando un gigantesco tiranosaurio amenaza la ciudad de Hot Wheels, Coop y sus amigos deben correr contrarreloj para rescatar a sus habitantes y salvar el día.",
+          "rating": 6.4,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Familia",
+            "Acción"
+          ],
+          "cast": "Carter Burney, Amari McCoy, Josh Keaton, Risa Mei, Griffen Campbell",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7U9AeL58qz0Rx3w4ywCRCuiId5D.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dK69ml1Y34MrEovK4ZyizRiWbEH.jpg",
+          "slug": "hot-wheels-a-correr-el-ataque-del-t-rex",
+          "tmdbId": "1802674",
+          "type": "movie",
+          "duration": "47 min"
+        },
         {
           "title": "La Oveja Shaun: Misión Calabaza",
           "synopsis": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
@@ -356,40 +395,6 @@
           "tmdbId": "1480613",
           "type": "movie",
           "duration": "75 min"
-        },
-        {
-          "title": "Klara y el Sol",
-          "synopsis": "Una niña robot, creada con el propósito de prevenir la soledad, se propone salvar a una familia de humanos con el corazón roto.",
-          "rating": 6.07,
-          "year": "2026",
-          "genres": [
-            "Ciencia ficción",
-            "Drama"
-          ],
-          "cast": "Jenna Ortega, Mia Tharia, Amy Adams, Natasha Lyonne, Aran Murphy",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5bHjVU75RMNAbfYRZidFwuDjniD.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/s4E7NDJCOG3wqc5psv2RLr9QfUm.jpg",
-          "slug": "klara-y-el-sol",
-          "tmdbId": "858035",
-          "type": "movie",
-          "duration": "116 min"
-        },
-        {
-          "title": "Papi Ricky: La Película",
-          "synopsis": "Alicia returns to Chile to introduce her future husband, an eccentric young Spanish hipster who embodies modernity. His arrival causes a family upheaval, and the clash with the conservative Papi Ricky and the irreverent Catrala leads both parents to put aside their old differences and unite around a common goal: stopping their daughter’s wedding.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Romance"
-          ],
-          "cast": "Belén Soto, Jorge Zabaleta, María Elena Swett, Marc Bonnin, Matías Assler",
-          "posterUrl": "https://image.tmdb.org/t/p/original/y0EhzwaNnpMezpIDNoBcRCoAhMN.jpg",
-          "backdropUrl": null,
-          "slug": "papi-ricky-la-pelicula",
-          "tmdbId": "1752312",
-          "type": "movie",
-          "duration": "93 min"
         }
       ]
     },
@@ -398,6 +403,23 @@
       "type": "movie",
       "seeMoreSlug": "estrenos",
       "items": [
+        {
+          "title": "BTS: el regreso",
+          "synopsis": "¡Han vuelto! En este documental que sigue al grupo en su nueva etapa, BTS se reúne en Los Ángeles para grabar su álbum 'ARIRANG'.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Documental",
+            "Música"
+          ],
+          "cast": "알엠, 진, 슈가, 제이홉, 지민",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9IRXB8YV0Fn9Yu6Izx7vGjlSrKw.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/w4jOh7ok6JvsYu6WbuSDW97D7D6.jpg",
+          "slug": "bts-el-regreso-documental",
+          "tmdbId": "1628116",
+          "type": "movie",
+          "duration": "93 min"
+        },
         {
           "title": "Noche fatídica",
           "synopsis": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
@@ -484,21 +506,21 @@
           "type": "movie"
         },
         {
-          "title": "Masterplan",
-          "synopsis": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
-          "rating": 7,
+          "title": "Solterísima también",
+          "synopsis": "Dineo y Noni, dos mejores amigas, tienen pensado salir juntas de fiesta, pero las cosas cambian cuando el novio de Noni le pide matrimonio de improviso.",
+          "rating": 5.5,
           "year": "2026",
           "genres": [
-            "Acción",
-            "Suspenso"
+            "Comedia",
+            "Romance"
           ],
-          "cast": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Barbara Lo Gaglio",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
-          "slug": "masterplan",
-          "tmdbId": "1561726",
+          "cast": "Fulu Modibedi, Tumi Morake, Buntu Petse, Keke Mphuthi, Yonda Thomas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xj9zvjuyt5MEhxjnbQbNCZDHR2l.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vVVTDymwLVogjz4JxoNv1BAfYCH.jpg",
+          "slug": "solterisima-tambien",
+          "tmdbId": "1773759",
           "type": "movie",
-          "duration": "110 min"
+          "duration": "99 min"
         },
         {
           "title": "Lego Friends: Heartlake el musical",
@@ -534,38 +556,21 @@
           "duration": "84 min"
         },
         {
-          "title": "Solterísima también",
-          "synopsis": "Dineo y Noni, dos mejores amigas, tienen pensado salir juntas de fiesta, pero las cosas cambian cuando el novio de Noni le pide matrimonio de improviso.",
-          "rating": 5.5,
+          "title": "Masterplan",
+          "synopsis": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
+          "rating": 7,
           "year": "2026",
           "genres": [
-            "Comedia",
-            "Romance"
+            "Acción",
+            "Suspenso"
           ],
-          "cast": "Fulu Modibedi, Tumi Morake, Buntu Petse, Keke Mphuthi, Yonda Thomas",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xj9zvjuyt5MEhxjnbQbNCZDHR2l.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/vVVTDymwLVogjz4JxoNv1BAfYCH.jpg",
-          "slug": "solterisima-tambien",
-          "tmdbId": "1773759",
+          "cast": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Barbara Lo Gaglio",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+          "slug": "masterplan",
+          "tmdbId": "1561726",
           "type": "movie",
-          "duration": "99 min"
-        },
-        {
-          "title": "La tormenta",
-          "synopsis": "Filip celebra sus 45 años invitando a su círculo de amigos a cenar en la lujosa finca que acaba de comprar junto a su mujer, situada en el norte de Suecia. Allí se desata una tormenta feroz e inesperada que deja a los invitados completamente atrapados en el interior.",
-          "rating": 6.36,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Gustaf Skarsgård, Aliette Opheim, Filip Berg, Josephine Bornebusch, Jonas Karlsson",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7hzCmg7a8nb2K3VQtm36E1YehnH.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
-          "slug": "la-tormenta",
-          "tmdbId": "1623256",
-          "type": "movie",
-          "duration": "101 min"
+          "duration": "110 min"
         }
       ]
     }
