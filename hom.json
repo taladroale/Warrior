@@ -143,20 +143,22 @@
       "type": "series"
     },
     {
-      "title": "LA LISTA FINAL",
-      "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "rating": 8,
+      "title": "Cyberpunk: Edgerunners",
+      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
+      "rating": 8.56,
       "year": "2022",
       "genres": [
         "Acción",
         "Aventura",
-        "Drama"
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Chris Pratt, Wanda Ndlovu, Jared Shaw, Chris Pratt",
-      "posterUrl": "https://image.tmdb.org/t/p/original/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
-      "slug": "la-lista-final",
-      "tmdbId": "120911",
+      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
+      "slug": "cyberpunk-edgerunners",
+      "tmdbId": "105248",
       "type": "series"
     },
     {
@@ -180,40 +182,39 @@
       "type": "series"
     },
     {
-      "title": "Cyberpunk: Edgerunners",
-      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
-      "rating": 8.56,
+      "title": "LA LISTA FINAL",
+      "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "rating": 8,
       "year": "2022",
       "genres": [
         "Acción",
         "Aventura",
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía"
+        "Drama"
       ],
-      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
-      "slug": "cyberpunk-edgerunners",
-      "tmdbId": "105248",
+      "cast": "Chris Pratt, Wanda Ndlovu, Jared Shaw, Chris Pratt",
+      "posterUrl": "https://image.tmdb.org/t/p/original/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+      "slug": "la-lista-final",
+      "tmdbId": "120911",
       "type": "series"
     },
     {
-      "title": "Carrie",
-      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "rating": 8.3,
-      "year": "2026",
+      "title": "Black Clover",
+      "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
+      "rating": 8.49,
+      "year": "2017",
       "genres": [
-        "Misterio",
-        "Drama",
+        "Animación",
+        "Acción",
+        "Aventura",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "slug": "carrie",
-      "tmdbId": "288673",
+      "cast": "Gakuto Kajiwara, Nobunaga Shimazaki, Kana Yuuki, Junichi Suwabe, Genki Muro",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
+      "slug": "black-clover",
+      "tmdbId": "73223",
       "type": "series"
     }
   ],
@@ -582,6 +583,21 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Outlander: Sangre de mi sangre",
+          "synopsis": "Desde los campos de batalla de la Primera Guerra Mundial hasta las escarpadas Tierras Altas de la Escocia del siglo XVIII, dos parejas predestinadas deben desafiar las fuerzas que buscan separarlas, desarrollándose de maneras sorprendentes e imprevistas en esta saga romántica que se desarrolla a través del tiempo.",
+          "rating": 8.72,
+          "year": "2025",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Harriet Slater, Jamie Roy, Hermione Corfield, Jeremy Irvine, Tony Curran",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2vEp7mniHlKcK6LKJxCu4hOr56V.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
+          "slug": "outlander-sangre-de-mi-sangre",
+          "tmdbId": "207484",
+          "type": "series"
+        },
+        {
           "title": "¿Por casualidad hablaban de mí?",
           "synopsis": "Tras pasar dos años triunfando en el extranjero, Gen vuelve a su país y descubre con estupor que todo el mundo le ha olvidado por completo, incluida su propia familia y el entorno del espectáculo.",
           "rating": 8.5,
@@ -721,26 +737,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/ir485FZlwSPuTIiw1KEZRlFjV3x.jpg",
           "slug": "mirame-asi-el-camino-de-noa",
           "tmdbId": "287556",
-          "type": "series"
-        },
-        {
-          "title": "Avatar: Los Siete Refugios",
-          "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
-          "rating": 9.08,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Acción",
-            "Aventura",
-            "Ciencia ficción",
-            "Fantasía",
-            "Familia"
-          ],
-          "cast": "Saheli Khan, Aishwarya 'Aishu' Devan, Major Curda, Akshay Khanna, Sakina Jaffrey",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7B8LtDGwnGcfAtboneaKj7f3PSH.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
-          "slug": "avatar-los-siete-refugios",
-          "tmdbId": "284833",
           "type": "series"
         }
       ]
