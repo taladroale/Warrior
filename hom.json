@@ -90,21 +90,21 @@
       "duration": "81 min"
     },
     {
-      "title": "Noche fatídica",
-      "synopsis": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
-      "rating": 0.5,
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.17,
       "year": "2026",
       "genres": [
-        "Suspenso",
-        "Crimen"
+        "Terror",
+        "Suspenso"
       ],
-      "cast": "मनोज बाजपेयी, Divya Dutta, Nushrratt Bharuccha, Saqib Saleem, Kiku Sharda",
-      "posterUrl": "https://image.tmdb.org/t/p/original/un3NZLu9lMneHtRlzdaMonF7qHY.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/cdcW8GeAyBLPVBhTbOoTlBywNtp.jpg",
-      "slug": "noche-fatidica",
-      "tmdbId": "1453407",
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
       "type": "movie",
-      "duration": "124 min"
+      "duration": "109 min"
     }
   ],
   "seriesHero": [
@@ -123,23 +123,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
       "slug": "lupin",
       "tmdbId": "96677",
-      "type": "series"
-    },
-    {
-      "title": "Slow Horses",
-      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
-      "rating": 8.1,
-      "year": "2022",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
-      "slug": "slow-horses",
-      "tmdbId": "95480",
       "type": "series"
     },
     {
@@ -199,22 +182,38 @@
       "type": "series"
     },
     {
-      "title": "Black Clover",
-      "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
-      "rating": 8.49,
-      "year": "2017",
+      "title": "Slow Horses",
+      "synopsis": "Drama de espías con tintes de comedia negra centrado en las andanzas de un incompetente equipo de agentes del MI5 y en su jefe, el irreverente Jackson Lamb, a medida que desmontan los artificios del espionaje para defender Inglaterra de las fuerzas del mal.",
+      "rating": 8.06,
+      "year": "2022",
       "genres": [
-        "Animación",
-        "Acción",
-        "Aventura",
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Hugo Weaving, Saskia Reeves",
+      "posterUrl": "https://image.tmdb.org/t/p/original/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
+      "slug": "slow-horses",
+      "tmdbId": "95480",
+      "type": "series"
+    },
+    {
+      "title": "Carrie",
+      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+      "rating": 8.3,
+      "year": "2026",
+      "genres": [
+        "Misterio",
+        "Drama",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Gakuto Kajiwara, Nobunaga Shimazaki, Kana Yuuki, Junichi Suwabe, Genki Muro",
-      "posterUrl": "https://image.tmdb.org/t/p/original/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
-      "slug": "black-clover",
-      "tmdbId": "73223",
+      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+      "slug": "carrie",
+      "tmdbId": "288673",
       "type": "series"
     }
   ],
@@ -224,6 +223,22 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Marea oscura",
+          "synopsis": "Una ambiciosa ecologista regresa a Ameland, la isla holandesa de su infancia, solo para descubrir una peligrosa red de contrabando de drogas que opera en la zona. Atrapada en una espiral de amenazas y secretos familiares, se verá obligada a tomar una difícil decisión: exponer la verdad a las autoridades o guardar silencio para proteger a sus seres queridos.",
+          "rating": 6.6,
+          "year": "2026",
+          "genres": [
+            "Suspenso"
+          ],
+          "cast": "Vajèn van den Bosch, Juvat Westendorp, Mingus Dagelet, Bart Harder, Jord Knotter",
+          "posterUrl": "https://image.tmdb.org/t/p/original/aUUQXiiGA3LFHHemf3UgHVF4y5C.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vdGafAruKcmtR8jNjk5OpVDXUpX.jpg",
+          "slug": "marea-oscura",
+          "tmdbId": "1662858",
+          "type": "movie",
+          "duration": "111 min"
+        },
         {
           "title": "Magallanes",
           "synopsis": "Magallanes presenta la colonización de Filipinas como un encuentro primigenio e impactante con lo desconocido y una reinterpretación radical de las narrativas europeas de descubrimiento y exploración.",
@@ -379,23 +394,6 @@
           "tmdbId": "1551205",
           "type": "movie",
           "duration": "110 min"
-        },
-        {
-          "title": "La silla",
-          "synopsis": "Daniel Lonces es un joven escritor de novelas de misterio que ha conseguido todo lo que deseaba en la vida, (bueno casi todo). Ha alcanzado lo que siempre ha soñado: es popular, le requieren con frecuencia en los medios de comunicación, está casado con una mujer que le quiere, tiene un precioso niño pequeño y se dedica a lo que le gusta ¿qué más puede pedir?  Por supuesto, esta idílica (o quizá no tanto) existencia se verá inesperadamente truncada. Un día, realizando una pequeña prueba para una de sus novelas quedará accidentalmente atado a una silla sin posibilidad de soltarse. Poco a poco la situación se complicará de forma imprevisible y Daniel tendrá que luchar contra las circunstancias, en inferioridad de condiciones, para salvar su vida y la de los seres que ama. Una situación que progresivamente va adquiriendo tintes dramáticos, en una espiral de intriga, dolor y tensión.",
-          "rating": 5,
-          "year": "2026",
-          "genres": [
-            "Suspenso",
-            "Terror"
-          ],
-          "cast": "Jaime Lorente, Christina Ochoa, Eva Rufo, Rodrigo Poisón, Alba de la Fuente",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uC0yE8mjaEVFojev1taQiGDQTat.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/l2B2WTUqgePLN6kh9uLCYy63Pyk.jpg",
-          "slug": "la-silla",
-          "tmdbId": "1480613",
-          "type": "movie",
-          "duration": "75 min"
         }
       ]
     },
@@ -583,6 +581,55 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Volveré Por Ti",
+          "synopsis": "Una actriz y su hermano gemelo viajan en el tiempo e intercambian cuerpos para salvar la vida de su amiga.",
+          "rating": 9,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "보나, 박서함, 장세혁, Moon Seung-you",
+          "posterUrl": "https://image.tmdb.org/t/p/original/21pLXbvuyfgUaAhhxkuvoX1pAN1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
+          "slug": "dive-into-you",
+          "tmdbId": "316197",
+          "type": "series"
+        },
+        {
+          "title": "Furia",
+          "synopsis": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
+          "rating": 6.6,
+          "year": "2025",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Claudia Salas, Ana Torrent, Maribel Verdú, Carmen Maura, María León",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ry8SRujfnDF21lpCx1Ap3Lrupuy.jpg",
+          "slug": "furia-280880",
+          "tmdbId": "280880",
+          "type": "series"
+        },
+        {
+          "title": "El primer matrimonio de Georgie y Mandy",
+          "synopsis": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
+          "rating": 8.05,
+          "year": "2024",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Montana Jordan, Emily Osment, Rachel Bay Jones, Will Sasso, Dougie Baldwin",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+          "slug": "el-primer-matrimonio-de-georgie-y-mandy",
+          "tmdbId": "243875",
+          "type": "series"
+        },
+        {
           "title": "Outlander: Sangre de mi sangre",
           "synopsis": "Desde los campos de batalla de la Primera Guerra Mundial hasta las escarpadas Tierras Altas de la Escocia del siglo XVIII, dos parejas predestinadas deben desafiar las fuerzas que buscan separarlas, desarrollándose de maneras sorprendentes e imprevistas en esta saga romántica que se desarrolla a través del tiempo.",
           "rating": 8.72,
@@ -637,7 +684,7 @@
             "Misterio"
           ],
           "cast": "Jonny Lee Miller, Gugu Mbatha-Raw, Bel Powley, Sheldon Shepherd, Sean Gilder",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qVvUs2KFhT3h36dvcVRtzaicl7n.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9y5HapAx4Inn4BrysYaLDHzQcOE.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/rG2dLnqy03ktjpFaW3ojHuHUHD1.jpg",
           "slug": "possession",
           "tmdbId": "279089",
@@ -662,7 +709,7 @@
         {
           "title": "Doctor X Mafia in White",
           "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-          "rating": 9.45,
+          "rating": 9.5,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -690,53 +737,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
           "slug": "grande-de-espana",
           "tmdbId": "335535",
-          "type": "series"
-        },
-        {
-          "title": "4 Blocks Zero",
-          "synopsis": "Precuela de \"4 Blocks\" (2017-2019). Traslada la acción al Berlín de los años 90, mucho antes de que Toni Hamady se convirtiera en el líder criminal más poderoso de la ciudad. En esta ocasión, la historia se centra en los orígenes de la familia, que tras huir del Líbano intenta empezar de nuevo en Alemania enfrentándose a la burocracia, los prejuicios y la falta de un permiso de residencia estable. El padre de familia, Malik, sobrevive trabajando como cocinero sin formación mientras trata de sacar adelante a sus cuatro hijos: Ali, Abbas, Marwan y Amara. La situación cambia radicalmente cuando Ibrahim, cuñado de Malik, regresa a Berlín después de pasar ocho años en prisión. Su vuelta desencadena una cadena de acontecimientos que termina arrastrando a toda la familia hacia el crimen organizado de la capital alemana y pone a prueba sus principios.",
-          "rating": 4.2,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Tariq Al Saies, Tareq Nassery, Rami Fadel Khalaf, Soufiane El Mesaudi, Bella Dayne",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yvIUYRLeTF9KOQL12ojleVyqxAk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
-          "slug": "4-blocks-zero",
-          "tmdbId": "310133",
-          "type": "series"
-        },
-        {
-          "title": "Paolo",
-          "synopsis": "Paolo lleva una vida sencilla pero plena en un pequeño pueblo de provincias: se dedica a transportar pianos durante el día y, en su tiempo libre, organiza su boda con su prometida, Winnie. Tras un encuentro fortuito, Paolo acaba asistiendo a un acto de campaña de su antiguo compañero de clase, Téophane Tolbiac, un político local ambicioso y carismático en pleno ascenso. Pero lo que comienza como un compromiso con la campaña de Téophane pronto se complica, ya que el mundo de Paolo se ve trastocado por su deseo insaciable de formar parte del círculo más cercano del prometedor alcalde.",
-          "rating": 5.3,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama"
-          ],
-          "cast": "Jérôme Niel, Yoann Gasiorowski, Magalie Lépine-Blondeau, Marie Oppert, Léo Chalié",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5arYNSnKiCWxdwdrzjvP5vokPkV.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
-          "slug": "paolo",
-          "tmdbId": "288385",
-          "type": "series"
-        },
-        {
-          "title": "Mírame así, el camino de Noa",
-          "synopsis": "Noa decide emprender un viaje a Argentina tras mantener una relación a distancia durante meses, con la intención de encontrarse con su novio. Sin embargo, ocurre un giro en sus planes cuando conoce a Tomy, un joven que intenta reconciliarse con su pasado y forjar una nueva vida lejos de la música, mientras Noa comienza un viaje de descubrimiento en busca de su identidad musical, enfrentándose a la presión de sus padres y su nueva realidad en Buenos Aires.",
-          "rating": 9,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Familia"
-          ],
-          "cast": "נועה קירל, Agustín Bernasconi, José Giménez-Zapiola, Kevsho, Carolina Domenech",
-          "posterUrl": "https://image.tmdb.org/t/p/original/kH1PdObeImeBO37yK35Vc1RH7Ws.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ir485FZlwSPuTIiw1KEZRlFjV3x.jpg",
-          "slug": "mirame-asi-el-camino-de-noa",
-          "tmdbId": "287556",
           "type": "series"
         }
       ]
