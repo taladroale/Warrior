@@ -36,24 +36,6 @@
       "duration": "155 min"
     },
     {
-      "title": "Hope",
-      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
-      "rating": 6.8,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Misterio",
-        "Acción"
-      ],
-      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
-      "posterUrl": "https://image.tmdb.org/t/p/original/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-      "slug": "hope-1058424",
-      "tmdbId": "1058424",
-      "type": "movie",
-      "duration": "157 min"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 8.47,
@@ -72,21 +54,22 @@
       "duration": "145 min"
     },
     {
-      "title": "Noche fatídica",
-      "synopsis": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
-      "rating": 0.5,
+      "title": "Hope",
+      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+      "rating": 6.8,
       "year": "2026",
       "genres": [
-        "Suspenso",
-        "Crimen"
+        "Ciencia ficción",
+        "Misterio",
+        "Acción"
       ],
-      "cast": "मनोज बाजपेयी, Divya Dutta, Nushrratt Bharuccha, Saqib Saleem, Kiku Sharda",
-      "posterUrl": "https://image.tmdb.org/t/p/original/un3NZLu9lMneHtRlzdaMonF7qHY.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/cdcW8GeAyBLPVBhTbOoTlBywNtp.jpg",
-      "slug": "noche-fatidica",
-      "tmdbId": "1453407",
+      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
+      "posterUrl": "https://image.tmdb.org/t/p/original/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+      "slug": "hope-1058424",
+      "tmdbId": "1058424",
       "type": "movie",
-      "duration": "124 min"
+      "duration": "157 min"
     },
     {
       "title": "La Oveja Shaun: Misión Calabaza",
@@ -105,6 +88,23 @@
       "tmdbId": "1477104",
       "type": "movie",
       "duration": "81 min"
+    },
+    {
+      "title": "Noche fatídica",
+      "synopsis": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
+      "rating": 0.5,
+      "year": "2026",
+      "genres": [
+        "Suspenso",
+        "Crimen"
+      ],
+      "cast": "मनोज बाजपेयी, Divya Dutta, Nushrratt Bharuccha, Saqib Saleem, Kiku Sharda",
+      "posterUrl": "https://image.tmdb.org/t/p/original/un3NZLu9lMneHtRlzdaMonF7qHY.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/cdcW8GeAyBLPVBhTbOoTlBywNtp.jpg",
+      "slug": "noche-fatidica",
+      "tmdbId": "1453407",
+      "type": "movie",
+      "duration": "124 min"
     }
   ],
   "seriesHero": [
