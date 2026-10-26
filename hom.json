@@ -37,6 +37,23 @@
       "duration": "145 min"
     },
     {
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.17,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Suspenso"
+      ],
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
+      "type": "movie",
+      "duration": "109 min"
+    },
+    {
       "title": "La bola negra",
       "synopsis": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
       "rating": 8.2,
@@ -52,6 +69,24 @@
       "tmdbId": "1422041",
       "type": "movie",
       "duration": "155 min"
+    },
+    {
+      "title": "Resident Evil",
+      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 7.3,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "slug": "resident-evil-1423191",
+      "tmdbId": "1423191",
+      "type": "movie",
+      "duration": "95 min"
     },
     {
       "title": "Hope",
@@ -70,42 +105,6 @@
       "tmdbId": "1058424",
       "type": "movie",
       "duration": "157 min"
-    },
-    {
-      "title": "Vaiana",
-      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
-      "rating": 7.5,
-      "year": "2026",
-      "genres": [
-        "Familia",
-        "Fantasía",
-        "Comedia",
-        "Aventura"
-      ],
-      "cast": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xUUksaUc30wX5orsYytApurKbX.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "slug": "vaiana-1108427",
-      "tmdbId": "1108427",
-      "type": "movie",
-      "duration": "115 min"
-    },
-    {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.17,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Suspenso"
-      ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
-      "type": "movie",
-      "duration": "109 min"
     }
   ],
   "seriesHero": [
@@ -185,7 +184,7 @@
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.8,
+      "rating": 8.76,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -224,6 +223,23 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "El ases",
+          "synopsis": "Con la vida de su hija en juego, un prestigioso abogado no tiene más remedio que defender a un hombre al que considera culpable y se ve obligado a acallar su conciencia.",
+          "rating": 5.7,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Suspenso"
+          ],
+          "cast": "सनी द्योल, अक्षय खन्ना, Tillotama Shome, Dia Mirza, Sanjeeda Sheikh",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2WP3AFHdceval0tsvndxENylzxu.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+          "slug": "el-ases",
+          "tmdbId": "1484913",
+          "type": "movie",
+          "duration": "141 min"
+        },
         {
           "title": "Marea oscura",
           "synopsis": "Una ambiciosa ecologista regresa a Ameland, la isla holandesa de su infancia, solo para descubrir una peligrosa red de contrabando de drogas que opera en la zona. Atrapada en una espiral de amenazas y secretos familiares, se verá obligada a tomar una difícil decisión: exponer la verdad a las autoridades o guardar silencio para proteger a sus seres queridos.",
@@ -379,22 +395,6 @@
           "tmdbId": "1453407",
           "type": "movie",
           "duration": "124 min"
-        },
-        {
-          "title": "Viaje al país de los blancos",
-          "synopsis": "Ousman Umar, un joven de Ghana fascinado por el misterioso “país de los blancos”, abandona su aldea y pone rumbo a Europa. Cuando llega a Barcelona, tras una dura travesía de varios años, el sueño que lo impulsó se desvanece entre el rechazo y la soledad. Hasta que conoce a Montse, que le acoge en su familia y le ofrece, además de amor y apoyo, la posibilidad de un futuro. Ousman no solo la aprovecha, sino que la transforma en algo mucho mayor, decidido a que todo su viaje haya tenido un sentido. ‘Viaje al País de los Blancos’ está basada en una extraordinaria historia real de superación y amor en la que la bondad de las personas prevalece en un mundo hostil.",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Ousman Umar, Emma Vilarasau, Benjamin Adams, Jordi Bosch, Victor Sey",
-          "posterUrl": "https://image.tmdb.org/t/p/original/f7RrxbquhqMhIINmnek3lkZdM76.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/exGCmfVVLGkcqUV8gW1EoV9Bdax.jpg",
-          "slug": "viaje-al-pais-de-los-blancos",
-          "tmdbId": "1551205",
-          "type": "movie",
-          "duration": "110 min"
         }
       ]
     },
@@ -584,7 +584,7 @@
         {
           "title": "Dragon Ball Super: Beerus",
           "synopsis": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
-          "rating": 9.67,
+          "rating": 9.66,
           "year": "2026",
           "genres": [
             "Animación",
