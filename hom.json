@@ -19,23 +19,6 @@
       "duration": "108 min"
     },
     {
-      "title": "La bola negra",
-      "synopsis": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "rating": 8.2,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Guerra"
-      ],
-      "cast": "Guitarricadelafuente, Miguel Bernardeau, Carlos González, Milo Quifes, Lola Dueñas",
-      "posterUrl": "https://image.tmdb.org/t/p/original/t1azKLExwUxKj6v6m2L535evuRa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-      "slug": "la-bola-negra",
-      "tmdbId": "1422041",
-      "type": "movie",
-      "duration": "155 min"
-    },
-    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 8.47,
@@ -52,6 +35,23 @@
       "tmdbId": "969681",
       "type": "movie",
       "duration": "145 min"
+    },
+    {
+      "title": "La bola negra",
+      "synopsis": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "rating": 8.2,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Guerra"
+      ],
+      "cast": "Guitarricadelafuente, Miguel Bernardeau, Carlos González, Milo Quifes, Lola Dueñas",
+      "posterUrl": "https://image.tmdb.org/t/p/original/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+      "slug": "la-bola-negra",
+      "tmdbId": "1422041",
+      "type": "movie",
+      "duration": "155 min"
     },
     {
       "title": "Hope",
@@ -72,39 +72,40 @@
       "duration": "157 min"
     },
     {
-      "title": "La Oveja Shaun: Misión Calabaza",
-      "synopsis": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
-      "rating": 7.4,
+      "title": "Masterplan",
+      "synopsis": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
+      "rating": 7,
       "year": "2026",
       "genres": [
-        "Animación",
-        "Ciencia ficción",
-        "Comedia"
-      ],
-      "cast": "Justin Fletcher, John Sparkes, Nina Sosanya, Kate Harbour, Rich Webber",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-      "slug": "la-oveja-shaun-mision-calabaza",
-      "tmdbId": "1477104",
-      "type": "movie",
-      "duration": "81 min"
-    },
-    {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.17,
-      "year": "2026",
-      "genres": [
-        "Terror",
+        "Acción",
         "Suspenso"
       ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
+      "cast": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Barbara Lo Gaglio",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+      "slug": "masterplan",
+      "tmdbId": "1561726",
       "type": "movie",
-      "duration": "109 min"
+      "duration": "110 min"
+    },
+    {
+      "title": "Vaiana",
+      "synopsis": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
+      "rating": 7.5,
+      "year": "2026",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia",
+        "Aventura"
+      ],
+      "cast": "Catherine Lagaʻaia, Dwayne Johnson, Rena Owen, John Tui, Frankie Adams",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xUUksaUc30wX5orsYytApurKbX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "slug": "vaiana-1108427",
+      "tmdbId": "1108427",
+      "type": "movie",
+      "duration": "115 min"
     }
   ],
   "seriesHero": [
@@ -123,25 +124,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
       "slug": "lupin",
       "tmdbId": "96677",
-      "type": "series"
-    },
-    {
-      "title": "Cyberpunk: Edgerunners",
-      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
-      "rating": 8.56,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
-      "slug": "cyberpunk-edgerunners",
-      "tmdbId": "105248",
       "type": "series"
     },
     {
@@ -165,20 +147,22 @@
       "type": "series"
     },
     {
-      "title": "LA LISTA FINAL",
-      "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "rating": 8,
+      "title": "Cyberpunk: Edgerunners",
+      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
+      "rating": 8.56,
       "year": "2022",
       "genres": [
         "Acción",
         "Aventura",
-        "Drama"
+        "Animación",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Chris Pratt, Wanda Ndlovu, Jared Shaw, Chris Pratt",
-      "posterUrl": "https://image.tmdb.org/t/p/original/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
-      "slug": "la-lista-final",
-      "tmdbId": "120911",
+      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
+      "slug": "cyberpunk-edgerunners",
+      "tmdbId": "105248",
       "type": "series"
     },
     {
@@ -199,21 +183,37 @@
       "type": "series"
     },
     {
-      "title": "Carrie",
-      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "rating": 8.3,
+      "title": "LA LISTA FINAL",
+      "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "rating": 8,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Drama"
+      ],
+      "cast": "Chris Pratt, Wanda Ndlovu, Jared Shaw, Chris Pratt",
+      "posterUrl": "https://image.tmdb.org/t/p/original/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+      "slug": "la-lista-final",
+      "tmdbId": "120911",
+      "type": "series"
+    },
+    {
+      "title": "VisionQuest",
+      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "rating": 8.75,
       "year": "2026",
       "genres": [
-        "Misterio",
-        "Drama",
         "Ciencia ficción",
-        "Fantasía"
+        "Fantasía",
+        "Drama"
       ],
-      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "slug": "carrie",
-      "tmdbId": "288673",
+      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "slug": "visionquest",
+      "tmdbId": "213375",
       "type": "series"
     }
   ],
@@ -581,6 +581,72 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Dragon Ball Super: Beerus",
+          "synopsis": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
+          "rating": 9.67,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Acción",
+            "Aventura",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Masako Nozawa, Ryo Horikawa, Naoko Watanabe, Unsho Ishizuka, Koichi Yamadera",
+          "posterUrl": "https://image.tmdb.org/t/p/original/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+          "slug": "dragon-ball-super-beerus",
+          "tmdbId": "312359",
+          "type": "series"
+        },
+        {
+          "title": "Coppola, el representante",
+          "synopsis": "La vida y las anécdotas de Guillermo Coppola, célebre \"bon vivant\", y su lucha por conciliar su agitada vida privada con las insólitas consecuencias de ser el mánager de Diego Armando Maradona, el jugador de fútbol más famoso del mundo.",
+          "rating": 8.2,
+          "year": "2024",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1YjZ2U8m5hphz7RmEYmegQB0oTt.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mE9t0xryrKlTdbbhmM06rJPy2M4.jpg",
+          "slug": "coppola-el-representante",
+          "tmdbId": "128330",
+          "type": "series"
+        },
+        {
+          "title": "Carrie",
+          "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
+          "rating": 8.31,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
+          "slug": "carrie",
+          "tmdbId": "288673",
+          "type": "series"
+        },
+        {
+          "title": "El colombiano de Keko",
+          "synopsis": "La producción colombiana reconstruye el encierro de Andrés Felipe Ballesteros y la lucha de su familia por demostrar su inocencia, con Juan Cruz como protagonista. Christian Tappan y Juan Pablo Raba forman parte del elenco",
+          "rating": 0,
+          "year": "2026",
+          "genres": [],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/a0lVuPyGhCrW6xi9xhJb5I0h5AI.jpg",
+          "backdropUrl": null,
+          "slug": "el-colombiano-de-keko",
+          "tmdbId": "339909",
+          "type": "series"
+        },
+        {
           "title": "Volveré Por Ti",
           "synopsis": "Una actriz y su hermano gemelo viajan en el tiempo e intercambian cuerpos para salvar la vida de su amiga.",
           "rating": 9,
@@ -674,70 +740,6 @@
           "slug": "tyson",
           "tmdbId": "335536",
           "type": "series"
-        },
-        {
-          "title": "Possession",
-          "synopsis": "Claudia, una abogada de origen mestizo, viaja a la embrujada plantación de Connaught, en Jamaica, para defenderse de una reclamación de herencia. El descubrimiento de oscuros secretos históricos entrelazados con injusticias actuales intensifica su pesadilla.",
-          "rating": 5.9,
-          "year": "2026",
-          "genres": [
-            "Misterio"
-          ],
-          "cast": "Jonny Lee Miller, Gugu Mbatha-Raw, Bel Powley, Sheldon Shepherd, Sean Gilder",
-          "posterUrl": "https://image.tmdb.org/t/p/original/9y5HapAx4Inn4BrysYaLDHzQcOE.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/rG2dLnqy03ktjpFaW3ojHuHUHD1.jpg",
-          "slug": "possession",
-          "tmdbId": "279089",
-          "type": "series"
-        },
-        {
-          "title": "Strange: relatos de Junji Ito para noches en vela",
-          "synopsis": "Las pesadillas de Junji Ito cobran vida en acción real, retorciendo vidas cotidianas en lo extraño, lo grotesco y lo inevitable.",
-          "rating": 7.7,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama"
-          ],
-          "cast": "가을, 안유진, レイ, 장원영, 리즈",
-          "posterUrl": "https://image.tmdb.org/t/p/original/s4n0eYVWw4gqJoz93jui9VOJ904.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/6Ofj5BNqmYgI3g2rbriv9gZoRLy.jpg",
-          "slug": "strange-relatos-de-junji-ito-para-noches-en-vela",
-          "tmdbId": "319990",
-          "type": "series"
-        },
-        {
-          "title": "Doctor X Mafia in White",
-          "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-          "rating": 9.5,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama",
-            "Crimen"
-          ],
-          "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-          "slug": "doctor-x-mafia-in-white",
-          "tmdbId": "293610",
-          "type": "series"
-        },
-        {
-          "title": "Grande de España",
-          "synopsis": "Don Leandro, un marqués arruinado que vive de las apariencias y sueña con ser nombrado Grande de España, ve una única salida a su desastre económico: vender su decadente palacete familiar en Madrid. La ocasión perfecta parece presentarse cuando la riquísima empresaria Sofía Carrington se interesa por la propiedad. Pero, a medida que avanzan las negociaciones - y las seducciones - queda claro que ​n​o son quienes aparentan ser.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Antonio de la Torre, Alexandra Jiménez, Enric Benavent, Fernando Andina, Mercedes Sampietro",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jhjVQtqQgSYjv91IoYWyZvMoqZF.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
-          "slug": "grande-de-espana",
-          "tmdbId": "335535",
-          "type": "series"
         }
       ]
     },
@@ -763,6 +765,19 @@
           "type": "series"
         },
         {
+          "title": "El colombiano de Keko",
+          "synopsis": "La producción colombiana reconstruye el encierro de Andrés Felipe Ballesteros y la lucha de su familia por demostrar su inocencia, con Juan Cruz como protagonista. Christian Tappan y Juan Pablo Raba forman parte del elenco",
+          "rating": 0,
+          "year": "2026",
+          "genres": [],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/a0lVuPyGhCrW6xi9xhJb5I0h5AI.jpg",
+          "backdropUrl": null,
+          "slug": "el-colombiano-de-keko",
+          "tmdbId": "339909",
+          "type": "series"
+        },
+        {
           "title": "¿Por casualidad hablaban de mí?",
           "synopsis": "Tras pasar dos años triunfando en el extranjero, Gen vuelve a su país y descubre con estupor que todo el mundo le ha olvidado por completo, incluida su propia familia y el entorno del espectáculo.",
           "rating": 8.5,
@@ -779,19 +794,6 @@
           "type": "series"
         },
         {
-          "title": "Relatos de la noche: Brujas",
-          "synopsis": "Cuatro episodios exclusivos sobre leyendas de brujas de México, contados por Uriel Reyes, creador del podcast Relatos de la Noche.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/whS6DZ1Ph0fAMAeskecQsLxzek8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/u0JTZBRuOAZCl40ABVOkWbd5ype.jpg",
-          "slug": "relatos-de-la-noche-brujas",
-          "tmdbId": "339525",
-          "type": "series"
-        },
-        {
           "title": "El experimento de la cárcel de Stanford: Un nuevo enfoque",
           "synopsis": "Miniserie de TV. 6 episodios. En esta reinterpretación moderna del infame estudio de Stanford, treinta personas ingresan en una cárcel real durante dos semanas, y las cambiantes dinámicas de poder revelan de qué son capaces.",
           "rating": 8.67,
@@ -802,6 +804,19 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/H8VA7K15NWVKLbUbp8ZQ17zvU2.jpg",
           "slug": "the-new-stanford-prison-experiment",
           "tmdbId": "335319",
+          "type": "series"
+        },
+        {
+          "title": "Relatos de la noche: Brujas",
+          "synopsis": "Cuatro episodios exclusivos sobre leyendas de brujas de México, contados por Uriel Reyes, creador del podcast Relatos de la Noche.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/whS6DZ1Ph0fAMAeskecQsLxzek8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/u0JTZBRuOAZCl40ABVOkWbd5ype.jpg",
+          "slug": "relatos-de-la-noche-brujas",
+          "tmdbId": "339525",
           "type": "series"
         },
         {
@@ -819,6 +834,21 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/g2r69hj61xfhMxnrYm8QyMs0gs1.jpg",
           "slug": "farsante",
           "tmdbId": "275139",
+          "type": "series"
+        },
+        {
+          "title": "Minami, abogada extraordinaria",
+          "synopsis": "Con una memoria prodigiosa y una perspectiva única, Minami se enfrenta a retos dentro y fuera de los tribunales como abogada novata con trastorno del espectro autista",
+          "rating": 6,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "芦田愛菜, Fumiya Takahashi, 細田佳央太, 久保史緒里, 柿原りんか",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ax4KpZOjZ59hp6IjYNOfJMAYge0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/w7p0SUuixmEyf5a5wVKAgHNkh8e.jpg",
+          "slug": "minami-abogada-extraordinaria",
+          "tmdbId": "332713",
           "type": "series"
         },
         {
@@ -856,21 +886,6 @@
           "type": "series"
         },
         {
-          "title": "Minami, abogada extraordinaria",
-          "synopsis": "Con una memoria prodigiosa y una perspectiva única, Minami se enfrenta a retos dentro y fuera de los tribunales como abogada novata con trastorno del espectro autista",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "芦田愛菜, Fumiya Takahashi, 細田佳央太, 久保史緒里, 柿原りんか",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ax4KpZOjZ59hp6IjYNOfJMAYge0.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/w7p0SUuixmEyf5a5wVKAgHNkh8e.jpg",
-          "slug": "minami-abogada-extraordinaria",
-          "tmdbId": "332713",
-          "type": "series"
-        },
-        {
           "title": "Juegos amigos y sexo",
           "synopsis": "Dos antiguos compañeros de colegio se reencuentran por casualidad, lo que da pie a un juego en el que cuatro parejas intercambian parejas durante una noche.",
           "rating": 7.75,
@@ -883,24 +898,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
           "slug": "juegos-amigos-y-sexo",
           "tmdbId": "298550",
-          "type": "series"
-        },
-        {
-          "title": "Criminales organizados",
-          "synopsis": "Un mapa mítico cae en manos de un timador legendario que decide llevar a cabo un último golpe antes de dejarlo todo atrás para siempre.",
-          "rating": 4.33,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Crimen",
-            "Acción",
-            "Aventura"
-          ],
-          "cast": "Yılmaz Erdoğan, Kıvanç Tatlıtuğ, Ezgi Mola, Bensu Soral, Rıza Kocaoğlu",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
-          "slug": "criminales-organizados",
-          "tmdbId": "320754",
           "type": "series"
         }
       ]
