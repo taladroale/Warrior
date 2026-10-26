@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T15:30:01Z",
+  "updatedAt": "2026-10-26T15:39:39Z",
   "source": "cine",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -501,6 +501,7 @@
     "4327": {"slug": "los-angeles-de-charlie"},
     "4348": {"slug": "orgullo-y-prejuicio"},
     "4379": {"slug": "si-te-casas-te-mato"},
+    "4413": {"slug": "valiente-2"},
     "4421": {"slug": "hasta-el-limite"},
     "4442": {"slug": "los-hermanos-grimm"},
     "4474": {"slug": "mi-super-ex-novia"},
@@ -8087,6 +8088,7 @@
     "1408": {"slug": "dr-house"},
     "1412": {"slug": "arrow"},
     "1413": {"slug": "american-horror-story"},
+    "1422": {"slug": "the-middle"},
     "1434": {"slug": "padre-de-familia"},
     "1480": {"slug": "ally-mcbeal"},
     "1622": {"slug": "supernatural"},
@@ -8117,6 +8119,7 @@
     "4686": {"slug": "ben-10"},
     "9410": {"slug": "basilisk"},
     "12536": {"slug": "yu-gi-oh-gx"},
+    "15260": {"slug": "hora-de-aventura"},
     "16997": {"slug": "the-pacific"},
     "18712": {"slug": "historia-de-un-crimen-la-busqueda"},
     "18779": {"slug": "royal-pains"},
