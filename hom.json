@@ -3,7 +3,7 @@
     {
       "title": "La constelación del perro",
       "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
-      "rating": 6.58,
+      "rating": 6.6,
       "year": "2026",
       "genres": [
         "Suspenso",
@@ -147,23 +147,6 @@
       "type": "series"
     },
     {
-      "title": "LA LISTA FINAL",
-      "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "rating": 8,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Drama"
-      ],
-      "cast": "Chris Pratt, Wanda Ndlovu, Jared Shaw, Chris Pratt",
-      "posterUrl": "https://image.tmdb.org/t/p/original/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
-      "slug": "la-lista-final",
-      "tmdbId": "120911",
-      "type": "series"
-    },
-    {
       "title": "Cyberpunk: Edgerunners",
       "synopsis": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
       "rating": 8.5,
@@ -203,19 +186,37 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.58,
-      "year": "2025",
+      "title": "LA LISTA FINAL",
+      "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "rating": 8,
+      "year": "2022",
       "genres": [
-        "Crimen",
+        "Acción",
+        "Aventura",
         "Drama"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Chris Pratt, Wanda Ndlovu, Jared Shaw, Chris Pratt",
+      "posterUrl": "https://image.tmdb.org/t/p/original/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+      "slug": "la-lista-final",
+      "tmdbId": "120911",
+      "type": "series"
+    },
+    {
+      "title": "VisionQuest",
+      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "rating": 8.7,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Fantasía",
+        "Drama"
+      ],
+      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "slug": "visionquest",
+      "tmdbId": "213375",
       "type": "series"
     }
   ],
@@ -228,11 +229,11 @@
         {
           "title": "La constelación del perro",
           "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
-          "rating": 6.58,
+          "rating": 6.6,
           "year": "2026",
           "genres": [
+            "Acción",
             "Suspenso",
-            "Aventura",
             "Ciencia ficción"
           ],
           "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong",
@@ -583,7 +584,7 @@
         {
           "title": "Cautiva",
           "synopsis": "Una joven devota entra en un convento de clausura sin sospechar que los abusos de la madre superiora acabarán quebrando su espíritu.",
-          "rating": 7.8,
+          "rating": 7.83,
           "year": "2026",
           "genres": [
             "Drama",
