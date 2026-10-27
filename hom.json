@@ -36,24 +36,6 @@
       "duration": "114 min"
     },
     {
-      "title": "Clayface",
-      "synopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "rating": 7.5,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Suspenso",
-        "Ciencia ficción"
-      ],
-      "cast": "Tom Rhys Harries, Naomi Ackie, Eddie Marsan, Max Minghella, David Dencik",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-      "slug": "clayface",
-      "tmdbId": "1400940",
-      "type": "movie",
-      "duration": "108 min"
-    },
-    {
       "title": "La isla olvidada",
       "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
       "rating": 7.64,
@@ -72,6 +54,24 @@
       "tmdbId": "1465063",
       "type": "movie",
       "duration": "109 min"
+    },
+    {
+      "title": "Clayface",
+      "synopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
+      "rating": 7.5,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Suspenso",
+        "Ciencia ficción"
+      ],
+      "cast": "Tom Rhys Harries, Naomi Ackie, Eddie Marsan, Max Minghella, David Dencik",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
+      "slug": "clayface",
+      "tmdbId": "1400940",
+      "type": "movie",
+      "duration": "108 min"
     },
     {
       "title": "Hope",
@@ -165,25 +165,6 @@
     },
     {
       "title": "Cyberpunk: Edgerunners",
-      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
-      "rating": 8.56,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
-      "slug": "cyberpunk-edgerunners",
-      "tmdbId": "105248",
-      "type": "series"
-    },
-    {
-      "title": "Cyberpunk: Edgerunners",
       "synopsis": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
       "rating": 8.5,
       "year": "2022",
@@ -203,20 +184,38 @@
       "type": "series"
     },
     {
-      "title": "VisionQuest",
-      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.71,
-      "year": "2026",
+      "title": "Cyberpunk: Edgerunners",
+      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
+      "rating": 8.56,
+      "year": "2022",
       "genres": [
+        "Acción",
+        "Aventura",
+        "Animación",
         "Ciencia ficción",
-        "Fantasía",
+        "Fantasía"
+      ],
+      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
+      "slug": "cyberpunk-edgerunners",
+      "tmdbId": "105248",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.58,
+      "year": "2025",
+      "genres": [
+        "Crimen",
         "Drama"
       ],
-      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "slug": "visionquest",
-      "tmdbId": "213375",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     }
   ],
