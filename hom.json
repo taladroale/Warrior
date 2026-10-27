@@ -1,9 +1,44 @@
 {
   "movieHero": [
     {
+      "title": "La constelación del perro",
+      "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+      "rating": 6.58,
+      "year": "2026",
+      "genres": [
+        "Suspenso",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong",
+      "posterUrl": "https://image.tmdb.org/t/p/original/unyqtCtZiLvcqAAbw3vvCuPwt78.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/joVtII9prX3MC4a2LfoKsiMWET3.jpg",
+      "slug": "la-constelacion-del-perro",
+      "tmdbId": "1384216",
+      "type": "movie",
+      "duration": "119 min"
+    },
+    {
+      "title": "Verity. La sombra de un engaño",
+      "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "rating": 6.39,
+      "year": "2026",
+      "genres": [
+        "Misterio",
+        "Suspenso"
+      ],
+      "cast": "Anne Hathaway, Dakota Johnson, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
+      "posterUrl": "https://image.tmdb.org/t/p/original/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+      "slug": "verity-la-sombra-de-un-engano",
+      "tmdbId": "1283515",
+      "type": "movie",
+      "duration": "114 min"
+    },
+    {
       "title": "Clayface",
       "synopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "rating": 7.6,
+      "rating": 7.5,
       "year": "2026",
       "genres": [
         "Terror",
@@ -19,45 +54,29 @@
       "duration": "108 min"
     },
     {
-      "title": "La constelación del perro",
-      "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
-      "rating": 6.6,
+      "title": "La isla olvidada",
+      "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+      "rating": 7.64,
       "year": "2026",
       "genres": [
-        "Drama",
-        "Suspenso",
-        "Aventura"
+        "Animación",
+        "Aventura",
+        "Fantasía",
+        "Comedia",
+        "Familia"
       ],
-      "cast": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce, Allison Janney",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
-      "slug": "la-constelacion-del-perro",
-      "tmdbId": "1384216",
+      "cast": "H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "slug": "la-isla-olvidada",
+      "tmdbId": "1465063",
       "type": "movie",
-      "duration": "119 min"
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.47,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ],
-      "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681",
-      "type": "movie",
-      "duration": "145 min"
+      "duration": "109 min"
     },
     {
       "title": "Hope",
       "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
-      "rating": 6.8,
+      "rating": 6.79,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -71,23 +90,6 @@
       "tmdbId": "1058424",
       "type": "movie",
       "duration": "157 min"
-    },
-    {
-      "title": "La bola negra",
-      "synopsis": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "rating": 8.2,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Guerra"
-      ],
-      "cast": "Guitarricadelafuente, Miguel Bernardeau, Carlos González, Milo Quifes, Lola Dueñas",
-      "posterUrl": "https://image.tmdb.org/t/p/original/t1azKLExwUxKj6v6m2L535evuRa.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-      "slug": "la-bola-negra",
-      "tmdbId": "1422041",
-      "type": "movie",
-      "duration": "155 min"
     },
     {
       "title": "Obsession",
@@ -126,23 +128,39 @@
       "type": "series"
     },
     {
-      "title": "Cyberpunk: Edgerunners",
-      "synopsis": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
-      "rating": 8.5,
-      "year": "2022",
+      "title": "Bleach",
+      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
+      "rating": 8.35,
+      "year": "2004",
       "genres": [
-        "Animación",
         "Acción",
         "Aventura",
+        "Animación",
         "Ciencia ficción",
-        "Fantasía",
-        "Crimen"
+        "Fantasía"
       ],
-      "cast": "Koki Uchiyama, Momoka Terasawa, Akari Kito, Kentaro Tone, Robert Smith",
-      "posterUrl": "https://image.tmdb.org/t/p/original/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
-      "slug": "cyberpunk-edgerunners",
-      "tmdbId": "105248",
+      "cast": "Masakazu Morita, Fumiko Orikasa, Hiroki Yasumoto, 松岡由貴, Noriaki Sugiyama",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "slug": "bleach",
+      "tmdbId": "30984",
+      "type": "series"
+    },
+    {
+      "title": "LA LISTA FINAL",
+      "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "rating": 8,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Drama"
+      ],
+      "cast": "Chris Pratt, Wanda Ndlovu, Jared Shaw, Chris Pratt",
+      "posterUrl": "https://image.tmdb.org/t/p/original/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+      "slug": "la-lista-final",
+      "tmdbId": "120911",
       "type": "series"
     },
     {
@@ -165,53 +183,40 @@
       "type": "series"
     },
     {
-      "title": "La mesa final",
-      "synopsis": "La Mesa: K-chef 2026 reúne a los mejores chefs coreanos para competir por el título de mejor chef. Chris K, misterioso y famosísimo chef, conocido como Kang Han, Song-yi, que quiere salvar su restaurante, Woo-jin, chef estrella perfeccionista, entre otros, se enfrentan en una feroz batalla culinaria. Más allá de la competición, encuentran consuelo en la comida y los unos en los otros.",
-      "rating": 8.25,
-      "year": "2026",
-      "genres": [
-        "Drama"
-      ],
-      "cast": "Ahn Hyo Seop, 홍화연, 장률, 정유진, 장영남",
-      "posterUrl": "https://image.tmdb.org/t/p/original/v1VV1eSf5oE4hz6hf2W8niHlCmx.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
-      "slug": "la-mesa-final",
-      "tmdbId": "316702",
-      "type": "series"
-    },
-    {
-      "title": "LA LISTA FINAL",
-      "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "rating": 8,
+      "title": "Cyberpunk: Edgerunners",
+      "synopsis": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
+      "rating": 8.5,
       "year": "2022",
       "genres": [
+        "Animación",
         "Acción",
         "Aventura",
-        "Drama"
+        "Ciencia ficción",
+        "Fantasía",
+        "Crimen"
       ],
-      "cast": "Chris Pratt, Wanda Ndlovu, Jared Shaw, Chris Pratt",
-      "posterUrl": "https://image.tmdb.org/t/p/original/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
-      "slug": "la-lista-final",
-      "tmdbId": "120911",
+      "cast": "Koki Uchiyama, Momoka Terasawa, Akari Kito, Kentaro Tone, Robert Smith",
+      "posterUrl": "https://image.tmdb.org/t/p/original/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+      "slug": "cyberpunk-edgerunners",
+      "tmdbId": "105248",
       "type": "series"
     },
     {
-      "title": "Carrie",
-      "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-      "rating": 8.31,
+      "title": "VisionQuest",
+      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "rating": 8.71,
       "year": "2026",
       "genres": [
-        "Misterio",
-        "Drama",
         "Ciencia ficción",
-        "Fantasía"
+        "Fantasía",
+        "Drama"
       ],
-      "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-      "slug": "carrie",
-      "tmdbId": "288673",
+      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "slug": "visionquest",
+      "tmdbId": "213375",
       "type": "series"
     }
   ],
@@ -222,13 +227,30 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "La constelación del perro",
+          "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+          "rating": 6.58,
+          "year": "2026",
+          "genres": [
+            "Suspenso",
+            "Aventura",
+            "Ciencia ficción"
+          ],
+          "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong",
+          "posterUrl": "https://image.tmdb.org/t/p/original/unyqtCtZiLvcqAAbw3vvCuPwt78.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/joVtII9prX3MC4a2LfoKsiMWET3.jpg",
+          "slug": "la-constelacion-del-perro",
+          "tmdbId": "1384216",
+          "type": "movie",
+          "duration": "119 min"
+        },
+        {
           "title": "You Can See Everything",
           "synopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
           "rating": 9.1,
           "year": "2026",
           "genres": [
-            "Documental",
-            "Suspenso"
+            "Documental"
           ],
           "cast": "Elizabeth Holmes, Nathan Fielder, Billy Evans, Amanda Seyfried, Christopher Abbott",
           "posterUrl": "https://image.tmdb.org/t/p/original/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
@@ -293,7 +315,7 @@
         {
           "title": "El desastre del sumergible del Titanic",
           "synopsis": "En junio de 2023, el sumergible Titan desapareció durante una inmersión hacia los restos del Titanic, provocando la muerte de las cinco personas a bordo.  La noticia tuvo una enorme repercusión y desató una frenética especulación en redes sociales. Este documental reconstruye el desastre del Titan a partir de los testimonios de personas afectadas por la tragedia y del acceso al equipo de la Junta de Investigación Marítima de la Guardia Costera de Estados Unidos. Incluye, además, imágenes inéditas de su inventor, Stockton Rush, durante la última inmersión exitosa del sumergible al Titanic, así como material exclusivo de una de sus últimas entrevistas televisivas antes de la implosión. Todo ello ofrece una visión reveladora de su personalidad: su resistencia a escuchar a los escépticos y, al mismo tiempo, su capacidad para inspirar a quienes le rodeaban.",
-          "rating": 6.47,
+          "rating": 6.5,
           "year": "2025",
           "genres": [
             "Documental"
@@ -360,7 +382,7 @@
         {
           "title": "Hot Wheels ¡A correr!: El ataque del T-Rex",
           "synopsis": "Cuando un gigantesco tiranosaurio amenaza la ciudad de Hot Wheels, Coop y sus amigos deben correr contrarreloj para rescatar a sus habitantes y salvar el día.",
-          "rating": 6.4,
+          "rating": 8.2,
           "year": "2026",
           "genres": [
             "Animación",
@@ -374,24 +396,6 @@
           "tmdbId": "1802674",
           "type": "movie",
           "duration": "47 min"
-        },
-        {
-          "title": "La Oveja Shaun: Misión Calabaza",
-          "synopsis": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
-          "rating": 7.4,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Ciencia ficción",
-            "Comedia"
-          ],
-          "cast": "Justin Fletcher, John Sparkes, Nina Sosanya, Kate Harbour, Rich Webber",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-          "slug": "la-oveja-shaun-mision-calabaza",
-          "tmdbId": "1477104",
-          "type": "movie",
-          "duration": "81 min"
         }
       ]
     },
@@ -420,15 +424,15 @@
         {
           "title": "Noche fatídica",
           "synopsis": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
-          "rating": 0.5,
+          "rating": 5.08,
           "year": "2026",
           "genres": [
             "Suspenso",
             "Crimen"
           ],
-          "cast": "मनोज बाजपेयी, Divya Dutta, Nushrratt Bharuccha, Saqib Saleem, Kiku Sharda",
+          "cast": "मनोज बाजपेयी, Divya Dutta, Akshay Oberoi, Saqib Saleem, Shraddha Das",
           "posterUrl": "https://image.tmdb.org/t/p/original/un3NZLu9lMneHtRlzdaMonF7qHY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cdcW8GeAyBLPVBhTbOoTlBywNtp.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8I4YFWgi9IZW4VUi398A0BqLnm.jpg",
           "slug": "noche-fatidica",
           "tmdbId": "1453407",
           "type": "movie",
@@ -437,7 +441,7 @@
         {
           "title": "Klara y el Sol",
           "synopsis": "Una niña robot, creada con el propósito de prevenir la soledad, se propone salvar a una familia de humanos con el corazón roto.",
-          "rating": 6.07,
+          "rating": 5.69,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
@@ -454,7 +458,7 @@
         {
           "title": "Hot Wheels ¡A correr!: El ataque del T-Rex",
           "synopsis": "Cuando un gigantesco tiranosaurio amenaza la ciudad de Hot Wheels, Coop y sus amigos deben correr contrarreloj para rescatar a sus habitantes y salvar el día.",
-          "rating": 6.4,
+          "rating": 8.2,
           "year": "2026",
           "genres": [
             "Animación",
@@ -472,7 +476,7 @@
         {
           "title": "Clayface",
           "synopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-          "rating": 7.6,
+          "rating": 7.5,
           "year": "2026",
           "genres": [
             "Terror",
@@ -539,7 +543,7 @@
         {
           "title": "'Tis the Season for Setups",
           "synopsis": "Hyper organized single mom and party planner Lexi, her free-spirited mother June, and teen daughter Piper are set to spend Christmas at a local ski resort after Lexi is hired to organize their annual holiday party. Upon arrival, she immediately butts heads with Ridge, the ski instructor and son of the lodge's owner, Dan.",
-          "rating": 0,
+          "rating": 2,
           "year": "2026",
           "genres": [
             "Romance"
@@ -558,8 +562,7 @@
           "rating": 9.1,
           "year": "2026",
           "genres": [
-            "Documental",
-            "Suspenso"
+            "Documental"
           ],
           "cast": "Elizabeth Holmes, Nathan Fielder, Billy Evans, Amanda Seyfried, Christopher Abbott",
           "posterUrl": "https://image.tmdb.org/t/p/original/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
