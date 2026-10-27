@@ -19,6 +19,24 @@
       "duration": "108 min"
     },
     {
+      "title": "La constelación del perro",
+      "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+      "rating": 6.6,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Suspenso",
+        "Aventura"
+      ],
+      "cast": "Jacob Elordi, Margaret Qualley, Josh Brolin, Guy Pearce, Allison Janney",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
+      "slug": "la-constelacion-del-perro",
+      "tmdbId": "1384216",
+      "type": "movie",
+      "duration": "119 min"
+    },
+    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 8.47,
@@ -37,21 +55,22 @@
       "duration": "145 min"
     },
     {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.17,
+      "title": "Hope",
+      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+      "rating": 6.8,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Suspenso"
+        "Ciencia ficción",
+        "Misterio",
+        "Acción"
       ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
+      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
+      "posterUrl": "https://image.tmdb.org/t/p/original/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+      "slug": "hope-1058424",
+      "tmdbId": "1058424",
       "type": "movie",
-      "duration": "109 min"
+      "duration": "157 min"
     },
     {
       "title": "La bola negra",
@@ -71,40 +90,21 @@
       "duration": "155 min"
     },
     {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.3,
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.17,
       "year": "2026",
       "genres": [
         "Terror",
-        "Ciencia ficción",
-        "Aventura"
+        "Suspenso"
       ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
       "type": "movie",
-      "duration": "95 min"
-    },
-    {
-      "title": "Hope",
-      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
-      "rating": 6.8,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Misterio",
-        "Acción"
-      ],
-      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
-      "posterUrl": "https://image.tmdb.org/t/p/original/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-      "slug": "hope-1058424",
-      "tmdbId": "1058424",
-      "type": "movie",
-      "duration": "157 min"
+      "duration": "109 min"
     }
   ],
   "seriesHero": [
@@ -165,6 +165,21 @@
       "type": "series"
     },
     {
+      "title": "La mesa final",
+      "synopsis": "La Mesa: K-chef 2026 reúne a los mejores chefs coreanos para competir por el título de mejor chef. Chris K, misterioso y famosísimo chef, conocido como Kang Han, Song-yi, que quiere salvar su restaurante, Woo-jin, chef estrella perfeccionista, entre otros, se enfrentan en una feroz batalla culinaria. Más allá de la competición, encuentran consuelo en la comida y los unos en los otros.",
+      "rating": 8.25,
+      "year": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "cast": "Ahn Hyo Seop, 홍화연, 장률, 정유진, 장영남",
+      "posterUrl": "https://image.tmdb.org/t/p/original/v1VV1eSf5oE4hz6hf2W8niHlCmx.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+      "slug": "la-mesa-final",
+      "tmdbId": "316702",
+      "type": "series"
+    },
+    {
       "title": "LA LISTA FINAL",
       "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
       "rating": 8,
@@ -179,23 +194,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
       "slug": "la-lista-final",
       "tmdbId": "120911",
-      "type": "series"
-    },
-    {
-      "title": "VisionQuest",
-      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.76,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Fantasía",
-        "Drama"
-      ],
-      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "slug": "visionquest",
-      "tmdbId": "213375",
       "type": "series"
     },
     {
@@ -223,6 +221,91 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "You Can See Everything",
+          "synopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
+          "rating": 9.1,
+          "year": "2026",
+          "genres": [
+            "Documental",
+            "Suspenso"
+          ],
+          "cast": "Elizabeth Holmes, Nathan Fielder, Billy Evans, Amanda Seyfried, Christopher Abbott",
+          "posterUrl": "https://image.tmdb.org/t/p/original/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+          "slug": "you-can-see-everything",
+          "tmdbId": "1765072",
+          "type": "movie",
+          "duration": "174 min"
+        },
+        {
+          "title": "La vida es",
+          "synopsis": "Nora is about to turn 40 and can't stop wondering: what's the point of all this? What was meant to be a celebration turns into a series of unfortunate missteps that push her toward self-discovery. With open wounds, unspoken desires, and a burning past, Nora confronts her family history, death, unemployment, the collapse of her polyamorous relationship, and the urgent need to redefine love, her sexuality, and what she truly wants from life.",
+          "rating": 6,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Natalia Plascencia, Paulina García, Rubén Ochandiano, Naian González Norvind, Geraldine Zinat",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vMFkStVuCTecf6nkCvfOIS03bZS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/fxWUt3IeSLr53T6fcnhMb1m7kM0.jpg",
+          "slug": "la-vida-es",
+          "tmdbId": "1529400",
+          "type": "movie",
+          "duration": "119 min"
+        },
+        {
+          "title": "Viva",
+          "synopsis": "En un futuro marcado por la sequía extrema, Nora, una mujer a las puertas de los 40, enfrenta el retorno a su vida después de superar un cáncer de mama. Verá tambalear sus planes con la irrupción de Max, un chico de 23 años.",
+          "rating": 5.8,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama",
+            "Ciencia ficción"
+          ],
+          "cast": "Aina Clotet, Marc Soler Rull, Naby Dakhli, Guillermo Toledo, Lloll Bertran",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wz7HsO4RQ5hCkW0Aavv6PoqR0Wo.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/g1e4eGYySgxwAV6Uu1R7f6eOwsr.jpg",
+          "slug": "viva",
+          "tmdbId": "1474225",
+          "type": "movie",
+          "duration": "113 min"
+        },
+        {
+          "title": "Titán: La tragedia de OceanGate",
+          "synopsis": "El submarino Titán de OceanGate implosionó en 2023 durante una inmersión a los restos del Titanic. Este documental narra cómo una visión ambiciosa acabó en tragedia.",
+          "rating": 7.1,
+          "year": "2025",
+          "genres": [
+            "Documental",
+            "Drama"
+          ],
+          "cast": "Stockton Rush, Emily Hammermeister, David Lochridge, Tony Nissen, Jason Neubauer",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9xTBAMbuADcxvwcAB4hiSDPVv9x.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cBRDacpg1Q6ZOKSxrOhhgkKx9NI.jpg",
+          "slug": "titan-la-tragedia-de-oceangate",
+          "tmdbId": "1426306",
+          "type": "movie",
+          "duration": "112 min"
+        },
+        {
+          "title": "El desastre del sumergible del Titanic",
+          "synopsis": "En junio de 2023, el sumergible Titan desapareció durante una inmersión hacia los restos del Titanic, provocando la muerte de las cinco personas a bordo.  La noticia tuvo una enorme repercusión y desató una frenética especulación en redes sociales. Este documental reconstruye el desastre del Titan a partir de los testimonios de personas afectadas por la tragedia y del acceso al equipo de la Junta de Investigación Marítima de la Guardia Costera de Estados Unidos. Incluye, además, imágenes inéditas de su inventor, Stockton Rush, durante la última inmersión exitosa del sumergible al Titanic, así como material exclusivo de una de sus últimas entrevistas televisivas antes de la implosión. Todo ello ofrece una visión reveladora de su personalidad: su resistencia a escuchar a los escépticos y, al mismo tiempo, su capacidad para inspirar a quienes le rodeaban.",
+          "rating": 6.47,
+          "year": "2025",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Josh Gates, Stockton Rush, Sara Powell, Jason Neubauer, Kelly Steele",
+          "posterUrl": "https://image.tmdb.org/t/p/original/i8e4NOl9pF6ahVBkNj06jQrKCJf.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dcscvI7IrrlBHW6I0sDl6VQdoHL.jpg",
+          "slug": "el-desastre-del-sumergible-del-titanic",
+          "tmdbId": "1482059",
+          "type": "movie",
+          "duration": "60 min"
+        },
         {
           "title": "El ases",
           "synopsis": "Con la vida de su hija en juego, un prestigioso abogado no tiene más remedio que defender a un hombre al que considera culpable y se ve obligado a acallar su conciencia.",
@@ -309,92 +392,6 @@
           "tmdbId": "1477104",
           "type": "movie",
           "duration": "81 min"
-        },
-        {
-          "title": "La aventura en el tiempo de Bob y Patricio",
-          "synopsis": "Cuando el armario del tiempo de Patrick se estropea, la historia de Bob Esponja es reescrita por intrusos que viajan en el tiempo.",
-          "rating": 6,
-          "year": "2025",
-          "genres": [
-            "Animación",
-            "Familia",
-            "Comedia"
-          ],
-          "cast": "Tom Kenny, Bill Fagerbakke, Rodger Bumpass, Clancy Brown, Carolyn Lawrence",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6kBZ2CTolHtaB9AyIkZl1lAg9j3.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5lalD90RjKDHievqTAlGOPFSaFE.jpg",
-          "slug": "la-aventura-en-el-tiempo-de-bob-y-patricio",
-          "tmdbId": "1589799",
-          "type": "movie",
-          "duration": "43 min"
-        },
-        {
-          "title": "Yo soy Rocky",
-          "synopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Historia"
-          ],
-          "cast": "Anthony Ippolito, AnnaSophia Robb, Stephan James, Matt Dillon, P.J. Byrne",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
-          "slug": "yo-soy-rocky",
-          "tmdbId": "1286656",
-          "type": "movie",
-          "duration": "128 min"
-        },
-        {
-          "title": "Finding Emily",
-          "synopsis": "Cuando a un músico enamorado le dan el número equivocado de la chica de sus sueños, acaba haciendo equipo con una estudiante de psicología para encontrarla. Juntos desencadenan un hilarante frenesí por todo el campus, que pone a prueba sus propios corazones y ambiciones.",
-          "rating": 6.85,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Comedia"
-          ],
-          "cast": "Spike Fearn, Angourie Rice, Cora Kirk, Jack Riddiford, Isabella Laughland",
-          "posterUrl": "https://image.tmdb.org/t/p/original/twBhBmAeWXwy9Og5M4tPFVRVZHH.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7Ja28gO6OwncmCA94q2qPyeRrsA.jpg",
-          "slug": "finding-emily",
-          "tmdbId": "1339588",
-          "type": "movie",
-          "duration": "111 min"
-        },
-        {
-          "title": "KATSEYE: Wild Hearts",
-          "synopsis": "Una celebración de la nueva etapa del grupo y de los fans que la han hecho posible. Incluye imágenes exclusivas del detrás de las cámaras, vídeos de fans de Eyekons y entrevistas íntimas con los miembros.",
-          "rating": 7.13,
-          "year": "2026",
-          "genres": [
-            "Documental",
-            "Música"
-          ],
-          "cast": "Sophia Laforteza, Daniela Avanzini, Lara Raj, Megan Skiendiel, 정윤채",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pb7bvzTKA2vzWGZXwkXoQXVx8O3.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/q6Iq6wutoM7AqekJ831ycBOqCxp.jpg",
-          "slug": "katseye-wild-hearts",
-          "tmdbId": "1728113",
-          "type": "movie",
-          "duration": "80 min"
-        },
-        {
-          "title": "Noche fatídica",
-          "synopsis": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
-          "rating": 0.5,
-          "year": "2026",
-          "genres": [
-            "Suspenso",
-            "Crimen"
-          ],
-          "cast": "मनोज बाजपेयी, Divya Dutta, Nushrratt Bharuccha, Saqib Saleem, Kiku Sharda",
-          "posterUrl": "https://image.tmdb.org/t/p/original/un3NZLu9lMneHtRlzdaMonF7qHY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cdcW8GeAyBLPVBhTbOoTlBywNtp.jpg",
-          "slug": "noche-fatidica",
-          "tmdbId": "1453407",
-          "type": "movie",
-          "duration": "124 min"
         }
       ]
     },
@@ -556,21 +553,21 @@
           "duration": "84 min"
         },
         {
-          "title": "Masterplan",
-          "synopsis": "Un legendario ladrón se propone robar la Mona Lisa y recluta a dos jóvenes para que le ayuden: Chiara, una experta en cibercrimen italiana, y Jay, un especialista en explosivos francés. Más tarde, les confiesa que es el padre de ambos. Tras una caótica reunión, los miembros de esta nueva familia deben aprender a trabajar juntos y a no matarse entre ellos para completar con éxito el robo del siglo.",
-          "rating": 7,
+          "title": "You Can See Everything",
+          "synopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
+          "rating": 9.1,
           "year": "2026",
           "genres": [
-            "Acción",
+            "Documental",
             "Suspenso"
           ],
-          "cast": "Stanley Tucci, Simona Tabasco, Victor Belmondo, Eliott Margueron, Barbara Lo Gaglio",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pLLvKhqTngUispTyDofvoEDKrxa.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
-          "slug": "masterplan",
-          "tmdbId": "1561726",
+          "cast": "Elizabeth Holmes, Nathan Fielder, Billy Evans, Amanda Seyfried, Christopher Abbott",
+          "posterUrl": "https://image.tmdb.org/t/p/original/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+          "slug": "you-can-see-everything",
+          "tmdbId": "1765072",
           "type": "movie",
-          "duration": "110 min"
+          "duration": "174 min"
         }
       ]
     }
@@ -581,6 +578,69 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Cautiva",
+          "synopsis": "Una joven devota entra en un convento de clausura sin sospechar que los abusos de la madre superiora acabarán quebrando su espíritu.",
+          "rating": 7.8,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Carolina Kopelioff, Lorena Vega, Valeria Lois, Tomás Wicz, Lautaro Bettoni",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uWCL01IPrfDTjO2VTzMwZvVPzXv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
+          "slug": "cautiva",
+          "tmdbId": "333631",
+          "type": "series"
+        },
+        {
+          "title": "Un amor distinto al tuyo",
+          "synopsis": "Una historia de amor realista, emocional y cercana sobre una pareja en su décimo año de relación, que ve cómo sentimientos desconocidos ponen a prueba su estabilidad.",
+          "rating": 6.3,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "서강준, 안은진",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+          "slug": "un-amor-distinto-al-tuyo",
+          "tmdbId": "314939",
+          "type": "series"
+        },
+        {
+          "title": "La mesa final",
+          "synopsis": "La Mesa: K-chef 2026 reúne a los mejores chefs coreanos para competir por el título de mejor chef. Chris K, misterioso y famosísimo chef, conocido como Kang Han, Song-yi, que quiere salvar su restaurante, Woo-jin, chef estrella perfeccionista, entre otros, se enfrentan en una feroz batalla culinaria. Más allá de la competición, encuentran consuelo en la comida y los unos en los otros.",
+          "rating": 8.25,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Ahn Hyo Seop, 홍화연, 장률, 정유진, 장영남",
+          "posterUrl": "https://image.tmdb.org/t/p/original/v1VV1eSf5oE4hz6hf2W8niHlCmx.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+          "slug": "la-mesa-final",
+          "tmdbId": "316702",
+          "type": "series"
+        },
+        {
+          "title": "La isla del tesoro",
+          "synopsis": "Cuando Jim se hace con un legendario mapa del tesoro, las acciones inteligentes y decididas de su madre, Bess, hacen que él acabe en posesión de una valiosa información que pone en peligro la vida de ambos. A bordo del «Hispaniola», Jim y Bess se ven atrapados entre el encantador y aterrador pirata Long John Silver y el elegante y traicionero agente británico Aaron Graham.",
+          "rating": 6.6,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Aventura"
+          ],
+          "cast": "David Oyelowo, Tom Sweet, תומר קאפון, Craige Els, Neil Pendleton",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rnTcsrrDckwC2QmEQ1M7YfJDMN7.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+          "slug": "la-isla-del-tesoro",
+          "tmdbId": "333101",
+          "type": "series"
+        },
         {
           "title": "Dragon Ball Super: Beerus",
           "synopsis": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
@@ -680,67 +740,6 @@
           "slug": "furia-280880",
           "tmdbId": "280880",
           "type": "series"
-        },
-        {
-          "title": "El primer matrimonio de Georgie y Mandy",
-          "synopsis": "Georgie y Mandy crían a su joven familia en Texas mientras enfrentan los desafíos de la edad adulta, la crianza de su hija y el matrimonio.",
-          "rating": 8.05,
-          "year": "2024",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Montana Jordan, Emily Osment, Rachel Bay Jones, Will Sasso, Dougie Baldwin",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ojh7fM6pDDu6p7RYdI3IsogiQWp.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
-          "slug": "el-primer-matrimonio-de-georgie-y-mandy",
-          "tmdbId": "243875",
-          "type": "series"
-        },
-        {
-          "title": "Outlander: Sangre de mi sangre",
-          "synopsis": "Desde los campos de batalla de la Primera Guerra Mundial hasta las escarpadas Tierras Altas de la Escocia del siglo XVIII, dos parejas predestinadas deben desafiar las fuerzas que buscan separarlas, desarrollándose de maneras sorprendentes e imprevistas en esta saga romántica que se desarrolla a través del tiempo.",
-          "rating": 8.72,
-          "year": "2025",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Harriet Slater, Jamie Roy, Hermione Corfield, Jeremy Irvine, Tony Curran",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2vEp7mniHlKcK6LKJxCu4hOr56V.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
-          "slug": "outlander-sangre-de-mi-sangre",
-          "tmdbId": "207484",
-          "type": "series"
-        },
-        {
-          "title": "¿Por casualidad hablaban de mí?",
-          "synopsis": "Tras pasar dos años triunfando en el extranjero, Gen vuelve a su país y descubre con estupor que todo el mundo le ha olvidado por completo, incluida su propia familia y el entorno del espectáculo.",
-          "rating": 8.5,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "役所広司, 賀来賢人, Noriko Eguchi, 河合優実, 浜田雅功",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cqqfz3t8xsuPLwl5Obo7f9KwFDE.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
-          "slug": "por-casualidad-hablaban-de-mi",
-          "tmdbId": "300527",
-          "type": "series"
-        },
-        {
-          "title": "TYSON",
-          "synopsis": "Explora la vida trepidante del boxeador Mike Tyson, una de las figuras más temidas y fascinantes de la historia del deporte.",
-          "rating": 8.5,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Mike Tyson, Jim Gray",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
-          "slug": "tyson",
-          "tmdbId": "335536",
-          "type": "series"
         }
       ]
     },
@@ -749,6 +748,21 @@
       "type": "series",
       "seeMoreSlug": "estrenos-series",
       "items": [
+        {
+          "title": "La mesa final",
+          "synopsis": "La Mesa: K-chef 2026 reúne a los mejores chefs coreanos para competir por el título de mejor chef. Chris K, misterioso y famosísimo chef, conocido como Kang Han, Song-yi, que quiere salvar su restaurante, Woo-jin, chef estrella perfeccionista, entre otros, se enfrentan en una feroz batalla culinaria. Más allá de la competición, encuentran consuelo en la comida y los unos en los otros.",
+          "rating": 8.25,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Ahn Hyo Seop, 홍화연, 장률, 정유진, 장영남",
+          "posterUrl": "https://image.tmdb.org/t/p/original/v1VV1eSf5oE4hz6hf2W8niHlCmx.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+          "slug": "la-mesa-final",
+          "tmdbId": "316702",
+          "type": "series"
+        },
         {
           "title": "Grande de España",
           "synopsis": "Don Leandro, un marqués arruinado que vive de las apariencias y sueña con ser nombrado Grande de España, ve una única salida a su desastre económico: vender su decadente palacete familiar en Madrid. La ocasión perfecta parece presentarse cuando la riquísima empresaria Sofía Carrington se interesa por la propiedad. Pero, a medida que avanzan las negociaciones - y las seducciones - queda claro que ​n​o son quienes aparentan ser.",
@@ -838,6 +852,25 @@
           "type": "series"
         },
         {
+          "title": "Un amor infiltrado",
+          "synopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
+          "rating": 7.5,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama",
+            "Crimen",
+            "Acción",
+            "Aventura"
+          ],
+          "cast": "Yim Si-wan, 설인아, 김정현, 연우, 류승수",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+          "slug": "un-amor-infiltrado",
+          "tmdbId": "303745",
+          "type": "series"
+        },
+        {
           "title": "Minami, abogada extraordinaria",
           "synopsis": "Con una memoria prodigiosa y una perspectiva única, Minami se enfrenta a retos dentro y fuera de los tribunales como abogada novata con trastorno del espectro autista",
           "rating": 6,
@@ -865,40 +898,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/kGagOgOWpsxvbNezuGDtNKZoeSh.jpg",
           "slug": "los-hilos-del-miedo",
           "tmdbId": "329665",
-          "type": "series"
-        },
-        {
-          "title": "Un amor infiltrado",
-          "synopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
-          "rating": 7.5,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama",
-            "Crimen",
-            "Acción",
-            "Aventura"
-          ],
-          "cast": "Yim Si-wan, 설인아, 김정현, 연우, 류승수",
-          "posterUrl": "https://image.tmdb.org/t/p/original/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-          "slug": "un-amor-infiltrado",
-          "tmdbId": "303745",
-          "type": "series"
-        },
-        {
-          "title": "Juegos amigos y sexo",
-          "synopsis": "Dos antiguos compañeros de colegio se reencuentran por casualidad, lo que da pie a un juego en el que cuatro parejas intercambian parejas durante una noche.",
-          "rating": 7.75,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Paula Kalenberg, Fridolin Sandmeyer, Salka Weber, Martin Bruchmann, Mona Pirzad",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2XVAJEE6FGUPei4yaFYnMR5TU09.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
-          "slug": "juegos-amigos-y-sexo",
-          "tmdbId": "298550",
           "type": "series"
         }
       ]
