@@ -1,6 +1,23 @@
 {
   "movieHero": [
     {
+      "title": "Verity. La sombra de un engaño",
+      "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "rating": 6.39,
+      "year": "2026",
+      "genres": [
+        "Misterio",
+        "Suspenso"
+      ],
+      "cast": "Anne Hathaway, Dakota Johnson, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
+      "posterUrl": "https://image.tmdb.org/t/p/original/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+      "slug": "verity-la-sombra-de-un-engano",
+      "tmdbId": "1283515",
+      "type": "movie",
+      "duration": "114 min"
+    },
+    {
       "title": "La constelación del perro",
       "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
       "rating": 6.6,
@@ -17,23 +34,6 @@
       "tmdbId": "1384216",
       "type": "movie",
       "duration": "119 min"
-    },
-    {
-      "title": "Verity. La sombra de un engaño",
-      "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.39,
-      "year": "2026",
-      "genres": [
-        "Misterio",
-        "Suspenso"
-      ],
-      "cast": "Anne Hathaway, Dakota Johnson, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
-      "posterUrl": "https://image.tmdb.org/t/p/original/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
-      "slug": "verity-la-sombra-de-un-engano",
-      "tmdbId": "1283515",
-      "type": "movie",
-      "duration": "114 min"
     },
     {
       "title": "La isla olvidada",
@@ -74,6 +74,23 @@
       "duration": "108 min"
     },
     {
+      "title": "Entrega al límite",
+      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
+      "rating": 8.3,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Comedia"
+      ],
+      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+      "slug": "entrega-al-limite",
+      "tmdbId": "1377237",
+      "type": "movie",
+      "duration": "97 min"
+    },
+    {
       "title": "Obsession",
       "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
       "rating": 8.17,
@@ -89,27 +106,26 @@
       "tmdbId": "1339713",
       "type": "movie",
       "duration": "109 min"
-    },
-    {
-      "title": "Hope",
-      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
-      "rating": 6.79,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Misterio",
-        "Acción"
-      ],
-      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
-      "posterUrl": "https://image.tmdb.org/t/p/original/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-      "slug": "hope-1058424",
-      "tmdbId": "1058424",
-      "type": "movie",
-      "duration": "157 min"
     }
   ],
   "seriesHero": [
+    {
+      "title": "VisionQuest",
+      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "rating": 8.64,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Fantasía",
+        "Drama"
+      ],
+      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "slug": "visionquest",
+      "tmdbId": "213375",
+      "type": "series"
+    },
     {
       "title": "Lupin",
       "synopsis": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
@@ -147,20 +163,23 @@
       "type": "series"
     },
     {
-      "title": "VisionQuest",
-      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.7,
-      "year": "2026",
+      "title": "Cyberpunk: Edgerunners",
+      "synopsis": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
+      "rating": 8.5,
+      "year": "2022",
       "genres": [
+        "Animación",
+        "Acción",
+        "Aventura",
         "Ciencia ficción",
         "Fantasía",
-        "Drama"
+        "Crimen"
       ],
-      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "slug": "visionquest",
-      "tmdbId": "213375",
+      "cast": "Koki Uchiyama, Momoka Terasawa, Akari Kito, Kentaro Tone, Robert Smith",
+      "posterUrl": "https://image.tmdb.org/t/p/original/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+      "slug": "cyberpunk-edgerunners",
+      "tmdbId": "105248",
       "type": "series"
     },
     {
@@ -178,26 +197,6 @@
       "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
       "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
-      "slug": "cyberpunk-edgerunners",
-      "tmdbId": "105248",
-      "type": "series"
-    },
-    {
-      "title": "Cyberpunk: Edgerunners",
-      "synopsis": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
-      "rating": 8.5,
-      "year": "2022",
-      "genres": [
-        "Animación",
-        "Acción",
-        "Aventura",
-        "Ciencia ficción",
-        "Fantasía",
-        "Crimen"
-      ],
-      "cast": "Koki Uchiyama, Momoka Terasawa, Akari Kito, Kentaro Tone, Robert Smith",
-      "posterUrl": "https://image.tmdb.org/t/p/original/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
       "slug": "cyberpunk-edgerunners",
       "tmdbId": "105248",
       "type": "series"
@@ -234,11 +233,12 @@
           "genres": [
             "Acción",
             "Suspenso",
-            "Ciencia ficción"
+            "Ciencia ficción",
+            "Familia"
           ],
           "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong",
           "posterUrl": "https://image.tmdb.org/t/p/original/unyqtCtZiLvcqAAbw3vvCuPwt78.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/joVtII9prX3MC4a2LfoKsiMWET3.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
           "slug": "la-constelacion-del-perro",
           "tmdbId": "1384216",
           "type": "movie",
