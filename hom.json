@@ -6,8 +6,8 @@
       "rating": 6.6,
       "year": "2026",
       "genres": [
+        "Acción",
         "Suspenso",
-        "Aventura",
         "Ciencia ficción"
       ],
       "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong",
@@ -74,6 +74,23 @@
       "duration": "108 min"
     },
     {
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.17,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Suspenso"
+      ],
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
+      "type": "movie",
+      "duration": "109 min"
+    },
+    {
       "title": "Hope",
       "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
       "rating": 6.79,
@@ -90,23 +107,6 @@
       "tmdbId": "1058424",
       "type": "movie",
       "duration": "157 min"
-    },
-    {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.17,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Suspenso"
-      ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
-      "type": "movie",
-      "duration": "109 min"
     }
   ],
   "seriesHero": [
@@ -147,23 +147,20 @@
       "type": "series"
     },
     {
-      "title": "Cyberpunk: Edgerunners",
-      "synopsis": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
-      "rating": 8.5,
-      "year": "2022",
+      "title": "VisionQuest",
+      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "rating": 8.7,
+      "year": "2026",
       "genres": [
-        "Animación",
-        "Acción",
-        "Aventura",
         "Ciencia ficción",
         "Fantasía",
-        "Crimen"
+        "Drama"
       ],
-      "cast": "Koki Uchiyama, Momoka Terasawa, Akari Kito, Kentaro Tone, Robert Smith",
-      "posterUrl": "https://image.tmdb.org/t/p/original/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
-      "slug": "cyberpunk-edgerunners",
-      "tmdbId": "105248",
+      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "slug": "visionquest",
+      "tmdbId": "213375",
       "type": "series"
     },
     {
@@ -186,6 +183,26 @@
       "type": "series"
     },
     {
+      "title": "Cyberpunk: Edgerunners",
+      "synopsis": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
+      "rating": 8.5,
+      "year": "2022",
+      "genres": [
+        "Animación",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía",
+        "Crimen"
+      ],
+      "cast": "Koki Uchiyama, Momoka Terasawa, Akari Kito, Kentaro Tone, Robert Smith",
+      "posterUrl": "https://image.tmdb.org/t/p/original/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+      "slug": "cyberpunk-edgerunners",
+      "tmdbId": "105248",
+      "type": "series"
+    },
+    {
       "title": "LA LISTA FINAL",
       "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
       "rating": 8,
@@ -200,23 +217,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
       "slug": "la-lista-final",
       "tmdbId": "120911",
-      "type": "series"
-    },
-    {
-      "title": "VisionQuest",
-      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.7,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Fantasía",
-        "Drama"
-      ],
-      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "slug": "visionquest",
-      "tmdbId": "213375",
       "type": "series"
     }
   ],
@@ -582,6 +582,103 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Between steps",
+          "synopsis": "Minjae, un antiguo nadador que perdió una pierna debido a una enfermedad, lleva una vida tranquila y controlada mientras estudia un doctorado. Sin embargo, todo cambia cuando conoce a Yujin, una estudiante de máster que intenta empezar de nuevo tras perder el rumbo de su vida. En un laboratorio de robótica, surge entre ellos un romance apasionado, agridulce y lleno de ternura.",
+          "rating": 9.1,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Choo Young-woo, 김소현",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yA4jv2ZJSVCbJ1s5F8oEpmhHxu2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
+          "slug": "between-steps",
+          "tmdbId": "307106",
+          "type": "series"
+        },
+        {
+          "title": "Amor, dulce amor",
+          "synopsis": "En una idílica isla japonesa, la trabajadora agricultora Karin Shirahama entrega su corazón y alma a cultivar las mejores fresas posibles. Un día, Lee Yubin, un chico de ciudad con mala suerte llega a la isla y, tras un primer encuentro hilarantemente incómodo, ambos terminan pasando mucho más tiempo juntos debido a un malentendido inesperado.",
+          "rating": 8.72,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "지창욱, Mio Imada, 남윤수, Rinka Kumada, 정순원",
+          "posterUrl": "https://image.tmdb.org/t/p/original/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+          "slug": "amor-dulce-amor",
+          "tmdbId": "305551",
+          "type": "series"
+        },
+        {
+          "title": "Youth",
+          "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
+          "rating": 6.86,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/iEISXRsDv8Q2PA6i9cAQd2DH9bN.jpg",
+          "slug": "youth",
+          "tmdbId": "285418",
+          "type": "series"
+        },
+        {
+          "title": "Reina roja",
+          "synopsis": "Antonia es la mujer más inteligente del mundo, lo que la convirtió en la Reina Roja de un proyecto policial secreto. Tras dejar el servicio por una tragedia personal, el policía Jon -fuerte, vasco, gay- revoluciona su vida y sus métodos en un emocionante caso doble, de secuestro y asesinato.",
+          "rating": 7,
+          "year": "2024",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Misterio"
+          ],
+          "cast": "Victoria Luengo, Hovik Keuchkerian, Karmele Larrinaga, Vicenta N'Dongo, Àlex Brendemühl",
+          "posterUrl": "https://image.tmdb.org/t/p/original/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
+          "slug": "reina-roja",
+          "tmdbId": "203667",
+          "type": "series"
+        },
+        {
+          "title": "100 días de engaño",
+          "synopsis": "La carterista más consumada de Gyeongseong anhela la libertad. Para lograrla, se infiltra en el Gobierno colonial japonés para robar secretos… y se enamora del hijo de su objetivo.",
+          "rating": 9.4,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Drama"
+          ],
+          "cast": "김유정, Jinyoung, 김현주, 이무생, 진선규",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zOSAKuyQfj3HmnvH4HU6GLu9cU8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+          "slug": "100-dias-de-engano",
+          "tmdbId": "293607",
+          "type": "series"
+        },
+        {
+          "title": "Los crímenes del cementerio de animales: una historia de terror",
+          "synopsis": "Un policía de Nueva Orleans investiga el asesinato del dueño de un cementerio de mascotas y descubre un pasado que aún persigue a la comunidad.",
+          "rating": 7.67,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Patricia Newman, Brain Vallelungo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mqJ2SwlEHBzAFykQXt820xmyUMF.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
+          "slug": "los-crimenes-del-cementerio-de-animales-una-historia-de-terror",
+          "tmdbId": "336418",
+          "type": "series"
+        },
+        {
           "title": "Cautiva",
           "synopsis": "Una joven devota entra en un convento de clausura sin sospechar que los abusos de la madre superiora acabarán quebrando su espíritu.",
           "rating": 7.83,
@@ -643,106 +740,6 @@
           "slug": "la-isla-del-tesoro",
           "tmdbId": "333101",
           "type": "series"
-        },
-        {
-          "title": "Dragon Ball Super: Beerus",
-          "synopsis": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
-          "rating": 9.66,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Acción",
-            "Aventura",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Masako Nozawa, Ryo Horikawa, Naoko Watanabe, Unsho Ishizuka, Koichi Yamadera",
-          "posterUrl": "https://image.tmdb.org/t/p/original/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-          "slug": "dragon-ball-super-beerus",
-          "tmdbId": "312359",
-          "type": "series"
-        },
-        {
-          "title": "Coppola, el representante",
-          "synopsis": "La vida y las anécdotas de Guillermo Coppola, célebre \"bon vivant\", y su lucha por conciliar su agitada vida privada con las insólitas consecuencias de ser el mánager de Diego Armando Maradona, el jugador de fútbol más famoso del mundo.",
-          "rating": 8.2,
-          "year": "2024",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/1YjZ2U8m5hphz7RmEYmegQB0oTt.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mE9t0xryrKlTdbbhmM06rJPy2M4.jpg",
-          "slug": "coppola-el-representante",
-          "tmdbId": "128330",
-          "type": "series"
-        },
-        {
-          "title": "Carrie",
-          "synopsis": "Tras la repentina y prematura muerte de su padre, Carrie se ve arrojada al despiadado ecosistema del instituto público. Tiene que enfrentarse a un escándalo de ciberacoso que sacude a toda la comunidad, la presión continua, la crueldad de la era de las redes sociales y el despertar de unos misteriosos poderes telequinéticos que la acompañan en su adolescencia.",
-          "rating": 8.31,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Summer H. Howell, Samantha Sloyan, Siena Agudong, Alison Thornton, Joel Oulette",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/9yCJtipMeDe8uAdSJKvw8BnYfRz.jpg",
-          "slug": "carrie",
-          "tmdbId": "288673",
-          "type": "series"
-        },
-        {
-          "title": "El colombiano de Keko",
-          "synopsis": "La producción colombiana reconstruye el encierro de Andrés Felipe Ballesteros y la lucha de su familia por demostrar su inocencia, con Juan Cruz como protagonista. Christian Tappan y Juan Pablo Raba forman parte del elenco",
-          "rating": 0,
-          "year": "2026",
-          "genres": [],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/a0lVuPyGhCrW6xi9xhJb5I0h5AI.jpg",
-          "backdropUrl": null,
-          "slug": "el-colombiano-de-keko",
-          "tmdbId": "339909",
-          "type": "series"
-        },
-        {
-          "title": "Volveré Por Ti",
-          "synopsis": "Una actriz y su hermano gemelo viajan en el tiempo e intercambian cuerpos para salvar la vida de su amiga.",
-          "rating": 9,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "보나, 박서함, 장세혁, Moon Seung-you",
-          "posterUrl": "https://image.tmdb.org/t/p/original/21pLXbvuyfgUaAhhxkuvoX1pAN1.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
-          "slug": "dive-into-you",
-          "tmdbId": "316197",
-          "type": "series"
-        },
-        {
-          "title": "Furia",
-          "synopsis": "Cinco mujeres al límite pronto sacarán a la justiciera que llevan dentro, dispuestas a todo ante situaciones límite como extorsión, opresión, engaño, exclusión o manipulación en un único universo compartido, contemporáneo, articulado alrededor de cinco conflictos que se desarrollarán como un efecto mariposa, uno como consecuencia del otro.",
-          "rating": 6.6,
-          "year": "2025",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Claudia Salas, Ana Torrent, Maribel Verdú, Carmen Maura, María León",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bT5Spwgz1bb6Ux4RSAPnfPcfWsm.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ry8SRujfnDF21lpCx1Ap3Lrupuy.jpg",
-          "slug": "furia-280880",
-          "tmdbId": "280880",
-          "type": "series"
         }
       ]
     },
@@ -769,7 +766,7 @@
         {
           "title": "Grande de España",
           "synopsis": "Don Leandro, un marqués arruinado que vive de las apariencias y sueña con ser nombrado Grande de España, ve una única salida a su desastre económico: vender su decadente palacete familiar en Madrid. La ocasión perfecta parece presentarse cuando la riquísima empresaria Sofía Carrington se interesa por la propiedad. Pero, a medida que avanzan las negociaciones - y las seducciones - queda claro que ​n​o son quienes aparentan ser.",
-          "rating": 0,
+          "rating": 5,
           "year": "2026",
           "genres": [
             "Comedia",
