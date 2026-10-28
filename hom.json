@@ -20,16 +20,17 @@
     {
       "title": "La constelación del perro",
       "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
-      "rating": 6.6,
+      "rating": 6.75,
       "year": "2026",
       "genres": [
         "Acción",
         "Suspenso",
-        "Ciencia ficción"
+        "Ciencia ficción",
+        "Familia"
       ],
       "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong",
       "posterUrl": "https://image.tmdb.org/t/p/original/unyqtCtZiLvcqAAbw3vvCuPwt78.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/joVtII9prX3MC4a2LfoKsiMWET3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
       "slug": "la-constelacion-del-perro",
       "tmdbId": "1384216",
       "type": "movie",
@@ -91,28 +92,29 @@
       "duration": "97 min"
     },
     {
-      "title": "Obsession",
-      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "rating": 8.17,
+      "title": "Hope",
+      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+      "rating": 6.79,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Suspenso"
+        "Ciencia ficción",
+        "Misterio",
+        "Acción"
       ],
-      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-      "posterUrl": "https://image.tmdb.org/t/p/original/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "slug": "obsesion-1339713",
-      "tmdbId": "1339713",
+      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
+      "posterUrl": "https://image.tmdb.org/t/p/original/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+      "slug": "hope-1058424",
+      "tmdbId": "1058424",
       "type": "movie",
-      "duration": "109 min"
+      "duration": "157 min"
     }
   ],
   "seriesHero": [
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.64,
+      "rating": 8.59,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -163,6 +165,22 @@
       "type": "series"
     },
     {
+      "title": "Crystal Lake",
+      "synopsis": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
+      "rating": 8.63,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Linda Cardellini, William Catlett, Gwendolyn Sundstrom, Cameron Scoggins, Devin Kessler",
+      "posterUrl": "https://image.tmdb.org/t/p/original/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
+      "slug": "crystal-lake",
+      "tmdbId": "213562",
+      "type": "series"
+    },
+    {
       "title": "Cyberpunk: Edgerunners",
       "synopsis": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
       "rating": 8.5,
@@ -200,23 +218,6 @@
       "slug": "cyberpunk-edgerunners",
       "tmdbId": "105248",
       "type": "series"
-    },
-    {
-      "title": "LA LISTA FINAL",
-      "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "rating": 8,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Drama"
-      ],
-      "cast": "Chris Pratt, Wanda Ndlovu, Jared Shaw, Chris Pratt",
-      "posterUrl": "https://image.tmdb.org/t/p/original/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
-      "slug": "la-lista-final",
-      "tmdbId": "120911",
-      "type": "series"
     }
   ],
   "movieSections": [
@@ -228,7 +229,7 @@
         {
           "title": "La constelación del perro",
           "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
-          "rating": 6.6,
+          "rating": 6.75,
           "year": "2026",
           "genres": [
             "Acción",
