@@ -114,7 +114,7 @@
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.59,
+      "rating": 8.63,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -165,19 +165,20 @@
       "type": "series"
     },
     {
-      "title": "Crystal Lake",
-      "synopsis": "Cuando dos desconocidos llegan a la puerta de Pam indagando en su pasado, se desencadenan inquietantes acontecimientos que lleva a los habitantes de Crystal Lake a preguntarse: ¿Quién es realmente Pam Voorhees?",
-      "rating": 8.63,
-      "year": "2026",
+      "title": "LA LISTA FINAL",
+      "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
+      "rating": 8,
+      "year": "2022",
       "genres": [
-        "Drama",
-        "Misterio"
+        "Acción",
+        "Aventura",
+        "Drama"
       ],
-      "cast": "Linda Cardellini, William Catlett, Gwendolyn Sundstrom, Cameron Scoggins, Devin Kessler",
-      "posterUrl": "https://image.tmdb.org/t/p/original/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wxiBsKFEOOFK8eQStWOykNORlXY.jpg",
-      "slug": "crystal-lake",
-      "tmdbId": "213562",
+      "cast": "Chris Pratt, Wanda Ndlovu, Jared Shaw, Chris Pratt",
+      "posterUrl": "https://image.tmdb.org/t/p/original/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+      "slug": "la-lista-final",
+      "tmdbId": "120911",
       "type": "series"
     },
     {
@@ -227,9 +228,146 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "Hold the Fort",
+          "synopsis": "La película sigue a Lucas y Jenny, quienes creen que su vida finalmente está tomando forma cuando la pareja se convierte en propietaria de una vivienda. Sin embargo, no saben que su nueva casa trae consigo una gran desventaja. Lucas y Jenny pronto se ven envueltos en una lucha por sus vidas al verse atrapados en una batalla entre la Asociación de Propietarios y una avalancha de monstruos infernales. Esta comedia de terror aborda la actual preocupación de ser propietario de una vivienda y la convierte en una emocionante aventura llena de acción.",
+          "rating": 6.1,
+          "year": "2025",
+          "genres": [
+            "Terror",
+            "Comedia"
+          ],
+          "cast": "Chris Mayers, Haley Leary, Michelle I. Lamb, Levi Burdick, Hamid-Reza Benjamin Thompson",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fnq6itOtvCXRBjwuq96hkYu0pCX.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/2Czzw6qOeYAWhWnFEx8WSmA0E8F.jpg",
+          "slug": "hold-the-fort",
+          "tmdbId": "1481603",
+          "type": "movie",
+          "duration": "76 min"
+        },
+        {
+          "title": "Hanging by a Wire",
+          "synopsis": "Al ceder un cable de un teleférico, ocho personas quedan suspendidas a 275 metros de altura en el Himalaya. Con el único cable restante a punto de romperse, un grupo de rescate corre a salvarlos.",
+          "rating": 5.2,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/q90G7OV76xR7NOHu8m19iaudHO1.jpg",
+          "slug": "hanging-by-a-wire",
+          "tmdbId": "1480856",
+          "type": "movie",
+          "duration": "77 min"
+        },
+        {
+          "title": "Oro sin ley",
+          "synopsis": "Oregón, 1933. Samuel Murphy (Ethan Hawke) es separado de su hija y enviado a un campo de trabajo. Un día, el alcaide Clancy (Russell Crowe) le ofrece la posibilidad de liberarlo si consigue pasar oro de contrabando a través de una peligrosa senda salvaje. ¿Hasta dónde será capaz de llegar Murphy por reencontrarse con su querida hija?",
+          "rating": 6.7,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Suspenso"
+          ],
+          "cast": "Ethan Hawke, Russell Crowe, Julia Jones, Austin Amelio, Avi Nash",
+          "posterUrl": "https://image.tmdb.org/t/p/original/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
+          "slug": "oro-sin-ley",
+          "tmdbId": "1433583",
+          "type": "movie",
+          "duration": "112 min"
+        },
+        {
+          "title": "La isla olvidada",
+          "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+          "rating": 7.54,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Aventura",
+            "Fantasía",
+            "Comedia",
+            "Familia"
+          ],
+          "cast": "H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+          "slug": "la-isla-olvidada",
+          "tmdbId": "1465063",
+          "type": "movie",
+          "duration": "109 min"
+        },
+        {
+          "title": "Contra el huracán",
+          "synopsis": "En medio del mar, Wirpul y su hermanastro Candi luchan por sobrevivir cuando una inesperada tormenta se convierte en el huracán Otis, de categoría 5, frente a las costas de Acapulco.",
+          "rating": 6.49,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Benny Emmanuel, Kristyan Ferrer, Mónica del Carmen, Mónica Jiménez, Andrew Leland Rogers",
+          "posterUrl": "https://image.tmdb.org/t/p/original/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+          "slug": "contra-el-huracan",
+          "tmdbId": "1780005",
+          "type": "movie",
+          "duration": "97 min"
+        },
+        {
+          "title": "Drive: Los farsantes",
+          "synopsis": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
+          "rating": 7.6,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Suspenso"
+          ],
+          "cast": "Lisa-Marie Koroll, Amin Baahmed, Gustav Schmidt, Mišel Matičević, Lucie Heinze",
+          "posterUrl": "https://image.tmdb.org/t/p/original/aSvA1Xat045jh8ck7U626PPkzH1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+          "slug": "drive-los-farsantes",
+          "tmdbId": "1596275",
+          "type": "movie",
+          "duration": "103 min"
+        },
+        {
+          "title": "Ali G: Kién es yo?",
+          "synopsis": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+          "rating": 6.5,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Sacha Baron Cohen, Morgana Robinson, C. Stewart Rodeheaver, Allan Lichtman, George Santos",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mgsw0NVOn5VX9rA6An8ijwUFX7q.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/qp8SJuT4E8jOU0yb6L3d1dXMgA0.jpg",
+          "slug": "ali-g-kien-es-yo",
+          "tmdbId": "1727734",
+          "type": "movie",
+          "duration": "89 min"
+        },
+        {
+          "title": "Mallorca confidencial",
+          "synopsis": "Mallorca, año 2007. La Chusa, matriarca de un poblado chabolista, maneja el mercado de la droga con el apoyo de vecinos, traficantes y policías. Pero cuando sufre un sustancioso robo, ve cómo se tambalea su poder y su familia.",
+          "rating": 5.9,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama",
+            "Suspenso"
+          ],
+          "cast": "Lolita Flores, Asia Ortega, Jordi Sánchez, Elena Furiase",
+          "posterUrl": "https://image.tmdb.org/t/p/original/v2kPpCxw4Dr2CLsOt6Yco1mS4LY.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3oLQ7vyfhvqANR51bnukJZG80TD.jpg",
+          "slug": "mallorca-confidencial",
+          "tmdbId": "1447879",
+          "type": "movie",
+          "duration": "90 min"
+        },
+        {
           "title": "La constelación del perro",
           "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
-          "rating": 6.75,
+          "rating": 6.77,
           "year": "2026",
           "genres": [
             "Acción",
@@ -246,157 +384,22 @@
           "duration": "119 min"
         },
         {
-          "title": "You Can See Everything",
-          "synopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
-          "rating": 9.1,
+          "title": "Wicker",
+          "synopsis": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella.",
+          "rating": 8,
           "year": "2026",
           "genres": [
-            "Documental"
+            "Romance",
+            "Fantasía",
+            "Comedia"
           ],
-          "cast": "Elizabeth Holmes, Nathan Fielder, Billy Evans, Amanda Seyfried, Christopher Abbott",
-          "posterUrl": "https://image.tmdb.org/t/p/original/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-          "slug": "you-can-see-everything",
-          "tmdbId": "1765072",
+          "cast": "Olivia Colman, Alexander Skarsgård, Peter Dinklage, Elizabeth Debicki, Marli Siu",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ewPz6uvKrbKlQrLRi1r9NTZQLzN.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+          "slug": "wicker",
+          "tmdbId": "1195803",
           "type": "movie",
-          "duration": "174 min"
-        },
-        {
-          "title": "La vida es",
-          "synopsis": "Nora is about to turn 40 and can't stop wondering: what's the point of all this? What was meant to be a celebration turns into a series of unfortunate missteps that push her toward self-discovery. With open wounds, unspoken desires, and a burning past, Nora confronts her family history, death, unemployment, the collapse of her polyamorous relationship, and the urgent need to redefine love, her sexuality, and what she truly wants from life.",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Natalia Plascencia, Paulina García, Rubén Ochandiano, Naian González Norvind, Geraldine Zinat",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vMFkStVuCTecf6nkCvfOIS03bZS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/fxWUt3IeSLr53T6fcnhMb1m7kM0.jpg",
-          "slug": "la-vida-es",
-          "tmdbId": "1529400",
-          "type": "movie",
-          "duration": "119 min"
-        },
-        {
-          "title": "Viva",
-          "synopsis": "En un futuro marcado por la sequía extrema, Nora, una mujer a las puertas de los 40, enfrenta el retorno a su vida después de superar un cáncer de mama. Verá tambalear sus planes con la irrupción de Max, un chico de 23 años.",
-          "rating": 5.8,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama",
-            "Ciencia ficción"
-          ],
-          "cast": "Aina Clotet, Marc Soler Rull, Naby Dakhli, Guillermo Toledo, Lloll Bertran",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wz7HsO4RQ5hCkW0Aavv6PoqR0Wo.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/g1e4eGYySgxwAV6Uu1R7f6eOwsr.jpg",
-          "slug": "viva",
-          "tmdbId": "1474225",
-          "type": "movie",
-          "duration": "113 min"
-        },
-        {
-          "title": "Titán: La tragedia de OceanGate",
-          "synopsis": "El submarino Titán de OceanGate implosionó en 2023 durante una inmersión a los restos del Titanic. Este documental narra cómo una visión ambiciosa acabó en tragedia.",
-          "rating": 7.1,
-          "year": "2025",
-          "genres": [
-            "Documental",
-            "Drama"
-          ],
-          "cast": "Stockton Rush, Emily Hammermeister, David Lochridge, Tony Nissen, Jason Neubauer",
-          "posterUrl": "https://image.tmdb.org/t/p/original/9xTBAMbuADcxvwcAB4hiSDPVv9x.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cBRDacpg1Q6ZOKSxrOhhgkKx9NI.jpg",
-          "slug": "titan-la-tragedia-de-oceangate",
-          "tmdbId": "1426306",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
-          "title": "El desastre del sumergible del Titanic",
-          "synopsis": "En junio de 2023, el sumergible Titan desapareció durante una inmersión hacia los restos del Titanic, provocando la muerte de las cinco personas a bordo.  La noticia tuvo una enorme repercusión y desató una frenética especulación en redes sociales. Este documental reconstruye el desastre del Titan a partir de los testimonios de personas afectadas por la tragedia y del acceso al equipo de la Junta de Investigación Marítima de la Guardia Costera de Estados Unidos. Incluye, además, imágenes inéditas de su inventor, Stockton Rush, durante la última inmersión exitosa del sumergible al Titanic, así como material exclusivo de una de sus últimas entrevistas televisivas antes de la implosión. Todo ello ofrece una visión reveladora de su personalidad: su resistencia a escuchar a los escépticos y, al mismo tiempo, su capacidad para inspirar a quienes le rodeaban.",
-          "rating": 6.5,
-          "year": "2025",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Josh Gates, Stockton Rush, Sara Powell, Jason Neubauer, Kelly Steele",
-          "posterUrl": "https://image.tmdb.org/t/p/original/i8e4NOl9pF6ahVBkNj06jQrKCJf.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dcscvI7IrrlBHW6I0sDl6VQdoHL.jpg",
-          "slug": "el-desastre-del-sumergible-del-titanic",
-          "tmdbId": "1482059",
-          "type": "movie",
-          "duration": "60 min"
-        },
-        {
-          "title": "El ases",
-          "synopsis": "Con la vida de su hija en juego, un prestigioso abogado no tiene más remedio que defender a un hombre al que considera culpable y se ve obligado a acallar su conciencia.",
-          "rating": 5.7,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Suspenso"
-          ],
-          "cast": "सनी द्योल, अक्षय खन्ना, Tillotama Shome, Dia Mirza, Sanjeeda Sheikh",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2WP3AFHdceval0tsvndxENylzxu.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
-          "slug": "el-ases",
-          "tmdbId": "1484913",
-          "type": "movie",
-          "duration": "141 min"
-        },
-        {
-          "title": "Marea oscura",
-          "synopsis": "Una ambiciosa ecologista regresa a Ameland, la isla holandesa de su infancia, solo para descubrir una peligrosa red de contrabando de drogas que opera en la zona. Atrapada en una espiral de amenazas y secretos familiares, se verá obligada a tomar una difícil decisión: exponer la verdad a las autoridades o guardar silencio para proteger a sus seres queridos.",
-          "rating": 6.6,
-          "year": "2026",
-          "genres": [
-            "Suspenso"
-          ],
-          "cast": "Vajèn van den Bosch, Juvat Westendorp, Mingus Dagelet, Bart Harder, Jord Knotter",
-          "posterUrl": "https://image.tmdb.org/t/p/original/aUUQXiiGA3LFHHemf3UgHVF4y5C.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/vdGafAruKcmtR8jNjk5OpVDXUpX.jpg",
-          "slug": "marea-oscura",
-          "tmdbId": "1662858",
-          "type": "movie",
-          "duration": "111 min"
-        },
-        {
-          "title": "Magallanes",
-          "synopsis": "Magallanes presenta la colonización de Filipinas como un encuentro primigenio e impactante con lo desconocido y una reinterpretación radical de las narrativas europeas de descubrimiento y exploración.",
-          "rating": 6.3,
-          "year": "2025",
-          "genres": [
-            "Historia",
-            "Aventura",
-            "Drama"
-          ],
-          "cast": "Gael García Bernal, Amado Arjay Babon, Ronnie Lazaro, Ângela Ramos, Dario Yazbek Bernal",
-          "posterUrl": "https://image.tmdb.org/t/p/original/foN8ncD7QNAQcP7eCE2NyNcfIzB.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8nv5MUtEBMX4DDkrFkDhkppRxuD.jpg",
-          "slug": "magallanes",
-          "tmdbId": "975335",
-          "type": "movie",
-          "duration": "164 min"
-        },
-        {
-          "title": "Hot Wheels ¡A correr!: El ataque del T-Rex",
-          "synopsis": "Cuando un gigantesco tiranosaurio amenaza la ciudad de Hot Wheels, Coop y sus amigos deben correr contrarreloj para rescatar a sus habitantes y salvar el día.",
-          "rating": 8.2,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Familia",
-            "Acción"
-          ],
-          "cast": "Carter Burney, Amari McCoy, Josh Keaton, Risa Mei, Griffen Campbell",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7U9AeL58qz0Rx3w4ywCRCuiId5D.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dK69ml1Y34MrEovK4ZyizRiWbEH.jpg",
-          "slug": "hot-wheels-a-correr-el-ataque-del-t-rex",
-          "tmdbId": "1802674",
-          "type": "movie",
-          "duration": "47 min"
+          "duration": "105 min"
         }
       ]
     },
@@ -405,6 +408,43 @@
       "type": "movie",
       "seeMoreSlug": "estrenos",
       "items": [
+        {
+          "title": "El despertar",
+          "synopsis": "En lo más profundo de la selva amazónica, una unidad militar de élite es enviada a eliminar un objetivo estratégico, sin embargo, la operación se convierte en una pesadilla cuando se enfrentan a un enemigo para el que no estaban preparados. Mobuya, el espíritu protector de un territorio sagrado que no se puede cruzar, se cierra sobre el comando, desatando un terror milenario y sobrenatural. En el mismo infierno, separados por siglos, otra expedición de conquistadores españoles es consumida por la misma fuerza implacable. Al combatir la desconocida fuerza de Mobuya, ambas incursiones sólo podrán luchar por sus vidas.",
+          "rating": 7.12,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Acción",
+            "Guerra",
+            "Fantasía",
+            "Suspenso"
+          ],
+          "cast": "Claudio Cataño, Alejandro Buitrago, Hector Sánchez, Andrea Olaya, Quique Sanmartin",
+          "posterUrl": "https://image.tmdb.org/t/p/original/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
+          "slug": "el-despertar-1657630",
+          "tmdbId": "1657630",
+          "type": "movie",
+          "duration": "96 min"
+        },
+        {
+          "title": "Drive: Los farsantes",
+          "synopsis": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
+          "rating": 7.6,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Suspenso"
+          ],
+          "cast": "Lisa-Marie Koroll, Amin Baahmed, Gustav Schmidt, Mišel Matičević, Lucie Heinze",
+          "posterUrl": "https://image.tmdb.org/t/p/original/aSvA1Xat045jh8ck7U626PPkzH1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+          "slug": "drive-los-farsantes",
+          "tmdbId": "1596275",
+          "type": "movie",
+          "duration": "103 min"
+        },
         {
           "title": "BTS: el regreso",
           "synopsis": "¡Han vuelto! En este documental que sigue al grupo en su nueva etapa, BTS se reúne en Los Ángeles para grabar su álbum 'ARIRANG'.",
@@ -425,7 +465,7 @@
         {
           "title": "Noche fatídica",
           "synopsis": "La noche de un policía corrupto y atormentado se sale de madre cuando un acto de compasión involuntario hacia una chica herida lo arrastra a una peligrosa red criminal.",
-          "rating": 5.08,
+          "rating": 4.19,
           "year": "2026",
           "genres": [
             "Suspenso",
@@ -440,9 +480,75 @@
           "duration": "124 min"
         },
         {
+          "title": "Contra el huracán",
+          "synopsis": "En medio del mar, Wirpul y su hermanastro Candi luchan por sobrevivir cuando una inesperada tormenta se convierte en el huracán Otis, de categoría 5, frente a las costas de Acapulco.",
+          "rating": 6.49,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Benny Emmanuel, Kristyan Ferrer, Mónica del Carmen, Mónica Jiménez, Andrew Leland Rogers",
+          "posterUrl": "https://image.tmdb.org/t/p/original/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+          "slug": "contra-el-huracan",
+          "tmdbId": "1780005",
+          "type": "movie",
+          "duration": "97 min"
+        },
+        {
+          "title": "Ali G: Kién es yo?",
+          "synopsis": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+          "rating": 6.5,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Sacha Baron Cohen, Morgana Robinson, C. Stewart Rodeheaver, Allan Lichtman, George Santos",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mgsw0NVOn5VX9rA6An8ijwUFX7q.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/qp8SJuT4E8jOU0yb6L3d1dXMgA0.jpg",
+          "slug": "ali-g-kien-es-yo",
+          "tmdbId": "1727734",
+          "type": "movie",
+          "duration": "89 min"
+        },
+        {
+          "title": "Wicker",
+          "synopsis": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Fantasía",
+            "Comedia"
+          ],
+          "cast": "Olivia Colman, Alexander Skarsgård, Peter Dinklage, Elizabeth Debicki, Marli Siu",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ewPz6uvKrbKlQrLRi1r9NTZQLzN.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+          "slug": "wicker",
+          "tmdbId": "1195803",
+          "type": "movie",
+          "duration": "105 min"
+        },
+        {
+          "title": "Hanging by a Wire",
+          "synopsis": "Al ceder un cable de un teleférico, ocho personas quedan suspendidas a 275 metros de altura en el Himalaya. Con el único cable restante a punto de romperse, un grupo de rescate corre a salvarlos.",
+          "rating": 5.2,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/q90G7OV76xR7NOHu8m19iaudHO1.jpg",
+          "slug": "hanging-by-a-wire",
+          "tmdbId": "1480856",
+          "type": "movie",
+          "duration": "77 min"
+        },
+        {
           "title": "Klara y el Sol",
           "synopsis": "Una niña robot, creada con el propósito de prevenir la soledad, se propone salvar a una familia de humanos con el corazón roto.",
-          "rating": 5.69,
+          "rating": 5.7,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
@@ -459,7 +565,7 @@
         {
           "title": "Hot Wheels ¡A correr!: El ataque del T-Rex",
           "synopsis": "Cuando un gigantesco tiranosaurio amenaza la ciudad de Hot Wheels, Coop y sus amigos deben correr contrarreloj para rescatar a sus habitantes y salvar el día.",
-          "rating": 8.2,
+          "rating": 8.1,
           "year": "2026",
           "genres": [
             "Animación",
@@ -473,105 +579,6 @@
           "tmdbId": "1802674",
           "type": "movie",
           "duration": "47 min"
-        },
-        {
-          "title": "Clayface",
-          "synopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-          "rating": 7.5,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Suspenso",
-            "Ciencia ficción"
-          ],
-          "cast": "Tom Rhys Harries, Naomi Ackie, Eddie Marsan, Max Minghella, David Dencik",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-          "slug": "clayface",
-          "tmdbId": "1400940",
-          "type": "movie",
-          "duration": "108 min"
-        },
-        {
-          "title": "Ayahuasca Haunting: The Vine of Souls",
-          "synopsis": "A reclusive prodigy turns to the occult, brewing ayahuasca, the fabled vine of souls, and unknowingly opens a portal, unleashing an entity from another dimension.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Terror"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/65zy6d92VbxAPSKFu0OFCLzdvPo.jpg",
-          "backdropUrl": null,
-          "slug": "ayahuasca-haunting-the-vine-of-souls",
-          "tmdbId": "1800824",
-          "type": "movie"
-        },
-        {
-          "title": "Solterísima también",
-          "synopsis": "Dineo y Noni, dos mejores amigas, tienen pensado salir juntas de fiesta, pero las cosas cambian cuando el novio de Noni le pide matrimonio de improviso.",
-          "rating": 5.5,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Romance"
-          ],
-          "cast": "Fulu Modibedi, Tumi Morake, Buntu Petse, Keke Mphuthi, Yonda Thomas",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xj9zvjuyt5MEhxjnbQbNCZDHR2l.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/vVVTDymwLVogjz4JxoNv1BAfYCH.jpg",
-          "slug": "solterisima-tambien",
-          "tmdbId": "1773759",
-          "type": "movie",
-          "duration": "99 min"
-        },
-        {
-          "title": "Lego Friends: Heartlake el musical",
-          "synopsis": "Una niña construye un mundo con sus piezas de Lego y, de pronto, aparece en Heartlake City, donde la esperan grandes aventuras y nuevas amistades.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Fantasía",
-            "Música"
-          ],
-          "cast": "Jada Langley, Gino Ochello, Hannah Gracie, Angelina Li, Gracie McGonigal",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6PMMEU8eHSN0TlPG6koC8EEvavx.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/AabTg6wBsygQYoyOqpbe6miWovJ.jpg",
-          "slug": "lego-friends-heartlake-el-musical",
-          "tmdbId": "1512493",
-          "type": "movie",
-          "duration": "50 min"
-        },
-        {
-          "title": "'Tis the Season for Setups",
-          "synopsis": "Hyper organized single mom and party planner Lexi, her free-spirited mother June, and teen daughter Piper are set to spend Christmas at a local ski resort after Lexi is hired to organize their annual holiday party. Upon arrival, she immediately butts heads with Ridge, the ski instructor and son of the lodge's owner, Dan.",
-          "rating": 2,
-          "year": "2026",
-          "genres": [
-            "Romance"
-          ],
-          "cast": "Amanda Schull, Victor Webster, Barbara Niven, Verity Marks, John B. Lowe",
-          "posterUrl": "https://image.tmdb.org/t/p/original/gf3lx7vxAoSONF2TYerFwLDeHzV.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/kOf2kqgdaLkoOBNn8W041E8JVve.jpg",
-          "slug": "tis-the-season-for-setups",
-          "tmdbId": "1772765",
-          "type": "movie",
-          "duration": "84 min"
-        },
-        {
-          "title": "You Can See Everything",
-          "synopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
-          "rating": 9.1,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Elizabeth Holmes, Nathan Fielder, Billy Evans, Amanda Seyfried, Christopher Abbott",
-          "posterUrl": "https://image.tmdb.org/t/p/original/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-          "slug": "you-can-see-everything",
-          "tmdbId": "1765072",
-          "type": "movie",
-          "duration": "174 min"
         }
       ]
     }
@@ -773,8 +780,8 @@
             "Comedia",
             "Drama"
           ],
-          "cast": "Antonio de la Torre, Alexandra Jiménez, Enric Benavent, Fernando Andina, Mercedes Sampietro",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jhjVQtqQgSYjv91IoYWyZvMoqZF.jpg",
+          "cast": "Antonio de la Torre, Alexandra Jiménez, Enric Benavent, Fernando Andina, Celia de Molina",
+          "posterUrl": "https://image.tmdb.org/t/p/original/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
           "slug": "grande-de-espana",
           "tmdbId": "335535",
