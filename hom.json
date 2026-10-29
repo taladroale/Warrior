@@ -3,24 +3,58 @@
     {
       "title": "Verity. La sombra de un engaño",
       "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.39,
+      "rating": 6.34,
       "year": "2026",
       "genres": [
         "Misterio",
-        "Suspenso"
+        "Suspenso",
+        "Drama"
       ],
       "cast": "Anne Hathaway, Dakota Johnson, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
       "posterUrl": "https://image.tmdb.org/t/p/original/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9qxyrJfjk577ym5WD6HCDmunoyO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
       "slug": "verity-la-sombra-de-un-engano",
       "tmdbId": "1283515",
       "type": "movie",
       "duration": "114 min"
     },
     {
+      "title": "Drive: Los farsantes",
+      "synopsis": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
+      "rating": 7.6,
+      "year": "2026",
+      "genres": [
+        "Romance",
+        "Suspenso"
+      ],
+      "cast": "Lisa-Marie Koroll, Amin Baahmed, Gustav Schmidt, Mišel Matičević, Lucie Heinze",
+      "posterUrl": "https://image.tmdb.org/t/p/original/aSvA1Xat045jh8ck7U626PPkzH1.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
+      "slug": "drive-los-farsantes",
+      "tmdbId": "1596275",
+      "type": "movie",
+      "duration": "103 min"
+    },
+    {
+      "title": "Ali G: Kién es yo?",
+      "synopsis": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+      "rating": 6.5,
+      "year": "2026",
+      "genres": [
+        "Comedia"
+      ],
+      "cast": "Sacha Baron Cohen, Morgana Robinson, C. Stewart Rodeheaver, Allan Lichtman, George Santos",
+      "posterUrl": "https://image.tmdb.org/t/p/original/mgsw0NVOn5VX9rA6An8ijwUFX7q.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qp8SJuT4E8jOU0yb6L3d1dXMgA0.jpg",
+      "slug": "ali-g-kien-es-yo",
+      "tmdbId": "1727734",
+      "type": "movie",
+      "duration": "89 min"
+    },
+    {
       "title": "La constelación del perro",
       "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
-      "rating": 6.75,
+      "rating": 6.77,
       "year": "2026",
       "genres": [
         "Acción",
@@ -39,7 +73,7 @@
     {
       "title": "La isla olvidada",
       "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "rating": 7.64,
+      "rating": 7.54,
       "year": "2026",
       "genres": [
         "Animación",
@@ -59,7 +93,7 @@
     {
       "title": "Clayface",
       "synopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "rating": 7.5,
+      "rating": 7.46,
       "year": "2026",
       "genres": [
         "Terror",
@@ -73,48 +107,13 @@
       "tmdbId": "1400940",
       "type": "movie",
       "duration": "108 min"
-    },
-    {
-      "title": "Entrega al límite",
-      "synopsis": "Un exsoldado se ve envuelto en una brutal carrera contrarreloj cuando una entrega médica crucial los convierte, a él y a su inesperada compañera, en el objetivo de un cártel despiadado. A medida que la misión se transforma en una cacería mortal, cada desvío, retraso y bala los acerca más al fracaso. Acosados ​​por la traición desde todos los frentes, deberán sobrevivir a la persecución y entregar su carga para salvar la vida de una niña.",
-      "rating": 8.3,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Comedia"
-      ],
-      "cast": "Alan Ritchson, Owen Wilson, Rodrigo Santoro, Leila George, Kate Box",
-      "posterUrl": "https://image.tmdb.org/t/p/original/pmjSjZtFOYDWhAs4B2AbBE8hTQf.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
-      "slug": "entrega-al-limite",
-      "tmdbId": "1377237",
-      "type": "movie",
-      "duration": "97 min"
-    },
-    {
-      "title": "Hope",
-      "synopsis": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
-      "rating": 6.79,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Misterio",
-        "Acción"
-      ],
-      "cast": "황정민, 조인성, 정호연, Alicia Vikander, Michael Fassbender",
-      "posterUrl": "https://image.tmdb.org/t/p/original/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-      "slug": "hope-1058424",
-      "tmdbId": "1058424",
-      "type": "movie",
-      "duration": "157 min"
     }
   ],
   "seriesHero": [
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.63,
+      "rating": 8.68,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -123,7 +122,7 @@
       ],
       "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
       "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
       "slug": "visionquest",
       "tmdbId": "213375",
       "type": "series"
@@ -167,16 +166,16 @@
     {
       "title": "LA LISTA FINAL",
       "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "rating": 8,
+      "rating": 7.99,
       "year": "2022",
       "genres": [
         "Acción",
         "Aventura",
         "Drama"
       ],
-      "cast": "Chris Pratt, Wanda Ndlovu, Jared Shaw, Chris Pratt",
+      "cast": "Chris Pratt, Constance Wu, Tom Hopper, Dar Salim, Ольга Куриленко",
       "posterUrl": "https://image.tmdb.org/t/p/original/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
       "slug": "la-lista-final",
       "tmdbId": "120911",
       "type": "series"
@@ -184,7 +183,7 @@
     {
       "title": "Cyberpunk: Edgerunners",
       "synopsis": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
-      "rating": 8.5,
+      "rating": 8.51,
       "year": "2022",
       "genres": [
         "Animación",
@@ -196,7 +195,7 @@
       ],
       "cast": "Koki Uchiyama, Momoka Terasawa, Akari Kito, Kentaro Tone, Robert Smith",
       "posterUrl": "https://image.tmdb.org/t/p/original/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/4NmCfWHzytiKM3riCMcbVYBJhlB.jpg",
       "slug": "cyberpunk-edgerunners",
       "tmdbId": "105248",
       "type": "series"
@@ -590,163 +589,167 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
-          "title": "Between steps",
-          "synopsis": "Minjae, un antiguo nadador que perdió una pierna debido a una enfermedad, lleva una vida tranquila y controlada mientras estudia un doctorado. Sin embargo, todo cambia cuando conoce a Yujin, una estudiante de máster que intenta empezar de nuevo tras perder el rumbo de su vida. En un laboratorio de robótica, surge entre ellos un romance apasionado, agridulce y lleno de ternura.",
-          "rating": 9.1,
+          "title": "Doctor X Mafia in White",
+          "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
+          "rating": 9.3,
           "year": "2026",
           "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Choo Young-woo, 김소현",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yA4jv2ZJSVCbJ1s5F8oEpmhHxu2.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
-          "slug": "between-steps",
-          "tmdbId": "307106",
-          "type": "series"
-        },
-        {
-          "title": "Amor, dulce amor",
-          "synopsis": "En una idílica isla japonesa, la trabajadora agricultora Karin Shirahama entrega su corazón y alma a cultivar las mejores fresas posibles. Un día, Lee Yubin, un chico de ciudad con mala suerte llega a la isla y, tras un primer encuentro hilarantemente incómodo, ambos terminan pasando mucho más tiempo juntos debido a un malentendido inesperado.",
-          "rating": 8.72,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "지창욱, Mio Imada, 남윤수, Rinka Kumada, 정순원",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
-          "slug": "amor-dulce-amor",
-          "tmdbId": "305551",
-          "type": "series"
-        },
-        {
-          "title": "Youth",
-          "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-          "rating": 6.86,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/iEISXRsDv8Q2PA6i9cAQd2DH9bN.jpg",
-          "slug": "youth",
-          "tmdbId": "285418",
-          "type": "series"
-        },
-        {
-          "title": "Reina roja",
-          "synopsis": "Antonia es la mujer más inteligente del mundo, lo que la convirtió en la Reina Roja de un proyecto policial secreto. Tras dejar el servicio por una tragedia personal, el policía Jon -fuerte, vasco, gay- revoluciona su vida y sus métodos en un emocionante caso doble, de secuestro y asesinato.",
-          "rating": 7,
-          "year": "2024",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Misterio"
-          ],
-          "cast": "Victoria Luengo, Hovik Keuchkerian, Karmele Larrinaga, Vicenta N'Dongo, Àlex Brendemühl",
-          "posterUrl": "https://image.tmdb.org/t/p/original/kWp6VEXlh7mMxbIZyYHWfVHetts.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
-          "slug": "reina-roja",
-          "tmdbId": "203667",
-          "type": "series"
-        },
-        {
-          "title": "100 días de engaño",
-          "synopsis": "La carterista más consumada de Gyeongseong anhela la libertad. Para lograrla, se infiltra en el Gobierno colonial japonés para robar secretos… y se enamora del hijo de su objetivo.",
-          "rating": 9.4,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Drama"
-          ],
-          "cast": "김유정, Jinyoung, 김현주, 이무생, 진선규",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zOSAKuyQfj3HmnvH4HU6GLu9cU8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-          "slug": "100-dias-de-engano",
-          "tmdbId": "293607",
-          "type": "series"
-        },
-        {
-          "title": "Los crímenes del cementerio de animales: una historia de terror",
-          "synopsis": "Un policía de Nueva Orleans investiga el asesinato del dueño de un cementerio de mascotas y descubre un pasado que aún persigue a la comunidad.",
-          "rating": 7.67,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Patricia Newman, Brain Vallelungo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mqJ2SwlEHBzAFykQXt820xmyUMF.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
-          "slug": "los-crimenes-del-cementerio-de-animales-una-historia-de-terror",
-          "tmdbId": "336418",
-          "type": "series"
-        },
-        {
-          "title": "Cautiva",
-          "synopsis": "Una joven devota entra en un convento de clausura sin sospechar que los abusos de la madre superiora acabarán quebrando su espíritu.",
-          "rating": 7.83,
-          "year": "2026",
-          "genres": [
+            "Misterio",
             "Drama",
             "Crimen"
           ],
-          "cast": "Carolina Kopelioff, Lorena Vega, Valeria Lois, Tomás Wicz, Lautaro Bettoni",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uWCL01IPrfDTjO2VTzMwZvVPzXv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/eH8dA6pqku0uWlaqAvbCB79i86f.jpg",
-          "slug": "cautiva",
-          "tmdbId": "333631",
+          "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+          "slug": "doctor-x-mafia-in-white",
+          "tmdbId": "293610",
           "type": "series"
         },
         {
-          "title": "Un amor distinto al tuyo",
-          "synopsis": "Una historia de amor realista, emocional y cercana sobre una pareja en su décimo año de relación, que ve cómo sentimientos desconocidos ponen a prueba su estabilidad.",
-          "rating": 6.3,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "서강준, 안은진",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
-          "slug": "un-amor-distinto-al-tuyo",
-          "tmdbId": "314939",
-          "type": "series"
-        },
-        {
-          "title": "La mesa final",
-          "synopsis": "La Mesa: K-chef 2026 reúne a los mejores chefs coreanos para competir por el título de mejor chef. Chris K, misterioso y famosísimo chef, conocido como Kang Han, Song-yi, que quiere salvar su restaurante, Woo-jin, chef estrella perfeccionista, entre otros, se enfrentan en una feroz batalla culinaria. Más allá de la competición, encuentran consuelo en la comida y los unos en los otros.",
-          "rating": 8.25,
+          "title": "Colisión",
+          "synopsis": "Muerto el magnate Miguel Ángel en un misterioso accidente, su hija Zoé y su esposa separada Belén luchan por su empresa.",
+          "rating": 8,
           "year": "2026",
           "genres": [
             "Drama"
           ],
-          "cast": "Ahn Hyo Seop, 홍화연, 장률, 정유진, 장영남",
-          "posterUrl": "https://image.tmdb.org/t/p/original/v1VV1eSf5oE4hz6hf2W8niHlCmx.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
-          "slug": "la-mesa-final",
-          "tmdbId": "316702",
+          "cast": "Margarita Rosa de Francisco, Macarena Achaga, Diego Klein, Christian Vázquez, Juan Pablo Castaneda",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4loiHfZZx027yP0CtErtCPbkTc1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/oaRWutbj0UiJej6xIYB3p8wwP9V.jpg",
+          "slug": "colision",
+          "tmdbId": "331033",
           "type": "series"
         },
         {
-          "title": "La isla del tesoro",
-          "synopsis": "Cuando Jim se hace con un legendario mapa del tesoro, las acciones inteligentes y decididas de su madre, Bess, hacen que él acabe en posesión de una valiosa información que pone en peligro la vida de ambos. A bordo del «Hispaniola», Jim y Bess se ven atrapados entre el encantador y aterrador pirata Long John Silver y el elegante y traicionero agente británico Aaron Graham.",
-          "rating": 6.6,
+          "title": "Anatomía de Grey",
+          "synopsis": "La vida de Meredith Grey no es nada fácil. Intenta tomar las riendas de su vida, aunque su trabajo sea de esos que te hacen la vida imposible. Meredith es una cirujana interna de primer año en el Hospital Grace de Seattle, el programa de prácticas más duro de la Facultad de Medicina de Harvard. Y ella lo va a comprobar. Pero no estará sola. Un elenco de compañeros de promoción tendrán que superar la misma prueba. Ahora están en el mundo real, son doctores del hospital. Y en un mundo donde la experiencia en el trabajo puede ser un factor de vida o muerte, todos ellos tendrán que lidiar con los altibajos de sus vidas personales.",
+          "rating": 8.2,
+          "year": "2005",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Ellen Pompeo, Chandra Wilson, James Pickens Jr., Caterina Scorsone, Camilla Luddington",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+          "slug": "anatomia-de-grey",
+          "tmdbId": "1416",
+          "type": "series"
+        },
+        {
+          "title": "Farsante",
+          "synopsis": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
+          "rating": 7.4,
           "year": "2026",
           "genres": [
+            "Comedia",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Connie Britton, Sam Nivola, Grace Brennan, Maliq Johnson, Meera Syal",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/AdFlgN6pKI6C481z2KshrQL204w.jpg",
+          "slug": "farsante",
+          "tmdbId": "275139",
+          "type": "series"
+        },
+        {
+          "title": "VisionQuest",
+          "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+          "rating": 8.63,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Fantasía",
+            "Drama"
+          ],
+          "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+          "slug": "visionquest",
+          "tmdbId": "213375",
+          "type": "series"
+        },
+        {
+          "title": "American Hostage",
+          "synopsis": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
+          "rating": 6.7,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Jon Hamm, Giovanni Ribisi, Kristoffer Polaha, William Jackson Harper, Mireille Enos",
+          "posterUrl": "https://image.tmdb.org/t/p/original/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+          "slug": "american-hostage",
+          "tmdbId": "239618",
+          "type": "series"
+        },
+        {
+          "title": "Buscando a Wanda",
+          "synopsis": "Cuando desaparece su hija, los Klatt deciden tomar cartas en el asunto y urden un plan disparatado: espiar al vecindario. A medida que avanzan en esta operación de espionaje de poca monta, van desvelando asombrosos secretos.",
+          "rating": 6.6,
+          "year": "2024",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Oliver Lansley",
+          "posterUrl": "https://image.tmdb.org/t/p/original/p3T1XtOvwBVaeG5tpB4sfhikng9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
+          "slug": "buscando-a-wanda",
+          "tmdbId": "234310",
+          "type": "series"
+        },
+        {
+          "title": "Brothers",
+          "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
+          "rating": 7.5,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Matthew McConaughey, Woody Harrelson, Natalie Martinez, Brittany Ishibashi, Nolan Almeida",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+          "slug": "brothers",
+          "tmdbId": "250203",
+          "type": "series"
+        },
+        {
+          "title": "Pequeños profetas",
+          "synopsis": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Pearce Quigley, Michael Palin, Lauren Patel, Mackenzie Crook, Shola Adewusi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
+          "slug": "pequenos-profetas",
+          "tmdbId": "312693",
+          "type": "series"
+        },
+        {
+          "title": "Un amor infiltrado",
+          "synopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
+          "rating": 9,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama",
+            "Crimen",
             "Acción",
             "Aventura"
           ],
-          "cast": "David Oyelowo, Tom Sweet, תומר קאפון, Craige Els, Neil Pendleton",
-          "posterUrl": "https://image.tmdb.org/t/p/original/rnTcsrrDckwC2QmEQ1M7YfJDMN7.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
-          "slug": "la-isla-del-tesoro",
-          "tmdbId": "333101",
+          "cast": "Yim Si-wan, 설인아, 김정현, 연우, 류승수",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+          "slug": "un-amor-infiltrado",
+          "tmdbId": "303745",
           "type": "series"
         }
       ]
@@ -759,7 +762,7 @@
         {
           "title": "La mesa final",
           "synopsis": "La Mesa: K-chef 2026 reúne a los mejores chefs coreanos para competir por el título de mejor chef. Chris K, misterioso y famosísimo chef, conocido como Kang Han, Song-yi, que quiere salvar su restaurante, Woo-jin, chef estrella perfeccionista, entre otros, se enfrentan en una feroz batalla culinaria. Más allá de la competición, encuentran consuelo en la comida y los unos en los otros.",
-          "rating": 8.25,
+          "rating": 8.6,
           "year": "2026",
           "genres": [
             "Drama"
@@ -809,7 +812,7 @@
             "Comedia",
             "Drama"
           ],
-          "cast": "役所広司, 賀来賢人, Noriko Eguchi, 河合優実, 浜田雅功",
+          "cast": "役所広司, 賀来賢人, 松山ケンイチ, Noriko Eguchi, 河合優実",
           "posterUrl": "https://image.tmdb.org/t/p/original/cqqfz3t8xsuPLwl5Obo7f9KwFDE.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
           "slug": "por-casualidad-hablaban-de-mi",
@@ -819,7 +822,7 @@
         {
           "title": "El experimento de la cárcel de Stanford: Un nuevo enfoque",
           "synopsis": "Miniserie de TV. 6 episodios. En esta reinterpretación moderna del infame estudio de Stanford, treinta personas ingresan en una cárcel real durante dos semanas, y las cambiantes dinámicas de poder revelan de qué son capaces.",
-          "rating": 8.67,
+          "rating": 7.1,
           "year": "2026",
           "genres": [],
           "cast": "",
@@ -845,7 +848,7 @@
         {
           "title": "Farsante",
           "synopsis": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
-          "rating": 7.2,
+          "rating": 7.4,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -853,8 +856,8 @@
             "Misterio"
           ],
           "cast": "Connie Britton, Sam Nivola, Grace Brennan, Maliq Johnson, Meera Syal",
-          "posterUrl": "https://image.tmdb.org/t/p/original/apCa4rZYNa0sId2cQQ0xSq5h7sM.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/g2r69hj61xfhMxnrYm8QyMs0gs1.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/AdFlgN6pKI6C481z2KshrQL204w.jpg",
           "slug": "farsante",
           "tmdbId": "275139",
           "type": "series"
@@ -862,7 +865,7 @@
         {
           "title": "Un amor infiltrado",
           "synopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
-          "rating": 7.5,
+          "rating": 9,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -881,7 +884,7 @@
         {
           "title": "Minami, abogada extraordinaria",
           "synopsis": "Con una memoria prodigiosa y una perspectiva única, Minami se enfrenta a retos dentro y fuera de los tribunales como abogada novata con trastorno del espectro autista",
-          "rating": 6,
+          "rating": 8,
           "year": "2026",
           "genres": [
             "Drama"
