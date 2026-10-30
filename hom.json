@@ -1,21 +1,20 @@
 {
   "movieHero": [
     {
-      "title": "Verity. La sombra de un engaño",
-      "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.39,
+      "title": "Nosotros, pero un poco mejor",
+      "synopsis": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
+      "rating": 4.1,
       "year": "2026",
       "genres": [
-        "Misterio",
-        "Suspenso"
+        "Drama",
+        "Comedia"
       ],
-      "cast": "Dakota Johnson, Anne Hathaway, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
-      "posterUrl": "https://image.tmdb.org/t/p/original/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-      "slug": "verity-la-sombra-de-un-engano",
-      "tmdbId": "1283515",
-      "type": "movie",
-      "duration": "114 min"
+      "cast": "Elio Germano, Maria Chiara Giannetta, Lidia Vitale, Anna Bonaiuto, Diop Virginia",
+      "posterUrl": "https://image.tmdb.org/t/p/original/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+      "slug": "nosotros-pero-un-poco-mejor",
+      "tmdbId": "1541477",
+      "type": "movie"
     },
     {
       "title": "Ali G: Kién es yo?",
@@ -34,6 +33,23 @@
       "duration": "89 min"
     },
     {
+      "title": "Verity. La sombra de un engaño",
+      "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "rating": 6.39,
+      "year": "2026",
+      "genres": [
+        "Misterio",
+        "Suspenso"
+      ],
+      "cast": "Dakota Johnson, Anne Hathaway, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
+      "posterUrl": "https://image.tmdb.org/t/p/original/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "slug": "verity-la-sombra-de-un-engano",
+      "tmdbId": "1283515",
+      "type": "movie",
+      "duration": "114 min"
+    },
+    {
       "title": "Drive: Los farsantes",
       "synopsis": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
       "rating": 7.98,
@@ -49,22 +65,6 @@
       "tmdbId": "1596275",
       "type": "movie",
       "duration": "103 min"
-    },
-    {
-      "title": "Nosotros, pero un poco mejor",
-      "synopsis": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
-      "rating": 4.1,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ],
-      "cast": "Elio Germano, Maria Chiara Giannetta, Lidia Vitale, Anna Bonaiuto, Diop Virginia",
-      "posterUrl": "https://image.tmdb.org/t/p/original/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
-      "slug": "nosotros-pero-un-poco-mejor",
-      "tmdbId": "1541477",
-      "type": "movie"
     },
     {
       "title": "La constelación del perro",
@@ -139,38 +139,38 @@
       "type": "series"
     },
     {
-      "title": "South Park",
-      "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
-      "rating": 8.33,
-      "year": "1997",
+      "title": "Dexter: Resurrección",
+      "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+      "rating": 8.52,
+      "year": "2025",
       "genres": [
-        "Comedia",
-        "Animación"
+        "Crimen",
+        "Drama",
+        "Misterio"
       ],
-      "cast": "Matt Stone, Mona Marshall, Jennifer Howell, John Hansen, Adrien Beard",
-      "posterUrl": "https://image.tmdb.org/t/p/original/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-      "slug": "south-park",
-      "tmdbId": "2190",
+      "cast": "Michael C. Hall, Uma Thurman, Jack Alcott, Ntare Guma Mbaho Mwine, Kadia Saraf",
+      "posterUrl": "https://image.tmdb.org/t/p/original/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "slug": "dexter-resurreccion",
+      "tmdbId": "259909",
       "type": "series"
     },
     {
-      "title": "Bleach",
-      "synopsis": "La serie narra las aventuras de Ichigo Kurosaki, un adolescente que tiene la facultad de interactuar con los espíritus. Una noche, Ichigo se encuentra con una shinigami —personificación japonesa del Dios de la muerte— llamada Rukia Kuchiki, quien se sorprende que pueda verla. Sin embargo, su conversación es interrumpida por la aparición de un hollow, un espíritu maligno. Después de que Rukia fuera gravemente herida al tratar de proteger a Ichigo, esta intenta traspasarle parte de sus poderes a Ichigo para que pueda enfrentarse al hollow en igualdad de condiciones. No obstante, Ichigo sin darse cuenta los absorbe casi por completo y logra vencer con facilidad al espíritu.",
-      "rating": 8.35,
-      "year": "2004",
+      "title": "American Horror Story",
+      "synopsis": "American Horror Story es una serie antológica de televisión, creada y producida por Ryan Murphy y Brad Falchuk. Cada una de sus temporadas narra una trama independiente, ambientada en lugares diferentes y cerrando siempre la historia; donde muchos actores repiten, pero siempre interpretando personajes distintos.",
+      "rating": 8.08,
+      "year": "2011",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Animación",
+        "Drama",
+        "Misterio",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Masakazu Morita, Fumiko Orikasa, Hiroki Yasumoto, 松岡由貴, Noriaki Sugiyama",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rsv116o9M983WvInXztEiwc6WRD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "slug": "bleach",
-      "tmdbId": "30984",
+      "cast": "Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts",
+      "posterUrl": "https://image.tmdb.org/t/p/original/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5G4Bnc4Q0YUK1bwLEUYmIsmm2Ib.jpg",
+      "slug": "american-horror-story",
+      "tmdbId": "1413",
       "type": "series"
     },
     {
@@ -190,20 +190,19 @@
       "type": "series"
     },
     {
-      "title": "LA LISTA FINAL",
-      "synopsis": "El comandante James Reece quiere venganza, mientras investiga las misteriosas fuerzas que hay tras la muerte de todo su pelotón. Ya lejos de la estructura jerárquica del ejército, Reece aplica las lecciones que aprendió durante casi dos décadas de guerra para cazar a los responsables.",
-      "rating": 7.99,
-      "year": "2022",
+      "title": "South Park",
+      "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+      "rating": 8.33,
+      "year": "1997",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Drama"
+        "Comedia",
+        "Animación"
       ],
-      "cast": "Chris Pratt, Constance Wu, Tom Hopper, Dar Salim, Ольга Куриленко",
-      "posterUrl": "https://image.tmdb.org/t/p/original/mrdpavkKMA5tySLaYk1UplTvQQp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
-      "slug": "la-lista-final",
-      "tmdbId": "120911",
+      "cast": "Matt Stone, Mona Marshall, Jennifer Howell, John Hansen, Adrien Beard",
+      "posterUrl": "https://image.tmdb.org/t/p/original/w9Kz3tZsEn95F8WHh6ydFXaQIFO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "slug": "south-park",
+      "tmdbId": "2190",
       "type": "series"
     }
   ],
@@ -572,6 +571,53 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Balaraw: La isla sangrienta",
+          "synopsis": "Años después de la desaparición de su madre, una pista misteriosa lleva a Sabina a una isla desierta, donde se enfrenta a los oscuros secretos de su propia familia.",
+          "rating": 7.2,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama"
+          ],
+          "cast": "Janine Gutierrez, Charlie Dizon, Agot Isidro, Ronnie Lazaro",
+          "posterUrl": "https://image.tmdb.org/t/p/original/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
+          "slug": "balaraw-la-isla-sangrienta",
+          "tmdbId": "313699",
+          "type": "series"
+        },
+        {
+          "title": "Verdades ocultas",
+          "synopsis": "Un librero en Tulsa (Arizona) se convierte en periodista de investigación para destapar la corrupción local. Cuando sus pesquisas dan con conexiones siniestras, tendrá que proteger tanto a su familia como a la verdad.",
+          "rating": 6.88,
+          "year": "2025",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Ethan Hawke, JD McPherson, Ethan Hawke",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jgfHT7oLJtBDlRABiTTEp2AEret.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
+          "slug": "the-lowdown",
+          "tmdbId": "273247",
+          "type": "series"
+        },
+        {
+          "title": "Sacrifice",
+          "synopsis": "The series follows Daniella Hernandez, a highly sought-after entertainment lawyer in Los Angeles, as she navigates the nefarious lives of her rich and famous clients while dealing with her own complicated personal life as a recovering alcoholic who compensates for her suppressed addiction with men and the adrenaline of defending the worst in the entertainment world against an over-zealous D.A. sworn to bring them all to justice. She is the classic conundrum of doing good for bad reasons and doing bad for good reasons.",
+          "rating": 7.86,
+          "year": "2021",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Paula Patton",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wo272z8k2OBJu8j4vjxJovCEAcZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5tMQYIpLEnzzCtEybLY9LdSlqnP.jpg",
+          "slug": "sacrifice",
+          "tmdbId": "137948",
+          "type": "series"
+        },
+        {
           "title": "Amor, dulce amor",
           "synopsis": "En una idílica isla japonesa, la trabajadora agricultora Karin Shirahama entrega su corazón y alma a cultivar las mejores fresas posibles. Un día, Lee Yubin, un chico de ciudad con mala suerte llega a la isla y, tras un primer encuentro hilarantemente incómodo, ambos terminan pasando mucho más tiempo juntos debido a un malentendido inesperado.",
           "rating": 8.72,
@@ -628,7 +674,7 @@
             "Drama"
           ],
           "cast": "Ellen Pompeo, Chandra Wilson, James Pickens Jr., Caterina Scorsone, Camilla Luddington",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/qn9yYUX73MqHRoivOiq1sAhcdbG.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
           "slug": "anatomia-de-grey",
           "tmdbId": "1416",
@@ -654,7 +700,7 @@
         {
           "title": "VisionQuest",
           "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-          "rating": 8.66,
+          "rating": 8.7,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
@@ -682,54 +728,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
           "slug": "american-hostage",
           "tmdbId": "239618",
-          "type": "series"
-        },
-        {
-          "title": "Buscando a Wanda",
-          "synopsis": "Cuando desaparece su hija, los Klatt deciden tomar cartas en el asunto y urden un plan disparatado: espiar al vecindario. A medida que avanzan en esta operación de espionaje de poca monta, van desvelando asombrosos secretos.",
-          "rating": 6.6,
-          "year": "2024",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Oliver Lansley",
-          "posterUrl": "https://image.tmdb.org/t/p/original/p3T1XtOvwBVaeG5tpB4sfhikng9.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
-          "slug": "buscando-a-wanda",
-          "tmdbId": "234310",
-          "type": "series"
-        },
-        {
-          "title": "Brothers",
-          "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
-          "rating": 7.5,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Matthew McConaughey, Woody Harrelson, Natalie Martinez, Brittany Ishibashi, Nolan Almeida",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
-          "slug": "brothers",
-          "tmdbId": "250203",
-          "type": "series"
-        },
-        {
-          "title": "Pequeños profetas",
-          "synopsis": "Desde que desapareció su novia hace siete años, la vida de Michael se ha detenido. Pero una enigmática receta en un antiguo cuaderno promete darle las respuestas que busca.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Pearce Quigley, Michael Palin, Lauren Patel, Mackenzie Crook, Shola Adewusi",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qvX8vqc2NjxM3T5utEzezRVehlU.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
-          "slug": "pequenos-profetas",
-          "tmdbId": "312693",
           "type": "series"
         }
       ]
