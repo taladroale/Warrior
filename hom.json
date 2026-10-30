@@ -3,7 +3,7 @@
     {
       "title": "Ali G: Kién es yo?",
       "synopsis": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
-      "rating": 5.53,
+      "rating": 5.8,
       "year": "2026",
       "genres": [
         "Comedia"
@@ -17,27 +17,9 @@
       "duration": "89 min"
     },
     {
-      "title": "Verity. La sombra de un engaño",
-      "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "rating": 6.34,
-      "year": "2026",
-      "genres": [
-        "Misterio",
-        "Suspenso",
-        "Drama"
-      ],
-      "cast": "Dakota Johnson, Anne Hathaway, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
-      "posterUrl": "https://image.tmdb.org/t/p/original/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-      "slug": "verity-la-sombra-de-un-engano",
-      "tmdbId": "1283515",
-      "type": "movie",
-      "duration": "114 min"
-    },
-    {
       "title": "Drive: Los farsantes",
       "synopsis": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
-      "rating": 7.9,
+      "rating": 7.98,
       "year": "2026",
       "genres": [
         "Romance",
@@ -52,15 +34,31 @@
       "duration": "103 min"
     },
     {
+      "title": "Verity. La sombra de un engaño",
+      "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "rating": 6.39,
+      "year": "2026",
+      "genres": [
+        "Misterio",
+        "Suspenso"
+      ],
+      "cast": "Dakota Johnson, Anne Hathaway, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
+      "posterUrl": "https://image.tmdb.org/t/p/original/t1rkXeUMJzsCS142ctqzbz4zGq7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "slug": "verity-la-sombra-de-un-engano",
+      "tmdbId": "1283515",
+      "type": "movie",
+      "duration": "114 min"
+    },
+    {
       "title": "La constelación del perro",
       "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
-      "rating": 6.9,
+      "rating": 6.92,
       "year": "2026",
       "genres": [
         "Acción",
         "Suspenso",
-        "Ciencia ficción",
-        "Familia"
+        "Ciencia ficción"
       ],
       "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong",
       "posterUrl": "https://image.tmdb.org/t/p/original/unyqtCtZiLvcqAAbw3vvCuPwt78.jpg",
@@ -69,6 +67,22 @@
       "tmdbId": "1384216",
       "type": "movie",
       "duration": "119 min"
+    },
+    {
+      "title": "Nosotros, pero un poco mejor",
+      "synopsis": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
+      "rating": 4.1,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "cast": "Elio Germano, Maria Chiara Giannetta, Lidia Vitale, Anna Bonaiuto, Diop Virginia",
+      "posterUrl": "https://image.tmdb.org/t/p/original/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+      "slug": "nosotros-pero-un-poco-mejor",
+      "tmdbId": "1541477",
+      "type": "movie"
     },
     {
       "title": "La isla olvidada",
@@ -89,31 +103,13 @@
       "tmdbId": "1465063",
       "type": "movie",
       "duration": "109 min"
-    },
-    {
-      "title": "Clayface",
-      "synopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "rating": 7.48,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Suspenso",
-        "Ciencia ficción"
-      ],
-      "cast": "Tom Rhys Harries, Naomi Ackie, Eddie Marsan, Max Minghella, David Dencik",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-      "slug": "clayface",
-      "tmdbId": "1400940",
-      "type": "movie",
-      "duration": "108 min"
     }
   ],
   "seriesHero": [
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.68,
+      "rating": 8.66,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -142,6 +138,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
       "slug": "lupin",
       "tmdbId": "96677",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.6,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -182,25 +194,6 @@
     },
     {
       "title": "Cyberpunk: Edgerunners",
-      "synopsis": "La historia nos lleva a la vida de un chico que malvive en las calles de una ciudad futurista obsesionada con la tecnología y la modificación corporal. Con todo en su contra, logra sobrevivir convirtiéndose en un ‘edgerunner’, un mercenario proscrito también conocido como ‘cyberpunk’.",
-      "rating": 8.56,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Animación",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "KENN, Robert \"Bob\" Hardy, Alex Kapranos, Dino Bardot, Dawid Podsiadło",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rNkilVmALgaIb4SenfbaecRStDD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qHYdWT5NYqtlYpvQKOqZaq2mTrk.jpg",
-      "slug": "cyberpunk-edgerunners",
-      "tmdbId": "105248",
-      "type": "series"
-    },
-    {
-      "title": "Cyberpunk: Edgerunners",
       "synopsis": "En una distopía plagada de corrupción e implantes cibernéticos, un chico prodigioso pero temerario trata de convertirse en un mercenario proscrito: un ‘edgerunner’.",
       "rating": 8.51,
       "year": "2022",
@@ -226,6 +219,73 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Neglected",
+          "synopsis": "El detective Shaw descubre que un asesino en serie ha enterrado vivo a su hijo. Debe resolver tres asesinatos para encontrarle antes de que muera.",
+          "rating": 6.1,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Suspenso"
+          ],
+          "cast": "Josh Duhamel, Dylan Sprouse, David Lipper, Jason London, Jeremy London",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ecUjyPn3MtcDb4JMVLoefpDdsU8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg",
+          "slug": "neglected",
+          "tmdbId": "1409853",
+          "type": "movie",
+          "duration": "92 min"
+        },
+        {
+          "title": "Mickey’s Slayhouse",
+          "synopsis": "Un grupo de adolescentes ingresa al desierto parque de diversiones Mickey’s Playhouse, enfrentándose a una oscura historia y a sus propios miedos. Lo que inicia como una búsqueda emocionante se convierte en una experiencia aterradora debido a los espíritus que rondan el lugar.",
+          "rating": 0,
+          "year": "2025",
+          "genres": [
+            "Terror"
+          ],
+          "cast": "Kaitlyn Jackson, Matthew Perl, Rebi Jordan, Levi Patterson, Michael Robert House",
+          "posterUrl": "https://image.tmdb.org/t/p/original/s6ts9TOGZm41FcL4kmSGV8m1XNr.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wFpNYYrdUsx4h5HzjBCWqr9yL6K.jpg",
+          "slug": "mickeys-slayhouse",
+          "tmdbId": "1393056",
+          "type": "movie",
+          "duration": "88 min"
+        },
+        {
+          "title": "Nosotros, pero un poco mejor",
+          "synopsis": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
+          "rating": 4.1,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Elio Germano, Maria Chiara Giannetta, Lidia Vitale, Anna Bonaiuto, Diop Virginia",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+          "slug": "nosotros-pero-un-poco-mejor",
+          "tmdbId": "1541477",
+          "type": "movie"
+        },
+        {
+          "title": "Kraken",
+          "synopsis": "Johanne es una bióloga marina que está investigando en una piscifactoría de Vangsnes, una comunidad rural situada junto al fiordo, cuando se topa con varios sucesos extraños. Junto con las brutales muertes de dos adolescentes de la localidad, todos los indicios apuntan al profundo fiordo. ¿Puede haber más en las profundidades de lo que el ojo puede ver? En el fondo del fiordo más profundo de Noruega descansa un monstruo mítico tan grande como una montaña, con una miríada de brazos dispuestos a aplastar y devorar todo lo que puedan agarrar.",
+          "rating": 6.2,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Acción",
+            "Suspenso"
+          ],
+          "cast": "Sara Khorami, Mikkel Bratt Silset, Ingvild Holthe Bygdnes, Øyvind Brandtzæg, Jenny Evensen",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xViUAAAPwDvb7oCy1ZuZi5dZ1su.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
+          "slug": "kraken",
+          "tmdbId": "1110034",
+          "type": "movie",
+          "duration": "82 min"
+        },
         {
           "title": "Seven Cemeteries",
           "synopsis": "A recent parolee gets a Mexican witch to resurrect his old posse so that they can help him save a woman's ranch from a ruthless drug lord.",
@@ -282,6 +342,23 @@
           "duration": "128 min"
         },
         {
+          "title": "Incontrolable (I Swear)",
+          "synopsis": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette .",
+          "rating": 8.29,
+          "year": "2025",
+          "genres": [
+            "Drama",
+            "Historia"
+          ],
+          "cast": "Robert Aramayo, Maxine Peake, Peter Mullan, Shirley Henderson, Scott Ellis Watson",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zKv4nZRFg84yuBtnaY8MdNf67Zr.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/4mKczHAW4XPDXGk7V5k7Ui3dgUk.jpg",
+          "slug": "i-swear-1317149",
+          "tmdbId": "1317149",
+          "type": "movie",
+          "duration": "121 min"
+        },
+        {
           "title": "Hold the Fort",
           "synopsis": "La película sigue a Lucas y Jenny, quienes creen que su vida finalmente está tomando forma cuando la pareja se convierte en propietaria de una vivienda. Sin embargo, no saben que su nueva casa trae consigo una gran desventaja. Lucas y Jenny pronto se ven envueltos en una lucha por sus vidas al verse atrapados en una batalla entre la Asociación de Propietarios y una avalancha de monstruos infernales. Esta comedia de terror aborda la actual preocupación de ser propietario de una vivienda y la convierte en una emocionante aventura llena de acción.",
           "rating": 6.1,
@@ -291,7 +368,7 @@
             "Comedia"
           ],
           "cast": "Chris Mayers, Haley Leary, Michelle I. Lamb, Levi Burdick, Hamid-Reza Benjamin Thompson",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fnq6itOtvCXRBjwuq96hkYu0pCX.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/52d0TSCPYg6B6wQo8DCAoBdVsi4.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/2Czzw6qOeYAWhWnFEx8WSmA0E8F.jpg",
           "slug": "hold-the-fort",
           "tmdbId": "1481603",
@@ -313,92 +390,6 @@
           "tmdbId": "1480856",
           "type": "movie",
           "duration": "77 min"
-        },
-        {
-          "title": "Oro sin ley",
-          "synopsis": "Oregón, 1933. Samuel Murphy (Ethan Hawke) es separado de su hija y enviado a un campo de trabajo. Un día, el alcaide Clancy (Russell Crowe) le ofrece la posibilidad de liberarlo si consigue pasar oro de contrabando a través de una peligrosa senda salvaje. ¿Hasta dónde será capaz de llegar Murphy por reencontrarse con su querida hija?",
-          "rating": 6.7,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Suspenso"
-          ],
-          "cast": "Ethan Hawke, Russell Crowe, Julia Jones, Austin Amelio, Avi Nash",
-          "posterUrl": "https://image.tmdb.org/t/p/original/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
-          "slug": "oro-sin-ley",
-          "tmdbId": "1433583",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
-          "title": "La isla olvidada",
-          "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-          "rating": 7.5,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Aventura",
-            "Fantasía",
-            "Comedia",
-            "Familia"
-          ],
-          "cast": "H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-          "slug": "la-isla-olvidada",
-          "tmdbId": "1465063",
-          "type": "movie",
-          "duration": "109 min"
-        },
-        {
-          "title": "Contra el huracán",
-          "synopsis": "En medio del mar, Wirpul y su hermanastro Candi luchan por sobrevivir cuando una inesperada tormenta se convierte en el huracán Otis, de categoría 5, frente a las costas de Acapulco.",
-          "rating": 7.05,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Benny Emmanuel, Kristyan Ferrer, Mónica del Carmen, Mónica Jiménez, Andrew Leland Rogers",
-          "posterUrl": "https://image.tmdb.org/t/p/original/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
-          "slug": "contra-el-huracan",
-          "tmdbId": "1780005",
-          "type": "movie",
-          "duration": "97 min"
-        },
-        {
-          "title": "Drive: Los farsantes",
-          "synopsis": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
-          "rating": 7.9,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Suspenso"
-          ],
-          "cast": "Lisa-Marie Koroll, Amin Baahmed, Gustav Schmidt, Mišel Matičević, Lucie Heinze",
-          "posterUrl": "https://image.tmdb.org/t/p/original/aSvA1Xat045jh8ck7U626PPkzH1.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-          "slug": "drive-los-farsantes",
-          "tmdbId": "1596275",
-          "type": "movie",
-          "duration": "103 min"
-        },
-        {
-          "title": "Ali G: Kién es yo?",
-          "synopsis": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
-          "rating": 5.53,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Sacha Baron Cohen, Morgana Robinson, Alpha Miknas, Clive Russell, A$AP Rocky",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
-          "slug": "ali-g-kien-es-yo",
-          "tmdbId": "1727734",
-          "type": "movie",
-          "duration": "89 min"
         }
       ]
     },
@@ -408,9 +399,25 @@
       "seeMoreSlug": "estrenos",
       "items": [
         {
+          "title": "Nosotros, pero un poco mejor",
+          "synopsis": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
+          "rating": 4.1,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Elio Germano, Maria Chiara Giannetta, Lidia Vitale, Anna Bonaiuto, Diop Virginia",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+          "slug": "nosotros-pero-un-poco-mejor",
+          "tmdbId": "1541477",
+          "type": "movie"
+        },
+        {
           "title": "El despertar",
           "synopsis": "En lo más profundo de la selva amazónica, una unidad militar de élite es enviada a eliminar un objetivo estratégico, sin embargo, la operación se convierte en una pesadilla cuando se enfrentan a un enemigo para el que no estaban preparados. Mobuya, el espíritu protector de un territorio sagrado que no se puede cruzar, se cierra sobre el comando, desatando un terror milenario y sobrenatural. En el mismo infierno, separados por siglos, otra expedición de conquistadores españoles es consumida por la misma fuerza implacable. Al combatir la desconocida fuerza de Mobuya, ambas incursiones sólo podrán luchar por sus vidas.",
-          "rating": 7,
+          "rating": 6.87,
           "year": "2026",
           "genres": [
             "Terror",
@@ -430,7 +437,7 @@
         {
           "title": "Drive: Los farsantes",
           "synopsis": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
-          "rating": 7.9,
+          "rating": 7.98,
           "year": "2026",
           "genres": [
             "Romance",
@@ -447,7 +454,7 @@
         {
           "title": "BTS: el regreso",
           "synopsis": "¡Han vuelto! En este documental que sigue al grupo en su nueva etapa, BTS se reúne en Los Ángeles para grabar su álbum 'ARIRANG'.",
-          "rating": 0,
+          "rating": 10,
           "year": "2026",
           "genres": [
             "Documental",
@@ -460,6 +467,22 @@
           "tmdbId": "1628116",
           "type": "movie",
           "duration": "93 min"
+        },
+        {
+          "title": "Contra el huracán",
+          "synopsis": "En medio del mar, Wirpul y su hermanastro Candi luchan por sobrevivir cuando una inesperada tormenta se convierte en el huracán Otis, de categoría 5, frente a las costas de Acapulco.",
+          "rating": 6.86,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Benny Emmanuel, Kristyan Ferrer, Mónica del Carmen, Mónica Jiménez, Andrew Leland Rogers",
+          "posterUrl": "https://image.tmdb.org/t/p/original/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+          "slug": "contra-el-huracan",
+          "tmdbId": "1780005",
+          "type": "movie",
+          "duration": "97 min"
         },
         {
           "title": "Noche fatídica",
@@ -479,25 +502,9 @@
           "duration": "124 min"
         },
         {
-          "title": "Contra el huracán",
-          "synopsis": "En medio del mar, Wirpul y su hermanastro Candi luchan por sobrevivir cuando una inesperada tormenta se convierte en el huracán Otis, de categoría 5, frente a las costas de Acapulco.",
-          "rating": 7.05,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Benny Emmanuel, Kristyan Ferrer, Mónica del Carmen, Mónica Jiménez, Andrew Leland Rogers",
-          "posterUrl": "https://image.tmdb.org/t/p/original/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
-          "slug": "contra-el-huracan",
-          "tmdbId": "1780005",
-          "type": "movie",
-          "duration": "97 min"
-        },
-        {
           "title": "Ali G: Kién es yo?",
           "synopsis": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
-          "rating": 5.53,
+          "rating": 5.8,
           "year": "2026",
           "genres": [
             "Comedia"
@@ -509,6 +516,23 @@
           "tmdbId": "1727734",
           "type": "movie",
           "duration": "89 min"
+        },
+        {
+          "title": "Klara y el Sol",
+          "synopsis": "Una niña robot, creada con el propósito de prevenir la soledad, se propone salvar a una familia de humanos con el corazón roto.",
+          "rating": 5.8,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Drama"
+          ],
+          "cast": "Jenna Ortega, Mia Tharia, Amy Adams, Natasha Lyonne, Aran Murphy",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5bHjVU75RMNAbfYRZidFwuDjniD.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/2Zk5jRXUlrfkU3RsutMPMHey1Y.jpg",
+          "slug": "klara-y-el-sol",
+          "tmdbId": "858035",
+          "type": "movie",
+          "duration": "116 min"
         },
         {
           "title": "Wicker",
@@ -543,41 +567,6 @@
           "tmdbId": "1480856",
           "type": "movie",
           "duration": "77 min"
-        },
-        {
-          "title": "Klara y el Sol",
-          "synopsis": "Una niña robot, creada con el propósito de prevenir la soledad, se propone salvar a una familia de humanos con el corazón roto.",
-          "rating": 5.8,
-          "year": "2026",
-          "genres": [
-            "Ciencia ficción",
-            "Drama"
-          ],
-          "cast": "Jenna Ortega, Mia Tharia, Amy Adams, Natasha Lyonne, Aran Murphy",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5bHjVU75RMNAbfYRZidFwuDjniD.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/2Zk5jRXUlrfkU3RsutMPMHey1Y.jpg",
-          "slug": "klara-y-el-sol",
-          "tmdbId": "858035",
-          "type": "movie",
-          "duration": "116 min"
-        },
-        {
-          "title": "Hot Wheels ¡A correr!: El ataque del T-Rex",
-          "synopsis": "Cuando un gigantesco tiranosaurio amenaza la ciudad de Hot Wheels, Coop y sus amigos deben correr contrarreloj para rescatar a sus habitantes y salvar el día.",
-          "rating": 7.8,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Familia",
-            "Acción"
-          ],
-          "cast": "Carter Burney, Amari McCoy, Josh Keaton, Risa Mei, Griffen Campbell",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7U9AeL58qz0Rx3w4ywCRCuiId5D.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dK69ml1Y34MrEovK4ZyizRiWbEH.jpg",
-          "slug": "hot-wheels-a-correr-el-ataque-del-t-rex",
-          "tmdbId": "1802674",
-          "type": "movie",
-          "duration": "47 min"
         }
       ]
     }
@@ -588,6 +577,22 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Amor, dulce amor",
+          "synopsis": "En una idílica isla japonesa, la trabajadora agricultora Karin Shirahama entrega su corazón y alma a cultivar las mejores fresas posibles. Un día, Lee Yubin, un chico de ciudad con mala suerte llega a la isla y, tras un primer encuentro hilarantemente incómodo, ambos terminan pasando mucho más tiempo juntos debido a un malentendido inesperado.",
+          "rating": 8.7,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "지창욱, Mio Imada, 남윤수, Rinka Kumada, 정순원",
+          "posterUrl": "https://image.tmdb.org/t/p/original/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+          "slug": "amor-dulce-amor",
+          "tmdbId": "305551",
+          "type": "series"
+        },
         {
           "title": "Doctor X Mafia in White",
           "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
@@ -731,25 +736,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/5fThMa3y5H4V7mHtiIEJgtYKPz9.jpg",
           "slug": "pequenos-profetas",
           "tmdbId": "312693",
-          "type": "series"
-        },
-        {
-          "title": "Un amor infiltrado",
-          "synopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
-          "rating": 9,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama",
-            "Crimen",
-            "Acción",
-            "Aventura"
-          ],
-          "cast": "Yim Si-wan, 설인아, 김정현, 연우, 류승수",
-          "posterUrl": "https://image.tmdb.org/t/p/original/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-          "slug": "un-amor-infiltrado",
-          "tmdbId": "303745",
           "type": "series"
         }
       ]
