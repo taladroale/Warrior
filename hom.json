@@ -35,6 +35,24 @@
       "duration": "86 min"
     },
     {
+      "title": "La constelación del perro",
+      "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+      "rating": 6.92,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Suspenso",
+        "Ciencia ficción"
+      ],
+      "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong",
+      "posterUrl": "https://image.tmdb.org/t/p/original/unyqtCtZiLvcqAAbw3vvCuPwt78.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+      "slug": "la-constelacion-del-perro",
+      "tmdbId": "1384216",
+      "type": "movie",
+      "duration": "119 min"
+    },
+    {
       "title": "Verity. La sombra de un engaño",
       "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
       "rating": 6.39,
@@ -70,40 +88,19 @@
       "duration": "108 min"
     },
     {
-      "title": "La constelación del perro",
-      "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
-      "rating": 6.92,
+      "title": "Obsession",
+      "synopsis": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Nikki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 8.17,
       "year": "2026",
       "genres": [
-        "Acción",
-        "Suspenso",
-        "Ciencia ficción"
+        "Terror",
+        "Suspenso"
       ],
-      "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong",
-      "posterUrl": "https://image.tmdb.org/t/p/original/unyqtCtZiLvcqAAbw3vvCuPwt78.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
-      "slug": "la-constelacion-del-perro",
-      "tmdbId": "1384216",
-      "type": "movie",
-      "duration": "119 min"
-    },
-    {
-      "title": "La isla olvidada",
-      "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "rating": 7.5,
-      "year": "2026",
-      "genres": [
-        "Animación",
-        "Aventura",
-        "Fantasía",
-        "Comedia",
-        "Familia"
-      ],
-      "cast": "H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
-      "slug": "la-isla-olvidada",
-      "tmdbId": "1465063",
+      "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p1QFjQ8wwlXXlxwaWlehJ37uXVj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "slug": "obsesion-1339713",
+      "tmdbId": "1339713",
       "type": "movie",
       "duration": "109 min"
     }
@@ -112,7 +109,7 @@
     {
       "title": "Un trabajo maldito",
       "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
-      "rating": 7.78,
+      "rating": 8,
       "year": "2026",
       "genres": [
         "Misterio",
@@ -161,22 +158,6 @@
       "type": "series"
     },
     {
-      "title": "El intercambio",
-      "synopsis": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
-      "rating": 8,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Frida Gustavsson, Fares Fares, Emma Appleton, Jakob Oftebro",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xJupFp4GS4sRwH5xTEJLvvnNqaq.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/zeRZjwA0IwaIN6zQcSpFC0VKdr7.jpg",
-      "slug": "el-intercambio",
-      "tmdbId": "336240",
-      "type": "series"
-    },
-    {
       "title": "Materia oscura",
       "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
       "rating": 7.83,
@@ -191,6 +172,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
       "slug": "materia-oscura",
       "tmdbId": "196322",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.6,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -577,7 +574,7 @@
         {
           "title": "Un trabajo maldito",
           "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
-          "rating": 8,
+          "rating": 7.9,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -625,7 +622,7 @@
         {
           "title": "Avatar: Los Siete Refugios",
           "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
-          "rating": 8.97,
+          "rating": 8.98,
           "year": "2026",
           "genres": [
             "Animación",
@@ -660,7 +657,7 @@
         {
           "title": "Materia oscura",
           "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-          "rating": 7.83,
+          "rating": 7.82,
           "year": "2024",
           "genres": [
             "Ciencia ficción",
@@ -767,7 +764,7 @@
         {
           "title": "Un trabajo maldito",
           "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
-          "rating": 7.78,
+          "rating": 8,
           "year": "2026",
           "genres": [
             "Misterio",
