@@ -1,36 +1,38 @@
 {
   "movieHero": [
     {
-      "title": "Nosotros, pero un poco mejor",
-      "synopsis": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
-      "rating": 4.1,
+      "title": "Apocalipsis Z: Nuevo mundo",
+      "synopsis": "Cuando una misión especial parte hacia la península en busca de suministros vitales, Roberto se une al equipo con dudosas intenciones. La peligrosa operación se transforma en una carrera desesperada por la supervivencia, y Roberto y sus compañeros se encontrarán entre hordas de infectados y lealtades divididas.",
+      "rating": 9,
       "year": "2026",
       "genres": [
-        "Drama",
-        "Comedia"
+        "Acción",
+        "Suspenso",
+        "Terror"
       ],
-      "cast": "Elio Germano, Maria Chiara Giannetta, Lidia Vitale, Anna Bonaiuto, Diop Virginia",
-      "posterUrl": "https://image.tmdb.org/t/p/original/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
-      "slug": "nosotros-pero-un-poco-mejor",
-      "tmdbId": "1541477",
-      "type": "movie"
+      "cast": "Carlos Alcaide, Julia Martínez, Mónica López, Tamara Casellas, Santiago Vaca Narvaja",
+      "posterUrl": "https://image.tmdb.org/t/p/original/wgSMJ3083ad5qKC4QzzVNJ4cv5D.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+      "slug": "apocalipsis-z-nuevo-mundo",
+      "tmdbId": "1507696",
+      "type": "movie",
+      "duration": "96 min"
     },
     {
-      "title": "Ali G: Kién es yo?",
-      "synopsis": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
-      "rating": 5.8,
+      "title": "El regalo de cumpleaños",
+      "synopsis": "Marlene Frischmann (Jeanne Goursaud) quiere celebrar por todo lo alto el cumpleaños de su hijo Theo (Levin Wopp) y lo tiene todo preparado en la elegante casa de campo de su hermano: globos, una tarta sin gluten, una piñata e incluso animales salvajes prometen convertir el día en algo inolvidable. Pero la celebración, preparada con todo el cariño, no tarda en convertirse en una pesadilla desternillante, con acaloradas discusiones sobre la crianza, los modelos de masculinidad y los principios educativos. Tampoco ayudan precisamente a poner orden su alborotador hermano banquero Timo (Edin Hasanović), su excéntrico y desorientado padre Hans (Heiner Lauterbach), su compañera Jenny (Amal Keller), una idealista empeñada en salvar el mundo, y un regalo muy especial. Entre una familia de lo más disfuncional, madres helicóptero obsesionadas con controlarlo todo y la anarquía infantil, la fiesta acaba sumida en el caos.",
+      "rating": 9,
       "year": "2026",
       "genres": [
         "Comedia"
       ],
-      "cast": "Sacha Baron Cohen, Morgana Robinson, Alpha Miknas, Clive Russell, A$AP Rocky",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
-      "slug": "ali-g-kien-es-yo",
-      "tmdbId": "1727734",
+      "cast": "Jeanne Goursaud, Edin Hasanović, Heiner Lauterbach, Levin Wopp, Sogol Faghani",
+      "posterUrl": "https://image.tmdb.org/t/p/original/4sc5p6NiMKpv5Ef9iShXplJsY3G.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
+      "slug": "el-regalo-de-cumpleanos",
+      "tmdbId": "1789549",
       "type": "movie",
-      "duration": "89 min"
+      "duration": "86 min"
     },
     {
       "title": "Verity. La sombra de un engaño",
@@ -50,21 +52,20 @@
       "duration": "114 min"
     },
     {
-      "title": "Drive: Los farsantes",
-      "synopsis": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
-      "rating": 7.98,
+      "title": "Nosotros, pero un poco mejor",
+      "synopsis": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
+      "rating": 4.1,
       "year": "2026",
       "genres": [
-        "Romance",
-        "Suspenso"
+        "Drama",
+        "Comedia"
       ],
-      "cast": "Lisa-Marie Koroll, Amin Baahmed, Gustav Schmidt, Mišel Matičević, Lucie Heinze",
-      "posterUrl": "https://image.tmdb.org/t/p/original/aSvA1Xat045jh8ck7U626PPkzH1.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg",
-      "slug": "drive-los-farsantes",
-      "tmdbId": "1596275",
-      "type": "movie",
-      "duration": "103 min"
+      "cast": "Elio Germano, Maria Chiara Giannetta, Lidia Vitale, Anna Bonaiuto, Diop Virginia",
+      "posterUrl": "https://image.tmdb.org/t/p/original/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+      "slug": "nosotros-pero-un-poco-mejor",
+      "tmdbId": "1541477",
+      "type": "movie"
     },
     {
       "title": "La constelación del perro",
@@ -85,22 +86,20 @@
       "duration": "119 min"
     },
     {
-      "title": "Clayface",
-      "synopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "rating": 7.48,
+      "title": "Ali G: Kién es yo?",
+      "synopsis": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+      "rating": 5.8,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Suspenso",
-        "Ciencia ficción"
+        "Comedia"
       ],
-      "cast": "Tom Rhys Harries, Naomi Ackie, Eddie Marsan, Max Minghella, David Dencik",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-      "slug": "clayface",
-      "tmdbId": "1400940",
+      "cast": "Sacha Baron Cohen, Morgana Robinson, Alpha Miknas, Clive Russell, A$AP Rocky",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
+      "slug": "ali-g-kien-es-yo",
+      "tmdbId": "1727734",
       "type": "movie",
-      "duration": "108 min"
+      "duration": "89 min"
     }
   ],
   "seriesHero": [
@@ -124,7 +123,7 @@
     {
       "title": "Dexter: Resurrección",
       "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-      "rating": 8.52,
+      "rating": 8.5,
       "year": "2025",
       "genres": [
         "Crimen",
@@ -136,6 +135,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
       "slug": "dexter-resurreccion",
       "tmdbId": "259909",
+      "type": "series"
+    },
+    {
+      "title": "Balaraw: La isla sangrienta",
+      "synopsis": "Años después de la desaparición de su madre, una pista misteriosa lleva a Sabina a una isla desierta, donde se enfrenta a los oscuros secretos de su propia familia.",
+      "rating": 7.2,
+      "year": "2026",
+      "genres": [
+        "Misterio",
+        "Drama"
+      ],
+      "cast": "Janine Gutierrez, Charlie Dizon, Agot Isidro, Ronnie Lazaro",
+      "posterUrl": "https://image.tmdb.org/t/p/original/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
+      "slug": "balaraw-la-isla-sangrienta",
+      "tmdbId": "313699",
       "type": "series"
     },
     {
@@ -156,6 +171,23 @@
       "type": "series"
     },
     {
+      "title": "Materia oscura",
+      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "rating": 7.83,
+      "year": "2024",
+      "genres": [
+        "Ciencia ficción",
+        "Fantasía",
+        "Drama"
+      ],
+      "cast": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson, Dayo Okeniyi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+      "slug": "materia-oscura",
+      "tmdbId": "196322",
+      "type": "series"
+    },
+    {
       "title": "Tierra de mafiosos",
       "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
       "rating": 8.6,
@@ -169,39 +201,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "slug": "mobland",
       "tmdbId": "247718",
-      "type": "series"
-    },
-    {
-      "title": "Balaraw: La isla sangrienta",
-      "synopsis": "Años después de la desaparición de su madre, una pista misteriosa lleva a Sabina a una isla desierta, donde se enfrenta a los oscuros secretos de su propia familia.",
-      "rating": 7.2,
-      "year": "2026",
-      "genres": [
-        "Misterio",
-        "Drama"
-      ],
-      "cast": "Janine Gutierrez, Charlie Dizon, Agot Isidro, Ronnie Lazaro",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
-      "slug": "balaraw-la-isla-sangrienta",
-      "tmdbId": "313699",
-      "type": "series"
-    },
-    {
-      "title": "Materia oscura",
-      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "rating": 7.82,
-      "year": "2024",
-      "genres": [
-        "Ciencia ficción",
-        "Fantasía",
-        "Drama"
-      ],
-      "cast": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson, Dayo Okeniyi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-      "slug": "materia-oscura",
-      "tmdbId": "196322",
       "type": "series"
     }
   ],
@@ -571,7 +570,7 @@
         {
           "title": "El intercambio",
           "synopsis": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
-          "rating": 0,
+          "rating": 8,
           "year": "2026",
           "genres": [
             "Drama",
@@ -587,7 +586,7 @@
         {
           "title": "La Caída de El Mayo",
           "synopsis": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída.",
-          "rating": 8.5,
+          "rating": 9,
           "year": "2026",
           "genres": [
             "Documental"
@@ -742,20 +741,34 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
-          "title": "Nocturno",
-          "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
-          "rating": 5,
+          "title": "El intercambio",
+          "synopsis": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
+          "rating": 0,
           "year": "2026",
           "genres": [
-            "Crimen",
             "Drama",
             "Misterio"
           ],
-          "cast": "Liev Schreiber, Zazie Beetz, Stephen Graham, Bill Camp, Rory Culkin",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-          "slug": "nocturno",
-          "tmdbId": "292741",
+          "cast": "Frida Gustavsson, Fares Fares, Emma Appleton, Jakob Oftebro",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xJupFp4GS4sRwH5xTEJLvvnNqaq.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/zeRZjwA0IwaIN6zQcSpFC0VKdr7.jpg",
+          "slug": "el-intercambio",
+          "tmdbId": "336240",
+          "type": "series"
+        },
+        {
+          "title": "La Caída de El Mayo",
+          "synopsis": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída.",
+          "rating": 8.5,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ugzaqDYPrlrV7NnpKrTmaB2YeGC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
+          "slug": "la-caida-de-el-mayo",
+          "tmdbId": "338689",
           "type": "series"
         },
         {
@@ -772,6 +785,23 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
           "slug": "balaraw-la-isla-sangrienta",
           "tmdbId": "313699",
+          "type": "series"
+        },
+        {
+          "title": "Nocturno",
+          "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
+          "rating": 5,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Liev Schreiber, Zazie Beetz, Stephen Graham, Bill Camp, Rory Culkin",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+          "slug": "nocturno",
+          "tmdbId": "292741",
           "type": "series"
         },
         {
@@ -860,36 +890,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/H8VA7K15NWVKLbUbp8ZQ17zvU2.jpg",
           "slug": "the-new-stanford-prison-experiment",
           "tmdbId": "335319",
-          "type": "series"
-        },
-        {
-          "title": "Relatos de la noche: Brujas",
-          "synopsis": "Cuatro episodios exclusivos sobre leyendas de brujas de México, contados por Uriel Reyes, creador del podcast Relatos de la Noche.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/whS6DZ1Ph0fAMAeskecQsLxzek8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/u0JTZBRuOAZCl40ABVOkWbd5ype.jpg",
-          "slug": "relatos-de-la-noche-brujas",
-          "tmdbId": "339525",
-          "type": "series"
-        },
-        {
-          "title": "Farsante",
-          "synopsis": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
-          "rating": 7.4,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Connie Britton, Sam Nivola, Grace Brennan, Maliq Johnson, Meera Syal",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/AdFlgN6pKI6C481z2KshrQL204w.jpg",
-          "slug": "farsante",
-          "tmdbId": "275139",
           "type": "series"
         }
       ]
