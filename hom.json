@@ -88,23 +88,44 @@
       "duration": "119 min"
     },
     {
-      "title": "Nosotros, pero un poco mejor",
-      "synopsis": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
-      "rating": 4.1,
+      "title": "La isla olvidada",
+      "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+      "rating": 7.5,
       "year": "2026",
       "genres": [
-        "Drama",
-        "Comedia"
+        "Animación",
+        "Aventura",
+        "Fantasía",
+        "Comedia",
+        "Familia"
       ],
-      "cast": "Elio Germano, Maria Chiara Giannetta, Lidia Vitale, Anna Bonaiuto, Diop Virginia",
-      "posterUrl": "https://image.tmdb.org/t/p/original/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
-      "slug": "nosotros-pero-un-poco-mejor",
-      "tmdbId": "1541477",
-      "type": "movie"
+      "cast": "H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "slug": "la-isla-olvidada",
+      "tmdbId": "1465063",
+      "type": "movie",
+      "duration": "109 min"
     }
   ],
   "seriesHero": [
+    {
+      "title": "Un trabajo maldito",
+      "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
+      "rating": 7.78,
+      "year": "2026",
+      "genres": [
+        "Misterio",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "이재욱, 고민시, 김민하, 이희준, 최현욱",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+      "slug": "un-trabajo-maldito",
+      "tmdbId": "289517",
+      "type": "series"
+    },
     {
       "title": "Nocturno",
       "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
@@ -140,22 +161,6 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.6,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
-    {
       "title": "El intercambio",
       "synopsis": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
       "rating": 8,
@@ -172,20 +177,20 @@
       "type": "series"
     },
     {
-      "title": "Lupin",
-      "synopsis": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
-      "rating": 7.7,
-      "year": "2021",
+      "title": "Materia oscura",
+      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
+      "rating": 7.83,
+      "year": "2024",
       "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
+        "Ciencia ficción",
+        "Fantasía",
+        "Drama"
       ],
-      "cast": "Omar Sy",
-      "posterUrl": "https://image.tmdb.org/t/p/original/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-      "slug": "lupin",
-      "tmdbId": "96677",
+      "cast": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson, Dayo Okeniyi",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
+      "slug": "materia-oscura",
+      "tmdbId": "196322",
       "type": "series"
     },
     {
@@ -572,7 +577,7 @@
         {
           "title": "Un trabajo maldito",
           "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
-          "rating": 7.78,
+          "rating": 8,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -620,7 +625,7 @@
         {
           "title": "Avatar: Los Siete Refugios",
           "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
-          "rating": 9,
+          "rating": 8.97,
           "year": "2026",
           "genres": [
             "Animación",
@@ -640,7 +645,7 @@
         {
           "title": "The Drop: Una historia de Snowfall",
           "synopsis": "A medida que Los Ángeles pasaba del crack al rap en la década de los noventa, los territorios de las bandas controlados por los Bloods y los Crips se convirtieron en el epicentro de una escena musical emergente en South Central.",
-          "rating": 7.71,
+          "rating": 7.67,
           "year": "2026",
           "genres": [
             "Drama"
