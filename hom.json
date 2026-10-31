@@ -52,20 +52,22 @@
       "duration": "114 min"
     },
     {
-      "title": "Nosotros, pero un poco mejor",
-      "synopsis": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
-      "rating": 4.1,
+      "title": "Clayface",
+      "synopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
+      "rating": 7.48,
       "year": "2026",
       "genres": [
-        "Drama",
-        "Comedia"
+        "Terror",
+        "Suspenso",
+        "Ciencia ficción"
       ],
-      "cast": "Elio Germano, Maria Chiara Giannetta, Lidia Vitale, Anna Bonaiuto, Diop Virginia",
-      "posterUrl": "https://image.tmdb.org/t/p/original/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
-      "slug": "nosotros-pero-un-poco-mejor",
-      "tmdbId": "1541477",
-      "type": "movie"
+      "cast": "Tom Rhys Harries, Naomi Ackie, Eddie Marsan, Max Minghella, David Dencik",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+      "slug": "clayface",
+      "tmdbId": "1400940",
+      "type": "movie",
+      "duration": "108 min"
     },
     {
       "title": "La constelación del perro",
@@ -86,20 +88,20 @@
       "duration": "119 min"
     },
     {
-      "title": "Ali G: Kién es yo?",
-      "synopsis": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
-      "rating": 5.8,
+      "title": "Nosotros, pero un poco mejor",
+      "synopsis": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
+      "rating": 4.1,
       "year": "2026",
       "genres": [
+        "Drama",
         "Comedia"
       ],
-      "cast": "Sacha Baron Cohen, Morgana Robinson, Alpha Miknas, Clive Russell, A$AP Rocky",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
-      "slug": "ali-g-kien-es-yo",
-      "tmdbId": "1727734",
-      "type": "movie",
-      "duration": "89 min"
+      "cast": "Elio Germano, Maria Chiara Giannetta, Lidia Vitale, Anna Bonaiuto, Diop Virginia",
+      "posterUrl": "https://image.tmdb.org/t/p/original/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+      "slug": "nosotros-pero-un-poco-mejor",
+      "tmdbId": "1541477",
+      "type": "movie"
     }
   ],
   "seriesHero": [
@@ -138,19 +140,35 @@
       "type": "series"
     },
     {
-      "title": "Balaraw: La isla sangrienta",
-      "synopsis": "Años después de la desaparición de su madre, una pista misteriosa lleva a Sabina a una isla desierta, donde se enfrenta a los oscuros secretos de su propia familia.",
-      "rating": 7.2,
-      "year": "2026",
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.6,
+      "year": "2025",
       "genres": [
-        "Misterio",
+        "Crimen",
         "Drama"
       ],
-      "cast": "Janine Gutierrez, Charlie Dizon, Agot Isidro, Ronnie Lazaro",
-      "posterUrl": "https://image.tmdb.org/t/p/original/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
-      "slug": "balaraw-la-isla-sangrienta",
-      "tmdbId": "313699",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
+      "title": "El intercambio",
+      "synopsis": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
+      "rating": 8,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Frida Gustavsson, Fares Fares, Emma Appleton, Jakob Oftebro",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xJupFp4GS4sRwH5xTEJLvvnNqaq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/zeRZjwA0IwaIN6zQcSpFC0VKdr7.jpg",
+      "slug": "el-intercambio",
+      "tmdbId": "336240",
       "type": "series"
     },
     {
@@ -171,36 +189,20 @@
       "type": "series"
     },
     {
-      "title": "Materia oscura",
-      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "rating": 7.83,
-      "year": "2024",
+      "title": "Fantasmas",
+      "synopsis": "Samantha y Jay se olvidan de la precaución cuando convierten su finca recién heredada en un alojamiento y desayuno. Llámalo planes extraviados. El lugar no solo se está desmoronando, sino que también está habitado por espíritus de residentes anteriores, a quienes solo Samantha puede ver y escuchar.",
+      "rating": 7.93,
+      "year": "2021",
       "genres": [
+        "Comedia",
         "Ciencia ficción",
-        "Fantasía",
-        "Drama"
+        "Fantasía"
       ],
-      "cast": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson, Dayo Okeniyi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-      "slug": "materia-oscura",
-      "tmdbId": "196322",
-      "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.6,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Rose McIver, Utkarsh Ambudkar, Brandon Scott Jones, Danielle Pinnock, Richie Moriarty",
+      "posterUrl": "https://image.tmdb.org/t/p/original/kFiJUxYDuFzvnVoWuTcapGgSJ0y.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+      "slug": "fantasmas",
+      "tmdbId": "126027",
       "type": "series"
     }
   ],
@@ -213,7 +215,7 @@
         {
           "title": "Feed",
           "synopsis": "Una escapada al bosque se vuelve una visceral lucha por sobrevivir cuando cinco influencers despiertan al primer vampiro de la historia.",
-          "rating": 5.6,
+          "rating": 5.75,
           "year": "2026",
           "genres": [
             "Terror"
@@ -568,6 +570,23 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Un trabajo maldito",
+          "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
+          "rating": 7.78,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "이재욱, 고민시, 김민하, 이희준, 최현욱",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+          "slug": "un-trabajo-maldito",
+          "tmdbId": "289517",
+          "type": "series"
+        },
+        {
           "title": "El intercambio",
           "synopsis": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
           "rating": 8,
@@ -601,7 +620,7 @@
         {
           "title": "Avatar: Los Siete Refugios",
           "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
-          "rating": 9.01,
+          "rating": 9,
           "year": "2026",
           "genres": [
             "Animación",
@@ -716,22 +735,6 @@
           "slug": "el-don-de-enganar",
           "tmdbId": "334700",
           "type": "series"
-        },
-        {
-          "title": "Balaraw: La isla sangrienta",
-          "synopsis": "Años después de la desaparición de su madre, una pista misteriosa lleva a Sabina a una isla desierta, donde se enfrenta a los oscuros secretos de su propia familia.",
-          "rating": 7.2,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama"
-          ],
-          "cast": "Janine Gutierrez, Charlie Dizon, Agot Isidro, Ronnie Lazaro",
-          "posterUrl": "https://image.tmdb.org/t/p/original/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
-          "slug": "balaraw-la-isla-sangrienta",
-          "tmdbId": "313699",
-          "type": "series"
         }
       ]
     },
@@ -743,7 +746,7 @@
         {
           "title": "El intercambio",
           "synopsis": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
-          "rating": 0,
+          "rating": 8,
           "year": "2026",
           "genres": [
             "Drama",
@@ -757,9 +760,43 @@
           "type": "series"
         },
         {
+          "title": "Un trabajo maldito",
+          "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
+          "rating": 7.78,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "이재욱, 고민시, 김민하, 이희준, 최현욱",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+          "slug": "un-trabajo-maldito",
+          "tmdbId": "289517",
+          "type": "series"
+        },
+        {
+          "title": "Nocturno",
+          "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
+          "rating": 5,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Liev Schreiber, Zazie Beetz, Stephen Graham, Bill Camp, Rory Culkin",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+          "slug": "nocturno",
+          "tmdbId": "292741",
+          "type": "series"
+        },
+        {
           "title": "La Caída de El Mayo",
           "synopsis": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída.",
-          "rating": 8.5,
+          "rating": 9,
           "year": "2026",
           "genres": [
             "Documental"
@@ -785,23 +822,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
           "slug": "balaraw-la-isla-sangrienta",
           "tmdbId": "313699",
-          "type": "series"
-        },
-        {
-          "title": "Nocturno",
-          "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
-          "rating": 5,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Liev Schreiber, Zazie Beetz, Stephen Graham, Bill Camp, Rory Culkin",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-          "slug": "nocturno",
-          "tmdbId": "292741",
           "type": "series"
         },
         {
@@ -877,19 +897,6 @@
           "backdropUrl": null,
           "slug": "el-colombiano-de-keko",
           "tmdbId": "339909",
-          "type": "series"
-        },
-        {
-          "title": "El experimento de la cárcel de Stanford: Un nuevo enfoque",
-          "synopsis": "Miniserie de TV. 6 episodios. En esta reinterpretación moderna del infame estudio de Stanford, treinta personas ingresan en una cárcel real durante dos semanas, y las cambiantes dinámicas de poder revelan de qué son capaces.",
-          "rating": 7.1,
-          "year": "2026",
-          "genres": [],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/heoESrHAdmPeYECs2B7R8RIqLyN.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/H8VA7K15NWVKLbUbp8ZQ17zvU2.jpg",
-          "slug": "the-new-stanford-prison-experiment",
-          "tmdbId": "335319",
           "type": "series"
         }
       ]
