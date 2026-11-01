@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T13:19:25Z",
+  "updatedAt": "2026-11-01T14:18:53Z",
   "source": "cuepro",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -11937,6 +11937,7 @@
     "890980": {"slug": "los-renglones-torcidos-de-dios"},
     "891075": {"slug": "i-m-sorry-if-i-took-a-toll-on-you"},
     "891584": {"slug": "la-historia-del-sonido"},
+    "891621": {"slug": "caballo-salvaje-nueve"},
     "891629": {"slug": "lost-tombs-of-the-pyramids"},
     "891636": {"slug": "fuegos-artificiales"},
     "891644": {"slug": "zero"},
@@ -14285,6 +14286,7 @@
     "1131438": {"slug": "fear-the-invisible-man"},
     "1131443": {"slug": "all-the-silence"},
     "1131444": {"slug": "devilreaux"},
+    "1131460": {"slug": "saltamontes"},
     "1131494": {"slug": "locos-de-amor-mi-primer-amor"},
     "1131727": {"slug": "ultimas-voluntades"},
     "1131751": {"slug": "thabo-y-el-caso-del-rinoceronte"},
@@ -15391,6 +15393,7 @@
     "1266781": {"slug": "natacha-presque-hotesse-de-l-air"},
     "1266791": {"slug": "alter-ego"},
     "1266798": {"slug": "chien-51"},
+    "1266805": {"slug": "los-musicos"},
     "1266863": {"slug": "agente-de-kung-fu"},
     "1267077": {"slug": "a-reel-heist"},
     "1267170": {"slug": "casa-de-novia"},
@@ -16248,6 +16251,7 @@
     "1422114": {"slug": "detective-inspector"},
     "1422120": {"slug": "mermaid"},
     "1422179": {"slug": "por-el-mal-camino"},
+    "1422404": {"slug": "tokyo1111"},
     "1422562": {"slug": "el-momento"},
     "1422634": {"slug": "flight-149-hostage-of-war"},
     "1422680": {"slug": "the-city-god-forgot"},
@@ -17010,7 +17014,8 @@
     "1793242": {"slug": "gluten-is-a-joke"},
     "1795934": {"slug": "theo-von-i-m-doing-fine"},
     "1800824": {"slug": "ayahuasca-haunting-the-vine-of-souls"},
-    "1802674": {"slug": "hot-wheels-let-s-race-attack-of-the-t-rex"}
+    "1802674": {"slug": "hot-wheels-let-s-race-attack-of-the-t-rex"},
+    "1813355": {"slug": "una-historia-de-derry"}
   },
   "series": {
     "5": {"slug": "i-am-groot"},
@@ -20687,6 +20692,7 @@
     "292558": {"slug": "toda-la-verdad-de-mis-mentiras"},
     "292637": {"slug": "mi-embarazo-by-la-rebe"},
     "292664": {"slug": "the-kollective"},
+    "292741": {"slug": "nocturno"},
     "292742": {"slug": "s-w-a-t-exiles-nueva-generacion"},
     "293010": {"slug": "let-s-play"},
     "293031": {"slug": "abandonada-la-mujer-de-la-casa-en-ruinas"},
