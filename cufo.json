@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T13:20:48Z",
+  "updatedAt": "2026-11-02T13:02:49Z",
   "source": "cufo",
-  "total": 22746,
+  "total": 22751,
   "peliculas": {
     "11": {"slug":"la-guerra-de-las-galaxias"},
     "12": {"slug":"buscando-a-nemo"},
@@ -12051,6 +12051,7 @@
     "890897": {"slug":"wwe-wrestlemania-38-sunday"},
     "890980": {"slug":"los-renglones-torcidos-de-dios"},
     "891584": {"slug":"the-history-of-sound"},
+    "891621": {"slug":"wild-horse-nine"},
     "891636": {"slug":"fuegos-artificiales"},
     "891644": {"slug":"zero"},
     "891657": {"slug":"legor-hidden-side-night-of-the-harbinger"},
@@ -17505,6 +17506,7 @@
     "1457138": {"slug":"1780"},
     "1457515": {"slug":"thunderbirds-la-elite-de-la-fuerza-aerea-de-ee-uu"},
     "1457705": {"slug":"nuestras-hijas"},
+    "1458099": {"slug":"el-unico-carterista-vivo-de-nueva-york"},
     "1458844": {"slug":"dan-da-dan-evil-eye"},
     "1458857": {"slug":"las-cartas-de-la-vida"},
     "1459725": {"slug":"instinto-animal"},
@@ -17849,6 +17851,7 @@
     "1555116": {"slug":"penelope-2"},
     "1555571": {"slug":"signing-tony-raymond"},
     "1556109": {"slug":"islas"},
+    "1556321": {"slug":"death-whisperer-saming-the-werebeast"},
     "1556616": {"slug":"la-casa-de-la-playa"},
     "1556834": {"slug":"lost-horizon"},
     "1557915": {"slug":"special-op-rent-a-cop"},
@@ -18143,6 +18146,7 @@
     "1793242": {"slug":"gluten-is-a-joke"},
     "1800824": {"slug":"ayahuasca-haunting-the-vine-of-souls"},
     "1802674": {"slug":"hot-wheels-a-correr-el-ataque-del-t-rex"},
+    "1813355": {"slug":"la-historia-de-derry"},
     "tt2407380": {"slug":"test-tt2407380"}
   },
   "series": {
@@ -22750,6 +22754,7 @@
     "337911": {"slug":"tragedia-en-el-estadio-corregidora"},
     "338689": {"slug":"la-caida-de-el-mayo"},
     "338770": {"slug":"socorro-2026"},
+    "338793": {"slug":"yo-no-creo-en-los-hombres"},
     "339525": {"slug":"relatos-de-la-noche-brujas"},
     "339909": {"slug":"el-colombiano-de-keko"}
   }
