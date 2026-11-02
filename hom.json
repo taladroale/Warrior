@@ -90,20 +90,22 @@
       "duration": "119 min"
     },
     {
-      "title": "El regalo de cumpleaños",
-      "synopsis": "Marlene Frischmann (Jeanne Goursaud) quiere celebrar por todo lo alto el cumpleaños de su hijo Theo (Levin Wopp) y lo tiene todo preparado en la elegante casa de campo de su hermano: globos, una tarta sin gluten, una piñata e incluso animales salvajes prometen convertir el día en algo inolvidable. Pero la celebración, preparada con todo el cariño, no tarda en convertirse en una pesadilla desternillante, con acaloradas discusiones sobre la crianza, los modelos de masculinidad y los principios educativos. Tampoco ayudan precisamente a poner orden su alborotador hermano banquero Timo (Edin Hasanović), su excéntrico y desorientado padre Hans (Heiner Lauterbach), su compañera Jenny (Amal Keller), una idealista empeñada en salvar el mundo, y un regalo muy especial. Entre una familia de lo más disfuncional, madres helicóptero obsesionadas con controlarlo todo y la anarquía infantil, la fiesta acaba sumida en el caos.",
-      "rating": 9,
+      "title": "Wildwood: El Bosque Salvaje",
+      "synopsis": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
+      "rating": 8.63,
       "year": "2026",
       "genres": [
-        "Comedia"
+        "Animación",
+        "Aventura",
+        "Fantasía"
       ],
-      "cast": "Jeanne Goursaud, Edin Hasanović, Heiner Lauterbach, Levin Wopp, Sogol Faghani",
-      "posterUrl": "https://image.tmdb.org/t/p/original/4sc5p6NiMKpv5Ef9iShXplJsY3G.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
-      "slug": "el-regalo-de-cumpleanos",
-      "tmdbId": "1789549",
+      "cast": "Peyton Elizabeth Lee, Carey Mulligan, Jacob Tremblay, Mahershala Ali, Angela Bassett",
+      "posterUrl": "https://image.tmdb.org/t/p/original/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+      "slug": "wildwood-el-bosque-salvaje",
+      "tmdbId": "791523",
       "type": "movie",
-      "duration": "86 min"
+      "duration": "132 min"
     }
   ],
   "seriesHero": [
@@ -123,6 +125,21 @@
       "type": "series"
     },
     {
+      "title": "La edad dorada",
+      "synopsis": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
+      "rating": 7.7,
+      "year": "2022",
+      "genres": [
+        "Drama"
+      ],
+      "cast": "Carrie Coon, Morgan Spector, Louisa Jacobson, Denée Benton, Taissa Farmiga",
+      "posterUrl": "https://image.tmdb.org/t/p/original/gKP16H5b4bwNz7od5ODSDvVeBvB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/jPcQlhoJ3LrOfKwCvGD58P8rC5b.jpg",
+      "slug": "la-edad-dorada",
+      "tmdbId": "81723",
+      "type": "series"
+    },
+    {
       "title": "Dexter: Resurrección",
       "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
       "rating": 8.5,
@@ -137,22 +154,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
       "slug": "dexter-resurreccion",
       "tmdbId": "259909",
-      "type": "series"
-    },
-    {
-      "title": "It: Bienvenidos a Derry",
-      "synopsis": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
-      "rating": 8.25,
-      "year": "2025",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Taylour Paige, Jovan Adepo, James Remar, Stephen Rider, Matilda Lawler",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2titW404dPYOzK5NElQoAJ2ivK5.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
-      "slug": "it-bienvenidos-a-derry",
-      "tmdbId": "200875",
       "type": "series"
     },
     {
@@ -190,19 +191,19 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.61,
+      "title": "It: Bienvenidos a Derry",
+      "synopsis": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
+      "rating": 8.25,
       "year": "2025",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Drama",
+        "Misterio"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Taylour Paige, Jovan Adepo, James Remar, Stephen Rider, Matilda Lawler",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2titW404dPYOzK5NElQoAJ2ivK5.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+      "slug": "it-bienvenidos-a-derry",
+      "tmdbId": "200875",
       "type": "series"
     }
   ],
@@ -575,7 +576,7 @@
         {
           "title": "100 días de engaño",
           "synopsis": "La carterista más consumada de Gyeongseong anhela la libertad. Para lograrla, se infiltra en el Gobierno colonial japonés para robar secretos… y se enamora del hijo de su objetivo.",
-          "rating": 9.3,
+          "rating": 8.64,
           "year": "2026",
           "genres": [
             "Acción",
@@ -592,7 +593,7 @@
         {
           "title": "Tierra de mafiosos",
           "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-          "rating": 8.61,
+          "rating": 8.62,
           "year": "2025",
           "genres": [
             "Crimen",
@@ -640,7 +641,7 @@
         {
           "title": "Tulsa King",
           "synopsis": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
-          "rating": 8.31,
+          "rating": 8.32,
           "year": "2022",
           "genres": [
             "Crimen",
