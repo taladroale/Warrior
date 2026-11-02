@@ -54,24 +54,6 @@
       "duration": "114 min"
     },
     {
-      "title": "La constelación del perro",
-      "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
-      "rating": 6.92,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Suspenso",
-        "Ciencia ficción"
-      ],
-      "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong",
-      "posterUrl": "https://image.tmdb.org/t/p/original/unyqtCtZiLvcqAAbw3vvCuPwt78.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
-      "slug": "la-constelacion-del-perro",
-      "tmdbId": "1384216",
-      "type": "movie",
-      "duration": "119 min"
-    },
-    {
       "title": "Clayface",
       "synopsis": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
       "rating": 7.48,
@@ -88,6 +70,24 @@
       "tmdbId": "1400940",
       "type": "movie",
       "duration": "108 min"
+    },
+    {
+      "title": "La constelación del perro",
+      "synopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+      "rating": 6.92,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Suspenso",
+        "Ciencia ficción"
+      ],
+      "cast": "Jacob Elordi, Josh Brolin, Margaret Qualley, Guy Pearce, Benedict Wong",
+      "posterUrl": "https://image.tmdb.org/t/p/original/unyqtCtZiLvcqAAbw3vvCuPwt78.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3k7GzxOdLZkN3eZsuhLi2eRzkXO.jpg",
+      "slug": "la-constelacion-del-perro",
+      "tmdbId": "1384216",
+      "type": "movie",
+      "duration": "119 min"
     },
     {
       "title": "El regalo de cumpleaños",
@@ -142,7 +142,7 @@
     {
       "title": "It: Bienvenidos a Derry",
       "synopsis": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
-      "rating": 8.23,
+      "rating": 8.25,
       "year": "2025",
       "genres": [
         "Drama",
@@ -153,23 +153,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
       "slug": "it-bienvenidos-a-derry",
       "tmdbId": "200875",
-      "type": "series"
-    },
-    {
-      "title": "Nocturno",
-      "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
-      "rating": 5,
-      "year": "2026",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Liev Schreiber, Zazie Beetz, Stephen Graham, Bill Camp, Rory Culkin",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-      "slug": "nocturno",
-      "tmdbId": "292741",
       "type": "series"
     },
     {
@@ -190,20 +173,36 @@
       "type": "series"
     },
     {
-      "title": "Materia oscura",
-      "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-      "rating": 7.82,
-      "year": "2024",
+      "title": "Nocturno",
+      "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
+      "rating": 5,
+      "year": "2026",
       "genres": [
-        "Ciencia ficción",
-        "Fantasía",
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Liev Schreiber, Zazie Beetz, Stephen Graham, Bill Camp, Rory Culkin",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+      "slug": "nocturno",
+      "tmdbId": "292741",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.61,
+      "year": "2025",
+      "genres": [
+        "Crimen",
         "Drama"
       ],
-      "cast": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson, Dayo Okeniyi",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-      "slug": "materia-oscura",
-      "tmdbId": "196322",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     }
   ],
@@ -216,7 +215,7 @@
         {
           "title": "Wild Horse Nine",
           "synopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
-          "rating": 8.75,
+          "rating": 8.7,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -430,7 +429,7 @@
         {
           "title": "Wild Horse Nine",
           "synopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
-          "rating": 8.75,
+          "rating": 8.7,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -574,6 +573,71 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "100 días de engaño",
+          "synopsis": "La carterista más consumada de Gyeongseong anhela la libertad. Para lograrla, se infiltra en el Gobierno colonial japonés para robar secretos… y se enamora del hijo de su objetivo.",
+          "rating": 9.3,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Drama"
+          ],
+          "cast": "김유정, Jinyoung, 김현주, 이무생, 진선규",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zOSAKuyQfj3HmnvH4HU6GLu9cU8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+          "slug": "100-dias-de-engano",
+          "tmdbId": "293607",
+          "type": "series"
+        },
+        {
+          "title": "Tierra de mafiosos",
+          "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+          "rating": 8.61,
+          "year": "2025",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+          "slug": "mobland",
+          "tmdbId": "247718",
+          "type": "series"
+        },
+        {
+          "title": "Un amor distinto al tuyo",
+          "synopsis": "Una historia de amor realista, emocional y cercana sobre una pareja en su décimo año de relación, que ve cómo sentimientos desconocidos ponen a prueba su estabilidad.",
+          "rating": 5.4,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "서강준, 안은진",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+          "slug": "un-amor-distinto-al-tuyo",
+          "tmdbId": "314939",
+          "type": "series"
+        },
+        {
+          "title": "American Hostage",
+          "synopsis": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
+          "rating": 6.7,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Jon Hamm, Giovanni Ribisi, Kristoffer Polaha, William Jackson Harper, Mireille Enos",
+          "posterUrl": "https://image.tmdb.org/t/p/original/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
+          "slug": "american-hostage",
+          "tmdbId": "239618",
+          "type": "series"
+        },
+        {
           "title": "Tulsa King",
           "synopsis": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
           "rating": 8.31,
@@ -669,73 +733,6 @@
           "slug": "el-intercambio",
           "tmdbId": "336240",
           "type": "series"
-        },
-        {
-          "title": "La Caída de El Mayo",
-          "synopsis": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída.",
-          "rating": 9,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ugzaqDYPrlrV7NnpKrTmaB2YeGC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
-          "slug": "la-caida-de-el-mayo",
-          "tmdbId": "338689",
-          "type": "series"
-        },
-        {
-          "title": "Avatar: Los Siete Refugios",
-          "synopsis": "El mundo ha sido destrozado por un terrible evento apocalíptico, surgiendo los Siete Refugios, los últimos pilares de la civilización humana. Pavi una joven maestra Tierra descubre ser la siguiente Avatar, sin embargo tras el Avatar anterior, Korra, aparentemente volverse en contra del mundo, en esta nueva era el Avatar es considerado el destructor y no el salvador, y Pavi sea perseguida por humanos y espíritus. Junto con Nisha, su hermana gemela y Jae, un maestro aire, deben salvar a los Siete Refugios antes de que estos colapsen, además de descubrir los orígenes de Pavi y Nisha envueltos en un misterio.",
-          "rating": 8.99,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Acción",
-            "Aventura",
-            "Ciencia ficción",
-            "Fantasía",
-            "Familia"
-          ],
-          "cast": "Saheli Khan, Aishwarya 'Aishu' Devan, Major Curda, Akshay Khanna, Sakina Jaffrey",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7B8LtDGwnGcfAtboneaKj7f3PSH.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/t2KFGH07Al4XuIZLHRlF1Hj9IJB.jpg",
-          "slug": "avatar-los-siete-refugios",
-          "tmdbId": "284833",
-          "type": "series"
-        },
-        {
-          "title": "The Drop: Una historia de Snowfall",
-          "synopsis": "A medida que Los Ángeles pasaba del crack al rap en la década de los noventa, los territorios de las bandas controlados por los Bloods y los Crips se convirtieron en el epicentro de una escena musical emergente en South Central.",
-          "rating": 7.68,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Gail Bean, Isaiah John, Asante Blackk, Peyton Alex Smith, Simmie Sims III",
-          "posterUrl": "https://image.tmdb.org/t/p/original/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ycLQYTgWfBq53fIkws0qIQOp62g.jpg",
-          "slug": "the-drop-a-snowfall-saga",
-          "tmdbId": "304842",
-          "type": "series"
-        },
-        {
-          "title": "Materia oscura",
-          "synopsis": "Jason Dessen acaba en una versión alternativa de su vida. Para volver con su auténtica familia, se embarca en un tortuoso viaje para salvarla del enemigo más aterrador: él mismo.",
-          "rating": 7.82,
-          "year": "2024",
-          "genres": [
-            "Ciencia ficción",
-            "Fantasía",
-            "Drama"
-          ],
-          "cast": "Joel Edgerton, Jennifer Connelly, Alice Braga, Jimmi Simpson, Dayo Okeniyi",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2JWIUUGf8AfEYNtCjxwMS79JUqw.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wFEAy4xRes1eeclsu7Z73Vzz7ET.jpg",
-          "slug": "materia-oscura",
-          "tmdbId": "196322",
-          "type": "series"
         }
       ]
     },
@@ -744,6 +741,36 @@
       "type": "series",
       "seeMoreSlug": "estrenos-series",
       "items": [
+        {
+          "title": "Un trabajo maldito",
+          "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
+          "rating": 7.7,
+          "year": "2026",
+          "genres": [
+            "Misterio"
+          ],
+          "cast": "이재욱, 고민시, 김민하, 이희준, 최현욱",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
+          "slug": "un-trabajo-maldito",
+          "tmdbId": "289517",
+          "type": "series"
+        },
+        {
+          "title": "Yo no creo en los hombres",
+          "synopsis": "Julieta se enamora de Arturo sin imaginar que su relación la llevará a perderlo todo. Acusada injustamente de asesinato, deberá luchar por demostrar su inocencia, sanar las heridas del pasado y recuperar su confianza en los hombres y en el amor.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Valentina Buzzurro, Paulina Matos, Adolfo de la Fuente, José Pablo Minor, Cecilia Gabriela",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cULgETcvDkqZhmXEDHcP5SR91KP.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/pQmYtNLwpOyl1meIWU58HizYRIX.jpg",
+          "slug": "yo-no-creo-en-los-hombres",
+          "tmdbId": "338793",
+          "type": "series"
+        },
         {
           "title": "El intercambio",
           "synopsis": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
@@ -761,18 +788,18 @@
           "type": "series"
         },
         {
-          "title": "Un trabajo maldito",
-          "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
-          "rating": 7.7,
+          "title": "La Caída de El Mayo",
+          "synopsis": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída.",
+          "rating": 9,
           "year": "2026",
           "genres": [
-            "Misterio"
+            "Documental"
           ],
-          "cast": "이재욱, 고민시, 김민하, 이희준, 최현욱",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
-          "slug": "un-trabajo-maldito",
-          "tmdbId": "289517",
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ugzaqDYPrlrV7NnpKrTmaB2YeGC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
+          "slug": "la-caida-de-el-mayo",
+          "tmdbId": "338689",
           "type": "series"
         },
         {
@@ -790,21 +817,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
           "slug": "nocturno",
           "tmdbId": "292741",
-          "type": "series"
-        },
-        {
-          "title": "La Caída de El Mayo",
-          "synopsis": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída.",
-          "rating": 9,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ugzaqDYPrlrV7NnpKrTmaB2YeGC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
-          "slug": "la-caida-de-el-mayo",
-          "tmdbId": "338689",
           "type": "series"
         },
         {
@@ -883,19 +895,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
           "slug": "por-casualidad-hablaban-de-mi",
           "tmdbId": "300527",
-          "type": "series"
-        },
-        {
-          "title": "El colombiano de Keko",
-          "synopsis": "La producción colombiana reconstruye el encierro de Andrés Felipe Ballesteros y la lucha de su familia por demostrar su inocencia, con Juan Cruz como protagonista. Christian Tappan y Juan Pablo Raba forman parte del elenco",
-          "rating": 0,
-          "year": "2026",
-          "genres": [],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/a0lVuPyGhCrW6xi9xhJb5I0h5AI.jpg",
-          "backdropUrl": null,
-          "slug": "el-colombiano-de-keko",
-          "tmdbId": "339909",
           "type": "series"
         }
       ]
