@@ -3,7 +3,7 @@
     {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.32,
+      "rating": 7.33,
       "year": "2026",
       "genres": [
         "Terror",
@@ -36,24 +36,6 @@
       "duration": "110 min"
     },
     {
-      "title": "La historia de Derry",
-      "synopsis": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
-      "rating": 6,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Terror",
-        "Misterio"
-      ],
-      "cast": "Kiawentiio, Isabel DeRoy-Olson, Michael Podemski, Zahn McClarnon, Brandon Oakes",
-      "posterUrl": "https://image.tmdb.org/t/p/original/a5Fsm4dVA0tHegJFTdtM0tVMepJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-      "slug": "la-historia-de-derry",
-      "tmdbId": "1813355",
-      "type": "movie",
-      "duration": "30 min"
-    },
-    {
       "title": "Boiuna: La leyenda del Amazonas",
       "synopsis": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
       "rating": 6.3,
@@ -71,43 +53,92 @@
       "duration": "104 min"
     },
     {
+      "title": "La historia de Derry",
+      "synopsis": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
+      "rating": 6.95,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Terror",
+        "Misterio"
+      ],
+      "cast": "Kiawentiio, Isabel DeRoy-Olson, Michael Podemski, Zahn McClarnon, MorningStar Angeline",
+      "posterUrl": "https://image.tmdb.org/t/p/original/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+      "slug": "la-historia-de-derry",
+      "tmdbId": "1813355",
+      "type": "movie",
+      "duration": "30 min"
+    },
+    {
+      "title": "Mi mejor amiga",
+      "synopsis": "Ante la menopausia y la ansiedad por tener los nidos vacíos, las amigas Julia y Clara deciden viajar juntas para visitar a sus hijas que están en un programa de intercambio en el extranjero.",
+      "rating": 8.4,
+      "year": "2026",
+      "genres": [
+        "Comedia"
+      ],
+      "cast": "Ingrid Guimarães, Mônica Martelli, Giulia Benite, Gabi Amaral, Ricardo Pereira",
+      "posterUrl": "https://image.tmdb.org/t/p/original/dPwhIzaZb9zwKoUg4KMuBGEPVjg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
+      "slug": "mi-mejor-amiga",
+      "tmdbId": "1257147",
+      "type": "movie",
+      "duration": "125 min"
+    },
+    {
       "title": "Wildwood: El Bosque Salvaje",
       "synopsis": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
-      "rating": 8.63,
+      "rating": 8.6,
       "year": "2026",
       "genres": [
         "Animación",
         "Aventura",
         "Fantasía"
       ],
-      "cast": "Peyton Elizabeth Lee, Carey Mulligan, Jacob Tremblay, Mahershala Ali, Angela Bassett",
+      "cast": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali, Richard E. Grant",
       "posterUrl": "https://image.tmdb.org/t/p/original/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
       "slug": "wildwood-el-bosque-salvaje",
       "tmdbId": "791523",
       "type": "movie",
       "duration": "132 min"
-    },
-    {
-      "title": "Apocalipsis Z: Nuevo mundo",
-      "synopsis": "Cuando una misión especial parte hacia la península en busca de suministros vitales, Roberto se une al equipo con dudosas intenciones. La peligrosa operación se transforma en una carrera desesperada por la supervivencia, y Roberto y sus compañeros se encontrarán entre hordas de infectados y lealtades divididas.",
-      "rating": 9,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Suspenso",
-        "Terror"
-      ],
-      "cast": "Carlos Alcaide, Julia Martínez, Mónica López, Tamara Casellas, Santiago Vaca Narvaja",
-      "posterUrl": "https://image.tmdb.org/t/p/original/wgSMJ3083ad5qKC4QzzVNJ4cv5D.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-      "slug": "apocalipsis-z-nuevo-mundo",
-      "tmdbId": "1507696",
-      "type": "movie",
-      "duration": "96 min"
     }
   ],
   "seriesHero": [
+    {
+      "title": "Bass X Machina",
+      "synopsis": "En un Oeste ‘steampunk’ invadido por forajidos, máquinas y fuerzas sobrenaturales, un padre se ve obligado a ser juez, jurado y verdugo para proteger a su familia.",
+      "rating": 7,
+      "year": "2026",
+      "genres": [
+        "Animación",
+        "Western",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Brian Tyree Henry, Janelle Monáe, Tati Gabrielle, Cree Summer, Chaske Spencer",
+      "posterUrl": "https://image.tmdb.org/t/p/original/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+      "slug": "bass-x-machina",
+      "tmdbId": "314271",
+      "type": "series"
+    },
+    {
+      "title": "Un trabajo maldito",
+      "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
+      "rating": 7.45,
+      "year": "2026",
+      "genres": [
+        "Misterio"
+      ],
+      "cast": "이재욱, 고민시, 김민하, 이희준",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
+      "slug": "un-trabajo-maldito",
+      "tmdbId": "289517",
+      "type": "series"
+    },
     {
       "title": "La edad dorada",
       "synopsis": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
@@ -118,24 +149,9 @@
       ],
       "cast": "Carrie Coon, Morgan Spector, Louisa Jacobson, Denée Benton, Taissa Farmiga",
       "posterUrl": "https://image.tmdb.org/t/p/original/gKP16H5b4bwNz7od5ODSDvVeBvB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/jPcQlhoJ3LrOfKwCvGD58P8rC5b.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/afUVsProh46h31w2EvL7qyHXrqj.jpg",
       "slug": "la-edad-dorada",
       "tmdbId": "81723",
-      "type": "series"
-    },
-    {
-      "title": "Un trabajo maldito",
-      "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
-      "rating": 7.7,
-      "year": "2026",
-      "genres": [
-        "Misterio"
-      ],
-      "cast": "이재욱, 고민시, 김민하, 이희준, 최현욱",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
-      "slug": "un-trabajo-maldito",
-      "tmdbId": "289517",
       "type": "series"
     },
     {
@@ -156,6 +172,25 @@
       "type": "series"
     },
     {
+      "title": "Stranger Things",
+      "synopsis": "A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
+      "rating": 8.5,
+      "year": "2016",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Misterio",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Winona Ryder, David Harbour, Millie Bobby Brown, Finn Wolfhard, Gaten Matarazzo",
+      "posterUrl": "https://image.tmdb.org/t/p/original/AsPD90QEQsIAtSxfSjV3fN7XFpt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/9P4IIMYY3HifqeruZq0ZZ9g7YUi.jpg",
+      "slug": "stranger-things",
+      "tmdbId": "66732",
+      "type": "series"
+    },
+    {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
       "rating": 8.64,
@@ -171,39 +206,6 @@
       "slug": "visionquest",
       "tmdbId": "213375",
       "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.62,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
-    {
-      "title": "Dexter: Resurrección",
-      "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-      "rating": 8.55,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Michael C. Hall, Uma Thurman, Jack Alcott, Dan Stevens, Bokeem Woodbine",
-      "posterUrl": "https://image.tmdb.org/t/p/original/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-      "slug": "dexter-resurreccion",
-      "tmdbId": "259909",
-      "type": "series"
     }
   ],
   "movieSections": [
@@ -212,6 +214,129 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Viva",
+          "synopsis": "En un futuro marcado por la sequía extrema, Nora, una mujer a las puertas de los 40, enfrenta el retorno a su vida después de superar un cáncer de mama. Verá tambalear sus planes con la irrupción de Max, un chico de 23 años.",
+          "rating": 5.38,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama",
+            "Romance"
+          ],
+          "cast": "Aina Clotet, Marc Soler Rull, Naby Dakhli, Guillermo Toledo, Lloll Bertran",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wz7HsO4RQ5hCkW0Aavv6PoqR0Wo.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/uDgxGs0OW9ILPqFBAHIrQtMPdo8.jpg",
+          "slug": "viva",
+          "tmdbId": "1474225",
+          "type": "movie",
+          "duration": "113 min"
+        },
+        {
+          "title": "Tony",
+          "synopsis": "Biopic del célebre chef Anthony Bourdain durante un verano en sus primeros años en la cocina mucho antes de la fama.",
+          "rating": 7.4,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Dominic Sessa, Antonio Banderas, Emilia Jones, Stavros Halkias, Leo Woodall",
+          "posterUrl": "https://image.tmdb.org/t/p/original/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
+          "slug": "tony",
+          "tmdbId": "1329016",
+          "type": "movie",
+          "duration": "107 min"
+        },
+        {
+          "title": "Territorio salvaje",
+          "synopsis": "El dueño de un club nocturno está a punto de dejar atrás su peligroso pasado para volver a vivir con su novia. Cuando unos pistoleros enmascarados le roban y se ve acorralado por despiadados cárteles, llega un misterioso hombre interesado en comprar el negocio. Con el peligro acechándole por todos lados, deberá atravesar una mortífera red de engaños, poder y supervivencia, de la que escapar puede que ya no sea una opción.",
+          "rating": 6.15,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Suspenso"
+          ],
+          "cast": "Russell Crowe, Luke Evans, Teresa Palmer, Daniel Zovatto, Josh McConville",
+          "posterUrl": "https://image.tmdb.org/t/p/original/8xwEJ5BGQz5CNS07RGjmQmiIoAS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9Bv4Oki9u3aKZxDCNDcU4N2mttb.jpg",
+          "slug": "the-get-out",
+          "tmdbId": "1279493",
+          "type": "movie",
+          "duration": "96 min"
+        },
+        {
+          "title": "La isla olvidada",
+          "synopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+          "rating": 7.98,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Aventura",
+            "Fantasía",
+            "Comedia",
+            "Familia"
+          ],
+          "cast": "H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto",
+          "posterUrl": "https://image.tmdb.org/t/p/original/s6zlUeVNSZcIFt0nBLGdrDbBMMH.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+          "slug": "la-isla-olvidada",
+          "tmdbId": "1465063",
+          "type": "movie",
+          "duration": "109 min"
+        },
+        {
+          "title": "Verity. La sombra de un engaño",
+          "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+          "rating": 6.93,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Suspenso"
+          ],
+          "cast": "Dakota Johnson, Anne Hathaway, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+          "slug": "verity-la-sombra-de-un-engano",
+          "tmdbId": "1283515",
+          "type": "movie",
+          "duration": "117 min"
+        },
+        {
+          "title": "Ali G: Kién es yo?",
+          "synopsis": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
+          "rating": 5.74,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Sacha Baron Cohen, Morgana Robinson, Alpha Miknas, Clive Russell, A$AP Rocky",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
+          "slug": "ali-g-kien-es-yo",
+          "tmdbId": "1727734",
+          "type": "movie",
+          "duration": "89 min"
+        },
+        {
+          "title": "Resident Evil",
+          "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+          "rating": 7.33,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Ciencia ficción",
+            "Aventura"
+          ],
+          "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+          "slug": "resident-evil-1423191",
+          "tmdbId": "1423191",
+          "type": "movie",
+          "duration": "95 min"
+        },
         {
           "title": "Barbie in the Nutcracker",
           "synopsis": "Barbie “Brooklyn” Roberts steps into the role of the Sugarplum Princess and Barbie “Malibu” Roberts stars as Clara, as they journey through a musical, magical dreamworld filled with holiday wonder, courage and friendship.",
@@ -234,13 +359,13 @@
         {
           "title": "Mi mejor amiga",
           "synopsis": "Ante la menopausia y la ansiedad por tener los nidos vacíos, las amigas Julia y Clara deciden viajar juntas para visitar a sus hijas que están en un programa de intercambio en el extranjero.",
-          "rating": 8.6,
+          "rating": 8.4,
           "year": "2026",
           "genres": [
             "Comedia"
           ],
           "cast": "Ingrid Guimarães, Mônica Martelli, Giulia Benite, Gabi Amaral, Ricardo Pereira",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/dPwhIzaZb9zwKoUg4KMuBGEPVjg.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
           "slug": "mi-mejor-amiga",
           "tmdbId": "1257147",
@@ -264,130 +389,6 @@
           "tmdbId": "1458300",
           "type": "movie",
           "duration": "128 min"
-        },
-        {
-          "title": "El árbol muy muy lejano",
-          "synopsis": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
-          "rating": 6.71,
-          "year": "2026",
-          "genres": [
-            "Aventura",
-            "Familia",
-            "Fantasía"
-          ],
-          "cast": "Billie Gadsdon, Nicola Coughlan, Delilah Bennett-Cardy, Phoenix Laroche, Nonso Anozie",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fpW5GntifGxAG7Js99Wdhq9K0s5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3o7t1gF0wbXAtELCkIcYyPXoIxA.jpg",
-          "slug": "el-arbol-muy-muy-lejano",
-          "tmdbId": "1140521",
-          "type": "movie",
-          "duration": "110 min"
-        },
-        {
-          "title": "El último invierno",
-          "synopsis": "Una joven lucha por ocultar el oro que robó a unos forajidos violentos que han tomado el control de su remoto campamento, burlándolos en medio de un invierno letal en el que la supervivencia se convierte en un juego de astucia y traición.",
-          "rating": 6.7,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Drama",
-            "Western"
-          ],
-          "cast": "Sean Bean, Mackenzie Foy, Odeya Rush, Joe Pantoliano, Jack Kesy",
-          "posterUrl": "https://image.tmdb.org/t/p/original/8pTezPLXdP6wz3Vh9y0kBy6W5R1.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
-          "slug": "the-isolate-thief",
-          "tmdbId": "1404304",
-          "type": "movie",
-          "duration": "95 min"
-        },
-        {
-          "title": "Wild Horse Nine",
-          "synopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
-          "rating": 8.7,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Crimen",
-            "Suspenso"
-          ],
-          "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana di Girolamo, Ailín Salas",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/b17UWf3LqHgKolQkXckne32qv0.jpg",
-          "slug": "wild-horse-nine",
-          "tmdbId": "891621",
-          "type": "movie",
-          "duration": "118 min"
-        },
-        {
-          "title": "Death Whisperer: Saming the Werebeast",
-          "synopsis": "Tailandia años 60. Se emprende la búsqueda de un oficial militar desaparecido en la selva de Khao Khwang, donde, según cuenta la leyenda, el espíritu de un tigre devorador de hombres llamado Saming adopta forma humana.",
-          "rating": 7,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Suspenso",
-            "Acción"
-          ],
-          "cast": "ณเดชน์ คูกิมิยะ, เมลดา สุศรี, องอาจ เจียมเจริญพรกุล, สหจักร บุญธนกิจ, ปวริศร์ มงคลพิสิฐ",
-          "posterUrl": "https://image.tmdb.org/t/p/original/tOhbvoTC10Nf9WTBI1EIwaXz9Et.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ssg1qGCCRQEkwBNWHItDppBRQE2.jpg",
-          "slug": "death-whisperer-saming-the-werebeast",
-          "tmdbId": "1556321",
-          "type": "movie",
-          "duration": "111 min"
-        },
-        {
-          "title": "Gail Daughtry y el vale por un rollo VIP",
-          "synopsis": "Gail Daughtry, una peluquera de un pequeño pueblo, está prometida con Tom, su novio de toda la vida. Su vida da un vuelco cuando él conoce y acaba acostándose con la famosa que figuraba en su 'lista de permitidos'. Impulsivamente, Gail viaja a Los Ángeles con su amigo Otto, donde una vidente la convence de que la única forma de salvar su matrimonio es 'equilibrar la balanza' acostándose con el famoso de su propia lista: Jon Hamm. Así comienza una disparatada aventura por Hollywood en la que Gail y Otto unen fuerzas con más gente, entre ellos el actor John Slattery, para encontrar a Hamm. En el camino se cruzan con numerosas celebridades y son perseguidos por un grupo de asesinos a medida que se acercan al esquivo actor.",
-          "rating": 6.43,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Zoey Deutch, John Slattery, Ken Marino, Miles Gutierrez-Riley, Ben Wang",
-          "posterUrl": "https://image.tmdb.org/t/p/original/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/vfcqksiJMpzFJ8Y1cVbSAH6J6rY.jpg",
-          "slug": "gail-daughtry-and-the-celebrity-sex-pass",
-          "tmdbId": "1476682",
-          "type": "movie",
-          "duration": "94 min"
-        },
-        {
-          "title": "El unico carterista vivo de Nueva York",
-          "synopsis": "Harry Lehman es un carterista entrado en años que ejerce su oficio con resultados cada vez más escasos en una Nueva York que ha cambiado drásticamente. Las carteras repletas de efectivo han dado paso a tarjetas de crédito fáciles de cancelar, y Harry lucha por llegar a fin de mes mientras cuida a su esposa discapacitada, Rosie. Cuando, sin saberlo, roba y vende una valiosa memoria USB, Harry se ve envuelto en una carrera contrarreloj para devolver el botín o enfrentarse a la furia de una vengativa familia criminal.",
-          "rating": 7.2,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Drama",
-            "Suspenso"
-          ],
-          "cast": "John Turturro, Will Price, Steve Buscemi, Giancarlo Esposito, Jamie Lee Curtis",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pNdB9va2AEPQe9UfhKAdIt8nus9.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nZLt2sLZTEOyK50TjwNlGqzWsp5.jpg",
-          "slug": "el-unico-carterista-vivo-de-nueva-york",
-          "tmdbId": "1458099",
-          "type": "movie",
-          "duration": "88 min"
-        },
-        {
-          "title": "La historia de Derry",
-          "synopsis": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Terror",
-            "Misterio"
-          ],
-          "cast": "Kiawentiio, Isabel DeRoy-Olson, Michael Podemski, Zahn McClarnon, Brandon Oakes",
-          "posterUrl": "https://image.tmdb.org/t/p/original/a5Fsm4dVA0tHegJFTdtM0tVMepJ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-          "slug": "la-historia-de-derry",
-          "tmdbId": "1813355",
-          "type": "movie",
-          "duration": "30 min"
         }
       ]
     },
@@ -413,20 +414,20 @@
           "slug": "barbie-in-the-nutcracker-1760311",
           "tmdbId": "1760311",
           "type": "movie",
-          "duration": "45 min"
+          "duration": "42 min"
         },
         {
           "title": "La historia de Derry",
           "synopsis": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
-          "rating": 6,
+          "rating": 6.95,
           "year": "2026",
           "genres": [
             "Drama",
             "Terror",
             "Misterio"
           ],
-          "cast": "Kiawentiio, Isabel DeRoy-Olson, Michael Podemski, Zahn McClarnon, Brandon Oakes",
-          "posterUrl": "https://image.tmdb.org/t/p/original/a5Fsm4dVA0tHegJFTdtM0tVMepJ.jpg",
+          "cast": "Kiawentiio, Isabel DeRoy-Olson, Michael Podemski, Zahn McClarnon, MorningStar Angeline",
+          "posterUrl": "https://image.tmdb.org/t/p/original/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
           "slug": "la-historia-de-derry",
           "tmdbId": "1813355",
@@ -436,14 +437,14 @@
         {
           "title": "Wild Horse Nine",
           "synopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
-          "rating": 8.7,
+          "rating": 8.87,
           "year": "2026",
           "genres": [
             "Comedia",
             "Crimen",
             "Suspenso"
           ],
-          "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Mariana di Girolamo, Ailín Salas",
+          "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Tom Waits, Parker Posey",
           "posterUrl": "https://image.tmdb.org/t/p/original/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/b17UWf3LqHgKolQkXckne32qv0.jpg",
           "slug": "wild-horse-nine",
@@ -454,13 +455,13 @@
         {
           "title": "El regalo de cumpleaños",
           "synopsis": "Marlene Frischmann (Jeanne Goursaud) quiere celebrar por todo lo alto el cumpleaños de su hijo Theo (Levin Wopp) y lo tiene todo preparado en la elegante casa de campo de su hermano: globos, una tarta sin gluten, una piñata e incluso animales salvajes prometen convertir el día en algo inolvidable. Pero la celebración, preparada con todo el cariño, no tarda en convertirse en una pesadilla desternillante, con acaloradas discusiones sobre la crianza, los modelos de masculinidad y los principios educativos. Tampoco ayudan precisamente a poner orden su alborotador hermano banquero Timo (Edin Hasanović), su excéntrico y desorientado padre Hans (Heiner Lauterbach), su compañera Jenny (Amal Keller), una idealista empeñada en salvar el mundo, y un regalo muy especial. Entre una familia de lo más disfuncional, madres helicóptero obsesionadas con controlarlo todo y la anarquía infantil, la fiesta acaba sumida en el caos.",
-          "rating": 9,
+          "rating": 7.46,
           "year": "2026",
           "genres": [
             "Comedia"
           ],
           "cast": "Jeanne Goursaud, Edin Hasanović, Heiner Lauterbach, Levin Wopp, Sogol Faghani",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4sc5p6NiMKpv5Ef9iShXplJsY3G.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rtifYyLgIgACVwsbVodZ3TZ2Yde.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
           "slug": "el-regalo-de-cumpleanos",
           "tmdbId": "1789549",
@@ -490,7 +491,7 @@
         {
           "title": "Nosotros, pero un poco mejor",
           "synopsis": "Una mujer llega a Roma en 1965, huyendo de un marido maltratador y de acusaciones como el adulterio y el abandono del domicilio conyugal, dejando atrás a su hija recién nacida.",
-          "rating": 4.1,
+          "rating": 5.99,
           "year": "2026",
           "genres": [
             "Drama",
@@ -498,10 +499,11 @@
           ],
           "cast": "Elio Germano, Maria Chiara Giannetta, Lidia Vitale, Anna Bonaiuto, Diop Virginia",
           "posterUrl": "https://image.tmdb.org/t/p/original/bxIjfl7NFM9ON8m38bsFhwYaTKC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
           "slug": "nosotros-pero-un-poco-mejor",
           "tmdbId": "1541477",
-          "type": "movie"
+          "type": "movie",
+          "duration": "107 min"
         },
         {
           "title": "The Mosquito Bowl",
@@ -524,7 +526,7 @@
         {
           "title": "Drive: Los farsantes",
           "synopsis": "Una joven mecánica de coches de carreras finge estar comprometida con la estrella más escandalosa del mundo del automovilismo: oficialmente, por su reputación; pero, en secreto, para tener la oportunidad de ponerse al volante. Pronto, la mentira amenaza con lo destruir todo.",
-          "rating": 7.98,
+          "rating": 7.74,
           "year": "2026",
           "genres": [
             "Romance",
@@ -582,6 +584,60 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Bass X Machina",
+          "synopsis": "En un Oeste ‘steampunk’ invadido por forajidos, máquinas y fuerzas sobrenaturales, un padre se ve obligado a ser juez, jurado y verdugo para proteger a su familia.",
+          "rating": 7,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Western",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Brian Tyree Henry, Janelle Monáe, Tati Gabrielle, Cree Summer, Chaske Spencer",
+          "posterUrl": "https://image.tmdb.org/t/p/original/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+          "slug": "bass-x-machina",
+          "tmdbId": "314271",
+          "type": "series"
+        },
+        {
+          "title": "Un amor infiltrado",
+          "synopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
+          "rating": 8.9,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama",
+            "Crimen",
+            "Acción",
+            "Aventura"
+          ],
+          "cast": "Yim Si-wan, 설인아, 김정현, 연우, 류승수",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+          "slug": "un-amor-infiltrado",
+          "tmdbId": "303745",
+          "type": "series"
+        },
+        {
+          "title": "Doctor X Mafia in White",
+          "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
+          "rating": 9.35,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+          "slug": "doctor-x-mafia-in-white",
+          "tmdbId": "293610",
+          "type": "series"
+        },
+        {
           "title": "Objetivo: la serie",
           "synopsis": "Un grupo terrorista liderado por Jacob Pierce, excapitán de la Legión Francesa, irrumpe en un importante evento organizado en la embajada británica en París. Su objetivo es el ministro de Defensa francés, pero su guardaespaldas, Vincent Taleb, y una agente del MI6, Zara Taylor, frustran sus planes. Sin embargo, este asalto no es más que el primer ataque en un plan perfectamente construido.",
           "rating": 7,
@@ -601,7 +657,7 @@
         {
           "title": "Youth",
           "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-          "rating": 6.87,
+          "rating": 6.6,
           "year": "2026",
           "genres": [
             "Comedia",
@@ -617,7 +673,7 @@
         {
           "title": "100 días de engaño",
           "synopsis": "La carterista más consumada de Gyeongseong anhela la libertad. Para lograrla, se infiltra en el Gobierno colonial japonés para robar secretos… y se enamora del hijo de su objetivo.",
-          "rating": 8.64,
+          "rating": 8.54,
           "year": "2026",
           "genres": [
             "Acción",
@@ -666,7 +722,7 @@
         {
           "title": "American Hostage",
           "synopsis": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
-          "rating": 6.7,
+          "rating": 6.93,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -680,69 +736,19 @@
           "type": "series"
         },
         {
-          "title": "Tulsa King",
-          "synopsis": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
-          "rating": 8.31,
-          "year": "2022",
-          "genres": [
-            "Crimen",
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Sylvester Stallone, Martin Starr, Jay Will, Vincent Piazza, Annabella Sciorra",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-          "slug": "tulsa-king",
-          "tmdbId": "153312",
-          "type": "series"
-        },
-        {
-          "title": "Dragon Ball Super: Beerus",
-          "synopsis": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
-          "rating": 9.66,
+          "title": "La isla del tesoro",
+          "synopsis": "Cuando Jim se hace con un legendario mapa del tesoro, las acciones inteligentes y decididas de su madre, Bess, hacen que él acabe en posesión de una valiosa información que pone en peligro la vida de ambos. A bordo del «Hispaniola», Jim y Bess se ven atrapados entre el encantador y aterrador pirata Long John Silver y el elegante y traicionero agente británico Aaron Graham.",
+          "rating": 6.7,
           "year": "2026",
           "genres": [
-            "Animación",
             "Acción",
-            "Aventura",
-            "Ciencia ficción",
-            "Fantasía"
+            "Aventura"
           ],
-          "cast": "Masako Nozawa, Ryo Horikawa, Naoko Watanabe, Unsho Ishizuka, Koichi Yamadera",
-          "posterUrl": "https://image.tmdb.org/t/p/original/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-          "slug": "dragon-ball-super-beerus",
-          "tmdbId": "312359",
-          "type": "series"
-        },
-        {
-          "title": "Yo no creo en los hombres",
-          "synopsis": "Julieta se enamora de Arturo sin imaginar que su relación la llevará a perderlo todo. Acusada injustamente de asesinato, deberá luchar por demostrar su inocencia, sanar las heridas del pasado y recuperar su confianza en los hombres y en el amor.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Valentina Buzzurro, Paulina Matos, Adolfo de la Fuente, José Pablo Minor, Cecilia Gabriela",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cULgETcvDkqZhmXEDHcP5SR91KP.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/pQmYtNLwpOyl1meIWU58HizYRIX.jpg",
-          "slug": "yo-no-creo-en-los-hombres",
-          "tmdbId": "338793",
-          "type": "series"
-        },
-        {
-          "title": "Outlander: Sangre de mi sangre",
-          "synopsis": "Desde los campos de batalla de la Primera Guerra Mundial hasta las escarpadas Tierras Altas de la Escocia del siglo XVIII, dos parejas predestinadas deben desafiar las fuerzas que buscan separarlas, desarrollándose de maneras sorprendentes e imprevistas en esta saga romántica que se desarrolla a través del tiempo.",
-          "rating": 8.74,
-          "year": "2025",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Harriet Slater, Jamie Roy, Hermione Corfield, Jeremy Irvine, Tony Curran",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2vEp7mniHlKcK6LKJxCu4hOr56V.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
-          "slug": "outlander-sangre-de-mi-sangre",
-          "tmdbId": "207484",
+          "cast": "David Oyelowo, Tom Sweet, תומר קאפון, Craige Els, Neil Pendleton",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rnTcsrrDckwC2QmEQ1M7YfJDMN7.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+          "slug": "la-isla-del-tesoro",
+          "tmdbId": "333101",
           "type": "series"
         }
       ]
@@ -755,12 +761,12 @@
         {
           "title": "Un trabajo maldito",
           "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
-          "rating": 7.7,
+          "rating": 7.45,
           "year": "2026",
           "genres": [
             "Misterio"
           ],
-          "cast": "이재욱, 고민시, 김민하, 이희준, 최현욱",
+          "cast": "이재욱, 고민시, 김민하, 이희준",
           "posterUrl": "https://image.tmdb.org/t/p/original/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
           "slug": "un-trabajo-maldito",
@@ -785,15 +791,15 @@
         {
           "title": "El intercambio",
           "synopsis": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
-          "rating": 8,
+          "rating": 4.2,
           "year": "2026",
           "genres": [
             "Drama",
             "Misterio"
           ],
-          "cast": "Frida Gustavsson, Fares Fares, Emma Appleton, Jakob Oftebro",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xJupFp4GS4sRwH5xTEJLvvnNqaq.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/zeRZjwA0IwaIN6zQcSpFC0VKdr7.jpg",
+          "cast": "Emma Appleton, Fares Fares, Frida Gustavsson, Jakob Oftebro, Anna Bjelkerud",
+          "posterUrl": "https://image.tmdb.org/t/p/original/AzfQUkItsa8ZypO5tYKb2f0yNy.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
           "slug": "el-intercambio",
           "tmdbId": "336240",
           "type": "series"
@@ -801,7 +807,7 @@
         {
           "title": "La Caída de El Mayo",
           "synopsis": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída.",
-          "rating": 9,
+          "rating": 8.67,
           "year": "2026",
           "genres": [
             "Documental"
@@ -816,7 +822,7 @@
         {
           "title": "Nocturno",
           "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
-          "rating": 5,
+          "rating": 7.7,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -833,7 +839,7 @@
         {
           "title": "Balaraw: La isla sangrienta",
           "synopsis": "Años después de la desaparición de su madre, una pista misteriosa lleva a Sabina a una isla desierta, donde se enfrenta a los oscuros secretos de su propia familia.",
-          "rating": 7.2,
+          "rating": 7.19,
           "year": "2026",
           "genres": [
             "Misterio",
@@ -854,7 +860,7 @@
           "genres": [
             "Drama"
           ],
-          "cast": "Marieta Severo, Alice Wegmann, Nanda Costa, José de Abreu, Felipe Camargo",
+          "cast": "Marieta Severo, Alice Wegmann, Nanda Costta, José de Abreu, Felipe Camargo",
           "posterUrl": "https://image.tmdb.org/t/p/original/2xP7n3cQ5cvHaoMqmpAKt86feBl.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
           "slug": "el-don-de-enganar",
