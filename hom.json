@@ -36,21 +36,22 @@
       "duration": "110 min"
     },
     {
-      "title": "Boiuna: La leyenda del Amazonas",
-      "synopsis": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
-      "rating": 6.3,
+      "title": "Wild Horse Nine",
+      "synopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
+      "rating": 8.87,
       "year": "2026",
       "genres": [
-        "Terror",
+        "Comedia",
+        "Crimen",
         "Suspenso"
       ],
-      "cast": "Logan Marshall-Green, Kiana Madeira, Jessica Rothe, Jackson Bews, Juan Pablo Shuk",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hClFn5adaXOgmxrZyxixoKiBHEZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-      "slug": "boiuna-la-leyenda-del-amazonas",
-      "tmdbId": "1244523",
+      "cast": "John Malkovich, Sam Rockwell, Steve Buscemi, Tom Waits, Parker Posey",
+      "posterUrl": "https://image.tmdb.org/t/p/original/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/b17UWf3LqHgKolQkXckne32qv0.jpg",
+      "slug": "wild-horse-nine",
+      "tmdbId": "891621",
       "type": "movie",
-      "duration": "104 min"
+      "duration": "118 min"
     },
     {
       "title": "Mi mejor amiga",
@@ -69,24 +70,6 @@
       "duration": "125 min"
     },
     {
-      "title": "La historia de Derry",
-      "synopsis": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
-      "rating": 6.95,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Terror",
-        "Misterio"
-      ],
-      "cast": "Kiawentiio, Isabel DeRoy-Olson, Michael Podemski, Zahn McClarnon, MorningStar Angeline",
-      "posterUrl": "https://image.tmdb.org/t/p/original/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-      "slug": "la-historia-de-derry",
-      "tmdbId": "1813355",
-      "type": "movie",
-      "duration": "30 min"
-    },
-    {
       "title": "Verity. La sombra de un engaño",
       "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
       "rating": 6.93,
@@ -102,6 +85,23 @@
       "tmdbId": "1283515",
       "type": "movie",
       "duration": "117 min"
+    },
+    {
+      "title": "Boiuna: La leyenda del Amazonas",
+      "synopsis": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
+      "rating": 6.3,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Suspenso"
+      ],
+      "cast": "Logan Marshall-Green, Kiana Madeira, Jessica Rothe, Jackson Bews, Juan Pablo Shuk",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hClFn5adaXOgmxrZyxixoKiBHEZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+      "slug": "boiuna-la-leyenda-del-amazonas",
+      "tmdbId": "1244523",
+      "type": "movie",
+      "duration": "104 min"
     }
   ],
   "seriesHero": [
@@ -210,6 +210,41 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Que el cielo la juzgue",
+          "synopsis": "Richard Harland (Cornel Wilde), un joven escritor, conoce en un tren a Ellen (Gene Tierney), una bellísima mujer con la que se casa pocos días después. La vida parece sonreírles, pero Ellen es tan posesiva, sus celos son tan enfermizos que no está dispuesta a compartir a Richard con nadie; tanto amigos como familiares representan para ella una amenaza de la que intentará librarse.",
+          "rating": 7.5,
+          "year": "1945",
+          "genres": [
+            "Drama",
+            "Suspenso",
+            "Romance"
+          ],
+          "cast": "Gene Tierney, Cornel Wilde, Jeanne Crain, Vincent Price, Mary Philips",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yXZ5cSA6CVU7rEbwmYS3rFM8W6b.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/yctQYbmF9ZyRTqdbvkDoL09H7jX.jpg",
+          "slug": "que-el-cielo-la-juzgue",
+          "tmdbId": "17645",
+          "type": "movie",
+          "duration": "110 min"
+        },
+        {
+          "title": "Soldado universal II. El retorno",
+          "synopsis": "Seth, un poderoso guerrero controlado por ordenador, se quiere vengar de sus creadores asesinándolos. El único que puede detenerle es Luc Deveraux, un heroico soldado.",
+          "rating": 5.9,
+          "year": "1999",
+          "genres": [
+            "Acción",
+            "Ciencia ficción"
+          ],
+          "cast": "Jean-Claude Van Damme, Kiana Tom, Bill Goldberg, 淫片网 448832𝟵.com  黄漫片网 448856𝟵.com, Heidi Schanz",
+          "posterUrl": "https://image.tmdb.org/t/p/original/m9snWHsV6Sb6NZAUQJCOunxKGQX.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7mTsm6R2LAOxOsQ1BooJ27WwzAl.jpg",
+          "slug": "soldado-universal-el-retorno",
+          "tmdbId": "10366",
+          "type": "movie",
+          "duration": "82 min"
+        },
         {
           "title": "Viva",
           "synopsis": "En un futuro marcado por la sequía extrema, Nora, una mujer a las puertas de los 40, enfrenta el retorno a su vida después de superar un cáncer de mama. Verá tambalear sus planes con la irrupción de Max, un chico de 23 años.",
@@ -351,40 +386,6 @@
           "tmdbId": "1760311",
           "type": "movie",
           "duration": "42 min"
-        },
-        {
-          "title": "Mi mejor amiga",
-          "synopsis": "Ante la menopausia y la ansiedad por tener los nidos vacíos, las amigas Julia y Clara deciden viajar juntas para visitar a sus hijas que están en un programa de intercambio en el extranjero.",
-          "rating": 8.4,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Ingrid Guimarães, Mônica Martelli, Giulia Benite, Gabi Amaral, Ricardo Pereira",
-          "posterUrl": "https://image.tmdb.org/t/p/original/dPwhIzaZb9zwKoUg4KMuBGEPVjg.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
-          "slug": "mi-mejor-amiga",
-          "tmdbId": "1257147",
-          "type": "movie",
-          "duration": "125 min"
-        },
-        {
-          "title": "The Mosquito Bowl",
-          "synopsis": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
-          "rating": 6.3,
-          "year": "2026",
-          "genres": [
-            "Historia",
-            "Drama",
-            "Guerra"
-          ],
-          "cast": "Nicholas Galitzine, Bill Skarsgård, Ray Nicholson, Tom Francis, Brent Comer",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
-          "slug": "the-mosquito-bowl",
-          "tmdbId": "1458300",
-          "type": "movie",
-          "duration": "128 min"
         }
       ]
     },
@@ -580,171 +581,167 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
-          "title": "Bass X Machina",
-          "synopsis": "En un Oeste ‘steampunk’ invadido por forajidos, máquinas y fuerzas sobrenaturales, un padre se ve obligado a ser juez, jurado y verdugo para proteger a su familia.",
-          "rating": 7,
-          "year": "2026",
+          "title": "Kaiju No. 8",
+          "synopsis": "Japón sufre constantes ataques de Kaijus, y Kafka Hibino, un limpiador de sus restos, sueña con unirse a las Fuerzas de Defensa. Todo cambia cuando una criatura lo transforma en un Kaiju, ganándose el nombre de \"Kaiju N.8\".",
+          "rating": 8.4,
+          "year": "2024",
           "genres": [
             "Animación",
-            "Western",
+            "Acción",
+            "Aventura",
             "Ciencia ficción",
             "Fantasía"
           ],
-          "cast": "Brian Tyree Henry, Janelle Monáe, Tati Gabrielle, Cree Summer, Chaske Spencer",
-          "posterUrl": "https://image.tmdb.org/t/p/original/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
-          "slug": "bass-x-machina",
-          "tmdbId": "314271",
+          "cast": "Masaya Fukunishi, Asami Seto, Wataru Katoh, Fairouz Ai, Kengo Kawanishi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
+          "slug": "kaiju-no-8",
+          "tmdbId": "207468",
           "type": "series"
         },
         {
-          "title": "Un amor infiltrado",
-          "synopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
-          "rating": 8.9,
+          "title": "Volveré Por Ti",
+          "synopsis": "Una actriz y su hermano gemelo viajan en el tiempo e intercambian cuerpos para salvar la vida de su amiga.",
+          "rating": 6,
           "year": "2026",
           "genres": [
             "Comedia",
             "Drama",
-            "Crimen",
-            "Acción",
-            "Aventura"
+            "Ciencia ficción",
+            "Fantasía"
           ],
-          "cast": "Yim Si-wan, 설인아, 김정현, 연우, 류승수",
-          "posterUrl": "https://image.tmdb.org/t/p/original/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-          "slug": "un-amor-infiltrado",
-          "tmdbId": "303745",
+          "cast": "보나, 박서함, 장세혁, Moon Seung-you",
+          "posterUrl": "https://image.tmdb.org/t/p/original/21pLXbvuyfgUaAhhxkuvoX1pAN1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/jseW3HucgNjN2CwJa3MiOlF4xMO.jpg",
+          "slug": "dive-into-you",
+          "tmdbId": "316197",
           "type": "series"
         },
         {
-          "title": "Doctor X Mafia in White",
-          "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-          "rating": 9.35,
-          "year": "2026",
+          "title": "Taboo",
+          "synopsis": "Taboo, sigue a James Keziah Delaney  (Hardy), un hombre que regresa a su hogar, Londres, después de que  muchos le diesen por muerto. Creada por Knight a partir de una historia  original del propio Hardy y su padre Chips Hardy, la serie contará cómo  James recibe la herencia del imperio de navíos de su progenitor e  intenta reconstruir su vida. Algo que no le resultará fácil cuando tienes enemigos que quieren acabar con tu vida.",
+          "rating": 7.89,
+          "year": "2017",
           "genres": [
-            "Misterio",
             "Drama",
-            "Crimen"
+            "Misterio"
           ],
-          "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-          "slug": "doctor-x-mafia-in-white",
-          "tmdbId": "293610",
+          "cast": "Tom Hardy, David Hayman, Jonathan Pryce, Oona Chaplin, Richard Dixon",
+          "posterUrl": "https://image.tmdb.org/t/p/original/om1wVOuEtwH3krHutIWO9sJzkS5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gder6NtVlBIpenWWMOwpbQK05Uc.jpg",
+          "slug": "taboo",
+          "tmdbId": "65708",
           "type": "series"
         },
         {
-          "title": "Objetivo: la serie",
-          "synopsis": "Un grupo terrorista liderado por Jacob Pierce, excapitán de la Legión Francesa, irrumpe en un importante evento organizado en la embajada británica en París. Su objetivo es el ministro de Defensa francés, pero su guardaespaldas, Vincent Taleb, y una agente del MI6, Zara Taylor, frustran sus planes. Sin embargo, este asalto no es más que el primer ataque en un plan perfectamente construido.",
-          "rating": 7,
-          "year": "2024",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Guerra"
-          ],
-          "cast": "Tewfik Jallab, Ritu Arya, Ross Anderson, Agung Bagus, Ben Cura",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2Gs0L3x1S5w7A10Iv2MShgiwxZl.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3yoTM5JtkxnPZvVzQOrL0c2ILVM.jpg",
-          "slug": "objetivo-paris",
-          "tmdbId": "232018",
-          "type": "series"
-        },
-        {
-          "title": "Youth",
-          "synopsis": "Una divorciada de 50 años hace malabares con la vida amorosa mientras cuida a sus padres y a su hijo adulto.",
-          "rating": 6.6,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Sharon Horgan, Rupert Friend, Sharlene Whyte, Aran Murphy, Robbie Gee",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/iEISXRsDv8Q2PA6i9cAQd2DH9bN.jpg",
-          "slug": "youth",
-          "tmdbId": "285418",
-          "type": "series"
-        },
-        {
-          "title": "100 días de engaño",
-          "synopsis": "La carterista más consumada de Gyeongseong anhela la libertad. Para lograrla, se infiltra en el Gobierno colonial japonés para robar secretos… y se enamora del hijo de su objetivo.",
-          "rating": 8.54,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Drama"
-          ],
-          "cast": "김유정, Jinyoung, 김현주, 이무생, 진선규",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zOSAKuyQfj3HmnvH4HU6GLu9cU8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-          "slug": "100-dias-de-engano",
-          "tmdbId": "293607",
-          "type": "series"
-        },
-        {
-          "title": "Tierra de mafiosos",
-          "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-          "rating": 8.62,
+          "title": "Sticks: Cracks del golf",
+          "synopsis": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
+          "rating": 7.3,
           "year": "2025",
           "genres": [
-            "Crimen",
+            "Comedia",
             "Drama"
           ],
-          "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-          "slug": "mobland",
-          "tmdbId": "247718",
+          "cast": "Owen Wilson, Peter Dager, Lilli Kay, Mariana Treviño, Marc Maron",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xNgq0yLHus5xE0NRg0psHJKMwgi.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hTYYtZQVNDHu7rqgRjhHjVBWawd.jpg",
+          "slug": "sticks-cracks-del-golf",
+          "tmdbId": "248830",
           "type": "series"
         },
         {
-          "title": "Un amor distinto al tuyo",
-          "synopsis": "Una historia de amor realista, emocional y cercana sobre una pareja en su décimo año de relación, que ve cómo sentimientos desconocidos ponen a prueba su estabilidad.",
-          "rating": 5.4,
+          "title": "Brothers",
+          "synopsis": "Los actores Matthew McConaughey y Woody Harrelson son inseparables desde hace años, pero un secreto de familia destapa que, en realidad, podría unirlos algo más que una simple amistad.",
+          "rating": 7.14,
           "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Matthew McConaughey, Woody Harrelson, Natalie Martinez, Brittany Ishibashi, Nolan Almeida",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zKV545LMFIlvliQHCPRqpZto6vv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
+          "slug": "brothers",
+          "tmdbId": "250203",
+          "type": "series"
+        },
+        {
+          "title": "4 Blocks Zero",
+          "synopsis": "Precuela de \"4 Blocks\" (2017-2019). Traslada la acción al Berlín de los años 90, mucho antes de que Toni Hamady se convirtiera en el líder criminal más poderoso de la ciudad. En esta ocasión, la historia se centra en los orígenes de la familia, que tras huir del Líbano intenta empezar de nuevo en Alemania enfrentándose a la burocracia, los prejuicios y la falta de un permiso de residencia estable. El padre de familia, Malik, sobrevive trabajando como cocinero sin formación mientras trata de sacar adelante a sus cuatro hijos: Ali, Abbas, Marwan y Amara. La situación cambia radicalmente cuando Ibrahim, cuñado de Malik, regresa a Berlín después de pasar ocho años en prisión. Su vuelta desencadena una cadena de acontecimientos que termina arrastrando a toda la familia hacia el crimen organizado de la capital alemana y pone a prueba sus principios.",
+          "rating": 5,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Tariq Al Saies, Tareq Nassery, Rami Fadel Khalaf, Soufiane El Mesaudi, Bella Dayne",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yvIUYRLeTF9KOQL12ojleVyqxAk.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
+          "slug": "4-blocks-zero",
+          "tmdbId": "310133",
+          "type": "series"
+        },
+        {
+          "title": "Firefly Wedding",
+          "synopsis": "En la era Meiji, Satoko Kirigaya, una joven aristócrata con una esperanza de vida limitada, sueña con casarse con un noble y convertirse en el orgullo de su familia. Cuando una conspiración la pone al borde de la muerte, se ve obligada a aceptar la ayuda de Shinpei Goto, un asesino que acaba obsesionándose con ella.",
+          "rating": 9.4,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Drama"
+          ],
+          "cast": "Lynn, Koki Uchiyama, Haruhi Nanao, Natsuko Abe",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
+          "slug": "firefly-wedding",
+          "tmdbId": "320909",
+          "type": "series"
+        },
+        {
+          "title": "Buscando a Wanda",
+          "synopsis": "Cuando desaparece su hija, los Klatt deciden tomar cartas en el asunto y urden un plan disparatado: espiar al vecindario. A medida que avanzan en esta operación de espionaje de poca monta, van desvelando asombrosos secretos.",
+          "rating": 6.5,
+          "year": "2024",
           "genres": [
             "Drama",
             "Comedia"
           ],
-          "cast": "서강준, 안은진",
-          "posterUrl": "https://image.tmdb.org/t/p/original/uZUo3eBpDOqVfeSRHqHBnQORzBk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
-          "slug": "un-amor-distinto-al-tuyo",
-          "tmdbId": "314939",
+          "cast": "Oliver Lansley",
+          "posterUrl": "https://image.tmdb.org/t/p/original/p3T1XtOvwBVaeG5tpB4sfhikng9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
+          "slug": "buscando-a-wanda",
+          "tmdbId": "234310",
           "type": "series"
         },
         {
-          "title": "American Hostage",
-          "synopsis": "Ambientada en la década de 1970, narra la desgarradora historia real de Fred Heckman, un querido reportero de radio de Indianápolis que se ve envuelto en una crisis de vida o muerte cuando el secuestrador Tony Kiritsis exige ser entrevistado en su popular programa de noticias de radio.",
-          "rating": 6.93,
+          "title": "VisionQuest",
+          "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+          "rating": 8.67,
           "year": "2026",
           "genres": [
-            "Crimen",
+            "Ciencia ficción",
+            "Fantasía",
             "Drama"
           ],
-          "cast": "Jon Hamm, Giovanni Ribisi, Kristoffer Polaha, William Jackson Harper, Mireille Enos",
-          "posterUrl": "https://image.tmdb.org/t/p/original/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/t708JUdkHAoZF83f4RjqcIGrJ99.jpg",
-          "slug": "american-hostage",
-          "tmdbId": "239618",
+          "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+          "slug": "visionquest",
+          "tmdbId": "213375",
           "type": "series"
         },
         {
-          "title": "La isla del tesoro",
-          "synopsis": "Cuando Jim se hace con un legendario mapa del tesoro, las acciones inteligentes y decididas de su madre, Bess, hacen que él acabe en posesión de una valiosa información que pone en peligro la vida de ambos. A bordo del «Hispaniola», Jim y Bess se ven atrapados entre el encantador y aterrador pirata Long John Silver y el elegante y traicionero agente británico Aaron Graham.",
-          "rating": 6.7,
-          "year": "2026",
+          "title": "Wonder Pets en la ciudad",
+          "synopsis": "Únete a las aventuras musicales de Izzy la conejilla de indias, Zuri la conejita y Tate la serpiente, un trío de heroicas mascotas escolares de Nueva York, mientras ayudan a animales de todo el mundo.",
+          "rating": 7.3,
+          "year": "2024",
           "genres": [
-            "Acción",
-            "Aventura"
+            "Animación",
+            "Familia"
           ],
-          "cast": "David Oyelowo, Tom Sweet, תומר קאפון, Craige Els, Neil Pendleton",
-          "posterUrl": "https://image.tmdb.org/t/p/original/rnTcsrrDckwC2QmEQ1M7YfJDMN7.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
-          "slug": "la-isla-del-tesoro",
-          "tmdbId": "333101",
+          "cast": "Victoria Scola-Giampapa, Christopher Sean Cooper Jr., Vanessa Huszar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/db4e3WPsNlPKJoaSPIYDpieB8lm.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/e4fVwvn7dEUZS19d4E3875YrD0Y.jpg",
+          "slug": "wonder-pets-en-la-ciudad",
+          "tmdbId": "274382",
           "type": "series"
         }
       ]
