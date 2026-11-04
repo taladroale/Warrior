@@ -53,6 +53,22 @@
       "duration": "104 min"
     },
     {
+      "title": "Mi mejor amiga",
+      "synopsis": "Ante la menopausia y la ansiedad por tener los nidos vacíos, las amigas Julia y Clara deciden viajar juntas para visitar a sus hijas que están en un programa de intercambio en el extranjero.",
+      "rating": 8.4,
+      "year": "2026",
+      "genres": [
+        "Comedia"
+      ],
+      "cast": "Ingrid Guimarães, Mônica Martelli, Giulia Benite, Gabi Amaral, Ricardo Pereira",
+      "posterUrl": "https://image.tmdb.org/t/p/original/dPwhIzaZb9zwKoUg4KMuBGEPVjg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
+      "slug": "mi-mejor-amiga",
+      "tmdbId": "1257147",
+      "type": "movie",
+      "duration": "125 min"
+    },
+    {
       "title": "La historia de Derry",
       "synopsis": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
       "rating": 6.95,
@@ -71,38 +87,21 @@
       "duration": "30 min"
     },
     {
-      "title": "Mi mejor amiga",
-      "synopsis": "Ante la menopausia y la ansiedad por tener los nidos vacíos, las amigas Julia y Clara deciden viajar juntas para visitar a sus hijas que están en un programa de intercambio en el extranjero.",
-      "rating": 8.4,
+      "title": "Verity. La sombra de un engaño",
+      "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "rating": 6.93,
       "year": "2026",
       "genres": [
-        "Comedia"
+        "Misterio",
+        "Suspenso"
       ],
-      "cast": "Ingrid Guimarães, Mônica Martelli, Giulia Benite, Gabi Amaral, Ricardo Pereira",
-      "posterUrl": "https://image.tmdb.org/t/p/original/dPwhIzaZb9zwKoUg4KMuBGEPVjg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
-      "slug": "mi-mejor-amiga",
-      "tmdbId": "1257147",
+      "cast": "Dakota Johnson, Anne Hathaway, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
+      "posterUrl": "https://image.tmdb.org/t/p/original/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+      "slug": "verity-la-sombra-de-un-engano",
+      "tmdbId": "1283515",
       "type": "movie",
-      "duration": "125 min"
-    },
-    {
-      "title": "Wildwood: El Bosque Salvaje",
-      "synopsis": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
-      "rating": 8.6,
-      "year": "2026",
-      "genres": [
-        "Animación",
-        "Aventura",
-        "Fantasía"
-      ],
-      "cast": "Peyton Elizabeth Lee, Jacob Tremblay, Carey Mulligan, Mahershala Ali, Richard E. Grant",
-      "posterUrl": "https://image.tmdb.org/t/p/original/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-      "slug": "wildwood-el-bosque-salvaje",
-      "tmdbId": "791523",
-      "type": "movie",
-      "duration": "132 min"
+      "duration": "117 min"
     }
   ],
   "seriesHero": [
@@ -125,6 +124,39 @@
       "type": "series"
     },
     {
+      "title": "VisionQuest",
+      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "rating": 8.67,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Fantasía",
+        "Drama"
+      ],
+      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+      "slug": "visionquest",
+      "tmdbId": "213375",
+      "type": "series"
+    },
+    {
+      "title": "Sticks: Cracks del golf",
+      "synopsis": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
+      "rating": 7.3,
+      "year": "2025",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ],
+      "cast": "Owen Wilson, Peter Dager, Lilli Kay, Mariana Treviño, Marc Maron",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xNgq0yLHus5xE0NRg0psHJKMwgi.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/pr1vZU0cxyWEtrXSaozLZiLFfxr.jpg",
+      "slug": "sticks-cracks-del-golf",
+      "tmdbId": "248830",
+      "type": "series"
+    },
+    {
       "title": "Un trabajo maldito",
       "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
       "rating": 7.45,
@@ -137,21 +169,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
       "slug": "un-trabajo-maldito",
       "tmdbId": "289517",
-      "type": "series"
-    },
-    {
-      "title": "La edad dorada",
-      "synopsis": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
-      "rating": 7.7,
-      "year": "2022",
-      "genres": [
-        "Drama"
-      ],
-      "cast": "Carrie Coon, Morgan Spector, Louisa Jacobson, Denée Benton, Taissa Farmiga",
-      "posterUrl": "https://image.tmdb.org/t/p/original/gKP16H5b4bwNz7od5ODSDvVeBvB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/afUVsProh46h31w2EvL7qyHXrqj.jpg",
-      "slug": "la-edad-dorada",
-      "tmdbId": "81723",
       "type": "series"
     },
     {
@@ -172,39 +189,18 @@
       "type": "series"
     },
     {
-      "title": "Stranger Things",
-      "synopsis": "A raíz de la desaparición de un niño, un pueblo desvela un misterio relacionado con experimentos secretos, fuerzas sobrenaturales aterradoras y una niña muy extraña.",
-      "rating": 8.5,
-      "year": "2016",
+      "title": "La edad dorada",
+      "synopsis": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
+      "rating": 7.7,
+      "year": "2022",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Misterio",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Winona Ryder, David Harbour, Millie Bobby Brown, Finn Wolfhard, Gaten Matarazzo",
-      "posterUrl": "https://image.tmdb.org/t/p/original/AsPD90QEQsIAtSxfSjV3fN7XFpt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9P4IIMYY3HifqeruZq0ZZ9g7YUi.jpg",
-      "slug": "stranger-things",
-      "tmdbId": "66732",
-      "type": "series"
-    },
-    {
-      "title": "VisionQuest",
-      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.64,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Fantasía",
         "Drama"
       ],
-      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
-      "slug": "visionquest",
-      "tmdbId": "213375",
+      "cast": "Carrie Coon, Morgan Spector, Louisa Jacobson, Denée Benton, Taissa Farmiga",
+      "posterUrl": "https://image.tmdb.org/t/p/original/gKP16H5b4bwNz7od5ODSDvVeBvB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/afUVsProh46h31w2EvL7qyHXrqj.jpg",
+      "slug": "la-edad-dorada",
+      "tmdbId": "81723",
       "type": "series"
     }
   ],
@@ -217,14 +213,14 @@
         {
           "title": "Viva",
           "synopsis": "En un futuro marcado por la sequía extrema, Nora, una mujer a las puertas de los 40, enfrenta el retorno a su vida después de superar un cáncer de mama. Verá tambalear sus planes con la irrupción de Max, un chico de 23 años.",
-          "rating": 5.38,
+          "rating": 5.4,
           "year": "2026",
           "genres": [
             "Comedia",
             "Drama",
             "Romance"
           ],
-          "cast": "Aina Clotet, Marc Soler Rull, Naby Dakhli, Guillermo Toledo, Lloll Bertran",
+          "cast": "Aina Clotet, Naby Dakhli, Marc Soler Rull, Guillermo Toledo, Lloll Bertran",
           "posterUrl": "https://image.tmdb.org/t/p/original/wz7HsO4RQ5hCkW0Aavv6PoqR0Wo.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/uDgxGs0OW9ILPqFBAHIrQtMPdo8.jpg",
           "slug": "viva",
@@ -586,7 +582,7 @@
         {
           "title": "Bass X Machina",
           "synopsis": "En un Oeste ‘steampunk’ invadido por forajidos, máquinas y fuerzas sobrenaturales, un padre se ve obligado a ser juez, jurado y verdugo para proteger a su familia.",
-          "rating": 8.33,
+          "rating": 7,
           "year": "2026",
           "genres": [
             "Animación",
@@ -759,18 +755,21 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
-          "title": "Un trabajo maldito",
-          "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
-          "rating": 7.45,
+          "title": "Bass X Machina",
+          "synopsis": "En un Oeste ‘steampunk’ invadido por forajidos, máquinas y fuerzas sobrenaturales, un padre se ve obligado a ser juez, jurado y verdugo para proteger a su familia.",
+          "rating": 7,
           "year": "2026",
           "genres": [
-            "Misterio"
+            "Animación",
+            "Western",
+            "Ciencia ficción",
+            "Fantasía"
           ],
-          "cast": "이재욱, 고민시, 김민하, 이희준",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
-          "slug": "un-trabajo-maldito",
-          "tmdbId": "289517",
+          "cast": "Brian Tyree Henry, Janelle Monáe, Tati Gabrielle, Cree Summer, Chaske Spencer",
+          "posterUrl": "https://image.tmdb.org/t/p/original/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+          "slug": "bass-x-machina",
+          "tmdbId": "314271",
           "type": "series"
         },
         {
@@ -805,18 +804,34 @@
           "type": "series"
         },
         {
-          "title": "La Caída de El Mayo",
-          "synopsis": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída.",
-          "rating": 8.67,
+          "title": "Un trabajo maldito",
+          "synopsis": "Un joven ahogado por las deudas acepta trabajos temporales de una agencia misteriosa... hasta que su búsqueda de dinero se vuelve una pesadilla.",
+          "rating": 7.45,
           "year": "2026",
           "genres": [
-            "Documental"
+            "Misterio"
           ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ugzaqDYPrlrV7NnpKrTmaB2YeGC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
-          "slug": "la-caida-de-el-mayo",
-          "tmdbId": "338689",
+          "cast": "이재욱, 고민시, 김민하, 이희준",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vxXNPQjCZkdTWmXZEkgxVVrftex.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
+          "slug": "un-trabajo-maldito",
+          "tmdbId": "289517",
+          "type": "series"
+        },
+        {
+          "title": "Balaraw: La isla sangrienta",
+          "synopsis": "Años después de la desaparición de su madre, una pista misteriosa lleva a Sabina a una isla desierta, donde se enfrenta a los oscuros secretos de su propia familia.",
+          "rating": 7.19,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama"
+          ],
+          "cast": "Janine Gutierrez, Charlie Dizon, Agot Isidro, Ronnie Lazaro",
+          "posterUrl": "https://image.tmdb.org/t/p/original/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
+          "slug": "balaraw-la-isla-sangrienta",
+          "tmdbId": "313699",
           "type": "series"
         },
         {
@@ -837,19 +852,18 @@
           "type": "series"
         },
         {
-          "title": "Balaraw: La isla sangrienta",
-          "synopsis": "Años después de la desaparición de su madre, una pista misteriosa lleva a Sabina a una isla desierta, donde se enfrenta a los oscuros secretos de su propia familia.",
-          "rating": 7.19,
+          "title": "La Caída de El Mayo",
+          "synopsis": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída.",
+          "rating": 8.67,
           "year": "2026",
           "genres": [
-            "Misterio",
-            "Drama"
+            "Documental"
           ],
-          "cast": "Janine Gutierrez, Charlie Dizon, Agot Isidro, Ronnie Lazaro",
-          "posterUrl": "https://image.tmdb.org/t/p/original/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
-          "slug": "balaraw-la-isla-sangrienta",
-          "tmdbId": "313699",
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ugzaqDYPrlrV7NnpKrTmaB2YeGC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
+          "slug": "la-caida-de-el-mayo",
+          "tmdbId": "338689",
           "type": "series"
         },
         {
@@ -896,22 +910,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
           "slug": "grande-de-espana",
           "tmdbId": "335535",
-          "type": "series"
-        },
-        {
-          "title": "¿Por casualidad hablaban de mí?",
-          "synopsis": "Tras pasar dos años triunfando en el extranjero, Gen vuelve a su país y descubre con estupor que todo el mundo le ha olvidado por completo, incluida su propia familia y el entorno del espectáculo.",
-          "rating": 8.5,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "役所広司, 賀来賢人, 松山ケンイチ, Noriko Eguchi, 河合優実",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cqqfz3t8xsuPLwl5Obo7f9KwFDE.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
-          "slug": "por-casualidad-hablaban-de-mi",
-          "tmdbId": "300527",
           "type": "series"
         }
       ]
