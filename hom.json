@@ -1,6 +1,24 @@
 {
   "movieHero": [
     {
+      "title": "Resident Evil",
+      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 7.47,
+      "year": "2026",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ],
+      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "slug": "resident-evil-1423191",
+      "tmdbId": "1423191",
+      "type": "movie",
+      "duration": "95 min"
+    },
+    {
       "title": "La mangosta",
       "synopsis": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida.",
       "rating": 6.46,
@@ -18,22 +36,21 @@
       "duration": "99 min"
     },
     {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.47,
+      "title": "Primetime",
+      "synopsis": "En 2006, Chris Hansen, presentador de *To Catch a Predator*, se propone hacer historia en la televisión.",
+      "rating": 6.8,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
+        "Suspenso",
+        "Drama"
       ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
+      "cast": "Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher, Bokeem Woodbine",
+      "posterUrl": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+      "slug": "primetime",
+      "tmdbId": "1375441",
       "type": "movie",
-      "duration": "95 min"
+      "duration": "110 min"
     },
     {
       "title": "La razón de estar contigo: Una Navidad perfecta",
@@ -54,57 +71,38 @@
       "duration": "99 min"
     },
     {
-      "title": "Primetime",
-      "synopsis": "En 2006, Chris Hansen, presentador de *To Catch a Predator*, se propone hacer historia en la televisión.",
-      "rating": 6.79,
+      "title": "Un poco de compañía antes de morir",
+      "synopsis": "Yui Katakura (Ko Shibasaki) tiene 40 años, está soltera y vive entregada a una afición muy particular: ahorrar. Poco a poco, ha ido reuniendo un buen colchón para disfrutar de una jubilación tranquila. Pero todos sus planes se desmoronan cuando, tras un chequeo gratuito, le diagnostican cáncer y le dan un año de vida. Todavía conmocionada por la noticia, se cruza de repente con Yoshitaka Sena, alias Ryuma (Eiji Akaso), un atractivo ‘host’ de pelo rosa que le pide dinero prestado. Si de todas formas se va a morir, ya no tiene sentido seguir ahorrando. Así que Yui acepta su insólita petición y «compra» a Sena por 720 000 yenes. Así comienza una relación tan insólita como imprevisible, que pronto dará un giro inesperado.",
+      "rating": 6.5,
       "year": "2026",
       "genres": [
-        "Suspenso",
+        "Romance",
         "Drama"
       ],
-      "cast": "Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher, Bokeem Woodbine",
-      "posterUrl": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
-      "slug": "primetime",
-      "tmdbId": "1375441",
-      "type": "movie",
-      "duration": "110 min"
+      "cast": "柴咲コウ, 赤楚衛二, 筒井道隆, Naomi Nishida, 鳴海唯",
+      "posterUrl": "https://image.tmdb.org/t/p/original/rleue0CXFaVemfPnwkjtoe5TK5A.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+      "slug": "un-poco-de-compania-antes-de-morir",
+      "tmdbId": "1654940",
+      "type": "movie"
     },
     {
-      "title": "Boiuna: La leyenda del Amazonas",
-      "synopsis": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
-      "rating": 6.35,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Suspenso",
-        "Acción"
-      ],
-      "cast": "Kiana Madeira, Jessica Rothe, Will Close, Juan Pablo Shuk, Logan Marshall-Green",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hClFn5adaXOgmxrZyxixoKiBHEZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
-      "slug": "boiuna-la-leyenda-del-amazonas",
-      "tmdbId": "1244523",
-      "type": "movie",
-      "duration": "104 min"
-    },
-    {
-      "title": "Apocalipsis Z: Nuevo mundo",
-      "synopsis": "Tras el brote del virus TSJ, las Islas Canarias son el último refugio de Europa. Cuando una misión viaja a Madrid en busca de suministros, Roberto se une al equipo con dudosas intenciones. Rodeados de infectados y lealtades divididas, deberán luchar por sobrevivir mientras afrontan un dilema moral: salvarse a sí mismos o arriesgarlo todo por lo que queda de humanidad.",
-      "rating": 6.11,
+      "title": "¡Vaya numerito!",
+      "synopsis": "En su día, Winai fue un gran policía, de esos que no se amedrentan ante nada. Ahora está retirado, pero su memoria empieza a devolverlo a sus años de gloria… y a una vieja cuenta pendiente con el archienemigo al que persiguió toda su vida. Convencido de que ha llegado el momento de volver a impartir justicia, se enfunda otra vez el uniforme. Para protegerlo, su hija Woranuch, una actriz en horas bajas, se ve obligada a unir fuerzas con su pandilla de antiguos actores infantiles y con su ex, el sargento Toy, un joven agente de tráfico. Juntos montan el papel de sus vidas: misiones falsas, situaciones imposibles y todo un espectáculo pensado para mantener a Winai a salvo. Pero la farsa se convierte en un caos cuando Sua Hao, su verdadero archienemigo, reaparece y empieza a cometer delitos de verdad.",
+      "rating": 6,
       "year": "2026",
       "genres": [
         "Acción",
-        "Suspenso",
-        "Terror"
+        "Aventura",
+        "Comedia"
       ],
-      "cast": "Carlos Alcaide, Julia Martínez, José María Yázpik, Mónica López, Tamara Casellas",
-      "posterUrl": "https://image.tmdb.org/t/p/original/c5LakPnLfzydW4YFUKfPeiODiWu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
-      "slug": "apocalipsis-z-nuevo-mundo",
-      "tmdbId": "1507696",
+      "cast": "พงษ์ศักดิ์ พงษ์สุวรรณ, เมลดา สุศรี, อัครเดช ยอดจำปา, กรภพ จันทร์เจริญ, ประกาศิต โบสุวรรณ",
+      "posterUrl": "https://image.tmdb.org/t/p/original/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
+      "slug": "vaya-numerito",
+      "tmdbId": "1630420",
       "type": "movie",
-      "duration": "96 min"
+      "duration": "116 min"
     }
   ],
   "seriesHero": [
@@ -216,6 +214,144 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "¡Vaya numerito!",
+          "synopsis": "En su día, Winai fue un gran policía, de esos que no se amedrentan ante nada. Ahora está retirado, pero su memoria empieza a devolverlo a sus años de gloria… y a una vieja cuenta pendiente con el archienemigo al que persiguió toda su vida. Convencido de que ha llegado el momento de volver a impartir justicia, se enfunda otra vez el uniforme. Para protegerlo, su hija Woranuch, una actriz en horas bajas, se ve obligada a unir fuerzas con su pandilla de antiguos actores infantiles y con su ex, el sargento Toy, un joven agente de tráfico. Juntos montan el papel de sus vidas: misiones falsas, situaciones imposibles y todo un espectáculo pensado para mantener a Winai a salvo. Pero la farsa se convierte en un caos cuando Sua Hao, su verdadero archienemigo, reaparece y empieza a cometer delitos de verdad.",
+          "rating": 6,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Comedia"
+          ],
+          "cast": "พงษ์ศักดิ์ พงษ์สุวรรณ, เมลดา สุศรี, อัครเดช ยอดจำปา, กรภพ จันทร์เจริญ, ประกาศิต โบสุวรรณ",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
+          "slug": "vaya-numerito",
+          "tmdbId": "1630420",
+          "type": "movie",
+          "duration": "116 min"
+        },
+        {
+          "title": "Super Troopers 3",
+          "synopsis": "Siempre ávidos de acción, cinco policías del Estado de Vermont, demasiado entusiastas pero nada reconocidos, hacen de las suyas en la autopista.",
+          "rating": 6.2,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Crimen",
+            "Misterio"
+          ],
+          "cast": "Kevin Heffernan, Steve Lemme, Erik Stolhanske, Hannah Simone, Marisa Coughlan",
+          "posterUrl": "https://image.tmdb.org/t/p/original/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg",
+          "slug": "super-troopers-3",
+          "tmdbId": "675871",
+          "type": "movie",
+          "duration": "100 min"
+        },
+        {
+          "title": "Un poco de compañía antes de morir",
+          "synopsis": "Yui Katakura (Ko Shibasaki) tiene 40 años, está soltera y vive entregada a una afición muy particular: ahorrar. Poco a poco, ha ido reuniendo un buen colchón para disfrutar de una jubilación tranquila. Pero todos sus planes se desmoronan cuando, tras un chequeo gratuito, le diagnostican cáncer y le dan un año de vida. Todavía conmocionada por la noticia, se cruza de repente con Yoshitaka Sena, alias Ryuma (Eiji Akaso), un atractivo ‘host’ de pelo rosa que le pide dinero prestado. Si de todas formas se va a morir, ya no tiene sentido seguir ahorrando. Así que Yui acepta su insólita petición y «compra» a Sena por 720 000 yenes. Así comienza una relación tan insólita como imprevisible, que pronto dará un giro inesperado.",
+          "rating": 6.5,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Drama"
+          ],
+          "cast": "柴咲コウ, 赤楚衛二, 筒井道隆, Naomi Nishida, 鳴海唯",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rleue0CXFaVemfPnwkjtoe5TK5A.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+          "slug": "un-poco-de-compania-antes-de-morir",
+          "tmdbId": "1654940",
+          "type": "movie"
+        },
+        {
+          "title": "El vestido",
+          "synopsis": "Una mujer y su hija se mudan a una casa nueva en las afueras para intentar empezar de cero, pero lo que empieza como una segunda oportunidad desembocará en una sucesión de eventos extraños.",
+          "rating": 6.7,
+          "year": "2026",
+          "genres": [
+            "Terror"
+          ],
+          "cast": "Belén Rueda, Vera Centenera, Santiago Molero, Elena Irureta, Belén Écija",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2SoHOeFWgF4pP9yVlEch76ja7r5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hXRw0AVY8avc0koUXj2rMY6q2N8.jpg",
+          "slug": "el-vestido",
+          "tmdbId": "1474226",
+          "type": "movie",
+          "duration": "75 min"
+        },
+        {
+          "title": "La Gradiva",
+          "synopsis": "Un pequeño grupo de estudiantes de secundaria franceses realiza una excursión escolar a Pompeya para descubrir sus ruinas y los cuerpos petrificados por el Vesubio en el año 79 d. C. Es en esta ciudad fantasma donde, de repente, se ven invadidos por una sensación vertiginosa. Uno tras otro, James, Toni, Suzanne y su profesora de latín, la señora Mercier, se dejan arrastrar por el deseo, la ira y la desesperación, hasta que se entregan por completo a ellos y lo pierden todo.",
+          "rating": 7.2,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Colas Quignard, Antonia Buresi, Mitia Capellier-Audat, Suzanne Gerin, Hadya Fofana",
+          "posterUrl": "https://image.tmdb.org/t/p/original/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dZVZkmzHLnobFszwYZ9DybvhUHW.jpg",
+          "slug": "la-gradiva",
+          "tmdbId": "1154730",
+          "type": "movie",
+          "duration": "145 min"
+        },
+        {
+          "title": "Boiuna: La leyenda del Amazonas",
+          "synopsis": "Un equipo de médicos se embarca en una misión local en la selva amazónica, pero pronto queda claro que no todo el mundo, ni todo, está contento de verlos. Su repentina aparición llama la atención de un depredador animal, el «Boiúna».",
+          "rating": 6.47,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Suspenso",
+            "Acción"
+          ],
+          "cast": "Kiana Madeira, Jessica Rothe, Will Close, Juan Pablo Shuk, Logan Marshall-Green",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hClFn5adaXOgmxrZyxixoKiBHEZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9nU0FKNefmhbgi2xXlvZchZsqwm.jpg",
+          "slug": "boiuna-la-leyenda-del-amazonas",
+          "tmdbId": "1244523",
+          "type": "movie",
+          "duration": "104 min"
+        },
+        {
+          "title": "Hazte el muerto",
+          "synopsis": "Un hombre planea fingir su muerte y culpar al amante de su esposa por dinero del seguro. Ella trama matarlo de verdad y quedarse todo, iniciando un juego mortal.",
+          "rating": 5.71,
+          "year": "2026",
+          "genres": [
+            "Suspenso",
+            "Crimen"
+          ],
+          "cast": "Samuel L. Jackson, Eva Green, María Pedraza, Eoin Macken, Jason Fernández",
+          "posterUrl": "https://image.tmdb.org/t/p/original/AhHDhqLU4817cPc6crmc45vCK55.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/tieojVpH6eW44JQOQEWnf8t4khG.jpg",
+          "slug": "just-play-dead",
+          "tmdbId": "1480574",
+          "type": "movie",
+          "duration": "97 min"
+        },
+        {
+          "title": "April X",
+          "synopsis": "En un futuro cercano fracturado, los hermanos gemelos Bax y April se ven separados por fuerzas que ninguno de los dos comprende del todo. Observamos a Bax caer en la locura, desvelando la frontera entre la identidad y los recuerdos.",
+          "rating": 6.2,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Suspenso",
+            "Ciencia ficción",
+            "Drama"
+          ],
+          "cast": "Connor Storrie, Lilly Krug, Tudor Chirilă, Șerban Pavlu, Tourialay Akbari",
+          "posterUrl": "https://image.tmdb.org/t/p/original/koNUflGEz6Fdy1GCqpvqBOcIaTP.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/e5HtlJjrEJDoRZOkM6UDXbSokH6.jpg",
+          "slug": "april-x",
+          "tmdbId": "1403676",
+          "type": "movie",
+          "duration": "92 min"
+        },
+        {
           "title": "Savage Prey",
           "synopsis": "In the remote Scottish Highlands, a desperate mother searches for her missing son, finding herself trapped in a twisted struggle for survival.",
           "rating": 10,
@@ -248,145 +384,6 @@
           "tmdbId": "8247",
           "type": "movie",
           "duration": "88 min"
-        },
-        {
-          "title": "Anaconda 4: Rastro de sangre",
-          "synopsis": "Una cría de anaconda, genéticamente mejorada, se ha regenerado y crece monstruosamente. La cría sedienta de sangre es aparentemente invencible, y se desliza entre explosiones y disparos para regenerarse y alimentarse insaciablemente de todo lo que se encuentre en su camino.",
-          "rating": 4.6,
-          "year": "2009",
-          "genres": [
-            "Aventura",
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Crystal Allen, Linden Ashby, Danny Midwinter, Calin Stanciu, John Rhys-Davies",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pxhih2VLhYoqUzNO459RhZtKBfl.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/zzJxwLTX5QCWkWsq7RnRhNKFBBo.jpg",
-          "slug": "anaconda-4-rastro-de-sangre",
-          "tmdbId": "19543",
-          "type": "movie",
-          "duration": "89 min"
-        },
-        {
-          "title": "Fresh",
-          "synopsis": "Fresh es un niño de 12 años de Brooklyn que trafica con droga y pasa crack a los camellos locales. Fresh viaja a escondidas para jugar al ajedrez con su padre, un medio genio vagabundo al que tiene prohibido ver.",
-          "rating": 7.2,
-          "year": "1994",
-          "genres": [
-            "Crimen",
-            "Drama",
-            "Suspenso"
-          ],
-          "cast": "Sean Nelson, Giancarlo Esposito, Samuel L. Jackson, N'Bushe Wright, Ron Brice",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mAWeaWR3zSEyhvsDj3gMdVvNicz.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/rg0E4KETgFagjmoaucTnYDeWNVk.jpg",
-          "slug": "fresh-13815",
-          "tmdbId": "13815",
-          "type": "movie",
-          "duration": "114 min"
-        },
-        {
-          "title": "Sanatorium",
-          "synopsis": "Una fría noche de diciembre, un equipo de investigaciones paranormales ponen la mira en un sangriento sanatorio de Hillcrest para contestar a una vieja pregunta: ¿Hay vida después de la muerte? Hay rumores en la zona de niños desaparecidos, y el equipo encontrará la respuesta de la manera más cruda cuando miembros del equipo empiezan a desaparecer de forma misteriosa dejando una desconcertante evidencia tras de ellos.",
-          "rating": 4.9,
-          "year": "2013",
-          "genres": [
-            "Terror",
-            "Misterio",
-            "Suspenso"
-          ],
-          "cast": "Kate Riley, Don Fanelli, DJ Hazard, Megan Neuringer, Charlie Fersko",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jj7TMNaAztYYl64JpWRMVsJpBho.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/l4tkQijvUpycBHS3zMUkkV0KNDD.jpg",
-          "slug": "sanatorium",
-          "tmdbId": "248576",
-          "type": "movie",
-          "duration": "100 min"
-        },
-        {
-          "title": "El río de la muerte",
-          "synopsis": "Cuatro piragüistas se equivocan de río y se adentran en una selva habitada por una tribu de caníbales despiadados.",
-          "rating": 6.37,
-          "year": "2024",
-          "genres": [
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Joseph Millson, Sarah Alexandra Marks, David Wayman, Ella Starbuck, Louis James",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cVrVthlGie7bnW5ex8SjLyeiebO.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ijg6QxxD4bxVrX3XoAxoL9ZcG2q.jpg",
-          "slug": "el-rio-de-la-muerte",
-          "tmdbId": "1222064",
-          "type": "movie",
-          "duration": "86 min"
-        },
-        {
-          "title": "Justicia para todos",
-          "synopsis": "Un abogado debe defender a un juez corrupto acusado de violación. Se trata de un magistrado con el que tuvo serios problemas profesionales, pues en una ocasión se negó a admitir, por pequeñas formalidades, pruebas irrefutables que demostraban la inocencia de uno de sus clientes.",
-          "rating": 7.1,
-          "year": "1979",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Al Pacino, Jack Warden, John Forsythe, Lee Strasberg, Christine Lahti",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zNEaRi4Vsh0Fkk3CuweY5oue0Bp.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/2Le14AZIvSfi08Cr2XA2UFJ8mdR.jpg",
-          "slug": "justicia-para-todos",
-          "tmdbId": "17443",
-          "type": "movie",
-          "duration": "119 min"
-        },
-        {
-          "title": "Gettysburg",
-          "synopsis": "El 1 de julio de 1863, más de 150.000 soldados americanos esperaban el momento clave de su destino final, previo a la batalla más importante de la Guerra Civil Nortemericana, que tendrá lugar en Gettysburg. Basada en la novela ganadora del premio Pulitzer \"The Killer Angels\".",
-          "rating": 6.99,
-          "year": "1993",
-          "genres": [
-            "Drama",
-            "Historia",
-            "Guerra"
-          ],
-          "cast": "Jeff Daniels, Tom Berenger, Martin Sheen, Sam Elliott, Stephen Lang",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wxVlMW8GbiqXISqTeiPnJ76yA0g.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ikwP1BTRHlqula7bbPtT7Hk0Fkq.jpg",
-          "slug": "gettysburg",
-          "tmdbId": "10655",
-          "type": "movie",
-          "duration": "254 min"
-        },
-        {
-          "title": "El Trueno Azul",
-          "synopsis": "Los Ángeles, California. El oficial Murphy, un veterano piloto de helicóptero de la Policía Metropolitana que sufre un grave trauma debido a las duras experiencias que vivió durante la guerra de Vietnam, y Lymangood, su ingenioso nuevo compañero, reciben el encargo de probar un avanzado y fuertemente armado helicóptero experimental conocido como Trueno Azul.",
-          "rating": 6.28,
-          "year": "1983",
-          "genres": [
-            "Drama",
-            "Acción",
-            "Suspenso"
-          ],
-          "cast": "Roy Scheider, Warren Oates, Candy Clark, Daniel Stern, Paul Roebling",
-          "posterUrl": "https://image.tmdb.org/t/p/original/KVCOAU6ilJBSZHipAY4gLvxQeo.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/jmHM6qTdb9WuKkwywDhPdXeQdav.jpg",
-          "slug": "el-trueno-azul",
-          "tmdbId": "6341",
-          "type": "movie",
-          "duration": "110 min"
-        },
-        {
-          "title": "Salvados",
-          "synopsis": "Mary (Jean Malone) quiere hacer un acto de buena voluntad \"divina\", como \"curar\" a su novio gay... mediante el sexo. Pero el resultado tiene poco de celestial, y de ser popular en el instituto ultrareligioso donde estudia Mary pasa a pertenecer al grupo de \"desplazados\".",
-          "rating": 6.4,
-          "year": "2004",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Jena Malone, Mandy Moore, Macaulay Culkin, Patrick Fugit, Eva Amurri",
-          "posterUrl": "https://image.tmdb.org/t/p/original/peegz6HOxgx0ngwD3NTgEl3ziKc.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ehy1Q7v1xnmi9E55jQ9X7OX2Dr1.jpg",
-          "slug": "salvados",
-          "tmdbId": "13193",
-          "type": "movie",
-          "duration": "92 min"
         }
       ]
     },
@@ -395,6 +392,22 @@
       "type": "movie",
       "seeMoreSlug": "estrenos",
       "items": [
+        {
+          "title": "Un poco de compañía antes de morir",
+          "synopsis": "Yui Katakura (Ko Shibasaki) tiene 40 años, está soltera y vive entregada a una afición muy particular: ahorrar. Poco a poco, ha ido reuniendo un buen colchón para disfrutar de una jubilación tranquila. Pero todos sus planes se desmoronan cuando, tras un chequeo gratuito, le diagnostican cáncer y le dan un año de vida. Todavía conmocionada por la noticia, se cruza de repente con Yoshitaka Sena, alias Ryuma (Eiji Akaso), un atractivo ‘host’ de pelo rosa que le pide dinero prestado. Si de todas formas se va a morir, ya no tiene sentido seguir ahorrando. Así que Yui acepta su insólita petición y «compra» a Sena por 720 000 yenes. Así comienza una relación tan insólita como imprevisible, que pronto dará un giro inesperado.",
+          "rating": 6.5,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Drama"
+          ],
+          "cast": "柴咲コウ, 赤楚衛二, 筒井道隆, Naomi Nishida, 鳴海唯",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rleue0CXFaVemfPnwkjtoe5TK5A.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+          "slug": "un-poco-de-compania-antes-de-morir",
+          "tmdbId": "1654940",
+          "type": "movie"
+        },
         {
           "title": "La razón de estar contigo: Una Navidad perfecta",
           "synopsis": "Winstead, un basset hound muy sabio, narra cómo su familia se enfrenta a una situación convulsa cuando la señora Goss entra en coma inducido, y un nuevo cachorro de corgi ayuda a unir a los miembros de la familia, que se habían distanciado, durante la ausencia de su madre.",
@@ -412,6 +425,24 @@
           "tmdbId": "1570488",
           "type": "movie",
           "duration": "99 min"
+        },
+        {
+          "title": "¡Vaya numerito!",
+          "synopsis": "En su día, Winai fue un gran policía, de esos que no se amedrentan ante nada. Ahora está retirado, pero su memoria empieza a devolverlo a sus años de gloria… y a una vieja cuenta pendiente con el archienemigo al que persiguió toda su vida. Convencido de que ha llegado el momento de volver a impartir justicia, se enfunda otra vez el uniforme. Para protegerlo, su hija Woranuch, una actriz en horas bajas, se ve obligada a unir fuerzas con su pandilla de antiguos actores infantiles y con su ex, el sargento Toy, un joven agente de tráfico. Juntos montan el papel de sus vidas: misiones falsas, situaciones imposibles y todo un espectáculo pensado para mantener a Winai a salvo. Pero la farsa se convierte en un caos cuando Sua Hao, su verdadero archienemigo, reaparece y empieza a cometer delitos de verdad.",
+          "rating": 6,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Comedia"
+          ],
+          "cast": "พงษ์ศักดิ์ พงษ์สุวรรณ, เมลดา สุศรี, อัครเดช ยอดจำปา, กรภพ จันทร์เจริญ, ประกาศิต โบสุวรรณ",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
+          "slug": "vaya-numerito",
+          "tmdbId": "1630420",
+          "type": "movie",
+          "duration": "116 min"
         },
         {
           "title": "La historia de Derry",
@@ -485,59 +516,6 @@
           "duration": "118 min"
         },
         {
-          "title": "The Mosquito Bowl",
-          "synopsis": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
-          "rating": 7.25,
-          "year": "2026",
-          "genres": [
-            "Historia",
-            "Drama",
-            "Guerra"
-          ],
-          "cast": "Nicholas Galitzine, Bill Skarsgård, Ray Nicholson, Tom Francis, Brent Comer",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
-          "slug": "the-mosquito-bowl",
-          "tmdbId": "1458300",
-          "type": "movie",
-          "duration": "128 min"
-        },
-        {
-          "title": "Christmas at the Kringles",
-          "synopsis": "After moving to a quiet suburban neighborhood, the Seversons meet the Kringles, a family that celebrates Christmas year-round. When Mark, the father, discovers the Kringles' sinister yuletide intentions, he teams up with a badass Santa in a high-stakes, action-packed fight to save his family.",
-          "rating": 6.1,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Terror",
-            "Comedia"
-          ],
-          "cast": "Ron Livingston, Rachel Bilson, Rob Riggle, Arden Myrin, Thomas Lennon",
-          "posterUrl": "https://image.tmdb.org/t/p/original/oVxkhheRVWSacimUZBuMemQX85E.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/yZq46gEwwXKzJRemlC0qPPBJmvt.jpg",
-          "slug": "christmas-at-the-kringles",
-          "tmdbId": "939541",
-          "type": "movie",
-          "duration": "100 min"
-        },
-        {
-          "title": "La mangosta",
-          "synopsis": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida.",
-          "rating": 6.46,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Suspenso"
-          ],
-          "cast": "Liam Neeson, Marisa Tomei, Ving Rhames, Marcus Thomas, Michael Chiklis",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
-          "slug": "la-mangosta",
-          "tmdbId": "1294189",
-          "type": "movie",
-          "duration": "99 min"
-        },
-        {
           "title": "El despertar",
           "synopsis": "En lo más profundo de la selva amazónica, una unidad militar de élite es enviada a eliminar un objetivo estratégico, sin embargo, la operación se convierte en una pesadilla cuando se enfrentan a un enemigo para el que no estaban preparados. Mobuya, el espíritu protector de un territorio sagrado que no se puede cruzar, se cierra sobre el comando, desatando un terror milenario y sobrenatural. En el mismo infierno, separados por siglos, otra expedición de conquistadores españoles es consumida por la misma fuerza implacable. Al combatir la desconocida fuerza de Mobuya, ambas incursiones sólo podrán luchar por sus vidas.",
           "rating": 6.41,
@@ -573,6 +551,24 @@
           "tmdbId": "1541477",
           "type": "movie",
           "duration": "107 min"
+        },
+        {
+          "title": "The Mosquito Bowl",
+          "synopsis": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+          "rating": 7.25,
+          "year": "2026",
+          "genres": [
+            "Historia",
+            "Drama",
+            "Guerra"
+          ],
+          "cast": "Nicholas Galitzine, Bill Skarsgård, Ray Nicholson, Tom Francis, Brent Comer",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
+          "slug": "the-mosquito-bowl",
+          "tmdbId": "1458300",
+          "type": "movie",
+          "duration": "128 min"
         }
       ]
     }
@@ -583,6 +579,38 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "La emperatriz divorciada",
+          "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
+          "rating": 8.27,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Shin Min-a, Ju Ji-hoon, 이종석, 이세영, Lukáš Tomšík",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+          "slug": "la-emperatriz-divorciada",
+          "tmdbId": "279246",
+          "type": "series"
+        },
+        {
+          "title": "Taken: Natalee Holloway",
+          "synopsis": "Beth Holloway, Natalee's mother, tells the full, definitive story of the case that's haunted her for the past 20 years - from the day of Natalee's disappearance to the dramatic confession two decades later.",
+          "rating": 6.5,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+          "slug": "taken-natalee-holloway",
+          "tmdbId": "338684",
+          "type": "series"
+        },
         {
           "title": "El más grande",
           "synopsis": "Tras ganar el oro en las Olimpiadas de 1960, el joven boxeador Muhammad Ali (por aquel entonces conocido como Cassius Clay) se propone ganar el título de campeón de los pesos pesados. Debiendo lidiar con su nueva fama, conflictos familiares y la política de EE. UU. el prodigio descubre que su mayor contrincante no será otro púgil, sino una sociedad que no quiere que sea él mismo.",
@@ -712,39 +740,6 @@
           "slug": "firefly-wedding",
           "tmdbId": "320909",
           "type": "series"
-        },
-        {
-          "title": "Buscando a Wanda",
-          "synopsis": "Cuando desaparece su hija, los Klatt deciden tomar cartas en el asunto y urden un plan disparatado: espiar al vecindario. A medida que avanzan en esta operación de espionaje de poca monta, van desvelando asombrosos secretos.",
-          "rating": 6.5,
-          "year": "2024",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Oliver Lansley",
-          "posterUrl": "https://image.tmdb.org/t/p/original/p3T1XtOvwBVaeG5tpB4sfhikng9.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
-          "slug": "buscando-a-wanda",
-          "tmdbId": "234310",
-          "type": "series"
-        },
-        {
-          "title": "VisionQuest",
-          "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-          "rating": 8.7,
-          "year": "2026",
-          "genres": [
-            "Ciencia ficción",
-            "Fantasía",
-            "Drama"
-          ],
-          "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-          "slug": "visionquest",
-          "tmdbId": "213375",
-          "type": "series"
         }
       ]
     },
@@ -769,6 +764,21 @@
           "type": "series"
         },
         {
+          "title": "Taken: Natalee Holloway",
+          "synopsis": "Beth Holloway, Natalee's mother, tells the full, definitive story of the case that's haunted her for the past 20 years - from the day of Natalee's disappearance to the dramatic confession two decades later.",
+          "rating": 6.5,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+          "slug": "taken-natalee-holloway",
+          "tmdbId": "338684",
+          "type": "series"
+        },
+        {
           "title": "Bass X Machina",
           "synopsis": "En un Oeste ‘steampunk’ invadido por forajidos, máquinas y fuerzas sobrenaturales, un padre se ve obligado a ser juez, jurado y verdugo para proteger a su familia.",
           "rating": 7,
@@ -784,6 +794,39 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
           "slug": "bass-x-machina",
           "tmdbId": "314271",
+          "type": "series"
+        },
+        {
+          "title": "La emperatriz divorciada",
+          "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
+          "rating": 8.27,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Shin Min-a, Ju Ji-hoon, 이종석, 이세영, Lukáš Tomšík",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+          "slug": "la-emperatriz-divorciada",
+          "tmdbId": "279246",
+          "type": "series"
+        },
+        {
+          "title": "El intercambio",
+          "synopsis": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
+          "rating": 4.2,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Emma Appleton, Fares Fares, Frida Gustavsson, Jakob Oftebro, Anna Bjelkerud",
+          "posterUrl": "https://image.tmdb.org/t/p/original/AzfQUkItsa8ZypO5tYKb2f0yNy.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
+          "slug": "el-intercambio",
+          "tmdbId": "336240",
           "type": "series"
         },
         {
@@ -814,37 +857,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/pQmYtNLwpOyl1meIWU58HizYRIX.jpg",
           "slug": "yo-no-creo-en-los-hombres",
           "tmdbId": "338793",
-          "type": "series"
-        },
-        {
-          "title": "El intercambio",
-          "synopsis": "Un idílico intercambio de casas entre Sicilia y Estocolmo deriva en tóxico según dos parejas acomodadas hacen lo posible para protegerse a sí mismas... y a sus secretos.",
-          "rating": 4.2,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Emma Appleton, Fares Fares, Frida Gustavsson, Jakob Oftebro, Anna Bjelkerud",
-          "posterUrl": "https://image.tmdb.org/t/p/original/AzfQUkItsa8ZypO5tYKb2f0yNy.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
-          "slug": "el-intercambio",
-          "tmdbId": "336240",
-          "type": "series"
-        },
-        {
-          "title": "La Caída de El Mayo",
-          "synopsis": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída.",
-          "rating": 8.67,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ugzaqDYPrlrV7NnpKrTmaB2YeGC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
-          "slug": "la-caida-de-el-mayo",
-          "tmdbId": "338689",
           "type": "series"
         },
         {
@@ -881,33 +893,18 @@
           "type": "series"
         },
         {
-          "title": "El don de engañar",
-          "synopsis": "Desesperada por encontrar una cura para la enfermedad desconocida que afecta a su hija, la coleccionista de arte Lúcia Rossetti recurre a una sanadora espiritual. Cuando Lúcia cae víctima de una estafa, se revela una serie de secretos que entrelazan a dos familias marcadas por el amor",
-          "rating": 0,
+          "title": "La Caída de El Mayo",
+          "synopsis": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída.",
+          "rating": 8.67,
           "year": "2026",
           "genres": [
-            "Drama"
+            "Documental"
           ],
-          "cast": "Marieta Severo, Alice Wegmann, Nanda Costta, José de Abreu, Felipe Camargo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2xP7n3cQ5cvHaoMqmpAKt86feBl.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
-          "slug": "el-don-de-enganar",
-          "tmdbId": "334700",
-          "type": "series"
-        },
-        {
-          "title": "La mesa final",
-          "synopsis": "La Mesa: K-chef 2026 reúne a los mejores chefs coreanos para competir por el título de mejor chef. Chris K, misterioso y famosísimo chef, conocido como Kang Han, Song-yi, que quiere salvar su restaurante, Woo-jin, chef estrella perfeccionista, entre otros, se enfrentan en una feroz batalla culinaria. Más allá de la competición, encuentran consuelo en la comida y los unos en los otros.",
-          "rating": 8.6,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Ahn Hyo Seop, 홍화연, 장률, 정유진, 장영남",
-          "posterUrl": "https://image.tmdb.org/t/p/original/v1VV1eSf5oE4hz6hf2W8niHlCmx.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
-          "slug": "la-mesa-final",
-          "tmdbId": "316702",
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ugzaqDYPrlrV7NnpKrTmaB2YeGC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
+          "slug": "la-caida-de-el-mayo",
+          "tmdbId": "338689",
           "type": "series"
         }
       ]
