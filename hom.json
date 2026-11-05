@@ -106,21 +106,18 @@
   ],
   "seriesHero": [
     {
-      "title": "Bass X Machina",
-      "synopsis": "En un Oeste ‘steampunk’ invadido por forajidos, máquinas y fuerzas sobrenaturales, un padre se ve obligado a ser juez, jurado y verdugo para proteger a su familia.",
-      "rating": 7,
+      "title": "El más grande",
+      "synopsis": "Tras ganar el oro en las Olimpiadas de 1960, el joven boxeador Muhammad Ali (por aquel entonces conocido como Cassius Clay) se propone ganar el título de campeón de los pesos pesados. Debiendo lidiar con su nueva fama, conflictos familiares y la política de EE. UU. el prodigio descubre que su mayor contrincante no será otro púgil, sino una sociedad que no quiere que sea él mismo.",
+      "rating": 5.2,
       "year": "2026",
       "genres": [
-        "Animación",
-        "Western",
-        "Ciencia ficción",
-        "Fantasía"
+        "Drama"
       ],
-      "cast": "Brian Tyree Henry, Janelle Monáe, Tati Gabrielle, Cree Summer, Chaske Spencer",
-      "posterUrl": "https://image.tmdb.org/t/p/original/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
-      "slug": "bass-x-machina",
-      "tmdbId": "314271",
+      "cast": "Jaalen Best, Omari Hardwick, Dana Gourrier, Amin Joseph, Kai Parham",
+      "posterUrl": "https://image.tmdb.org/t/p/original/anGICExgOPbBjobnoJzNrTriEmL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "slug": "el-mas-grande",
+      "tmdbId": "258989",
       "type": "series"
     },
     {
@@ -151,9 +148,43 @@
       ],
       "cast": "Owen Wilson, Peter Dager, Lilli Kay, Mariana Treviño, Marc Maron",
       "posterUrl": "https://image.tmdb.org/t/p/original/xNgq0yLHus5xE0NRg0psHJKMwgi.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/pr1vZU0cxyWEtrXSaozLZiLFfxr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hTYYtZQVNDHu7rqgRjhHjVBWawd.jpg",
       "slug": "sticks-cracks-del-golf",
       "tmdbId": "248830",
+      "type": "series"
+    },
+    {
+      "title": "Bass X Machina",
+      "synopsis": "En un Oeste ‘steampunk’ invadido por forajidos, máquinas y fuerzas sobrenaturales, un padre se ve obligado a ser juez, jurado y verdugo para proteger a su familia.",
+      "rating": 7,
+      "year": "2026",
+      "genres": [
+        "Animación",
+        "Western",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Brian Tyree Henry, Janelle Monáe, Tati Gabrielle, Cree Summer, Chaske Spencer",
+      "posterUrl": "https://image.tmdb.org/t/p/original/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+      "slug": "bass-x-machina",
+      "tmdbId": "314271",
+      "type": "series"
+    },
+    {
+      "title": "Todas las de la ley",
+      "synopsis": "Un grupo de abogadas especialistas en divorcios abandona un bufete dominado por hombres para abrir su propio y exitoso despacho. Brillantes, feroces y emocionalmente complejas, lidian con rupturas de alto riesgo, escándalos y lealtades cambiantes, tanto en los tribunales como en su círculo íntimo. En un mundo donde el dinero manda y el amor es un campo de batalla, estas mujeres no solo juegan, sino que cambian las reglas.",
+      "rating": 5.07,
+      "year": "2025",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ],
+      "cast": "Kim Kardashian, Naomi Watts, Niecy Nash, Teyana Taylor, Matthew Noszka",
+      "posterUrl": "https://image.tmdb.org/t/p/original/cknig3ABB0NMVRjAnFrX6LUjw9M.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/xhqklQEaJ7xqsqnwCJZu7hTmTIK.jpg",
+      "slug": "todas-las-de-la-ley",
+      "tmdbId": "258742",
       "type": "series"
     },
     {
@@ -170,38 +201,6 @@
       "slug": "un-trabajo-maldito",
       "tmdbId": "289517",
       "type": "series"
-    },
-    {
-      "title": "Lupin",
-      "synopsis": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
-      "rating": 7.7,
-      "year": "2021",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Omar Sy",
-      "posterUrl": "https://image.tmdb.org/t/p/original/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-      "slug": "lupin",
-      "tmdbId": "96677",
-      "type": "series"
-    },
-    {
-      "title": "La edad dorada",
-      "synopsis": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
-      "rating": 7.7,
-      "year": "2022",
-      "genres": [
-        "Drama"
-      ],
-      "cast": "Carrie Coon, Morgan Spector, Louisa Jacobson, Denée Benton, Taissa Farmiga",
-      "posterUrl": "https://image.tmdb.org/t/p/original/gKP16H5b4bwNz7od5ODSDvVeBvB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/afUVsProh46h31w2EvL7qyHXrqj.jpg",
-      "slug": "la-edad-dorada",
-      "tmdbId": "81723",
-      "type": "series"
     }
   ],
   "movieSections": [
@@ -210,6 +209,75 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Gettysburg",
+          "synopsis": "El 1 de julio de 1863, más de 150.000 soldados americanos esperaban el momento clave de su destino final, previo a la batalla más importante de la Guerra Civil Nortemericana, que tendrá lugar en Gettysburg. Basada en la novela ganadora del premio Pulitzer \"The Killer Angels\".",
+          "rating": 6.99,
+          "year": "1993",
+          "genres": [
+            "Drama",
+            "Historia",
+            "Guerra"
+          ],
+          "cast": "Jeff Daniels, Tom Berenger, Martin Sheen, Sam Elliott, Stephen Lang",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wxVlMW8GbiqXISqTeiPnJ76yA0g.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ikwP1BTRHlqula7bbPtT7Hk0Fkq.jpg",
+          "slug": "gettysburg",
+          "tmdbId": "10655",
+          "type": "movie",
+          "duration": "254 min"
+        },
+        {
+          "title": "El Trueno Azul",
+          "synopsis": "Los Ángeles, California. El oficial Murphy, un veterano piloto de helicóptero de la Policía Metropolitana que sufre un grave trauma debido a las duras experiencias que vivió durante la guerra de Vietnam, y Lymangood, su ingenioso nuevo compañero, reciben el encargo de probar un avanzado y fuertemente armado helicóptero experimental conocido como Trueno Azul.",
+          "rating": 6.28,
+          "year": "1983",
+          "genres": [
+            "Drama",
+            "Acción",
+            "Suspenso"
+          ],
+          "cast": "Roy Scheider, Warren Oates, Candy Clark, Daniel Stern, Paul Roebling",
+          "posterUrl": "https://image.tmdb.org/t/p/original/KVCOAU6ilJBSZHipAY4gLvxQeo.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/jmHM6qTdb9WuKkwywDhPdXeQdav.jpg",
+          "slug": "el-trueno-azul",
+          "tmdbId": "6341",
+          "type": "movie",
+          "duration": "110 min"
+        },
+        {
+          "title": "Salvados",
+          "synopsis": "Mary (Jean Malone) quiere hacer un acto de buena voluntad \"divina\", como \"curar\" a su novio gay... mediante el sexo. Pero el resultado tiene poco de celestial, y de ser popular en el instituto ultrareligioso donde estudia Mary pasa a pertenecer al grupo de \"desplazados\".",
+          "rating": 6.4,
+          "year": "2004",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Jena Malone, Mandy Moore, Macaulay Culkin, Patrick Fugit, Eva Amurri",
+          "posterUrl": "https://image.tmdb.org/t/p/original/peegz6HOxgx0ngwD3NTgEl3ziKc.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ehy1Q7v1xnmi9E55jQ9X7OX2Dr1.jpg",
+          "slug": "salvados",
+          "tmdbId": "13193",
+          "type": "movie",
+          "duration": "92 min"
+        },
+        {
+          "title": "El aura",
+          "synopsis": "Un introvertido taxidermista tiene una extraña afición: planificar en su mente atracos perfectos, infalibles gracias a su inteligencia, que él considera superior. El azar hace que un día por fin tenga la oportunidad de llevar a cabo su fantasía, aunque el hecho de sufrir de epilepsia vaya a jugar en su contra.",
+          "rating": 7.03,
+          "year": "2005",
+          "genres": [
+            "Drama",
+            "Suspenso"
+          ],
+          "cast": "Ricardo Darín, Dolores Fonzi, Pablo Cedrón, Nahuel Pérez Biscayart, Jorge D'Elía",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1mHxd9DQLVTLJzWQObgsuewn2kx.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/fvl1geY63c1xoa6r6iRPARGJdJY.jpg",
+          "slug": "el-aura",
+          "tmdbId": "13653",
+          "type": "movie",
+          "duration": "134 min"
+        },
         {
           "title": "Que el cielo la juzgue",
           "synopsis": "Richard Harland (Cornel Wilde), un joven escritor, conoce en un tren a Ellen (Gene Tierney), una bellísima mujer con la que se casa pocos días después. La vida parece sonreírles, pero Ellen es tan posesiva, sus celos son tan enfermizos que no está dispuesta a compartir a Richard con nadie; tanto amigos como familiares representan para ella una amenaza de la que intentará librarse.",
@@ -316,76 +384,6 @@
           "tmdbId": "1465063",
           "type": "movie",
           "duration": "109 min"
-        },
-        {
-          "title": "Verity. La sombra de un engaño",
-          "synopsis": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-          "rating": 6.93,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Suspenso"
-          ],
-          "cast": "Dakota Johnson, Anne Hathaway, Josh Hartnett, Brady Wagner, Ismael Cruz Cordova",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-          "slug": "verity-la-sombra-de-un-engano",
-          "tmdbId": "1283515",
-          "type": "movie",
-          "duration": "117 min"
-        },
-        {
-          "title": "Ali G: Kién es yo?",
-          "synopsis": "Tras veinte años dedicados a «relajarse, fumar y follar», Ali G se queda atónito al descubrir que Julie, su novia de toda la vida, está embarazada de ocho meses. Ante la perspectiva de tener una boca más que alimentar, deja de holgazanear y pone rumbo a Estados Unidos para recuperar su antigua gloria... pero pronto se topa con adversarios que acabarán amenazando su propia existencia y la de su hijo.",
-          "rating": 5.74,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Sacha Baron Cohen, Morgana Robinson, Alpha Miknas, Clive Russell, A$AP Rocky",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hAEYrq657G7oeNWDQBnRNPZMlxh.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
-          "slug": "ali-g-kien-es-yo",
-          "tmdbId": "1727734",
-          "type": "movie",
-          "duration": "89 min"
-        },
-        {
-          "title": "Resident Evil",
-          "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-          "rating": 7.33,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Ciencia ficción",
-            "Aventura"
-          ],
-          "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-          "slug": "resident-evil-1423191",
-          "tmdbId": "1423191",
-          "type": "movie",
-          "duration": "95 min"
-        },
-        {
-          "title": "Barbie in the Nutcracker",
-          "synopsis": "Barbie “Brooklyn” Roberts steps into the role of the Sugarplum Princess and Barbie “Malibu” Roberts stars as Clara, as they journey through a musical, magical dreamworld filled with holiday wonder, courage and friendship.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Familia",
-            "Fantasía",
-            "Aventura"
-          ],
-          "cast": "Tim Curry, Tatiana Varria, America Young, Ritesh Rajan, Natalie Lashkari",
-          "posterUrl": "https://image.tmdb.org/t/p/original/suSGUJNCgdVVjCXcJBDtjKxWTlg.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/aDc3Kd0nvII9feQjV0464jIO0ra.jpg",
-          "slug": "barbie-in-the-nutcracker-1760311",
-          "tmdbId": "1760311",
-          "type": "movie",
-          "duration": "42 min"
         }
       ]
     },
