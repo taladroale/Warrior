@@ -1,6 +1,23 @@
 {
   "movieHero": [
     {
+      "title": "En el corazón de la bestia",
+      "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "rating": 7.31,
+      "year": "2026",
+      "genres": [
+        "Aventura",
+        "Suspenso"
+      ],
+      "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
+      "posterUrl": "https://image.tmdb.org/t/p/original/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "slug": "en-el-corazon-de-la-bestia",
+      "tmdbId": "1263337",
+      "type": "movie",
+      "duration": "101 min"
+    },
+    {
       "title": "Resident Evil",
       "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
       "rating": 7.47,
@@ -53,24 +70,6 @@
       "duration": "110 min"
     },
     {
-      "title": "La razón de estar contigo: Una Navidad perfecta",
-      "synopsis": "Winstead, un basset hound muy sabio, narra cómo su familia se enfrenta a una situación convulsa cuando la señora Goss entra en coma inducido, y un nuevo cachorro de corgi ayuda a unir a los miembros de la familia, que se habían distanciado, durante la ausencia de su madre.",
-      "rating": 10,
-      "year": "2026",
-      "genres": [
-        "Familia",
-        "Comedia",
-        "Drama"
-      ],
-      "cast": "Dennis Quaid, Milo Ventimiglia, Brooke Lena Johnson, Kathleen Rose Perkins, Jennifer Tilly",
-      "posterUrl": "https://image.tmdb.org/t/p/original/eixA3LDfxqMKpz2L8uIM1kTIJ8g.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
-      "slug": "la-razon-de-estar-contigo-una-navidad-perfecta",
-      "tmdbId": "1570488",
-      "type": "movie",
-      "duration": "99 min"
-    },
-    {
       "title": "Un poco de compañía antes de morir",
       "synopsis": "Yui Katakura (Ko Shibasaki) tiene 40 años, está soltera y vive entregada a una afición muy particular: ahorrar. Poco a poco, ha ido reuniendo un buen colchón para disfrutar de una jubilación tranquila. Pero todos sus planes se desmoronan cuando, tras un chequeo gratuito, le diagnostican cáncer y le dan un año de vida. Todavía conmocionada por la noticia, se cruza de repente con Yoshitaka Sena, alias Ryuma (Eiji Akaso), un atractivo ‘host’ de pelo rosa que le pide dinero prestado. Si de todas formas se va a morir, ya no tiene sentido seguir ahorrando. Así que Yui acepta su insólita petición y «compra» a Sena por 720 000 yenes. Así comienza una relación tan insólita como imprevisible, que pronto dará un giro inesperado.",
       "rating": 6.5,
@@ -87,22 +86,22 @@
       "type": "movie"
     },
     {
-      "title": "¡Vaya numerito!",
-      "synopsis": "En su día, Winai fue un gran policía, de esos que no se amedrentan ante nada. Ahora está retirado, pero su memoria empieza a devolverlo a sus años de gloria… y a una vieja cuenta pendiente con el archienemigo al que persiguió toda su vida. Convencido de que ha llegado el momento de volver a impartir justicia, se enfunda otra vez el uniforme. Para protegerlo, su hija Woranuch, una actriz en horas bajas, se ve obligada a unir fuerzas con su pandilla de antiguos actores infantiles y con su ex, el sargento Toy, un joven agente de tráfico. Juntos montan el papel de sus vidas: misiones falsas, situaciones imposibles y todo un espectáculo pensado para mantener a Winai a salvo. Pero la farsa se convierte en un caos cuando Sua Hao, su verdadero archienemigo, reaparece y empieza a cometer delitos de verdad.",
-      "rating": 6,
+      "title": "La razón de estar contigo: Una Navidad perfecta",
+      "synopsis": "Winstead, un basset hound muy sabio, narra cómo su familia se enfrenta a una situación convulsa cuando la señora Goss entra en coma inducido, y un nuevo cachorro de corgi ayuda a unir a los miembros de la familia, que se habían distanciado, durante la ausencia de su madre.",
+      "rating": 10,
       "year": "2026",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Comedia"
+        "Familia",
+        "Comedia",
+        "Drama"
       ],
-      "cast": "พงษ์ศักดิ์ พงษ์สุวรรณ, เมลดา สุศรี, อัครเดช ยอดจำปา, กรภพ จันทร์เจริญ, ประกาศิต โบสุวรรณ",
-      "posterUrl": "https://image.tmdb.org/t/p/original/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
-      "slug": "vaya-numerito",
-      "tmdbId": "1630420",
+      "cast": "Dennis Quaid, Milo Ventimiglia, Brooke Lena Johnson, Kathleen Rose Perkins, Jennifer Tilly",
+      "posterUrl": "https://image.tmdb.org/t/p/original/eixA3LDfxqMKpz2L8uIM1kTIJ8g.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+      "slug": "la-razon-de-estar-contigo-una-navidad-perfecta",
+      "tmdbId": "1570488",
       "type": "movie",
-      "duration": "116 min"
+      "duration": "99 min"
     }
   ],
   "seriesHero": [
@@ -142,7 +141,7 @@
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.7,
+      "rating": 8.6,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -174,22 +173,6 @@
       "type": "series"
     },
     {
-      "title": "Sticks: Cracks del golf",
-      "synopsis": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
-      "rating": 7.3,
-      "year": "2025",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "cast": "Owen Wilson, Peter Dager, Lilli Kay, Mariana Treviño, Marc Maron",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xNgq0yLHus5xE0NRg0psHJKMwgi.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hTYYtZQVNDHu7rqgRjhHjVBWawd.jpg",
-      "slug": "sticks-cracks-del-golf",
-      "tmdbId": "248830",
-      "type": "series"
-    },
-    {
       "title": "Tierra de mafiosos",
       "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
       "rating": 8.62,
@@ -203,6 +186,21 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "slug": "mobland",
       "tmdbId": "247718",
+      "type": "series"
+    },
+    {
+      "title": "Al norte del norte",
+      "synopsis": "Una joven optimista emprende un viaje para reinventarse en su pequeño pueblo natal en el Ártico, donde todos conocen la vida de los demás.",
+      "rating": 5.6,
+      "year": "2025",
+      "genres": [
+        "Comedia"
+      ],
+      "cast": "Anna Lambe, Keira Cooper, Mary Lynn Rajskub, Maika Harper, Braeden Clarke",
+      "posterUrl": "https://image.tmdb.org/t/p/original/SQhPDkO06XzK9jXnY27IqHb6iV.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/omzeDBazScUAQwe3SiBVwgKr1p8.jpg",
+      "slug": "al-norte-del-norte",
+      "tmdbId": "249023",
       "type": "series"
     }
   ],
