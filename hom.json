@@ -107,6 +107,24 @@
   ],
   "seriesHero": [
     {
+      "title": "Palomas negras",
+      "synopsis": "Cuando asesinan a su amante, una espía que lleva una doble vida como la esposa de un político acude a un viejo amigo para descubrir la verdad y vengarse.",
+      "rating": 7.03,
+      "year": "2024",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Misterio",
+        "Crimen"
+      ],
+      "cast": "Keira Knightley, Ben Whishaw, Sarah Lancashire, Andrew Buchan, Ella Lily Hyland",
+      "posterUrl": "https://image.tmdb.org/t/p/original/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+      "slug": "palomas-negras",
+      "tmdbId": "225385",
+      "type": "series"
+    },
+    {
       "title": "El más grande",
       "synopsis": "Tras ganar el oro en las Olimpiadas de 1960, el joven boxeador Muhammad Ali (por aquel entonces conocido como Cassius Clay) se propone ganar el título de campeón de los pesos pesados. Debiendo lidiar con su nueva fama, conflictos familiares y la política de EE. UU. el prodigio descubre que su mayor contrincante no será otro púgil, sino una sociedad que no quiere que sea él mismo.",
       "rating": 5.2,
@@ -139,6 +157,23 @@
       "type": "series"
     },
     {
+      "title": "La emperatriz divorciada",
+      "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
+      "rating": 8.27,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Shin Min-a, Ju Ji-hoon, 이종석, 이세영, Lukáš Tomšík",
+      "posterUrl": "https://image.tmdb.org/t/p/original/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+      "slug": "la-emperatriz-divorciada",
+      "tmdbId": "279246",
+      "type": "series"
+    },
+    {
       "title": "Sticks: Cracks del golf",
       "synopsis": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
       "rating": 7.3,
@@ -155,55 +190,19 @@
       "type": "series"
     },
     {
-      "title": "Palomas negras",
-      "synopsis": "Cuando asesinan a su amante, una espía que lleva una doble vida como la esposa de un político acude a un viejo amigo para descubrir la verdad y vengarse.",
-      "rating": 8.2,
-      "year": "2024",
-      "genres": [
-        "Misterio",
-        "Crimen",
-        "Acción",
-        "Aventura"
-      ],
-      "cast": "Keira Knightley, Ben Whishaw, Sarah Lancashire",
-      "posterUrl": "https://image.tmdb.org/t/p/original/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hP5pMJfxbY9p72LgEY6j9qGidtE.jpg",
-      "slug": "palomas-negras",
-      "tmdbId": "225385",
-      "type": "series"
-    },
-    {
-      "title": "Bass X Machina",
-      "synopsis": "En un Oeste ‘steampunk’ invadido por forajidos, máquinas y fuerzas sobrenaturales, un padre se ve obligado a ser juez, jurado y verdugo para proteger a su familia.",
-      "rating": 7,
-      "year": "2026",
-      "genres": [
-        "Animación",
-        "Western",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Brian Tyree Henry, Janelle Monáe, Tati Gabrielle, Cree Summer, Chaske Spencer",
-      "posterUrl": "https://image.tmdb.org/t/p/original/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
-      "slug": "bass-x-machina",
-      "tmdbId": "314271",
-      "type": "series"
-    },
-    {
-      "title": "Todas las de la ley",
-      "synopsis": "Un grupo de abogadas especialistas en divorcios abandona un bufete dominado por hombres para abrir su propio y exitoso despacho. Brillantes, feroces y emocionalmente complejas, lidian con rupturas de alto riesgo, escándalos y lealtades cambiantes, tanto en los tribunales como en su círculo íntimo. En un mundo donde el dinero manda y el amor es un campo de batalla, estas mujeres no solo juegan, sino que cambian las reglas.",
-      "rating": 5.07,
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.62,
       "year": "2025",
       "genres": [
-        "Drama",
-        "Comedia"
+        "Crimen",
+        "Drama"
       ],
-      "cast": "Kim Kardashian, Naomi Watts, Niecy Nash, Teyana Taylor, Matthew Noszka",
-      "posterUrl": "https://image.tmdb.org/t/p/original/cknig3ABB0NMVRjAnFrX6LUjw9M.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/xhqklQEaJ7xqsqnwCJZu7hTmTIK.jpg",
-      "slug": "todas-las-de-la-ley",
-      "tmdbId": "258742",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     }
   ],
@@ -393,6 +392,23 @@
       "seeMoreSlug": "estrenos",
       "items": [
         {
+          "title": "Yo soy Rocky",
+          "synopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
+          "rating": 8.6,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Historia"
+          ],
+          "cast": "Anthony Ippolito, AnnaSophia Robb, P.J. Byrne, Toby Kebbell, Jay Duplass",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+          "slug": "yo-soy-rocky",
+          "tmdbId": "1286656",
+          "type": "movie",
+          "duration": "128 min"
+        },
+        {
           "title": "Un poco de compañía antes de morir",
           "synopsis": "Yui Katakura (Ko Shibasaki) tiene 40 años, está soltera y vive entregada a una afición muy particular: ahorrar. Poco a poco, ha ido reuniendo un buen colchón para disfrutar de una jubilación tranquila. Pero todos sus planes se desmoronan cuando, tras un chequeo gratuito, le diagnostican cáncer y le dan un año de vida. Todavía conmocionada por la noticia, se cruza de repente con Yoshitaka Sena, alias Ryuma (Eiji Akaso), un atractivo ‘host’ de pelo rosa que le pide dinero prestado. Si de todas formas se va a morir, ya no tiene sentido seguir ahorrando. Así que Yui acepta su insólita petición y «compra» a Sena por 720 000 yenes. Así comienza una relación tan insólita como imprevisible, que pronto dará un giro inesperado.",
           "rating": 6.5,
@@ -551,24 +567,6 @@
           "tmdbId": "1541477",
           "type": "movie",
           "duration": "107 min"
-        },
-        {
-          "title": "The Mosquito Bowl",
-          "synopsis": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
-          "rating": 7.25,
-          "year": "2026",
-          "genres": [
-            "Historia",
-            "Drama",
-            "Guerra"
-          ],
-          "cast": "Nicholas Galitzine, Bill Skarsgård, Ray Nicholson, Tom Francis, Brent Comer",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
-          "slug": "the-mosquito-bowl",
-          "tmdbId": "1458300",
-          "type": "movie",
-          "duration": "128 min"
         }
       ]
     }
@@ -579,6 +577,40 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Rompiendo el hielo",
+          "synopsis": "A Koyuki le cuesta relacionarse y le parece bien pasar sus años de instituto sola... hasta que aparece Minato, que se empeña en derretir su muro de hielo.",
+          "rating": 8.54,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Drama"
+          ],
+          "cast": "Anna Nagase, Fuka Izumi, Shoya Chiba, Satoshi Inomata",
+          "posterUrl": "https://image.tmdb.org/t/p/original/n2DMlpO3DPqSmW1r8atuhcIgl7A.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+          "slug": "rompiendo-el-hielo",
+          "tmdbId": "283428",
+          "type": "series"
+        },
+        {
+          "title": "Palomas negras",
+          "synopsis": "Cuando asesinan a su amante, una espía que lleva una doble vida como la esposa de un político acude a un viejo amigo para descubrir la verdad y vengarse.",
+          "rating": 7.03,
+          "year": "2024",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Misterio",
+            "Crimen"
+          ],
+          "cast": "Keira Knightley, Ben Whishaw, Sarah Lancashire, Andrew Buchan, Ella Lily Hyland",
+          "posterUrl": "https://image.tmdb.org/t/p/original/nK6TdQUyGSQZ5ZFIV5ghWPqTvfP.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+          "slug": "palomas-negras",
+          "tmdbId": "225385",
+          "type": "series"
+        },
         {
           "title": "La emperatriz divorciada",
           "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
@@ -708,37 +740,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
           "slug": "brothers",
           "tmdbId": "250203",
-          "type": "series"
-        },
-        {
-          "title": "4 Blocks Zero",
-          "synopsis": "Precuela de \"4 Blocks\" (2017-2019). Traslada la acción al Berlín de los años 90, mucho antes de que Toni Hamady se convirtiera en el líder criminal más poderoso de la ciudad. En esta ocasión, la historia se centra en los orígenes de la familia, que tras huir del Líbano intenta empezar de nuevo en Alemania enfrentándose a la burocracia, los prejuicios y la falta de un permiso de residencia estable. El padre de familia, Malik, sobrevive trabajando como cocinero sin formación mientras trata de sacar adelante a sus cuatro hijos: Ali, Abbas, Marwan y Amara. La situación cambia radicalmente cuando Ibrahim, cuñado de Malik, regresa a Berlín después de pasar ocho años en prisión. Su vuelta desencadena una cadena de acontecimientos que termina arrastrando a toda la familia hacia el crimen organizado de la capital alemana y pone a prueba sus principios.",
-          "rating": 5,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Tariq Al Saies, Tareq Nassery, Rami Fadel Khalaf, Soufiane El Mesaudi, Bella Dayne",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yvIUYRLeTF9KOQL12ojleVyqxAk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
-          "slug": "4-blocks-zero",
-          "tmdbId": "310133",
-          "type": "series"
-        },
-        {
-          "title": "Firefly Wedding",
-          "synopsis": "En la era Meiji, Satoko Kirigaya, una joven aristócrata con una esperanza de vida limitada, sueña con casarse con un noble y convertirse en el orgullo de su familia. Cuando una conspiración la pone al borde de la muerte, se ve obligada a aceptar la ayuda de Shinpei Goto, un asesino que acaba obsesionándose con ella.",
-          "rating": 9.4,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Drama"
-          ],
-          "cast": "Lynn, Koki Uchiyama, Haruhi Nanao, Natsuko Abe",
-          "posterUrl": "https://image.tmdb.org/t/p/original/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
-          "slug": "firefly-wedding",
-          "tmdbId": "320909",
           "type": "series"
         }
       ]
