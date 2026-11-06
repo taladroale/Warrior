@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T14:11:01Z",
+  "updatedAt": "2026-11-06T13:38:44Z",
   "source": "cine",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -1609,6 +1609,7 @@
     "41216": {"slug": "gahoole-la-leyenda-de-los-guardianes"},
     "41283": {"slug": "venganza-letal"},
     "41294": {"slug": "por-mis-pistolas"},
+    "41296": {"slug": "gran-hotel"},
     "41298": {"slug": "el-patrullero-777"},
     "41300": {"slug": "si-yo-fuera-diputado"},
     "41305": {"slug": "un-dia-con-el-diablo"},
@@ -6853,6 +6854,7 @@
     "1202863": {"slug": "ur-morkret"},
     "1203236": {"slug": "cascanueces"},
     "1203329": {"slug": "the-witcher-sirenas-de-las-profundidades"},
+    "1204680": {"slug": "coyote-vs-acme"},
     "1204812": {"slug": "familia"},
     "1204881": {"slug": "edificio-del-miedo"},
     "1204892": {"slug": "retrato-de-un-amor-a-ciegas"},
@@ -8063,6 +8065,7 @@
     "1652198": {"slug": "my-daughter-was-taken"},
     "1653524": {"slug": "the-boy-by-the-pool"},
     "1654715": {"slug": "the-summoning-of-chloe-kane"},
+    "1654940": {"slug": "%e4%bd%99%e5%91%bd%e4%b8%80%e5%b9%b4%e3%80%81%e7%94%b7%e3%82%92%e3%81%8b%e3%81%86"},
     "1656061": {"slug": "immortal-combat"},
     "1656220": {"slug": "23-000-leben"},
     "1658237": {"slug": "gangsters-daughter-4"},
