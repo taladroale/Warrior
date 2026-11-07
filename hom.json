@@ -106,6 +106,21 @@
   ],
   "seriesHero": [
     {
+      "title": "Campus Drivers",
+      "synopsis": "Lois lo tiene todo bajo control: ha sido admitida en la prestigiosa Universidad de Belrose junto al amor de su vida, Max. Lane, en cambio, vive según sus propias reglas. Creador de Campus Drivers, la aplicación más popular del campus, es tan conocido por su sonrisa arrolladora como por su incapacidad para comprometerse. Sus caminos nunca deberían haberse cruzado. Hasta que una noche, con el corazón roto, Lois aparece en su puerta. Una convivencia inesperada. Dos mundos que chocan. Y una atracción imposible de ignorar. Pero hay encuentros que lo cambian todo… incluso cuando hacen aflorar heridas del pasado. Y cuando el amor llega sin avisar, nada vuelve a ser seguro.",
+      "rating": 10,
+      "year": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "cast": "Carmen Kassovitz, Baptiste Masseline, Prune Pauchet, Esteban Vial, Madior Fall",
+      "posterUrl": "https://image.tmdb.org/t/p/original/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "slug": "campus-drivers",
+      "tmdbId": "303044",
+      "type": "series"
+    },
+    {
       "title": "Palomas negras",
       "synopsis": "Cuando asesinan a su amante, una espía que lleva una doble vida como la esposa de un político acude a un viejo amigo para descubrir la verdad y vengarse.",
       "rating": 7.03,
@@ -124,21 +139,6 @@
       "type": "series"
     },
     {
-      "title": "Campus Drivers",
-      "synopsis": "Lois lo tiene todo bajo control: ha sido admitida en la prestigiosa Universidad de Belrose junto al amor de su vida, Max. Lane, en cambio, vive según sus propias reglas. Creador de Campus Drivers, la aplicación más popular del campus, es tan conocido por su sonrisa arrolladora como por su incapacidad para comprometerse. Sus caminos nunca deberían haberse cruzado. Hasta que una noche, con el corazón roto, Lois aparece en su puerta. Una convivencia inesperada. Dos mundos que chocan. Y una atracción imposible de ignorar. Pero hay encuentros que lo cambian todo… incluso cuando hacen aflorar heridas del pasado. Y cuando el amor llega sin avisar, nada vuelve a ser seguro.",
-      "rating": 10,
-      "year": "2026",
-      "genres": [
-        "Drama"
-      ],
-      "cast": "Carmen Kassovitz, Baptiste Masseline, Prune Pauchet, Esteban Vial, Madior Fall",
-      "posterUrl": "https://image.tmdb.org/t/p/original/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-      "slug": "campus-drivers",
-      "tmdbId": "303044",
-      "type": "series"
-    },
-    {
       "title": "Tierra de mafiosos",
       "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
       "rating": 8.62,
@@ -152,6 +152,23 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "slug": "mobland",
       "tmdbId": "247718",
+      "type": "series"
+    },
+    {
+      "title": "La emperatriz divorciada",
+      "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
+      "rating": 8.27,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Shin Min-a, Ju Ji-hoon, 이종석, 이세영, Lukáš Tomšík",
+      "posterUrl": "https://image.tmdb.org/t/p/original/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+      "slug": "la-emperatriz-divorciada",
+      "tmdbId": "279246",
       "type": "series"
     },
     {
@@ -172,35 +189,20 @@
       "type": "series"
     },
     {
-      "title": "El más grande",
-      "synopsis": "Tras ganar el oro en las Olimpiadas de 1960, el joven boxeador Muhammad Ali (por aquel entonces conocido como Cassius Clay) se propone ganar el título de campeón de los pesos pesados. Debiendo lidiar con su nueva fama, conflictos familiares y la política de EE. UU. el prodigio descubre que su mayor contrincante no será otro púgil, sino una sociedad que no quiere que sea él mismo.",
-      "rating": 5.2,
+      "title": "Nocturno",
+      "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
+      "rating": 7.7,
       "year": "2026",
       "genres": [
-        "Drama"
-      ],
-      "cast": "Jaalen Best, Omari Hardwick, Dana Gourrier, Amin Joseph, Kai Parham",
-      "posterUrl": "https://image.tmdb.org/t/p/original/anGICExgOPbBjobnoJzNrTriEmL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-      "slug": "el-mas-grande",
-      "tmdbId": "258989",
-      "type": "series"
-    },
-    {
-      "title": "La emperatriz divorciada",
-      "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
-      "rating": 8.27,
-      "year": "2026",
-      "genres": [
+        "Crimen",
         "Drama",
-        "Ciencia ficción",
-        "Fantasía"
+        "Misterio"
       ],
-      "cast": "Shin Min-a, Ju Ji-hoon, 이종석, 이세영, Lukáš Tomšík",
-      "posterUrl": "https://image.tmdb.org/t/p/original/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
-      "slug": "la-emperatriz-divorciada",
-      "tmdbId": "279246",
+      "cast": "Liev Schreiber, Zazie Beetz, Stephen Graham, Bill Camp, Rory Culkin",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+      "slug": "nocturno",
+      "tmdbId": "292741",
       "type": "series"
     }
   ],
@@ -574,6 +576,23 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Doctor X Mafia in White",
+          "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
+          "rating": 9,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+          "slug": "doctor-x-mafia-in-white",
+          "tmdbId": "293610",
+          "type": "series"
+        },
+        {
           "title": "El Calvario",
           "synopsis": "Kama regresa a su ciudad natal y se ve envuelta en un antiguo caso de desaparición. Secretos familiares, pasiones y crímenes revelan que el pasado nunca guarda silencio.",
           "rating": 7.7,
@@ -624,7 +643,7 @@
         {
           "title": "Tulsa King",
           "synopsis": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta.",
-          "rating": 8.3,
+          "rating": 8.31,
           "year": "2022",
           "genres": [
             "Crimen",
@@ -720,21 +739,6 @@
           "slug": "campus-drivers",
           "tmdbId": "303044",
           "type": "series"
-        },
-        {
-          "title": "Sacrifice",
-          "synopsis": "The series follows Daniella Hernandez, a highly sought-after entertainment lawyer in Los Angeles, as she navigates the nefarious lives of her rich and famous clients while dealing with her own complicated personal life as a recovering alcoholic who compensates for her suppressed addiction with men and the adrenaline of defending the worst in the entertainment world against an over-zealous D.A. sworn to bring them all to justice. She is the classic conundrum of doing good for bad reasons and doing bad for good reasons.",
-          "rating": 7.86,
-          "year": "2021",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Paula Patton",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wo272z8k2OBJu8j4vjxJovCEAcZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5tMQYIpLEnzzCtEybLY9LdSlqnP.jpg",
-          "slug": "sacrifice",
-          "tmdbId": "137948",
-          "type": "series"
         }
       ]
     },
@@ -756,6 +760,22 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
           "slug": "campus-drivers",
           "tmdbId": "303044",
+          "type": "series"
+        },
+        {
+          "title": "Palacio",
+          "synopsis": "Narra los acontecimientos que tuvieron lugar durante el asedio del Palacio de Justicia de Colombia por parte del grupo guerrillero M-19 en 1985.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Natalia Reyes, Luna Baxter, Mariana Gómez, Robinson Díaz, Santiago Alarcón",
+          "posterUrl": "https://image.tmdb.org/t/p/original/w7r5J4JPA0xku3ubCTXlDbuyoFs.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
+          "slug": "palacio",
+          "tmdbId": "297491",
           "type": "series"
         },
         {
@@ -883,23 +903,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
           "slug": "balaraw-la-isla-sangrienta",
           "tmdbId": "313699",
-          "type": "series"
-        },
-        {
-          "title": "Nocturno",
-          "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
-          "rating": 7.7,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Liev Schreiber, Zazie Beetz, Stephen Graham, Bill Camp, Rory Culkin",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-          "slug": "nocturno",
-          "tmdbId": "292741",
           "type": "series"
         }
       ]
