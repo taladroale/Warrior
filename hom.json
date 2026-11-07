@@ -52,23 +52,6 @@
       "duration": "95 min"
     },
     {
-      "title": "La mangosta",
-      "synopsis": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida.",
-      "rating": 6.46,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Suspenso"
-      ],
-      "cast": "Liam Neeson, Marisa Tomei, Ving Rhames, Marcus Thomas, Michael Chiklis",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
-      "slug": "la-mangosta",
-      "tmdbId": "1294189",
-      "type": "movie",
-      "duration": "99 min"
-    },
-    {
       "title": "Godzilla Minus Zero",
       "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
       "rating": 8,
@@ -85,6 +68,23 @@
       "tmdbId": "1381071",
       "type": "movie",
       "duration": "135 min"
+    },
+    {
+      "title": "La mangosta",
+      "synopsis": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida.",
+      "rating": 6.46,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Suspenso"
+      ],
+      "cast": "Liam Neeson, Marisa Tomei, Ving Rhames, Marcus Thomas, Michael Chiklis",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
+      "slug": "la-mangosta",
+      "tmdbId": "1294189",
+      "type": "movie",
+      "duration": "99 min"
     },
     {
       "title": "Primetime",
@@ -172,9 +172,26 @@
       "type": "series"
     },
     {
+      "title": "Dexter: Resurrección",
+      "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+      "rating": 8.6,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Michael C. Hall, Uma Thurman, Jack Alcott, Dan Stevens, Bokeem Woodbine",
+      "posterUrl": "https://image.tmdb.org/t/p/original/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "slug": "dexter-resurreccion",
+      "tmdbId": "259909",
+      "type": "series"
+    },
+    {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.6,
+      "rating": 8.63,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -186,23 +203,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
       "slug": "visionquest",
       "tmdbId": "213375",
-      "type": "series"
-    },
-    {
-      "title": "Nocturno",
-      "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
-      "rating": 7.7,
-      "year": "2026",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Liev Schreiber, Zazie Beetz, Stephen Graham, Bill Camp, Rory Culkin",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-      "slug": "nocturno",
-      "tmdbId": "292741",
       "type": "series"
     }
   ],
