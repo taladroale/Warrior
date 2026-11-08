@@ -107,18 +107,20 @@
   ],
   "seriesHero": [
     {
-      "title": "Campus Drivers",
-      "synopsis": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
+      "title": "El Instituto",
+      "synopsis": "Luke Ellis, un genio de 14 años, es secuestrado en plena noche y trasladado al Instituto, una instalación en el Maine rural que recluye a niños con habilidades psíquicas. Su directora es la Sra. Sigsby, una sádica y firme defensora de la causa que hará cualquier cosa para llevar a cabo su misión. Sigsby y Luke chocan de inmediato en un letal enfrentamiento de opiniones.",
       "rating": 7.8,
-      "year": "2026",
+      "year": "2025",
       "genres": [
-        "Drama"
+        "Misterio",
+        "Ciencia ficción",
+        "Fantasía"
       ],
-      "cast": "Carmen Kassovitz, Baptiste Masseline, Prune Pauchet, Esteban Vial, Madior Fall",
-      "posterUrl": "https://image.tmdb.org/t/p/original/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-      "slug": "campus-drivers",
-      "tmdbId": "303044",
+      "cast": "Ben Barnes, Joe Freeman, Simone Miller, Fionn Laird, Hannah Galway",
+      "posterUrl": "https://image.tmdb.org/t/p/original/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mcU5nwUqPJB6GeElDhKA68LKhqD.jpg",
+      "slug": "el-instituto",
+      "tmdbId": "253372",
       "type": "series"
     },
     {
@@ -137,6 +139,21 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
       "slug": "palomas-negras",
       "tmdbId": "225385",
+      "type": "series"
+    },
+    {
+      "title": "Campus Drivers",
+      "synopsis": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
+      "rating": 7.8,
+      "year": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "cast": "Carmen Kassovitz, Baptiste Masseline, Prune Pauchet, Esteban Vial, Madior Fall",
+      "posterUrl": "https://image.tmdb.org/t/p/original/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "slug": "campus-drivers",
+      "tmdbId": "303044",
       "type": "series"
     },
     {
@@ -188,23 +205,6 @@
       "slug": "la-emperatriz-divorciada",
       "tmdbId": "279246",
       "type": "series"
-    },
-    {
-      "title": "VisionQuest",
-      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.6,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Fantasía",
-        "Drama"
-      ],
-      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-      "slug": "visionquest",
-      "tmdbId": "213375",
-      "type": "series"
     }
   ],
   "movieSections": [
@@ -213,6 +213,72 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Don't Let the Sun",
+          "synopsis": "In a world almost like ours, Jonah works for an agency that offers human relationships. When he's hired to serve as Nika's father, he begins to lose control of his tightly controlled life.",
+          "rating": 6.7,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Ciencia ficción"
+          ],
+          "cast": "Levan Gelbakhiani, Maria Pia Pepe, Agnese Claisse, Karidja Touré, Cecilia Bertozzi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bPGWsGUWJuHP9lvg3Wg6XQCA7aY.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cg5VIuHIRIkHIKh3rEfkptIgNqS.jpg",
+          "slug": "dont-let-the-sun",
+          "tmdbId": "1437612",
+          "type": "movie",
+          "duration": "100 min"
+        },
+        {
+          "title": "The Restoration at Grayson Manor",
+          "synopsis": "The foundations of Grayson Manor are shaken when an accident leaves Boyd Grayson handless and his mother invests in radical new technology to help him.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Terror"
+          ],
+          "cast": "Chris Colfer, Alice Krige, Daniel Adegboyega, Declan Reynolds, Gabriela Garcia Vargas",
+          "posterUrl": "https://image.tmdb.org/t/p/original/m9aKkiCwlQWri27z9WEwezfkUcw.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/eOassvwSzhNfHzPA00XtDD0jYs4.jpg",
+          "slug": "the-restoration-at-grayson-manor",
+          "tmdbId": "1528009",
+          "type": "movie",
+          "duration": "96 min"
+        },
+        {
+          "title": "A Richer Christmas",
+          "synopsis": "When a wealthy family loses everything before the holidays, their world falls apart — but in the chaos, they discover the true meaning of Christmas.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Romance"
+          ],
+          "cast": "Tobias Truvillion, Teresa Celeste, Karlie Redd, Cheryl Frazier, Sencere Brown",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7loIc9EfN8isJmgQWHZeigJ86FC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cedrmlUfvLfXrdZFTMmVbZ8IcgO.jpg",
+          "slug": "a-richer-christmas",
+          "tmdbId": "1800082",
+          "type": "movie",
+          "duration": "88 min"
+        },
+        {
+          "title": "Terrell & T.O.",
+          "synopsis": "This feature-length documentary traces the meteoric rise of one of the most talented, accomplished, and polarizing athletes of America's most popular sport and examines his role as the preeminent \"prima donna\" wide receiver of his era, while catching up with Owens in present-day to see how he is evolving and discovering a new personal path forward.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Terrell Owens, Mike Hill",
+          "posterUrl": "https://image.tmdb.org/t/p/original/tur8rRYXYeWN7Kq2CWEPC5PiJr0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/kLqLPbbVwNQRESvHdw1bwPopPjq.jpg",
+          "slug": "terrell-and-to",
+          "tmdbId": "1480158",
+          "type": "movie",
+          "duration": "103 min"
+        },
         {
           "title": "Savage Mountain",
           "synopsis": "Kristin Harila asombró a la comunidad de escaladores en 2023 al proponerse convertirse en la persona más rápida en coronar las 14 cumbres más altas del mundo. Junto a su compañero de escalada, Tenjen Lama Sherpa, logró lo que muchos creían imposible: coronar las 14 en tan solo 92 días, reduciendo a la mitad el récord de Nims Purja. Sin embargo, lo que debería haber sido su mayor triunfo se convirtió en una polémica. Durante el ascenso final, Harila fue acusada de pasar por encima de un porteador moribundo, lo que desencadenó una reacción global y un intenso debate sobre la ambición, la ética y quién controla la narrativa. Con imágenes inéditas del K2, Savage Mountain desvela la historia detrás de la controversia.",
@@ -312,72 +378,6 @@
           "tmdbId": "1642568",
           "type": "movie",
           "duration": "89 min"
-        },
-        {
-          "title": "Making Marie Antoinette",
-          "synopsis": "Eleanor Coppola turns her camera on her daughter, Sofia, as she shoots Marie Antoinette. Catching every detail of the behind-the-scenes and on-set action, Eleanor captures the feat of Sofia’s directing a landmark film aged 34, and muses on what it means for a mother to watch her daughter at work.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Diane Lane, Kirsten Dunst, Jason Schwartzman, Rip Torn, Rose Byrne",
-          "posterUrl": "https://image.tmdb.org/t/p/original/1vt7dhpq5dYA5H5VDEf7IITMbSg.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/x0jpUyJ5ETwRn5LmAKvDzEVHgb7.jpg",
-          "slug": "making-marie-antoinette",
-          "tmdbId": "1754364",
-          "type": "movie",
-          "duration": "86 min"
-        },
-        {
-          "title": "Musk",
-          "synopsis": "Un análisis exhaustivo y sin censura sobre Elon Musk, multimillonario del sector tecnológico que ocupa el cargo de director ejecutivo de Tesla, SpaceX y X (antes Twitter), una de las figuras empresariales más influyentes y controvertidas del mundo.",
-          "rating": 6.6,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Elon Musk, Justine Musk, Ashley St. Clair, Kara Swisher, Martin Eberhard",
-          "posterUrl": "https://image.tmdb.org/t/p/original/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/1CfHIKczBiAauSRBiNQ90bjLsCM.jpg",
-          "slug": "musk",
-          "tmdbId": "1096228",
-          "type": "movie",
-          "duration": "238 min"
-        },
-        {
-          "title": "Funny Money: The Dane Cook Story",
-          "synopsis": "At the height of his career, Dane Cook wasn't just selling out arenas; he was redefining what a stand-up comedian could be. Then, in a shocking betrayal, the person he trusted most stole millions of dollars, forever changing his life. FUNNY MONEY: THE DANECOOK STORY is a gripping documentary about fame, family, greed, and survival, revealing the extraordinary true story behind one of comedy's biggest icons.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Dane Cook, Al Del Bene, Kelsi Cook, Courtney Cook",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5oKnnzzoOJk8v1wR4Qal8iRgllg.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/uK74mGQvWIWE08jxOvSCb64RAj6.jpg",
-          "slug": "funny-money-the-dane-cook-story",
-          "tmdbId": "1757386",
-          "type": "movie",
-          "duration": "118 min"
-        },
-        {
-          "title": "Godzilla Minus Zero",
-          "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
-          "rating": 8.19,
-          "year": "2026",
-          "genres": [
-            "Ciencia ficción",
-            "Terror",
-            "Acción"
-          ],
-          "cast": "Ryunosuke Kamiki, 浜辺美波, 山田裕貴, Kuranosuke Sasaki, Jun Kunimura",
-          "posterUrl": "https://image.tmdb.org/t/p/original/taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-          "slug": "godzilla-minus-zero",
-          "tmdbId": "1381071",
-          "type": "movie",
-          "duration": "135 min"
         }
       ]
     },
@@ -455,6 +455,22 @@
           "duration": "72 min"
         },
         {
+          "title": "Terrell & T.O.",
+          "synopsis": "This feature-length documentary traces the meteoric rise of one of the most talented, accomplished, and polarizing athletes of America's most popular sport and examines his role as the preeminent \"prima donna\" wide receiver of his era, while catching up with Owens in present-day to see how he is evolving and discovering a new personal path forward.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Terrell Owens, Mike Hill",
+          "posterUrl": "https://image.tmdb.org/t/p/original/tur8rRYXYeWN7Kq2CWEPC5PiJr0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/kLqLPbbVwNQRESvHdw1bwPopPjq.jpg",
+          "slug": "terrell-and-to",
+          "tmdbId": "1480158",
+          "type": "movie",
+          "duration": "103 min"
+        },
+        {
           "title": "La razón de estar contigo: Una Navidad perfecta",
           "synopsis": "Winstead, un basset hound muy sabio, narra cómo su familia se enfrenta a una situación convulsa cuando la señora Goss entra en coma inducido, y un nuevo cachorro de corgi ayuda a unir a los miembros de la familia, que se habían distanciado, durante la ausencia de su madre.",
           "rating": 10,
@@ -527,41 +543,21 @@
           "duration": "135 min"
         },
         {
-          "title": "La historia de Derry",
-          "synopsis": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
-          "rating": 6.93,
+          "title": "A Richer Christmas",
+          "synopsis": "When a wealthy family loses everything before the holidays, their world falls apart — but in the chaos, they discover the true meaning of Christmas.",
+          "rating": 0,
           "year": "2026",
           "genres": [
-            "Drama",
-            "Terror",
-            "Misterio"
+            "Comedia",
+            "Romance"
           ],
-          "cast": "Kiawentiio, Isabel DeRoy-Olson, Michael Podemski, Zahn McClarnon, MorningStar Angeline",
-          "posterUrl": "https://image.tmdb.org/t/p/original/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-          "slug": "la-historia-de-derry",
-          "tmdbId": "1813355",
+          "cast": "Tobias Truvillion, Teresa Celeste, Karlie Redd, Cheryl Frazier, Sencere Brown",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7loIc9EfN8isJmgQWHZeigJ86FC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/cedrmlUfvLfXrdZFTMmVbZ8IcgO.jpg",
+          "slug": "a-richer-christmas",
+          "tmdbId": "1800082",
           "type": "movie",
-          "duration": "30 min"
-        },
-        {
-          "title": "Barbie in the Nutcracker",
-          "synopsis": "Barbie «Brooklyn» Roberts asume el papel de la princesa Sugarplum y Barbie «Malibu» Roberts interpreta a Clara, mientras viajan por un mundo de sueños para recuperar un medallón robado. A ellos se une la hermana menor de Barbie, Chelsea.",
-          "rating": 1,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Familia",
-            "Fantasía",
-            "Aventura"
-          ],
-          "cast": "Tim Curry, Tatiana Varria, America Young, Ritesh Rajan, Natalie Lashkari",
-          "posterUrl": "https://image.tmdb.org/t/p/original/dy9wDjQ7AT3S3vbAaj7Z9olQKfS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/aDc3Kd0nvII9feQjV0464jIO0ra.jpg",
-          "slug": "barbie-in-the-nutcracker-1760311",
-          "tmdbId": "1760311",
-          "type": "movie",
-          "duration": "42 min"
+          "duration": "88 min"
         }
       ]
     }
@@ -572,6 +568,40 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Doctor X Mafia in White",
+          "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
+          "rating": 9.1,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
+          "slug": "doctor-x-mafia-in-white",
+          "tmdbId": "293610",
+          "type": "series"
+        },
+        {
+          "title": "100 días de engaño",
+          "synopsis": "La carterista más consumada de Gyeongseong anhela la libertad. Para lograrla, se infiltra en el Gobierno colonial japonés para robar secretos… y se enamora del hijo de su objetivo.",
+          "rating": 8.6,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Drama"
+          ],
+          "cast": "김유정, Jinyoung, 김현주, 이무생, 진선규",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zOSAKuyQfj3HmnvH4HU6GLu9cU8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+          "slug": "100-dias-de-engano",
+          "tmdbId": "293607",
+          "type": "series"
+        },
         {
           "title": "Sunshine Through the Rain",
           "synopsis": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
@@ -600,23 +630,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
           "slug": "campus-drivers",
           "tmdbId": "303044",
-          "type": "series"
-        },
-        {
-          "title": "Doctor X Mafia in White",
-          "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-          "rating": 9,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama",
-            "Crimen"
-          ],
-          "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-          "slug": "doctor-x-mafia-in-white",
-          "tmdbId": "293610",
           "type": "series"
         },
         {
@@ -715,22 +728,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
           "slug": "paolo",
           "tmdbId": "288385",
-          "type": "series"
-        },
-        {
-          "title": "Firefly Wedding",
-          "synopsis": "En la era Meiji, Satoko Kirigaya, una joven aristócrata con una esperanza de vida limitada, sueña con casarse con un noble y convertirse en el orgullo de su familia. Cuando una conspiración la pone al borde de la muerte, se ve obligada a aceptar la ayuda de Shinpei Goto, un asesino que acaba obsesionándose con ella.",
-          "rating": 9.43,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Drama"
-          ],
-          "cast": "Lynn, Koki Uchiyama, Haruhi Nanao, Natsuko Abe",
-          "posterUrl": "https://image.tmdb.org/t/p/original/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
-          "slug": "firefly-wedding",
-          "tmdbId": "320909",
           "type": "series"
         }
       ]
