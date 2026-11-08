@@ -88,40 +88,24 @@
       "duration": "135 min"
     },
     {
-      "title": "La mangosta",
-      "synopsis": "Acusado de un delito que no cometió y sin nada que perder, un héroe de guerra llamado Ryan «Fang» Flanagan se enfrenta a las agresivas fuerzas del orden en una persecución en coche por todo el país, con la ayuda de sus compañeros de armas y de un público comprensivo que anima su huida.",
-      "rating": 6.46,
+      "title": "Primetime",
+      "synopsis": "En 2006, Chris Hansen, presentador de *To Catch a Predator*, se propone hacer historia en la televisión.",
+      "rating": 6.8,
       "year": "2026",
       "genres": [
-        "Acción",
-        "Suspenso"
+        "Suspenso",
+        "Drama"
       ],
-      "cast": "Liam Neeson, Marisa Tomei, Ving Rhames, Marcus Thomas, Michael Chiklis",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2UkYw2GCXif38KoX3vDFNZnVlbi.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/fEpP7Kib3LeUz0ckTsNJ52cl1k0.jpg",
-      "slug": "la-mangosta",
-      "tmdbId": "1294189",
+      "cast": "Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher, Bokeem Woodbine",
+      "posterUrl": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+      "slug": "primetime",
+      "tmdbId": "1375441",
       "type": "movie",
-      "duration": "99 min"
+      "duration": "110 min"
     }
   ],
   "seriesHero": [
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.62,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
     {
       "title": "Campus Drivers",
       "synopsis": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
@@ -156,6 +140,22 @@
       "type": "series"
     },
     {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.62,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
       "title": "Dexter: Resurrección",
       "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
       "rating": 8.6,
@@ -173,25 +173,6 @@
       "type": "series"
     },
     {
-      "title": "Black Clover",
-      "synopsis": "La historia de Black Clover nos pone en la piel de un joven llamado Asta, el cual quiere convertirse en el mago más grande del reino. Sin embargo, hay un inconveniente: ¡no puede usar magia! Por suerte, Asta recibe el grimorio trébol de cinco hojas, que le otorga el poder de la anti-magia. ¿Puede alguien carente de magia convertirse en el Rey Hechicero? Una cosa está clara, Asta nunca se rendirá.",
-      "rating": 8.49,
-      "year": "2017",
-      "genres": [
-        "Animación",
-        "Acción",
-        "Aventura",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Gakuto Kajiwara, Nobunaga Shimazaki, Kana Yuuki, Junichi Suwabe, Genki Muro",
-      "posterUrl": "https://image.tmdb.org/t/p/original/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
-      "slug": "black-clover",
-      "tmdbId": "73223",
-      "type": "series"
-    },
-    {
       "title": "La emperatriz divorciada",
       "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
       "rating": 8.27,
@@ -206,6 +187,23 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
       "slug": "la-emperatriz-divorciada",
       "tmdbId": "279246",
+      "type": "series"
+    },
+    {
+      "title": "VisionQuest",
+      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "rating": 8.6,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Fantasía",
+        "Drama"
+      ],
+      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+      "slug": "visionquest",
+      "tmdbId": "213375",
       "type": "series"
     }
   ],
@@ -743,21 +741,6 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
-          "title": "Sunshine Through the Rain",
-          "synopsis": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "杨超越, 董思成",
-          "posterUrl": "https://image.tmdb.org/t/p/original/reDzSqynyCv734aXv9NflnpflMo.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
-          "slug": "sunshine-through-the-rain",
-          "tmdbId": "307853",
-          "type": "series"
-        },
-        {
           "title": "Campus Drivers",
           "synopsis": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
           "rating": 7.8,
@@ -770,6 +753,21 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
           "slug": "campus-drivers",
           "tmdbId": "303044",
+          "type": "series"
+        },
+        {
+          "title": "Sunshine Through the Rain",
+          "synopsis": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "杨超越, 董思成",
+          "posterUrl": "https://image.tmdb.org/t/p/original/reDzSqynyCv734aXv9NflnpflMo.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
+          "slug": "sunshine-through-the-rain",
+          "tmdbId": "307853",
           "type": "series"
         },
         {
