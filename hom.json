@@ -3,7 +3,7 @@
     {
       "title": "La Odisea",
       "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
-      "rating": 8.02,
+      "rating": 8,
       "year": "2026",
       "genres": [
         "Aventura",
@@ -11,8 +11,8 @@
         "Fantasía"
       ],
       "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
-      "posterUrl": "https://image.tmdb.org/t/p/original/sf2ke1nwFOLLcwLZiXu9VaMMv8e.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/nVBzWBqHTB3XD0iqWiJLfKLo5fq.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
       "slug": "la-odisea-1368337",
       "tmdbId": "1368337",
       "type": "movie",
@@ -54,22 +54,6 @@
       "duration": "95 min"
     },
     {
-      "title": "Un amor posible",
-      "synopsis": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
-      "rating": 7.7,
-      "year": "2026",
-      "genres": [
-        "Drama"
-      ],
-      "cast": "전도연, 설경구, 조인성, Cho Yeo-jeong, 조유리",
-      "posterUrl": "https://image.tmdb.org/t/p/original/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
-      "slug": "un-amor-posible",
-      "tmdbId": "1483525",
-      "type": "movie",
-      "duration": "165 min"
-    },
-    {
       "title": "Godzilla Minus Zero",
       "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
       "rating": 8.19,
@@ -86,6 +70,22 @@
       "tmdbId": "1381071",
       "type": "movie",
       "duration": "135 min"
+    },
+    {
+      "title": "Un amor posible",
+      "synopsis": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
+      "rating": 7.7,
+      "year": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "cast": "전도연, 설경구, 조인성, Cho Yeo-jeong, 조유리",
+      "posterUrl": "https://image.tmdb.org/t/p/original/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/kPbyLj2OyjojqvR1jfK1VvXzabg.jpg",
+      "slug": "un-amor-posible",
+      "tmdbId": "1483525",
+      "type": "movie",
+      "duration": "165 min"
     },
     {
       "title": "Primetime",
@@ -142,18 +142,20 @@
       "type": "series"
     },
     {
-      "title": "Campus Drivers",
-      "synopsis": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
-      "rating": 7.8,
+      "title": "VisionQuest",
+      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "rating": 8.66,
       "year": "2026",
       "genres": [
+        "Ciencia ficción",
+        "Fantasía",
         "Drama"
       ],
-      "cast": "Carmen Kassovitz, Baptiste Masseline, Prune Pauchet, Esteban Vial, Madior Fall",
-      "posterUrl": "https://image.tmdb.org/t/p/original/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-      "slug": "campus-drivers",
-      "tmdbId": "303044",
+      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+      "slug": "visionquest",
+      "tmdbId": "213375",
       "type": "series"
     },
     {
@@ -173,6 +175,21 @@
       "type": "series"
     },
     {
+      "title": "Campus Drivers",
+      "synopsis": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
+      "rating": 7.8,
+      "year": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "cast": "Carmen Kassovitz, Baptiste Masseline, Prune Pauchet, Esteban Vial, Madior Fall",
+      "posterUrl": "https://image.tmdb.org/t/p/original/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "slug": "campus-drivers",
+      "tmdbId": "303044",
+      "type": "series"
+    },
+    {
       "title": "Dexter: Resurrección",
       "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
       "rating": 8.6,
@@ -188,23 +205,6 @@
       "slug": "dexter-resurreccion",
       "tmdbId": "259909",
       "type": "series"
-    },
-    {
-      "title": "La emperatriz divorciada",
-      "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
-      "rating": 8.27,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Shin Min-a, Ju Ji-hoon, 이종석, 이세영, Lukáš Tomšík",
-      "posterUrl": "https://image.tmdb.org/t/p/original/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
-      "slug": "la-emperatriz-divorciada",
-      "tmdbId": "279246",
-      "type": "series"
     }
   ],
   "movieSections": [
@@ -213,6 +213,24 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "La Odisea",
+          "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Aventura",
+            "Acción",
+            "Fantasía"
+          ],
+          "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
+          "slug": "la-odisea-1368337",
+          "tmdbId": "1368337",
+          "type": "movie",
+          "duration": "173 min"
+        },
         {
           "title": "Don't Let the Sun",
           "synopsis": "In a world almost like ours, Jonah works for an agency that offers human relationships. When he's hired to serve as Nika's father, he begins to lose control of his tightly controlled life.",
@@ -360,24 +378,6 @@
           "tmdbId": "584586",
           "type": "movie",
           "duration": "102 min"
-        },
-        {
-          "title": "The Last Temptation of Becky",
-          "synopsis": "Now working as a field agent for the CIA, Becky is sent undercover to Poland to infiltrate a family of innkeepers running a tourist venture at The Wolf's Lair, Hitler's WWII bunker. After learning that the father, Wilhelm Reuss, is on a mission to bring about the Fourth Reich, Becky takes matters into her own hands.",
-          "rating": 5.5,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Lulu Wilson, Neil Patrick Harris, James Urbaniak, Kate Siegel, Desmond Eastwood",
-          "posterUrl": "https://image.tmdb.org/t/p/original/dS2EUbnMyfv1bWsGa6GBgzwp5cF.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/9o9ITSmTuI3Lof4ayV1dQUEez4k.jpg",
-          "slug": "the-last-temptation-of-becky",
-          "tmdbId": "1642568",
-          "type": "movie",
-          "duration": "89 min"
         }
       ]
     },
