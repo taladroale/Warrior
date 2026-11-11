@@ -3,13 +3,13 @@
     {
       "title": "La otra madre",
       "synopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "rating": 5.76,
+      "rating": 5.8,
       "year": "2026",
       "genres": [
         "Terror"
       ],
       "cast": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
       "slug": "la-otra-madre",
       "tmdbId": "1400837",
@@ -33,24 +33,6 @@
       "tmdbId": "1368337",
       "type": "movie",
       "duration": "173 min"
-    },
-    {
-      "title": "Godzilla Minus Zero",
-      "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
-      "rating": 8.19,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "cast": "Ryunosuke Kamiki, 浜辺美波, 山田裕貴, Kuranosuke Sasaki, Jun Kunimura",
-      "posterUrl": "https://image.tmdb.org/t/p/original/taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-      "slug": "godzilla-minus-zero",
-      "tmdbId": "1381071",
-      "type": "movie",
-      "duration": "135 min"
     },
     {
       "title": "Resident Evil",
@@ -88,28 +70,46 @@
       "duration": "101 min"
     },
     {
-      "title": "Un buen abogado",
-      "synopsis": "El abogado penalista Léonard Landry sufre una sobredosis en el juzgado. Tras pasar por rehabilitación, dispone de una semana para preparar su propio juicio con la ayuda de una obstinada becaria. Comienza así una frenética carrera de maniobras legales, tentaciones y giros inesperados.",
-      "rating": 7.1,
+      "title": "Godzilla Minus Zero",
+      "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+      "rating": 8.19,
       "year": "2026",
       "genres": [
-        "Suspenso",
-        "Drama"
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
       ],
-      "cast": "Laurent Lafitte, Anthony Bajon, Mélanie Laurent, Carole Bouquet",
-      "posterUrl": "https://image.tmdb.org/t/p/original/tVJITyPQXww6DypTDlpILM0Ppzi.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
-      "slug": "un-buen-abogado",
-      "tmdbId": "1616419",
+      "cast": "Ryunosuke Kamiki, 浜辺美波, 山田裕貴, Kuranosuke Sasaki, Jun Kunimura",
+      "posterUrl": "https://image.tmdb.org/t/p/original/taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "slug": "godzilla-minus-zero",
+      "tmdbId": "1381071",
       "type": "movie",
-      "duration": "114 min"
+      "duration": "135 min"
+    },
+    {
+      "title": "Góspel de Navidad",
+      "synopsis": "Un joven pastor, que intenta estar a la altura del legado de su padre, traslada a su esposa e hijos de Georgia a Nueva York para salvar una iglesia moribunda con un poco de ayuda de sus ángeles guardianes.",
+      "rating": 5,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "cast": "Tyler Perry, Tyler Perry",
+      "posterUrl": "https://image.tmdb.org/t/p/original/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
+      "slug": "gospel-de-navidad",
+      "tmdbId": "1559980",
+      "type": "movie",
+      "duration": "103 min"
     }
   ],
   "seriesHero": [
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.62,
+      "rating": 8.5,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -171,20 +171,20 @@
       "type": "series"
     },
     {
-      "title": "El Instituto",
-      "synopsis": "Luke Ellis, un genio de 14 años, es secuestrado en plena noche y trasladado al Instituto, una instalación en el Maine rural que recluye a niños con habilidades psíquicas. Su directora es la Sra. Sigsby, una sádica y firme defensora de la causa que hará cualquier cosa para llevar a cabo su misión. Sigsby y Luke chocan de inmediato en un letal enfrentamiento de opiniones.",
-      "rating": 7.48,
-      "year": "2025",
+      "title": "La emperatriz divorciada",
+      "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
+      "rating": 8.27,
+      "year": "2026",
       "genres": [
-        "Misterio",
+        "Drama",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Ben Barnes, Joe Freeman, Simone Miller, Fionn Laird, Hannah Galway",
-      "posterUrl": "https://image.tmdb.org/t/p/original/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
-      "slug": "el-instituto",
-      "tmdbId": "253372",
+      "cast": "Shin Min-a, Ju Ji-hoon, 이종석, 이세영, Lukáš Tomšík",
+      "posterUrl": "https://image.tmdb.org/t/p/original/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+      "slug": "la-emperatriz-divorciada",
+      "tmdbId": "279246",
       "type": "series"
     },
     {
@@ -213,6 +213,159 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
+          "title": "The Floaters",
+          "synopsis": "Struggling musician Nomi accepts a last-resort job from her overachiever best friend Mara: mentoring misfit campers, the “Floaters,” at their childhood Jewish summer camp. As the camp struggles to survive amidst competition with a longtime rival, Nomi, the Floaters, and Mara must overcome their differences to bring the community together and save the camp.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Jackie Tohn, Sarah Podemski, Aya Cash, Judah Lewis, Nina Bloomgarden",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6VHAOIOO4MJXv19EtW5WFVRWztH.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/p6VH952NTR5ZkZ8GZ2HAE2R3EoR.jpg",
+          "slug": "the-floaters",
+          "tmdbId": "1238735",
+          "type": "movie",
+          "duration": "102 min"
+        },
+        {
+          "title": "La chica del valle",
+          "synopsis": "Julie Richman es una chica de campo, en concreto del valle californiano de San Fernando, que acude a la fiesta de su amiga Suzi para olvidar su reciente ruptura con su novio. En medio del gentío, destacan dos jóvenes punks procedentes de Hollywood. Uno de ellos, Randy, pronto se fijará en la dulce Julie. Aparentemente proceden de dos mundos diferentes y a ojos de sus amigos así es, pero pronto conectan a la perfección y encuentran el amor. Ahora Julie ha de decidir si hace caso de las opiniones de sus compañeros, que rechazan a Randy, o sigue el dictado de su corazón.",
+          "rating": 6,
+          "year": "1983",
+          "genres": [
+            "Comedia",
+            "Romance"
+          ],
+          "cast": "Nicolas Cage, Deborah Foreman, E. G. Daily, Michael Bowen, Cameron Dye",
+          "posterUrl": "https://image.tmdb.org/t/p/original/lrVD0u477BZsg5Fp7gIFjZQBU24.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/stTmJizMu8LklEIIkSu7NqHchdH.jpg",
+          "slug": "la-chica-del-valle-19053",
+          "tmdbId": "19053",
+          "type": "movie",
+          "duration": "95 min"
+        },
+        {
+          "title": "A corazón abierto",
+          "synopsis": "En Baltimore, en los años 40, el doctor Alfred Blalock (Alan Rickman) y su ayudante Vivien Thomas (Mos Def) trabajaban para encontrar una técnica revolucionaria que garantizaría el éxito de las operaciones de corazón en \"bebés azules\". A pesar de ser colegas, pertenecían a mundos muy distintos: Blalock, blanco y rico, era el jefe de cirugía del Hospital Johns Hopkins; Thomas, en cambio, era un hábil carpintero, negro y pobre. Mientras estos hombres abrían nuevos y espectaculares caminos en el campo de la medicina, las presiones sociales amenazaban con destruir tanto su trabajo como su amistad. (FILMAFFINITY)",
+          "rating": 7.98,
+          "year": "2004",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Alan Rickman, Yasiin Bey, Kyra Sedgwick, Gabrielle Union, Merritt Wever",
+          "posterUrl": "https://image.tmdb.org/t/p/original/82FlOKGpr1YSeEKwh2aDmxURs7v.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/oT6z05HLXAfgD2CI3cPMuqG8OAW.jpg",
+          "slug": "a-corazon-abierto",
+          "tmdbId": "20544",
+          "type": "movie",
+          "duration": "110 min"
+        },
+        {
+          "title": "Góspel de Navidad",
+          "synopsis": "Un joven pastor, que intenta estar a la altura del legado de su padre, traslada a su esposa e hijos de Georgia a Nueva York para salvar una iglesia moribunda con un poco de ayuda de sus ángeles guardianes.",
+          "rating": 5,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Música"
+          ],
+          "cast": "Tyler Perry, Tyler Perry",
+          "posterUrl": "https://image.tmdb.org/t/p/original/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
+          "slug": "gospel-de-navidad",
+          "tmdbId": "1559980",
+          "type": "movie",
+          "duration": "103 min"
+        },
+        {
+          "title": "Atonement",
+          "synopsis": "In the early days of the Iraq War, a split-second decision made by a U.S. Marine during a tense standoff devastates an Iraqi family. Years later, aided by a New Yorker journalist, he seeks to reconcile with the family he destroyed.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Guerra",
+            "Drama"
+          ],
+          "cast": "Boyd Holbrook, Hiam Abbass, Kenneth Branagh, Gheed, مجد عيد",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zQPB0tL1sH1r54EDlqMugYqmcuu.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/1H3Jfx6JstIY1P3ePh04zp5HOTc.jpg",
+          "slug": "atonement-1484085",
+          "tmdbId": "1484085",
+          "type": "movie",
+          "duration": "118 min"
+        },
+        {
+          "title": "Paranorías: Los Archivos Perdidos Del Dr. Romanoski",
+          "synopsis": "Mientras investiga en un hospital psiquiátrico, el Dr. Romanoski se topa con un misterioso archivo que lo lleva al límite de la razón y a lo profundo del reino de las paranorías.",
+          "rating": 0,
+          "year": "2025",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bkkuY8klQN75CbOeFAUgXL197Fq.jpg",
+          "backdropUrl": null,
+          "slug": "paranorias-los-archivos-perdidos-del-dr-romanoski",
+          "tmdbId": "1721329",
+          "type": "movie",
+          "duration": "62 min"
+        },
+        {
+          "title": "A metros de distancia",
+          "synopsis": "Santiago, un joven de 20 años que utiliza una aplicación de citas móviles en busca de encuentros efímeros. Su búsqueda revela la soledad que subyace bajo la cultura moderna de las citas.",
+          "rating": 7,
+          "year": "2025",
+          "genres": [
+            "Comedia",
+            "Aventura",
+            "Drama"
+          ],
+          "cast": "Max Suen, Jazmín Carballo, Esteban Kukuriczka, Martín Shanly, Felipe Romeo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/A3tEYeLijo1PWXZLTckVSM05YVX.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/r5IbY1krzmv3YqW1DKzru9BJIjI.jpg",
+          "slug": "a-metros-de-distancia",
+          "tmdbId": "1231695",
+          "type": "movie",
+          "duration": "89 min"
+        },
+        {
+          "title": "Ajuste de cuentas",
+          "synopsis": "Un exconvicto debe enfrentarse a la ley mientras planea un audaz atraco que podría cambiar su vida.",
+          "rating": 6.2,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Comedia",
+            "Crimen",
+            "Suspenso"
+          ],
+          "cast": "Scott Adkins, Vinnie Jones, Nicole Deon, Kris Johnson, Dean Gaffney",
+          "posterUrl": "https://image.tmdb.org/t/p/original/m9eKFDSRFkCBoFw2oPRAUvTEUCH.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/v82syfG9jrap5k7A82xuQzLssCJ.jpg",
+          "slug": "ajuste-de-cuentas-1449400",
+          "tmdbId": "1449400",
+          "type": "movie",
+          "duration": "91 min"
+        },
+        {
+          "title": "Everybody Digs Bill Evans",
+          "synopsis": "June 1961, NYC: legendary jazz pianist Bill Evans has found his musical voice and created the perfect trio, including bass player Scott LaFaro, said to be his soulmate through music. A residency at New York’s Village Vanguard culminates in the live taping of two of the greatest jazz records of all time in one night. Ten days later, LaFaro dies in a car crash. Numb with grief, Evans stops playing.",
+          "rating": 4,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Música"
+          ],
+          "cast": "Anders Danielsen Lie, Bill Pullman, Laurie Metcalf, Isabelle Harriet, Barry Ward",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fGwz8f16pYPErspL0QpQYvOZMZj.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/tI0XbH8FhvVXLz8UDzEbr7ud4Ma.jpg",
+          "slug": "everybody-digs-bill-evans",
+          "tmdbId": "1378791",
+          "type": "movie",
+          "duration": "102 min"
+        },
+        {
           "title": "Cosas de tíos",
           "synopsis": "Paul -Jason Lee- está a punto de casarse con Karen -Selma Blair-, la novia perfecta. Pero después su despedia de soltero y de un encuentro completamente inesperado con la prima de su prometida -Julia Stiles-, Paul le cuenta a Karen una mentira para no preocuparla ante su inminente boda. La pequeña mentira se convertirá en una más grande, y pronto toda su vida será un conjunto de malentendidos...",
           "rating": 5.92,
@@ -228,168 +381,6 @@
           "tmdbId": "9582",
           "type": "movie",
           "duration": "101 min"
-        },
-        {
-          "title": "Madison",
-          "synopsis": "Historia de un hombre que insufló de esperanza a su pequeño pueblo cuando compitió con su embarcación en una competición de lanchas.",
-          "rating": 5.8,
-          "year": "2005",
-          "genres": [
-            "Aventura",
-            "Acción",
-            "Drama"
-          ],
-          "cast": "Jim Caviezel, Jake Lloyd, Mary McCormack, Bruce Dern, Paul Dooley",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hlZUHqnwcOv5yPXW7BmguKedNP.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3QtYFBpjTWySlw2U3EEfoCi93qI.jpg",
-          "slug": "madison",
-          "tmdbId": "38717",
-          "type": "movie",
-          "duration": "99 min"
-        },
-        {
-          "title": "Premonition (7 días)",
-          "synopsis": "Linda Hanson (Sandra Bullock) tiene una casa preciosa, un marido que la quiere y dos hijas adorables. Su vida es perfecta, hasta que recibe una devastadora noticia: su esposo Jim (Julian McMahon) ha fallecido en un accidente de coche. Al despertarse a la mañana siguiente, Linda descubre que su marido sigue vivo. En un principio, Linda cree que el accidente ha debido de ser una pesadilla... hasta que ocurre de nuevo. Algunos días Jim sigue a su lado cuando se despierta, pero otros debe enfrentarse a la realidad de haberse quedado viuda. Por alguna razón inexplicable, los días están desordenados. La traumática premonición de Linda desencadena una serie de extraños sucesos que alteran el tiempo. En un intento desesperado por salvar a su familia, Linda lucha furiosamente contra el tiempo y el destino para intentar conservar todo lo que ella y Jim han construido juntos.",
-          "rating": 6.3,
-          "year": "2007",
-          "genres": [
-            "Suspenso",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Sandra Bullock, Julian McMahon, Courtney Taylor Burness, Shyann McClure, Nia Long",
-          "posterUrl": "https://image.tmdb.org/t/p/original/4moBOPqMFXP3n78YobuJ9c4IokH.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/esXYvlivZ8j0HGqob949CIjqnGi.jpg",
-          "slug": "premonition-7-dias",
-          "tmdbId": "9963",
-          "type": "movie",
-          "duration": "94 min"
-        },
-        {
-          "title": "Amor con preaviso",
-          "synopsis": "El millonario George Wade no es capaz de hacer nada sin su asesora legal, Lucy Kelson. Las tareas de esta inteligente abogada son tantas que le han costado una úlcera y, además, no tiene tiempo ni para dormir. Lo que más la desespera es que el encantador George la trata casi como a una niñera. Tras un año a su servicio, Lucy ha decidido abandonar el trabajo. Aunque George trata de impedírselo, finalmente la deja ir con una condición: que encuentre una sustituta.",
-          "rating": 6.37,
-          "year": "2002",
-          "genres": [
-            "Romance",
-            "Comedia"
-          ],
-          "cast": "Sandra Bullock, Hugh Grant, Dana Ivey, Robert Klein, Alicia Witt",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ogCLQfR9yMcbbrCRn6LESt2p7iD.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/owRq5hVmyLv8pNx3Kn1dmE6AQOm.jpg",
-          "slug": "amor-con-preaviso",
-          "tmdbId": "2642",
-          "type": "movie",
-          "duration": "101 min"
-        },
-        {
-          "title": "Ha-Chan, Shake Your Booty!",
-          "synopsis": "Haru and Luis love competing in Tokyo’s ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor. She must face what comes next as sparks fly.",
-          "rating": 8.3,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama",
-            "Romance"
-          ],
-          "cast": "Rinko Kikuchi, Alberto Guerra, Alejandro Edda, YOU, 吉田羊",
-          "posterUrl": "https://image.tmdb.org/t/p/original/w98RWv9o05OhXYfTvauDrotRZ13.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dEu8lwu4q6k3m8xOLxGJzYoxjix.jpg",
-          "slug": "ha-chan-shake-your-booty",
-          "tmdbId": "1596249",
-          "type": "movie",
-          "duration": "122 min"
-        },
-        {
-          "title": "Arenas Sangrientas",
-          "synopsis": "Exitosa película de la productora Republic Pictures que retrata la heroica conquista de una isla del océano Pacífico por parte de las tropas americanas durante la Segunda Guerra Mundial.",
-          "rating": 6.36,
-          "year": "1950",
-          "genres": [
-            "Guerra",
-            "Drama"
-          ],
-          "cast": "John Wayne, John Agar, Adele Mara, Forrest Tucker, Wally Cassell",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cA69gVhVxM2E8sZIFteOYR3XGKr.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/i3NS2yBH9LS45s86sb7vMZUsZ2p.jpg",
-          "slug": "arenas-sangrientas",
-          "tmdbId": "18712",
-          "type": "movie",
-          "duration": "100 min"
-        },
-        {
-          "title": "Portrait of an Artist: Stephen Curry",
-          "synopsis": "On the verge of his record-extending 4,000th career three-pointer, four-time NBA champion and two-time MVP Stephen Curry reflects on the upbringing, mindset, and work ethic that made him one of the most legendary artists of his time.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Stephen Curry, Viola Davis, Rick Rubin, Patti Smith",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bKVscDx3dWrOwZuy0X1WMlOUNWN.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nOMQ0Kq1gSmlPy4K9m7PSPnEdcL.jpg",
-          "slug": "portrait-of-an-artist-stephen-curry",
-          "tmdbId": "1756286",
-          "type": "movie",
-          "duration": "74 min"
-        },
-        {
-          "title": "Evangelion: 2.0 You Can (Not) Advance",
-          "synopsis": "La espectacular batalla entre los Evangelion, las máquinas de combate definitivas creadas por la humanidad, y las insondables entidades conocidas como ángeles se intensifica hasta alcanzar el punto de ruptura a partir del cual ya nada volverá a ser como antes. Bajo el incesante ataque invasor, la agencia NERV activa dos nuevas unidades de Eva pilotadas por la misteriosa Mari Illustrious Makinami y la agresiva Asuka Langley Shikinami. Por su parte, Shinji Ikari trata de soportar la presión del gran destino que le ha sido encomendado como piloto del Eva 01 con el único propósito de ganarse el afecto de su padre. Pero Gendo Ikari tiene su propia agenda secreta que incluye utilizar a su hijo y a la enigmática Rei Ayanami para despertar al Eva 01 y provocar el Tercer Impacto mucho antes de lo previsto.",
-          "rating": 7.81,
-          "year": "2009",
-          "genres": [
-            "Animación",
-            "Ciencia ficción",
-            "Acción",
-            "Drama"
-          ],
-          "cast": "緒方恵美, Megumi Hayashibara, 宮村優子, Maaya Sakamoto, Kotono Mitsuishi",
-          "posterUrl": "https://image.tmdb.org/t/p/original/h3dJAkDtcGAKCxFmMy9zHVzZaVo.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/pzsVGcufDdBLmvagKyLFKaeA4O5.jpg",
-          "slug": "evangelion-20-you-can-not-advance",
-          "tmdbId": "22843",
-          "type": "movie",
-          "duration": "108 min"
-        },
-        {
-          "title": "Neon Genesis Evangelion: The End of Evangelion",
-          "synopsis": "Seele ordena un ataque sin cuartel contra NERV con el objetivo de destruir los Evas antes de que Gendo pueda provocar el Tercer Impacto y la unión de las almas humanas.",
-          "rating": 8.3,
-          "year": "1997",
-          "genres": [
-            "Animación",
-            "Ciencia ficción",
-            "Drama",
-            "Fantasía",
-            "Acción"
-          ],
-          "cast": "緒方恵美, Megumi Hayashibara, Kotono Mitsuishi, 宮村優子, Fumihiko Tachiki",
-          "posterUrl": "https://image.tmdb.org/t/p/original/9jbxvKB937BWeYAmMKZTqPxBLsk.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
-          "slug": "neon-genesis-evangelion-the-end-of-evangelion",
-          "tmdbId": "18491",
-          "type": "movie",
-          "duration": "87 min"
-        },
-        {
-          "title": "Neon Genesis Evangelion: Death (True)²",
-          "synopsis": "Quince años después de un cataclismo, el apático joven Shinji se une al grupo de su padre, NERV, para enfrentarse a seres monstruosos. Pero la verdad podría destruirlos.",
-          "rating": 6.79,
-          "year": "1998",
-          "genres": [
-            "Animación",
-            "Ciencia ficción",
-            "Acción",
-            "Drama"
-          ],
-          "cast": "緒方恵美, Kotono Mitsuishi, Megumi Hayashibara, 宮村優子, Akira Ishida",
-          "posterUrl": "https://image.tmdb.org/t/p/original/m9kucLjJLzcdCCiIFnkaqK0DpGj.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/fZxQc2xBqxOJt6q0R8bwq5oe7C9.jpg",
-          "slug": "neon-genesis-evangelion-death-true",
-          "tmdbId": "857862",
-          "type": "movie",
-          "duration": "69 min"
         }
       ]
     },
@@ -398,6 +389,23 @@
       "type": "movie",
       "seeMoreSlug": "estrenos",
       "items": [
+        {
+          "title": "Góspel de Navidad",
+          "synopsis": "Un joven pastor, que intenta estar a la altura del legado de su padre, traslada a su esposa e hijos de Georgia a Nueva York para salvar una iglesia moribunda con un poco de ayuda de sus ángeles guardianes.",
+          "rating": 5,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Música"
+          ],
+          "cast": "Tyler Perry, Tyler Perry",
+          "posterUrl": "https://image.tmdb.org/t/p/original/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
+          "slug": "gospel-de-navidad",
+          "tmdbId": "1559980",
+          "type": "movie",
+          "duration": "103 min"
+        },
         {
           "title": "Yo soy Rocky",
           "synopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
@@ -551,24 +559,6 @@
           "tmdbId": "1642568",
           "type": "movie",
           "duration": "89 min"
-        },
-        {
-          "title": "Godzilla Minus Zero",
-          "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
-          "rating": 8.19,
-          "year": "2026",
-          "genres": [
-            "Ciencia ficción",
-            "Terror",
-            "Acción"
-          ],
-          "cast": "Ryunosuke Kamiki, 浜辺美波, 山田裕貴, Kuranosuke Sasaki, Jun Kunimura",
-          "posterUrl": "https://image.tmdb.org/t/p/original/taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-          "slug": "godzilla-minus-zero",
-          "tmdbId": "1381071",
-          "type": "movie",
-          "duration": "135 min"
         }
       ]
     }
@@ -579,6 +569,152 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Amor, dulce amor",
+          "synopsis": "En una idílica isla japonesa, la trabajadora agricultora Karin Shirahama entrega su corazón y alma a cultivar las mejores fresas posibles. Un día, Lee Yubin, un chico de ciudad con mala suerte llega a la isla y, tras un primer encuentro hilarantemente incómodo, ambos terminan pasando mucho más tiempo juntos debido a un malentendido inesperado.",
+          "rating": 8.3,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "지창욱, Mio Imada, 남윤수, Rinka Kumada, 정순원",
+          "posterUrl": "https://image.tmdb.org/t/p/original/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+          "slug": "amor-dulce-amor",
+          "tmdbId": "305551",
+          "type": "series"
+        },
+        {
+          "title": "La emperatriz divorciada",
+          "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
+          "rating": 8.47,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Shin Min-a, Ju Ji-hoon, 이종석, 이세영, Lukáš Tomšík",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+          "slug": "la-emperatriz-divorciada",
+          "tmdbId": "279246",
+          "type": "series"
+        },
+        {
+          "title": "El Señor de los Anillos: Los Anillos de Poder",
+          "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
+          "rating": 7.2,
+          "year": "2022",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Morfydd Clark, Robert Aramayo, Owain Arthur, Sophia Nomvete, Markella Kavenagh",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
+          "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
+          "tmdbId": "84773",
+          "type": "series"
+        },
+        {
+          "title": "Mírame así, el camino de Noa",
+          "synopsis": "Noa decide emprender un viaje a Argentina tras mantener una relación a distancia durante meses, con la intención de encontrarse con su novio. Sin embargo, ocurre un giro en sus planes cuando conoce a Tomy, un joven que intenta reconciliarse con su pasado y forjar una nueva vida lejos de la música, mientras Noa comienza un viaje de descubrimiento en busca de su identidad musical, enfrentándose a la presión de sus padres y su nueva realidad en Buenos Aires.",
+          "rating": 9.33,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Familia"
+          ],
+          "cast": "נועה קירל, Agustín Bernasconi, José Giménez-Zapiola, Kevsho, Carolina Domenech",
+          "posterUrl": "https://image.tmdb.org/t/p/original/kH1PdObeImeBO37yK35Vc1RH7Ws.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ir485FZlwSPuTIiw1KEZRlFjV3x.jpg",
+          "slug": "mirame-asi-el-camino-de-noa",
+          "tmdbId": "287556",
+          "type": "series"
+        },
+        {
+          "title": "Sticks: Cracks del golf",
+          "synopsis": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
+          "rating": 7.3,
+          "year": "2025",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Owen Wilson, Peter Dager, Lilli Kay, Mariana Treviño, Timothy Olyphant",
+          "posterUrl": "https://image.tmdb.org/t/p/original/h2eNJ4FaLhBIMoFbqrYID3BPyc5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
+          "slug": "sticks-cracks-del-golf",
+          "tmdbId": "248830",
+          "type": "series"
+        },
+        {
+          "title": "Outlander: Sangre de mi sangre",
+          "synopsis": "Desde los campos de batalla de la Primera Guerra Mundial hasta las escarpadas Tierras Altas de la Escocia del siglo XVIII, dos parejas predestinadas deben desafiar las fuerzas que buscan separarlas, desarrollándose de maneras sorprendentes e imprevistas en esta saga romántica que se desarrolla a través del tiempo.",
+          "rating": 8.72,
+          "year": "2025",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Harriet Slater, Jamie Roy, Hermione Corfield, Jeremy Irvine, Tony Curran",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2vEp7mniHlKcK6LKJxCu4hOr56V.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
+          "slug": "outlander-sangre-de-mi-sangre",
+          "tmdbId": "207484",
+          "type": "series"
+        },
+        {
+          "title": "Buscando a Wanda",
+          "synopsis": "Cuando desaparece su hija, los Klatt deciden tomar cartas en el asunto y urden un plan disparatado: espiar al vecindario. A medida que avanzan en esta operación de espionaje de poca monta, van desvelando asombrosos secretos.",
+          "rating": 6.56,
+          "year": "2024",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Oliver Lansley",
+          "posterUrl": "https://image.tmdb.org/t/p/original/p3T1XtOvwBVaeG5tpB4sfhikng9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
+          "slug": "buscando-a-wanda",
+          "tmdbId": "234310",
+          "type": "series"
+        },
+        {
+          "title": "VisionQuest",
+          "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+          "rating": 8.46,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Fantasía",
+            "Drama"
+          ],
+          "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+          "slug": "visionquest",
+          "tmdbId": "213375",
+          "type": "series"
+        },
+        {
+          "title": "Hola, clase",
+          "synopsis": "Un profesor de física se propone que todos los alumnos puedan acceder a una educación de calidad mediante el aprendizaje virtual. Basada en una historia real.",
+          "rating": 8.4,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Vineet Kumar Singh, Vikram Kochhar, Girija Oak, Anumeha Jain",
+          "posterUrl": "https://image.tmdb.org/t/p/original/sBprJ6cIkWWKl4ABWgxNDKxe9kL.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/akwxUU6YDiAixkx7t8AOSzxzkNG.jpg",
+          "slug": "hola-clase",
+          "tmdbId": "313100",
+          "type": "series"
+        },
         {
           "title": "Sobrevivir al paraíso: Más allá de los Testigos de Jehová",
           "synopsis": "Esta serie documental de tres episodios relata las vivencias personales de muchos de los exmiembros de la organización y aspectos desconocidos sobre sus normas y obligaciones Además, el documental recupera imágenes del juicio celebrado en 2022 en el que la Asociación de Víctimas de los Testigos de Jehová consolidó su derecho a mantener en su denominación el término “víctimas”.",
@@ -592,156 +728,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/tPOLS7faEK482Pae1GycswkpHgx.jpg",
           "slug": "sobrevivir-al-paraiso-mas-alla-de-los-testigos-de-jehova",
           "tmdbId": "314541",
-          "type": "series"
-        },
-        {
-          "title": "Farsante",
-          "synopsis": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
-          "rating": 7.3,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Connie Britton, Sam Nivola, Grace Brennan, Maliq Johnson, Meera Syal",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/roUD5m2nj6k88azMFsiqBae29cr.jpg",
-          "slug": "farsante",
-          "tmdbId": "275139",
-          "type": "series"
-        },
-        {
-          "title": "Un amor infiltrado",
-          "synopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
-          "rating": 9.1,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama",
-            "Crimen",
-            "Acción",
-            "Aventura"
-          ],
-          "cast": "Yim Si-wan, 설인아, 김정현, 연우, 류승수",
-          "posterUrl": "https://image.tmdb.org/t/p/original/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
-          "slug": "un-amor-infiltrado",
-          "tmdbId": "303745",
-          "type": "series"
-        },
-        {
-          "title": "Anestesia",
-          "synopsis": "Dr. Dawid Łazarz (interpretado por Leszek Lichota), un brillante neurocirujano de una clínica privada cuya vida y carrera se hunden tras una arriesgada operación fallida. Para rehacer su vida, acepta trabajar en un hospital comarcal con menos recursos y mayor presión asistencial, enfrentándose al choque entre la medicina de élite y la realidad del sistema público.",
-          "rating": 7.6,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Leszek Lichota, Aleksandra Popławska, Karolina Gruszka, Masza Wągrocka, Karol Biskup",
-          "posterUrl": "https://image.tmdb.org/t/p/original/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
-          "slug": "anestesia",
-          "tmdbId": "312006",
-          "type": "series"
-        },
-        {
-          "title": "Minami, abogada extraordinaria",
-          "synopsis": "Con una memoria prodigiosa y una perspectiva única, Minami se enfrenta a retos dentro y fuera de los tribunales como abogada novata con trastorno del espectro autista",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "芦田愛菜, Fumiya Takahashi, 細田佳央太, 久保史緒里, 柿原りんか",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ax4KpZOjZ59hp6IjYNOfJMAYge0.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/w7p0SUuixmEyf5a5wVKAgHNkh8e.jpg",
-          "slug": "minami-abogada-extraordinaria",
-          "tmdbId": "332713",
-          "type": "series"
-        },
-        {
-          "title": "La mesa final",
-          "synopsis": "La Mesa: K-chef 2026 reúne a los mejores chefs coreanos para competir por el título de mejor chef. Chris K, misterioso y famosísimo chef, conocido como Kang Han, Song-yi, que quiere salvar su restaurante, Woo-jin, chef estrella perfeccionista, entre otros, se enfrentan en una feroz batalla culinaria. Más allá de la competición, encuentran consuelo en la comida y los unos en los otros.",
-          "rating": 8.67,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Ahn Hyo Seop, 홍화연, 장률, 정유진, 장영남",
-          "posterUrl": "https://image.tmdb.org/t/p/original/v1VV1eSf5oE4hz6hf2W8niHlCmx.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
-          "slug": "la-mesa-final",
-          "tmdbId": "316702",
-          "type": "series"
-        },
-        {
-          "title": "100 días de engaño",
-          "synopsis": "La carterista más consumada de Gyeongseong anhela la libertad. Para lograrla, se infiltra en el Gobierno colonial japonés para robar secretos… y se enamora del hijo de su objetivo.",
-          "rating": 8.7,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Drama"
-          ],
-          "cast": "김유정, Jinyoung, 김현주, 이무생, 진선규",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zOSAKuyQfj3HmnvH4HU6GLu9cU8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-          "slug": "100-dias-de-engano",
-          "tmdbId": "293607",
-          "type": "series"
-        },
-        {
-          "title": "La isla del tesoro",
-          "synopsis": "Cuando Jim se hace con un legendario mapa del tesoro, las acciones inteligentes y decididas de su madre, Bess, hacen que él acabe en posesión de una valiosa información que pone en peligro la vida de ambos. A bordo del «Hispaniola», Jim y Bess se ven atrapados entre el encantador y aterrador pirata Long John Silver y el elegante y traicionero agente británico Aaron Graham.",
-          "rating": 6.8,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Aventura"
-          ],
-          "cast": "David Oyelowo, Tom Sweet, תומר קאפון, Craige Els, Neil Pendleton",
-          "posterUrl": "https://image.tmdb.org/t/p/original/rnTcsrrDckwC2QmEQ1M7YfJDMN7.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
-          "slug": "la-isla-del-tesoro",
-          "tmdbId": "333101",
-          "type": "series"
-        },
-        {
-          "title": "El Instituto",
-          "synopsis": "Luke Ellis, un genio de 14 años, es secuestrado en plena noche y trasladado al Instituto, una instalación en el Maine rural que recluye a niños con habilidades psíquicas. Su directora es la Sra. Sigsby, una sádica y firme defensora de la causa que hará cualquier cosa para llevar a cabo su misión. Sigsby y Luke chocan de inmediato en un letal enfrentamiento de opiniones.",
-          "rating": 7.48,
-          "year": "2025",
-          "genres": [
-            "Misterio",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Ben Barnes, Joe Freeman, Simone Miller, Fionn Laird, Hannah Galway",
-          "posterUrl": "https://image.tmdb.org/t/p/original/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
-          "slug": "el-instituto",
-          "tmdbId": "253372",
-          "type": "series"
-        },
-        {
-          "title": "Dragon Ball Super: Beerus",
-          "synopsis": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
-          "rating": 9.6,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Acción",
-            "Aventura",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Masako Nozawa, Ryo Horikawa, Naoko Watanabe, Unsho Ishizuka, Koichi Yamadera",
-          "posterUrl": "https://image.tmdb.org/t/p/original/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-          "slug": "dragon-ball-super-beerus",
-          "tmdbId": "312359",
           "type": "series"
         }
       ]
