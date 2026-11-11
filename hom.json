@@ -35,21 +35,22 @@
       "duration": "173 min"
     },
     {
-      "title": "Un buen abogado",
-      "synopsis": "El abogado penalista Léonard Landry sufre una sobredosis en el juzgado. Tras pasar por rehabilitación, dispone de una semana para preparar su propio juicio con la ayuda de una obstinada becaria. Comienza así una frenética carrera de maniobras legales, tentaciones y giros inesperados.",
-      "rating": 7.1,
+      "title": "Godzilla Minus Zero",
+      "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+      "rating": 8.19,
       "year": "2026",
       "genres": [
-        "Suspenso",
-        "Drama"
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
       ],
-      "cast": "Laurent Lafitte, Anthony Bajon, Mélanie Laurent, Carole Bouquet",
-      "posterUrl": "https://image.tmdb.org/t/p/original/tVJITyPQXww6DypTDlpILM0Ppzi.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
-      "slug": "un-buen-abogado",
-      "tmdbId": "1616419",
+      "cast": "Ryunosuke Kamiki, 浜辺美波, 山田裕貴, Kuranosuke Sasaki, Jun Kunimura",
+      "posterUrl": "https://image.tmdb.org/t/p/original/taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "slug": "godzilla-minus-zero",
+      "tmdbId": "1381071",
       "type": "movie",
-      "duration": "114 min"
+      "duration": "135 min"
     },
     {
       "title": "Resident Evil",
@@ -87,29 +88,28 @@
       "duration": "101 min"
     },
     {
-      "title": "Godzilla Minus Zero",
-      "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
-      "rating": 8.19,
+      "title": "Un buen abogado",
+      "synopsis": "El abogado penalista Léonard Landry sufre una sobredosis en el juzgado. Tras pasar por rehabilitación, dispone de una semana para preparar su propio juicio con la ayuda de una obstinada becaria. Comienza así una frenética carrera de maniobras legales, tentaciones y giros inesperados.",
+      "rating": 7.1,
       "year": "2026",
       "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
+        "Suspenso",
+        "Drama"
       ],
-      "cast": "Ryunosuke Kamiki, 浜辺美波, 山田裕貴, Kuranosuke Sasaki, Jun Kunimura",
-      "posterUrl": "https://image.tmdb.org/t/p/original/taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-      "slug": "godzilla-minus-zero",
-      "tmdbId": "1381071",
+      "cast": "Laurent Lafitte, Anthony Bajon, Mélanie Laurent, Carole Bouquet",
+      "posterUrl": "https://image.tmdb.org/t/p/original/tVJITyPQXww6DypTDlpILM0Ppzi.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+      "slug": "un-buen-abogado",
+      "tmdbId": "1616419",
       "type": "movie",
-      "duration": "135 min"
+      "duration": "114 min"
     }
   ],
   "seriesHero": [
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.6,
+      "rating": 8.62,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -142,19 +142,16 @@
       "type": "series"
     },
     {
-      "title": "El Calvario",
-      "synopsis": "Kama regresa a su ciudad natal y se ve envuelta en un antiguo caso de desaparición. Secretos familiares, pasiones y crímenes revelan que el pasado nunca guarda silencio.",
-      "rating": 7.8,
-      "year": "2026",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Magdalena Cielecka, Piotr Żurawski, Łukasz Simlat, Piotr Głowacki, Dorota Kolak",
-      "posterUrl": "https://image.tmdb.org/t/p/original/qPwbr4eZzE6cOXVvCxemy3t4pK7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uqlqU7IOOrJBLSdxe3VQlO6OXy0.jpg",
-      "slug": "el-calvario",
-      "tmdbId": "279185",
+      "title": "El plan del diablo",
+      "synopsis": "Los concursantes se enfrentan en juegos de ingenio y estrategia, luchando por ser coronados ganadores e irse a casa con el premio final.",
+      "rating": 7.61,
+      "year": "2023",
+      "genres": [],
+      "cast": "하석진, 이혜성, 이시원, 승관, Suh Dong-joo",
+      "posterUrl": "https://image.tmdb.org/t/p/original/q8ED7O2RM5pXCafMQuBKragWqPz.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/jTpcWY1vjydAMbxQzoTs7WXVDvl.jpg",
+      "slug": "el-plan-del-diablo",
+      "tmdbId": "214582",
       "type": "series"
     },
     {
