@@ -19,6 +19,24 @@
       "duration": "173 min"
     },
     {
+      "title": "No nos rendimos",
+      "synopsis": "Un exsoldado y sus nietos luchan contra despiadados criminales en un pueblo aislado. Si quieren sobrevivir, también deben enfrentarse a sus miedos y a los remordimientos.",
+      "rating": 7.75,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspenso"
+      ],
+      "cast": "Lukman Sardi, Callista Arum, Sulthan Hamonangan, Derby Romero, Donny Alamsyah",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+      "slug": "no-nos-rendimos",
+      "tmdbId": "1616687",
+      "type": "movie",
+      "duration": "137 min"
+    },
+    {
       "title": "La otra madre",
       "synopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
       "rating": 5.8,
@@ -33,23 +51,6 @@
       "tmdbId": "1400837",
       "type": "movie",
       "duration": "93 min"
-    },
-    {
-      "title": "Góspel de Navidad",
-      "synopsis": "Un joven pastor, que intenta estar a la altura del legado de su padre, traslada a su esposa e hijos de Georgia a Nueva York para salvar una iglesia moribunda con un poco de ayuda de sus ángeles guardianes.",
-      "rating": 5,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Música"
-      ],
-      "cast": "Tyler Perry, Tyler Perry",
-      "posterUrl": "https://image.tmdb.org/t/p/original/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
-      "slug": "gospel-de-navidad",
-      "tmdbId": "1559980",
-      "type": "movie",
-      "duration": "103 min"
     },
     {
       "title": "Resident Evil",
@@ -70,6 +71,23 @@
       "duration": "95 min"
     },
     {
+      "title": "Góspel de Navidad",
+      "synopsis": "Un joven pastor, que intenta estar a la altura del legado de su padre, traslada a su esposa e hijos de Georgia a Nueva York para salvar una iglesia moribunda con un poco de ayuda de sus ángeles guardianes.",
+      "rating": 5,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "cast": "Tyler Perry, Tyler Perry",
+      "posterUrl": "https://image.tmdb.org/t/p/original/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
+      "slug": "gospel-de-navidad",
+      "tmdbId": "1559980",
+      "type": "movie",
+      "duration": "103 min"
+    },
+    {
       "title": "En el corazón de la bestia",
       "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
       "rating": 7.32,
@@ -85,24 +103,6 @@
       "tmdbId": "1263337",
       "type": "movie",
       "duration": "101 min"
-    },
-    {
-      "title": "Godzilla Minus Zero",
-      "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
-      "rating": 8.19,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "cast": "Ryunosuke Kamiki, 浜辺美波, 山田裕貴, Kuranosuke Sasaki, Jun Kunimura",
-      "posterUrl": "https://image.tmdb.org/t/p/original/taoPyKQTXh0FSwO5rin8Djrt20C.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-      "slug": "godzilla-minus-zero",
-      "tmdbId": "1381071",
-      "type": "movie",
-      "duration": "135 min"
     }
   ],
   "seriesHero": [
@@ -117,9 +117,9 @@
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Morfydd Clark, Robert Aramayo, Owain Arthur, Sophia Nomvete, Markella Kavenagh",
+      "cast": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Owain Arthur, Sophia Nomvete",
       "posterUrl": "https://image.tmdb.org/t/p/original/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hVRWuAY03KfLjjAbwmy9QhrfAPs.jpg",
       "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
       "tmdbId": "84773",
       "type": "series"
@@ -174,18 +174,19 @@
       "type": "series"
     },
     {
-      "title": "La Ley de Alicia",
-      "synopsis": "After her husband, a Supreme Court Justice Minister, is imprisoned for corruption, Alicia must restart her law career to support her children and pay bills as her world crumbles.",
-      "rating": 8.3,
-      "year": "2026",
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.65,
+      "year": "2025",
       "genres": [
+        "Crimen",
         "Drama"
       ],
-      "cast": "Fernanda Castillo, Michel Brown, Claudio Roca, Alaide, Juan Manuel Bernal",
-      "posterUrl": "https://image.tmdb.org/t/p/original/cQe8MJTa95RWwdJkuSBWFNexP0Y.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
-      "slug": "la-ley-de-alicia",
-      "tmdbId": "338562",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     },
     {
@@ -574,6 +575,39 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Mentes criminales",
+          "synopsis": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equipo de Unidad de Análisis de Conducta del FBI, un grupo de investigadores de diversas ramas de la criminología que se dedica a hacer análisis psicológicos y criminológicos a criminales para facilitar su captura.",
+          "rating": 8.3,
+          "year": "2005",
+          "genres": [
+            "Crimen",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Joe Mantegna, Paget Brewster, Adam Rodriguez, Kirsten Vangsness, A.J. Cook",
+          "posterUrl": "https://image.tmdb.org/t/p/original/3UyUgPfcs7ByA9hxbhWSW98xdpg.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+          "slug": "mentes-criminales",
+          "tmdbId": "4057",
+          "type": "series"
+        },
+        {
+          "title": "Mujeres Asesinas",
+          "synopsis": "Un grupo de mujeres con varios elementos en común. Sus vidas no fueron sencillas, ni serenas, ni felices. Lidiaron con parejas violentas, padres o madres manipuladores, jefes hostiles, situaciones de humillación e historias de venganza.",
+          "rating": 7.29,
+          "year": "2022",
+          "genres": [
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ek71Mmm4QPDGwgp8ar1OWY75KG7.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7tpSoNdx4mj7upT5JpsIZzvfqN5.jpg",
+          "slug": "mujeres-asesinas",
+          "tmdbId": "213834",
+          "type": "series"
+        },
+        {
           "title": "Sobre ruedas",
           "synopsis": "En el taller de su padre, un gerente desventurado intenta mejorar el servicio al cliente y aumentar las ganancias mientras mantiene a raya a su problemático primo.",
           "rating": 6.89,
@@ -694,39 +728,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
           "slug": "la-ley-de-alicia",
           "tmdbId": "338562",
-          "type": "series"
-        },
-        {
-          "title": "Amor, dulce amor",
-          "synopsis": "En una idílica isla japonesa, la trabajadora agricultora Karin Shirahama entrega su corazón y alma a cultivar las mejores fresas posibles. Un día, Lee Yubin, un chico de ciudad con mala suerte llega a la isla y, tras un primer encuentro hilarantemente incómodo, ambos terminan pasando mucho más tiempo juntos debido a un malentendido inesperado.",
-          "rating": 8.3,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "지창욱, Mio Imada, 남윤수, Rinka Kumada, 정순원",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
-          "slug": "amor-dulce-amor",
-          "tmdbId": "305551",
-          "type": "series"
-        },
-        {
-          "title": "La emperatriz divorciada",
-          "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
-          "rating": 8.47,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Shin Min-a, Ju Ji-hoon, 이종석, 이세영, Lukáš Tomšík",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-          "slug": "la-emperatriz-divorciada",
-          "tmdbId": "279246",
           "type": "series"
         }
       ]
