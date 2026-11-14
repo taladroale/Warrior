@@ -19,24 +19,6 @@
       "duration": "173 min"
     },
     {
-      "title": "No nos rendimos",
-      "synopsis": "Un exsoldado y sus nietos luchan contra despiadados criminales en un pueblo aislado. Si quieren sobrevivir, también deben enfrentarse a sus miedos y a los remordimientos.",
-      "rating": 7.75,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspenso"
-      ],
-      "cast": "Lukman Sardi, Callista Arum, Sulthan Hamonangan, Derby Romero, Donny Alamsyah",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
-      "slug": "no-nos-rendimos",
-      "tmdbId": "1616687",
-      "type": "movie",
-      "duration": "137 min"
-    },
-    {
       "title": "Allen",
       "synopsis": "El mejor amigo de la infancia de Petey, un extraterrestre llamado Allen, desapareció sin despedirse. Dos décadas más tarde, Allen regresa con un secreto que podría cambiar el mundo, lo que obliga a Petey a madurar de una vez por todas y ayudar a salvarlo.",
       "rating": 7,
@@ -72,21 +54,22 @@
       "duration": "93 min"
     },
     {
-      "title": "Scrooge y los fantasmas de la Navidad",
-      "synopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 7.77,
+      "title": "No nos rendimos",
+      "synopsis": "Un exsoldado y sus nietos luchan contra despiadados criminales en un pueblo aislado. Si quieren sobrevivir, también deben enfrentarse a sus miedos y a los remordimientos.",
+      "rating": 7.75,
       "year": "2026",
       "genres": [
-        "Fantasía",
-        "Comedia"
+        "Acción",
+        "Crimen",
+        "Suspenso"
       ],
-      "cast": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen",
-      "posterUrl": "https://image.tmdb.org/t/p/original/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
-      "slug": "scrooge-y-los-fantasmas-de-la-navidad",
-      "tmdbId": "1567605",
+      "cast": "Lukman Sardi, Callista Arum, Sulthan Hamonangan, Derby Romero, Donny Alamsyah",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+      "slug": "no-nos-rendimos",
+      "tmdbId": "1616687",
       "type": "movie",
-      "duration": "115 min"
+      "duration": "137 min"
     },
     {
       "title": "Siendo Heumann",
@@ -104,6 +87,23 @@
       "tmdbId": "1050981",
       "type": "movie",
       "duration": "127 min"
+    },
+    {
+      "title": "Scrooge y los fantasmas de la Navidad",
+      "synopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "rating": 7.77,
+      "year": "2026",
+      "genres": [
+        "Fantasía",
+        "Comedia"
+      ],
+      "cast": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen",
+      "posterUrl": "https://image.tmdb.org/t/p/original/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+      "slug": "scrooge-y-los-fantasmas-de-la-navidad",
+      "tmdbId": "1567605",
+      "type": "movie",
+      "duration": "115 min"
     }
   ],
   "seriesHero": [
@@ -146,7 +146,7 @@
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.39,
+      "rating": 8.38,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -194,20 +194,19 @@
       "type": "series"
     },
     {
-      "title": "Dexter: Resurrección",
-      "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-      "rating": 8.55,
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.65,
       "year": "2025",
       "genres": [
         "Crimen",
-        "Drama",
-        "Misterio"
+        "Drama"
       ],
-      "cast": "Michael C. Hall, Uma Thurman, Jack Alcott, Dan Stevens, Bokeem Woodbine",
-      "posterUrl": "https://image.tmdb.org/t/p/original/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-      "slug": "dexter-resurreccion",
-      "tmdbId": "259909",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     }
   ],
@@ -217,6 +216,59 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Juego de campeones",
+          "synopsis": "Los West Canaan Coyotes están muy cerca de lograr su 23º título de liga. De la mano de su entrenador, el mítico Bud Kilmer, el equipo ha alcanzado la cima del fútbol americano juvenil en Texas, un estado en el que la afición por este deporte es prácticamente una forma de vida. Sus grandes logros han convertido a Kilmer en un mito para los habitantes de l pequeña ciudad en la que juega el equipo y nadie, ni padres ni jugadores, se han atrevido nunca a cuestionar las técnicas más que dudosas que el popular entrenador ha venido utilizando para encumbrar a sus jóvenes deportistas a lo más alto.",
+          "rating": 6.17,
+          "year": "1999",
+          "genres": [
+            "Comedia",
+            "Drama",
+            "Romance"
+          ],
+          "cast": "James Van Der Beek, Amy Smart, Jon Voight, Paul Walker, Ron Lester",
+          "posterUrl": "https://image.tmdb.org/t/p/original/btEGORik9yiYzaa0m2djb6klWBf.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/rTlMsaE2MQ8NG2cs0bEkwVhMOrV.jpg",
+          "slug": "juego-de-campeones",
+          "tmdbId": "14709",
+          "type": "movie",
+          "duration": "106 min"
+        },
+        {
+          "title": "Heartland",
+          "synopsis": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+          "rating": 6.71,
+          "year": "2026",
+          "genres": [
+            "Suspenso",
+            "Misterio",
+            "Música"
+          ],
+          "cast": "Jessica Chastain, Garrett Hedlund, Carter Faith, Ross Lynch, Jennifer Nettles",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+          "slug": "heartland",
+          "tmdbId": "1543469",
+          "type": "movie",
+          "duration": "114 min"
+        },
+        {
+          "title": "Victorian Psycho",
+          "synopsis": "En 1858, la misteriosa institutriz Winifred Notty llega a Ensor House para educar a los hijos de la familia. Su disciplina extrema y su inquietante presencia despiertan sospechas, mientras los empleados de la mansión comienzan a desaparecer sin dejar rastro. Los dueños pronto descubren que tras su apariencia impecable se esconden secretos perturbadores.",
+          "rating": 5,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Suspenso"
+          ],
+          "cast": "Maika Monroe, Thomasin McKenzie, Ruth Wilson, Jason Isaacs, Evie Templeton",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2r09thBfqsWkoyGVtrxc00uYpSy.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/84Sh7J9uvMjqEqEyRsKXaiSBcjP.jpg",
+          "slug": "victorian-psycho",
+          "tmdbId": "1379486",
+          "type": "movie",
+          "duration": "102 min"
+        },
         {
           "title": "Scrooge y los fantasmas de la Navidad",
           "synopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
@@ -337,57 +389,6 @@
           "tmdbId": "1757324",
           "type": "movie",
           "duration": "84 min"
-        },
-        {
-          "title": "Siendo Heumann",
-          "synopsis": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
-          "rating": 8.33,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Historia"
-          ],
-          "cast": "Ruth Madeley, Mark Ruffalo, Dylan O'Brien, Madeline Delp, Rob Delaney",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
-          "slug": "siendo-heumann",
-          "tmdbId": "1050981",
-          "type": "movie",
-          "duration": "127 min"
-        },
-        {
-          "title": "Snoopy presenta: 12 días para Navidad",
-          "synopsis": "Para salir de la lista de los traviesos de Papá Noel, Snoopy hace buenas acciones.",
-          "rating": 7,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Familia"
-          ],
-          "cast": "Terry McGurrin, Rob Tinkler, John Legend, Leon Bridges, Laufey",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vRgNjtr3TnhnBHqX3b7OdGprMgV.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/AkcxwZUldIwD6JSUknmzEgeoN4.jpg",
-          "slug": "snoopy-presenta-12-dias-para-navidad",
-          "tmdbId": "1780407",
-          "type": "movie",
-          "duration": "33 min"
-        },
-        {
-          "title": "Girls Like Girls",
-          "synopsis": "Coley, una joven de 17 años del rural Oregón, enfrenta la intimidad tras la muerte de su madre. Conocer a Sonya despierta nuevos sentimientos, pero las dudas sobre sí misma dificultan su conexión.",
-          "rating": 7.5,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Drama"
-          ],
-          "cast": "Maya da Costa, Myra Molloy, Zach Braff, Levon Hawke, Alozie LaRose",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6i8ho7dRcR2722sJfoYHT1GIY36.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hSdK33Mjsdfb8TpoUTI3A3OE3RO.jpg",
-          "slug": "girls-like-girls",
-          "tmdbId": "1397485",
-          "type": "movie",
-          "duration": "95 min"
         }
       ]
     },
@@ -413,6 +414,24 @@
           "tmdbId": "1381273",
           "type": "movie",
           "duration": "115 min"
+        },
+        {
+          "title": "Heartland",
+          "synopsis": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+          "rating": 6.71,
+          "year": "2026",
+          "genres": [
+            "Suspenso",
+            "Misterio",
+            "Música"
+          ],
+          "cast": "Jessica Chastain, Garrett Hedlund, Carter Faith, Ross Lynch, Jennifer Nettles",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+          "slug": "heartland",
+          "tmdbId": "1543469",
+          "type": "movie",
+          "duration": "114 min"
         },
         {
           "title": "No nos rendimos",
@@ -520,6 +539,23 @@
           "duration": "115 min"
         },
         {
+          "title": "Victorian Psycho",
+          "synopsis": "En 1858, la misteriosa institutriz Winifred Notty llega a Ensor House para educar a los hijos de la familia. Su disciplina extrema y su inquietante presencia despiertan sospechas, mientras los empleados de la mansión comienzan a desaparecer sin dejar rastro. Los dueños pronto descubren que tras su apariencia impecable se esconden secretos perturbadores.",
+          "rating": 5,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Suspenso"
+          ],
+          "cast": "Maika Monroe, Thomasin McKenzie, Ruth Wilson, Jason Isaacs, Evie Templeton",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2r09thBfqsWkoyGVtrxc00uYpSy.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/84Sh7J9uvMjqEqEyRsKXaiSBcjP.jpg",
+          "slug": "victorian-psycho",
+          "tmdbId": "1379486",
+          "type": "movie",
+          "duration": "102 min"
+        },
+        {
           "title": "Yo soy Rocky",
           "synopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
           "rating": 8.6,
@@ -535,39 +571,6 @@
           "tmdbId": "1286656",
           "type": "movie",
           "duration": "128 min"
-        },
-        {
-          "title": "Siendo Heumann",
-          "synopsis": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
-          "rating": 8.33,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Historia"
-          ],
-          "cast": "Ruth Madeley, Mark Ruffalo, Dylan O'Brien, Madeline Delp, Rob Delaney",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
-          "slug": "siendo-heumann",
-          "tmdbId": "1050981",
-          "type": "movie",
-          "duration": "127 min"
-        },
-        {
-          "title": "Un poco de compañía antes de morir",
-          "synopsis": "Yui Katakura (Ko Shibasaki) tiene 40 años, está soltera y vive entregada a una afición muy particular: ahorrar. Poco a poco, ha ido reuniendo un buen colchón para disfrutar de una jubilación tranquila. Pero todos sus planes se desmoronan cuando, tras un chequeo gratuito, le diagnostican cáncer y le dan un año de vida. Todavía conmocionada por la noticia, se cruza de repente con Yoshitaka Sena, alias Ryuma (Eiji Akaso), un atractivo ‘host’ de pelo rosa que le pide dinero prestado. Si de todas formas se va a morir, ya no tiene sentido seguir ahorrando. Así que Yui acepta su insólita petición y «compra» a Sena por 720 000 yenes. Así comienza una relación tan insólita como imprevisible, que pronto dará un giro inesperado.",
-          "rating": 6.5,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Drama"
-          ],
-          "cast": "柴咲コウ, 赤楚衛二, 筒井道隆, Naomi Nishida, 鳴海唯",
-          "posterUrl": "https://image.tmdb.org/t/p/original/rleue0CXFaVemfPnwkjtoe5TK5A.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
-          "slug": "un-poco-de-compania-antes-de-morir",
-          "tmdbId": "1654940",
-          "type": "movie"
         }
       ]
     }
@@ -859,7 +862,7 @@
         {
           "title": "Palacio",
           "synopsis": "Narra los acontecimientos que tuvieron lugar durante el asedio del Palacio de Justicia de Colombia por parte del grupo guerrillero M-19 en 1985.",
-          "rating": 6.71,
+          "rating": 6.63,
           "year": "2026",
           "genres": [
             "Drama",
