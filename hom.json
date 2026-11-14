@@ -1,24 +1,6 @@
 {
   "movieHero": [
     {
-      "title": "No nos rendimos",
-      "synopsis": "Un exsoldado y sus nietos luchan contra despiadados criminales en un pueblo aislado. Si quieren sobrevivir, también deben enfrentarse a sus miedos y a los remordimientos.",
-      "rating": 7.75,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspenso"
-      ],
-      "cast": "Lukman Sardi, Callista Arum, Sulthan Hamonangan, Derby Romero, Donny Alamsyah",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
-      "slug": "no-nos-rendimos",
-      "tmdbId": "1616687",
-      "type": "movie",
-      "duration": "137 min"
-    },
-    {
       "title": "La Odisea",
       "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
       "rating": 8,
@@ -35,6 +17,24 @@
       "tmdbId": "1368337",
       "type": "movie",
       "duration": "173 min"
+    },
+    {
+      "title": "No nos rendimos",
+      "synopsis": "Un exsoldado y sus nietos luchan contra despiadados criminales en un pueblo aislado. Si quieren sobrevivir, también deben enfrentarse a sus miedos y a los remordimientos.",
+      "rating": 7.75,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspenso"
+      ],
+      "cast": "Lukman Sardi, Callista Arum, Sulthan Hamonangan, Derby Romero, Donny Alamsyah",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+      "slug": "no-nos-rendimos",
+      "tmdbId": "1616687",
+      "type": "movie",
+      "duration": "137 min"
     },
     {
       "title": "Allen",
@@ -72,39 +72,38 @@
       "duration": "93 min"
     },
     {
-      "title": "El intercambio navideño",
-      "synopsis": "Dos hermanas que son como la noche y el día se ven obligadas a intercambiar sus vidas unas semanas antes de Navidad. En su nuevo entorno, ambas lidian con lo que han hecho hasta ahora y encuentran el amor donde menos se lo esperan.",
-      "rating": 7.2,
+      "title": "Scrooge y los fantasmas de la Navidad",
+      "synopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "rating": 7.77,
       "year": "2026",
       "genres": [
-        "Romance",
+        "Fantasía",
         "Comedia"
       ],
-      "cast": "Felice Jankell, Happy Jankell, Christian Fandango Sundgren, Celie Sparre, Anastasios Soulis",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
-      "slug": "el-intercambio-navideno",
-      "tmdbId": "1757174",
+      "cast": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen",
+      "posterUrl": "https://image.tmdb.org/t/p/original/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+      "slug": "scrooge-y-los-fantasmas-de-la-navidad",
+      "tmdbId": "1567605",
       "type": "movie",
-      "duration": "103 min"
+      "duration": "115 min"
     },
     {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.47,
+      "title": "Siendo Heumann",
+      "synopsis": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
+      "rating": 8.33,
       "year": "2026",
       "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
+        "Drama",
+        "Historia"
       ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
+      "cast": "Ruth Madeley, Mark Ruffalo, Dylan O'Brien, Madeline Delp, Rob Delaney",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
+      "slug": "siendo-heumann",
+      "tmdbId": "1050981",
       "type": "movie",
-      "duration": "95 min"
+      "duration": "127 min"
     }
   ],
   "seriesHero": [
@@ -195,18 +194,20 @@
       "type": "series"
     },
     {
-      "title": "La emperatriz",
-      "synopsis": "Cuando la rebelde Isabel se enamora del emperador Francisco y se promete inesperadamente con él, se adentra en el mundo lleno de tensiones e intrigas de la corte vienesa.",
-      "rating": 7.63,
-      "year": "2022",
+      "title": "Dexter: Resurrección",
+      "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+      "rating": 8.55,
+      "year": "2025",
       "genres": [
-        "Drama"
+        "Crimen",
+        "Drama",
+        "Misterio"
       ],
-      "cast": "Devrim Lingnau, Philip Froissant, Melika Foroutan, Johannes Nussbaum, Elisa Schlott",
-      "posterUrl": "https://image.tmdb.org/t/p/original/dkQIQCGPyoadFNvzZMgjtxFH3OH.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
-      "slug": "la-emperatriz",
-      "tmdbId": "131488",
+      "cast": "Michael C. Hall, Uma Thurman, Jack Alcott, Dan Stevens, Bokeem Woodbine",
+      "posterUrl": "https://image.tmdb.org/t/p/original/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "slug": "dexter-resurreccion",
+      "tmdbId": "259909",
       "type": "series"
     }
   ],
