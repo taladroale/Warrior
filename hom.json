@@ -38,6 +38,23 @@
       "duration": "105 min"
     },
     {
+      "title": "Siendo Heumann",
+      "synopsis": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
+      "rating": 8.33,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "cast": "Ruth Madeley, Mark Ruffalo, Dylan O'Brien, Madeline Delp, Rob Delaney",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
+      "slug": "siendo-heumann",
+      "tmdbId": "1050981",
+      "type": "movie",
+      "duration": "127 min"
+    },
+    {
       "title": "La otra madre",
       "synopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
       "rating": 5.8,
@@ -72,38 +89,22 @@
       "duration": "137 min"
     },
     {
-      "title": "Siendo Heumann",
-      "synopsis": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
-      "rating": 8.33,
+      "title": "Heartland",
+      "synopsis": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
+      "rating": 6.71,
       "year": "2026",
       "genres": [
-        "Drama",
-        "Historia"
+        "Suspenso",
+        "Misterio",
+        "Música"
       ],
-      "cast": "Ruth Madeley, Mark Ruffalo, Dylan O'Brien, Madeline Delp, Rob Delaney",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
-      "slug": "siendo-heumann",
-      "tmdbId": "1050981",
+      "cast": "Jessica Chastain, Garrett Hedlund, Carter Faith, Ross Lynch, Jennifer Nettles",
+      "posterUrl": "https://image.tmdb.org/t/p/original/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "slug": "heartland",
+      "tmdbId": "1543469",
       "type": "movie",
-      "duration": "127 min"
-    },
-    {
-      "title": "Scrooge y los fantasmas de la Navidad",
-      "synopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 7.77,
-      "year": "2026",
-      "genres": [
-        "Fantasía",
-        "Comedia"
-      ],
-      "cast": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen",
-      "posterUrl": "https://image.tmdb.org/t/p/original/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
-      "slug": "scrooge-y-los-fantasmas-de-la-navidad",
-      "tmdbId": "1567605",
-      "type": "movie",
-      "duration": "115 min"
+      "duration": "114 min"
     }
   ],
   "seriesHero": [
@@ -128,7 +129,7 @@
     {
       "title": "El Señor de los Anillos: Los Anillos de Poder",
       "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
-      "rating": 7.21,
+      "rating": 7.2,
       "year": "2022",
       "genres": [
         "Acción",
@@ -138,7 +139,7 @@
       ],
       "cast": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Owain Arthur, Sophia Nomvete",
       "posterUrl": "https://image.tmdb.org/t/p/original/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hVRWuAY03KfLjjAbwmy9QhrfAPs.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
       "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
       "tmdbId": "84773",
       "type": "series"
@@ -146,7 +147,7 @@
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.38,
+      "rating": 8.34,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -158,22 +159,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
       "slug": "visionquest",
       "tmdbId": "213375",
-      "type": "series"
-    },
-    {
-      "title": "The Good Daughter",
-      "synopsis": "Las hermanas Quinn, Samantha y Charlotte (Meghann Fahy y Rose Byrne), llevan veintiocho años intentando recomponer sus vidas que quedaron destrozadas tras una noche de violencia.",
-      "rating": 9.7,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Rose Byrne, Meghann Fahy, Brendan Gleeson, Michael Dorman, Audrey Grace Marshall",
-      "posterUrl": "https://image.tmdb.org/t/p/original/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
-      "slug": "the-good-daughter",
-      "tmdbId": "249565",
       "type": "series"
     },
     {
@@ -194,19 +179,37 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.65,
+      "title": "Dexter: Resurrección",
+      "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+      "rating": 8.55,
       "year": "2025",
       "genres": [
         "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Michael C. Hall, Uma Thurman, Jack Alcott, Dan Stevens, Bokeem Woodbine",
+      "posterUrl": "https://image.tmdb.org/t/p/original/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "slug": "dexter-resurreccion",
+      "tmdbId": "259909",
+      "type": "series"
+    },
+    {
+      "title": "El crimen de Pazos",
+      "synopsis": "En el tranquilo pueblo de Pazos, Aniceto y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo, lo que le lleva al hospital a luchar por su vida. Elías, un sargento de la Guardia Civil, está convencido de que Aniceto es el autor del crimen.",
+      "rating": 6.5,
+      "year": "2026",
+      "genres": [
+        "Crimen",
+        "Misterio",
         "Drama"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Tristán Ulloa, Carlos Blanco, Fer Fraga, Miguel Borines, Marta Nieto",
+      "posterUrl": "https://image.tmdb.org/t/p/original/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+      "slug": "el-crimen-de-pazos",
+      "tmdbId": "303182",
       "type": "series"
     }
   ],
@@ -217,178 +220,174 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
-          "title": "Juego de campeones",
-          "synopsis": "Los West Canaan Coyotes están muy cerca de lograr su 23º título de liga. De la mano de su entrenador, el mítico Bud Kilmer, el equipo ha alcanzado la cima del fútbol americano juvenil en Texas, un estado en el que la afición por este deporte es prácticamente una forma de vida. Sus grandes logros han convertido a Kilmer en un mito para los habitantes de l pequeña ciudad en la que juega el equipo y nadie, ni padres ni jugadores, se han atrevido nunca a cuestionar las técnicas más que dudosas que el popular entrenador ha venido utilizando para encumbrar a sus jóvenes deportistas a lo más alto.",
-          "rating": 6.17,
-          "year": "1999",
+          "title": "El albergue de la sexta felicidad",
+          "synopsis": "Gladys Aylward, una intrépida misionera británica, creó en China un albergue para acoger a los agotados y hambrientos viajeros que recorrían las montañas. Consiguió, además, ganarse la confianza y la admiración de los hostiles nativos, enamorar a un coronel euro-asiático y convertir al cristianismo a un poderoso mandarín. Pero su mayor hazaña la logró cuando, ante la inminente invasión japonesa, llevó a cien niños sin hogar a través de las montañas a un lugar seguro. (FILMAFFINITY)",
+          "rating": 6.83,
+          "year": "1958",
           "genres": [
-            "Comedia",
+            "Guerra",
+            "Drama"
+          ],
+          "cast": "Ingrid Bergman, Curd Jürgens, Burt Kwouk, Robert Donat, Tsai Chin",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1iL8jxySWUxM3ljQpohue95qACm.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3R8lX1mqTeBFLlFSyfnxRSYiEgk.jpg",
+          "slug": "el-albergue-de-la-sexta-felicidad",
+          "tmdbId": "37451",
+          "type": "movie",
+          "duration": "154 min"
+        },
+        {
+          "title": "Final Girl",
+          "synopsis": "Verónica es la chica nueva de una escuela. Solitaria y tímida, se convierte en el blanco perfecto de cuatro muchachos que se dedican a atraer a chicas jóvenes a los bosques para así matarlas como parte de un ritual de iniciación. Sin embargo, Verónica no es lo que parece, pues sabe cómo defenderse",
+          "rating": 5.25,
+          "year": "2015",
+          "genres": [
+            "Acción",
             "Drama",
-            "Romance"
-          ],
-          "cast": "James Van Der Beek, Amy Smart, Jon Voight, Paul Walker, Ron Lester",
-          "posterUrl": "https://image.tmdb.org/t/p/original/btEGORik9yiYzaa0m2djb6klWBf.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/rTlMsaE2MQ8NG2cs0bEkwVhMOrV.jpg",
-          "slug": "juego-de-campeones",
-          "tmdbId": "14709",
-          "type": "movie",
-          "duration": "106 min"
-        },
-        {
-          "title": "Heartland",
-          "synopsis": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
-          "rating": 6.71,
-          "year": "2026",
-          "genres": [
-            "Suspenso",
-            "Misterio",
-            "Música"
-          ],
-          "cast": "Jessica Chastain, Garrett Hedlund, Carter Faith, Ross Lynch, Jennifer Nettles",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-          "slug": "heartland",
-          "tmdbId": "1543469",
-          "type": "movie",
-          "duration": "114 min"
-        },
-        {
-          "title": "Victorian Psycho",
-          "synopsis": "En 1858, la misteriosa institutriz Winifred Notty llega a Ensor House para educar a los hijos de la familia. Su disciplina extrema y su inquietante presencia despiertan sospechas, mientras los empleados de la mansión comienzan a desaparecer sin dejar rastro. Los dueños pronto descubren que tras su apariencia impecable se esconden secretos perturbadores.",
-          "rating": 5,
-          "year": "2026",
-          "genres": [
-            "Terror",
             "Suspenso"
           ],
-          "cast": "Maika Monroe, Thomasin McKenzie, Ruth Wilson, Jason Isaacs, Evie Templeton",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2r09thBfqsWkoyGVtrxc00uYpSy.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/84Sh7J9uvMjqEqEyRsKXaiSBcjP.jpg",
-          "slug": "victorian-psycho",
-          "tmdbId": "1379486",
-          "type": "movie",
-          "duration": "102 min"
-        },
-        {
-          "title": "Scrooge y los fantasmas de la Navidad",
-          "synopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-          "rating": 7.77,
-          "year": "2026",
-          "genres": [
-            "Fantasía",
-            "Comedia"
-          ],
-          "cast": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen",
-          "posterUrl": "https://image.tmdb.org/t/p/original/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
-          "slug": "scrooge-y-los-fantasmas-de-la-navidad",
-          "tmdbId": "1567605",
-          "type": "movie",
-          "duration": "115 min"
-        },
-        {
-          "title": "Solo en casa 5",
-          "synopsis": "Finn Baxter y su familia se mudan de California a Maine a su nueva casa. Finn está aterrorizado y cree que la casa está embrujada. Mientras que instala trampas para coger al \"fantasma\", sus padres se quedan varados en la ciudad y Finn se quedá solo en casa con su hermana. Lo que no esperaban, es que su casa se convierte en el objetivo de tres ladrones en busca de un botín especial. (FILMAFFINITY)",
-          "rating": 5.12,
-          "year": "2012",
-          "genres": [
-            "Comedia",
-            "Familia"
-          ],
-          "cast": "Christian Martyn, Jodelle Ferland, Malcolm McDowell, Debi Mazar, Eddie Steeples",
-          "posterUrl": "https://image.tmdb.org/t/p/original/nxxcHTbqNrEkrJvtCzxzm3TDtU.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/4ydw24y7Wd0UJZOrd2FuRFqkfs.jpg",
-          "slug": "solo-en-casa-5",
-          "tmdbId": "134375",
+          "cast": "Abigail Breslin, Alexander Ludwig, Logan Huffman, Cameron Bright, Reece Thompson",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7liOzGi6DNESPv5gFC7g6mpqBSK.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9gCbfeAs2TbAlEnfSxJrJrZoCj9.jpg",
+          "slug": "final-girl",
+          "tmdbId": "277558",
           "type": "movie",
           "duration": "90 min"
         },
         {
-          "title": "Solo en casa 4",
-          "synopsis": "Después del reciente divorcio de sus padres, Kevin decide pasar la Navidad en casa de Natalie, la nueva novia de su padre, una casa equipada con la más moderna tecnología. Con la ayuda de esta tecnología y haciendo uso de su habitual ingenio, Kevin deberá hacer frente a unos ladrones, además de intentar conseguir que sus progenitores se reconcilien. Nueva entrega de la popular saga de \"Solo en casa\", que en esta ocasión, y tras perder progresivamente calidad y taquilla en las anteriores, ya se hizo directamente para la televisión y el mercado de video.",
-          "rating": 4.49,
-          "year": "2002",
-          "genres": [
-            "Comedia",
-            "Familia"
-          ],
-          "cast": "Mike Weinberg, French Stewart, Missi Pyle, Erick Avari, Barbara Babcock",
-          "posterUrl": "https://image.tmdb.org/t/p/original/q9BAc2Q37oQWcRlMKUkuRilJ90E.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/171wf8HVXZAIScPf9zJyrXpxgRB.jpg",
-          "slug": "solo-en-casa-4",
-          "tmdbId": "12536",
-          "type": "movie",
-          "duration": "84 min"
-        },
-        {
-          "title": "Paper Tiger. Negocios de familia",
-          "synopsis": "Dos hermanos se ven envueltos en un plan que resulta ser demasiado bueno para ser verdad. Mientras intentan desenvolverse en el peligroso mundo de la mafia rusa, los lazos familiares comienzan a resquebrajarse, con consecuencias que cambiarán sus vidas.",
-          "rating": 6,
+          "title": "Siendo Heumann",
+          "synopsis": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
+          "rating": 6.41,
           "year": "2026",
           "genres": [
-            "Crimen",
             "Drama",
+            "Historia"
+          ],
+          "cast": "Ruth Madeley, Mark Ruffalo, Dylan O'Brien, Madeline Delp, Roberta Colindrez",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
+          "slug": "siendo-heumann",
+          "tmdbId": "1050981",
+          "type": "movie",
+          "duration": "127 min"
+        },
+        {
+          "title": "El grito 2",
+          "synopsis": "Aubrey (Amber Tamblyn) viajará a Tokio para buscar a su hermana Karen Davis (Sarah Michelle Gellar), que sufrió una misteriosa maldición. Allí tendrá también que enfrentarse a los fantasmas de Kayako y Toshio, que vienen desde el más allá para vengarse de los vivos. Pero no serán las únicas que se enfrentarán a la maldición…",
+          "rating": 5.58,
+          "year": "2006",
+          "genres": [
+            "Terror",
             "Suspenso"
           ],
-          "cast": "Miles Teller, Adam Driver, Scarlett Johansson, Gavin Goudey, Roman Engel",
-          "posterUrl": "https://image.tmdb.org/t/p/original/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wg4Qr8ppCXDgCEgupW9lNsUijF7.jpg",
-          "slug": "paper-tiger-negocios-de-familia",
-          "tmdbId": "1381273",
+          "cast": "Amber Tamblyn, 陳冠希, 藤貴子, 田中碧海, Sarah Michelle Gellar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9JfMvY6NRQIzSRTXJwvsl7xbeBZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lAp8haqJnLEVrYnSv7FZpwEJ7o4.jpg",
+          "slug": "el-grito-2",
+          "tmdbId": "1975",
           "type": "movie",
-          "duration": "115 min"
+          "duration": "102 min"
         },
         {
-          "title": "A Christmas Castle Proposal: A Royal in Paradise II",
-          "synopsis": "Despite busy schedules causing distance, Olivia and Prince Alexander travel to Torovia for Christmas with his family. Clashing cultures between their families lead to various mishaps.",
-          "rating": 7.5,
-          "year": "2024",
+          "title": "El grito 3",
+          "synopsis": "La joven Naoko decide desplazarse a Chicago, la ciudad donde acaban de ocurrir los últimos acontecimientos relacionados con el espíritu de Kayako, su vengativa hermana mayor. Esta vez ha asesinado a toda una familia. Naoko decide que es hora de ponerle fin a esta masacre.",
+          "rating": 5.4,
+          "year": "2009",
           "genres": [
-            "Romance",
-            "Comedia"
+            "Misterio",
+            "Terror",
+            "Suspenso"
           ],
-          "cast": "Rhiannon Fish, Mitchell Bourke, Andrea Moor, Kym Jackson, David Hooley",
-          "posterUrl": "https://image.tmdb.org/t/p/original/f1vhK5Lz3N7OIETraPjnTqZtZkN.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/5fTOeA4qulMp0sjwzuKsgl1ihoV.jpg",
-          "slug": "a-christmas-castle-proposal-a-royal-in-paradise-ii",
-          "tmdbId": "1231623",
+          "cast": "Johanna Braddy, 池端えみ, Jadie-Rose Hobson, Gil McKinney, Beau Mirchoff",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xMFs9uSkoo6Oa7U7fBFAxVWjXM9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lenULbl7U24ZCkqarrwqoYAvh9k.jpg",
+          "slug": "el-grito-3",
+          "tmdbId": "1977",
           "type": "movie",
-          "duration": "83 min"
+          "duration": "90 min"
         },
         {
-          "title": "La venganza del Charro Negro",
-          "synopsis": "Después de varios años, el temible Charro Negro regresa con un nuevo propósito: vengarse de Leo San Juan y cobrar una deuda que ha quedado pendiente. Para lograrlo, liberará a algunas de las criaturas y leyendas sobrenaturales que Leo ha enfrentado a lo largo de sus aventuras, obligándolo a reencontrarse con sus antiguos enemigos. Pero esta vez, el Charro Negro tiene un objetivo mucho más personal: su hermano, Nando. Mientras las leyendas se desatan y el peligro crece, Leo deberá proteger a su hermano y reunir nuevamente a sus amigos para descubrir el verdadero plan del Charro Negro. En una aventura que llevará al grupo al límite, Leo tendrá que enfrentarse una vez más a las criaturas de su pasado y descubrir que, para derrotar al Charro Negro, no solo tendrá que demostrar su valentía, sino luchar por aquello que más quiere.",
-          "rating": 7.5,
+          "title": "La maldición del Padre Cardona",
+          "synopsis": "Un sacerdote católico (Padre Geronimo) va a una pequeña ciudad para resolver algunas cosas extrañas que están sucediendo en esa ciudad, cosas que provienen de lo desconocido, y se involucra en una relación romántica con una mujer joven de la aldea.",
+          "rating": 5.3,
+          "year": "2005",
+          "genres": [
+            "Comedia",
+            "Romance"
+          ],
+          "cast": "Anthony Alvarez, Freddy Beras Goico, Miguel Bucarelly, Manuela Josefa Cabrera, Sergio Carlo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pwmmsBrj4y487p2VkyKTFAmQA9o.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/2zLPx6uRsssOo4XpS7yEJYaGRx7.jpg",
+          "slug": "la-maldicion-del-padre-cardona",
+          "tmdbId": "61053",
+          "type": "movie",
+          "duration": "106 min"
+        },
+        {
+          "title": "Marrow",
+          "synopsis": "A Vodcast host declining in popularity receives the career opportunity of a lifetime when a mysterious stranger invites her into its dangerous world.",
+          "rating": 4.5,
           "year": "2026",
           "genres": [
-            "Animación",
-            "Fantasía",
-            "Familia",
             "Terror"
           ],
-          "cast": "Benny Emmanuel, Emilio Treviño, Mayté Cordero, Erick Elías, Annie Rojas",
-          "posterUrl": "https://image.tmdb.org/t/p/original/k60FyAa1FSBVfQQkJ0gSXZzoD7B.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hWiWUU8GydzJkapzmBL6JMV7J6n.jpg",
-          "slug": "la-venganza-del-charro-negro",
-          "tmdbId": "1406492",
+          "cast": "Jessica Dawn Willis, Danielle Harris, Michael Ironside, Matthew Tompkins, Phil Harrison",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jBDIainOGJbpjiyCrfRgPvzpiia.jpg",
+          "backdropUrl": null,
+          "slug": "marrow",
+          "tmdbId": "1617448",
+          "type": "movie",
+          "duration": "96 min"
+        },
+        {
+          "title": "Peleas a domicilio",
+          "synopsis": "Naim es un encanto en su vida diaria, pero un monstruo cuando se trata de pelear. Para pagar el tratamiento de su perra enferma, se ve obligado a unirse a \"Allo Bagarre\", un grupo de combatientes callejeros que resuelven disputas a puñetazos. Pero el día que descubre que los conflictos se resuelven mediante el diálogo, a Naim le resultará difícil hacerse oír.",
+          "rating": 5.3,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Comedia"
+          ],
+          "cast": "Nassim Lyes, Anaïde Rozam, Ramzy Bedia, Hedi Bouchenafa, Arriles Amrani",
+          "posterUrl": "https://image.tmdb.org/t/p/original/kq5RJr8i0V2Jt8tyGV82mn0BZDc.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/w4ISfPkFLdG0ew07XcrlQSB4O4q.jpg",
+          "slug": "bagarre",
+          "tmdbId": "1418709",
+          "type": "movie",
+          "duration": "98 min"
+        },
+        {
+          "title": "Extra Geography",
+          "synopsis": "In an English girls boarding school, two teenage best friends grapple with the challenges of girlhood — friendship, boys, studies, and growing up — and embark on their school project, falling in love.",
+          "rating": 6.4,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Marni Duggan, Galaxie Clear, Alice Englert, Aoife Riddell, Iyla Sundarsingh McKaig",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yhHRpLhtaFXGYMsE5LuaRvZYs77.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ptLT3O7XmXOLplR8T0e9ykGcw8l.jpg",
+          "slug": "extra-geography",
+          "tmdbId": "1528830",
           "type": "movie",
           "duration": "94 min"
         },
         {
-          "title": "Insecta",
-          "synopsis": "Al regresar a una finca aislada para despedirse de su padre moribundo, una escritora de terror descubre que el monstruoso insecto imaginario que la atormentó en su infancia acaso sea más real de lo que pensaba.",
-          "rating": 0,
+          "title": "Avedon",
+          "synopsis": "Desde líderes mundiales e iconos de la cultura popular hasta supermodelos internacionales, Richard Avedon ayudó a sentar las bases del mundo visual en el que vivimos. Sus imágenes no se limitaron a retratar una época: también le dieron forma. ‘Avedon’ recorre la vida y el legado de un artista que se sirvió de la fotografía para reinventar cuanto lo rodeaba. Gracias a un acceso sin precedentes a su archivo personal (instantáneas nunca vistas, material íntimo entre bastidores y nuevas entrevistas con sus colaboradores más cercanos), el documental explora cómo su mirada inconfundible reflejó y transformó el lenguaje visual del siglo XX, y por qué hasta la imagen más emblemática esconde mucho más de lo que muestra.",
+          "rating": 6,
           "year": "2026",
           "genres": [
-            "Terror"
+            "Documental"
           ],
-          "cast": "Mayra Hermosillo, Rocío de la Mañana, Luis Felipe Tovar, Martha Claudia Moreno, José Antonio Becerril",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qTnP6MKVuhPeSnpU4hl2I9uwmzK.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/tvpnFUro88R1AA3Nal3YsQoKnSZ.jpg",
-          "slug": "insecta",
-          "tmdbId": "1757324",
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
+          "slug": "avedon",
+          "tmdbId": "1666787",
           "type": "movie",
-          "duration": "84 min"
+          "duration": "104 min"
         }
       ]
     },
@@ -556,21 +555,22 @@
           "duration": "102 min"
         },
         {
-          "title": "Yo soy Rocky",
-          "synopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
-          "rating": 8.6,
+          "title": "Como robar un banco",
+          "synopsis": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
+          "rating": 6.5,
           "year": "2026",
           "genres": [
-            "Drama",
-            "Historia"
+            "Acción",
+            "Crimen",
+            "Suspenso"
           ],
-          "cast": "Anthony Ippolito, AnnaSophia Robb, P.J. Byrne, Toby Kebbell, Jay Duplass",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
-          "slug": "yo-soy-rocky",
-          "tmdbId": "1286656",
+          "cast": "Nicholas Hoult, Zoë Kravitz, Pete Davidson, John C. Reilly, Anna Sawai",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
+          "slug": "como-robar-un-banco",
+          "tmdbId": "1437511",
           "type": "movie",
-          "duration": "128 min"
+          "duration": "122 min"
         }
       ]
     }
@@ -582,106 +582,57 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
-          "title": "The Good Daughter",
-          "synopsis": "Las hermanas Quinn, Samantha y Charlotte (Meghann Fahy y Rose Byrne), llevan veintiocho años intentando recomponer sus vidas que quedaron destrozadas tras una noche de violencia.",
-          "rating": 9.7,
+          "title": "Infamia",
+          "synopsis": "Una tenaz abogada en plena crisis existencial se obsesiona con la misteriosa desaparición sin resolver de dos niñas hace veinte años.",
+          "rating": 0,
           "year": "2026",
           "genres": [
-            "Drama",
-            "Misterio"
+            "Misterio",
+            "Drama"
           ],
-          "cast": "Rose Byrne, Meghann Fahy, Brendan Gleeson, Michael Dorman, Audrey Grace Marshall",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
-          "slug": "the-good-daughter",
-          "tmdbId": "249565",
+          "cast": "Susana Abaitua, Jorge Bosch, Jon Olivares, Ane Gabarain, Iñigo Gastesi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/j1eW6rSf2rpa9FqU6sg3YuUuoqE.jpg",
+          "slug": "infamia-315222",
+          "tmdbId": "315222",
           "type": "series"
         },
         {
-          "title": "12 12 12",
-          "synopsis": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales.",
-          "rating": 5.3,
+          "title": "La mesa final",
+          "synopsis": "La Mesa: K-chef 2026 reúne a los mejores chefs coreanos para competir por el título de mejor chef. Chris K, misterioso y famosísimo chef, conocido como Kang Han, Song-yi, que quiere salvar su restaurante, Woo-jin, chef estrella perfeccionista, entre otros, se enfrentan en una feroz batalla culinaria. Más allá de la competición, encuentran consuelo en la comida y los unos en los otros.",
+          "rating": 8.77,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Ahn Hyo Seop, 홍화연, 장률, 정유진, 장영남",
+          "posterUrl": "https://image.tmdb.org/t/p/original/v1VV1eSf5oE4hz6hf2W8niHlCmx.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+          "slug": "la-mesa-final",
+          "tmdbId": "316702",
+          "type": "series"
+        },
+        {
+          "title": "100 días de engaño",
+          "synopsis": "La carterista más consumada de Gyeongseong anhela la libertad. Para lograrla, se infiltra en el Gobierno colonial japonés para robar secretos… y se enamora del hijo de su objetivo.",
+          "rating": 8.8,
           "year": "2026",
           "genres": [
             "Acción",
             "Aventura",
-            "Crimen",
             "Drama"
           ],
-          "cast": "Anthony Mackie, Jamie Dornan, Jack Kesy, Agathe Rousselle, Sallie Harmsen",
-          "posterUrl": "https://image.tmdb.org/t/p/original/nCl5TZIKuQY1QuWnCyyN9fzxV7z.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/z4yapsAbr8wV7BnMyhB8CzYOevJ.jpg",
-          "slug": "12-12-12",
-          "tmdbId": "254630",
-          "type": "series"
-        },
-        {
-          "title": "Valentín: La muerte del Gallo de Oro",
-          "synopsis": "Twenty years after the murder of the Mexican regional music icon, the production reconstructs the hours that shaped his story and revisits the questions that, two decades later, remain unanswered.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3g4YJsWrUZ5tB3F3g99pcPHCCIX.jpg",
-          "backdropUrl": null,
-          "slug": "valentin-la-muerte-del-gallo-de-oro",
-          "tmdbId": "341769",
-          "type": "series"
-        },
-        {
-          "title": "Nos conocimos en Estambul",
-          "synopsis": "Bir Başkadır, Nos conocimos en Estambul en España, es una serie drama turca que gira en torno a un grupo de personas de Estambul intentan derribar las barreras socioculturales mientras encuentran un terreno de comprensión entre ellos mientras se enfrentan a sus deseos y temores que se entrecruzan. Teniendo que tomar así un nuevo camino o lidiar con un pasado bastante complejo.",
-          "rating": 7.8,
-          "year": "2020",
-          "genres": [
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Öykü Karayel, Funda Eryiğit, Fatih Artman, Defne Kayalar, Tülin Özen",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cFo6613vyG67H4025hZMNSra8Es.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/peOoKDVMbXdBMwZd9SeOxtOfCXD.jpg",
-          "slug": "nos-conocimos-en-estambul",
-          "tmdbId": "112745",
-          "type": "series"
-        },
-        {
-          "title": "Nocturno",
-          "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
-          "rating": 7.6,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Liev Schreiber, Zazie Beetz, Stephen Graham, Bill Camp, Rory Culkin",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-          "slug": "nocturno",
-          "tmdbId": "292741",
-          "type": "series"
-        },
-        {
-          "title": "Mentes criminales",
-          "synopsis": "Mentes criminales (Criminal Minds) es una serie de drama criminológico. Se estrenó el 22 de septiembre de 2005 en el canal de televisión estadounidense, CBS. Muestra el trabajo de los miembros del equipo de Unidad de Análisis de Conducta del FBI, un grupo de investigadores de diversas ramas de la criminología que se dedica a hacer análisis psicológicos y criminológicos a criminales para facilitar su captura.",
-          "rating": 8.3,
-          "year": "2005",
-          "genres": [
-            "Crimen",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Joe Mantegna, Paget Brewster, Adam Rodriguez, Kirsten Vangsness, A.J. Cook",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3UyUgPfcs7ByA9hxbhWSW98xdpg.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
-          "slug": "mentes-criminales",
-          "tmdbId": "4057",
+          "cast": "김유정, Jinyoung, 김현주, 이무생, 진선규",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zOSAKuyQfj3HmnvH4HU6GLu9cU8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+          "slug": "100-dias-de-engano",
+          "tmdbId": "293607",
           "type": "series"
         },
         {
           "title": "Mujeres Asesinas",
           "synopsis": "Un grupo de mujeres con varios elementos en común. Sus vidas no fueron sencillas, ni serenas, ni felices. Lidiaron con parejas violentas, padres o madres manipuladores, jefes hostiles, situaciones de humillación e historias de venganza.",
-          "rating": 7.29,
+          "rating": 7.32,
           "year": "2022",
           "genres": [
             "Drama",
@@ -695,51 +646,100 @@
           "type": "series"
         },
         {
-          "title": "Sobre ruedas",
-          "synopsis": "En el taller de su padre, un gerente desventurado intenta mejorar el servicio al cliente y aumentar las ganancias mientras mantiene a raya a su problemático primo.",
-          "rating": 6.89,
-          "year": "2024",
+          "title": "Las hijas de la criada",
+          "synopsis": "Galicia, 1900. En el pazo de Espíritu Santo llegan al mundo dos niñas, Clara y Catalina. La primera pertenece a la criada, Renata, mientras que la segunda es hija de los Valdés, don Gustavo y doña Inés. Una venganza inesperada sacudirá la vida de esas niñas y de todos ellos, y hará que doña Inés tenga que sobrevivir al desamor y al dolor del abandono. Y también a las luchas de poder para convertir a su verdadera hija en la heredera de un imperio, en una época en la que a las mujeres no se les permitía ser dueñas de sus vidas.",
+          "rating": 7.3,
+          "year": "2025",
           "genres": [
-            "Comedia"
+            "Drama"
           ],
-          "cast": "Shane Gillis, Stavros Halkias",
-          "posterUrl": "https://image.tmdb.org/t/p/original/kBVEhUuvqXVduY02XLNZs56ZqWG.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/xyS9R7Dno812rPLzpN4gJrDUUFd.jpg",
-          "slug": "sobre-ruedas",
-          "tmdbId": "247522",
+          "cast": "Verónica Sánchez, Carlota Baró, Alain Hernández, Martina Cariddi, Judith Fernández",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wvYndp4ARcTpbsQNHvdbAeeazbE.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/bJAZn4cfhUmLeqsKHjA5grWhFfA.jpg",
+          "slug": "las-hijas-de-la-criada",
+          "tmdbId": "284879",
           "type": "series"
         },
         {
-          "title": "Outer Banks",
-          "synopsis": "En una isla de Carolina del Norte dividida entre ricos y pobres, John B y su unida tripulación de amigos se enfrentan a misterios y aventuras mientras buscan un tesoro perdido.",
-          "rating": 8.2,
-          "year": "2020",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Misterio"
-          ],
-          "cast": "Chase Stokes, Madelyn Cline, Madison Bailey, Jonathan Daviss, Carlacia Grant",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hOb5vSaMq4JLcobvguwKpj4qxrO.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/fGk5GVPP7qfEHr8b9pzS6AWsOmV.jpg",
-          "slug": "outer-banks",
-          "tmdbId": "100757",
-          "type": "series"
-        },
-        {
-          "title": "El claroscuro",
-          "synopsis": "Tras hallarse un cadáver en un museo romano, un experto en arte recurre a su instinto y su talento para ayudar a la policía a resolver un misterio relacionado con su pasado.",
+          "title": "Milagros en urgencias",
+          "synopsis": "A bold decision brings an average med student to an elite ER team, where he encounters medical crises, ethical dilemmas, and personal growth.",
           "rating": 8,
           "year": "2026",
           "genres": [
-            "Comedia",
+            "Drama"
+          ],
+          "cast": "霍建華, 楊謹華, 蔡凡熙, 詹子萱, 彭千祐",
+          "posterUrl": "https://image.tmdb.org/t/p/original/3gbzlTn1cQgc2WXX733c0fgdvyL.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg",
+          "slug": "milagros-en-urgencias",
+          "tmdbId": "312661",
+          "type": "series"
+        },
+        {
+          "title": "La emperatriz",
+          "synopsis": "Cuando la rebelde Isabel se enamora del emperador Francisco y se promete inesperadamente con él, se adentra en el mundo lleno de tensiones e intrigas de la corte vienesa.",
+          "rating": 7.67,
+          "year": "2022",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Devrim Lingnau, Philip Froissant, Melika Foroutan, Johannes Nussbaum, Elisa Schlott",
+          "posterUrl": "https://image.tmdb.org/t/p/original/dkQIQCGPyoadFNvzZMgjtxFH3OH.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
+          "slug": "la-emperatriz",
+          "tmdbId": "131488",
+          "type": "series"
+        },
+        {
+          "title": "Dexter: Resurrección",
+          "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+          "rating": 8.5,
+          "year": "2025",
+          "genres": [
+            "Crimen",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Michael C. Hall, Uma Thurman, Jack Alcott, Dan Stevens, Bokeem Woodbine",
+          "posterUrl": "https://image.tmdb.org/t/p/original/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+          "slug": "dexter-resurreccion",
+          "tmdbId": "259909",
+          "type": "series"
+        },
+        {
+          "title": "Doctora X",
+          "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
+          "rating": 9.1,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama",
             "Crimen"
           ],
-          "cast": "Pierpaolo Spollon, Andrea Lattanzi, Romana Maggiora Vergano, Matilde Gioli, Aurora Giovinazzo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg",
-          "slug": "el-claroscuro",
-          "tmdbId": "336243",
+          "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+          "slug": "doctor-x-mafia-in-white",
+          "tmdbId": "293610",
+          "type": "series"
+        },
+        {
+          "title": "Verdades ocultas",
+          "synopsis": "Un librero en Tulsa (Arizona) se convierte en periodista de investigación para destapar la corrupción local. Cuando sus pesquisas dan con conexiones siniestras, tendrá que proteger tanto a su familia como a la verdad.",
+          "rating": 6.95,
+          "year": "2025",
+          "genres": [
+            "Comedia",
+            "Crimen",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Ethan Hawke, JD McPherson, Ethan Hawke",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jgfHT7oLJtBDlRABiTTEp2AEret.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
+          "slug": "the-lowdown",
+          "tmdbId": "273247",
           "type": "series"
         }
       ]
@@ -749,6 +749,23 @@
       "type": "series",
       "seeMoreSlug": "estrenos-series",
       "items": [
+        {
+          "title": "El crimen de Pazos",
+          "synopsis": "En el tranquilo pueblo de Pazos, Aniceto y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo, lo que le lleva al hospital a luchar por su vida. Elías, un sargento de la Guardia Civil, está convencido de que Aniceto es el autor del crimen.",
+          "rating": 6.5,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Misterio",
+            "Drama"
+          ],
+          "cast": "Tristán Ulloa, Carlos Blanco, Fer Fraga, Miguel Borines, Marta Nieto",
+          "posterUrl": "https://image.tmdb.org/t/p/original/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+          "slug": "el-crimen-de-pazos",
+          "tmdbId": "303182",
+          "type": "series"
+        },
         {
           "title": "Valentín: La muerte del Gallo de Oro",
           "synopsis": "Twenty years after the murder of the Mexican regional music icon, the production reconstructs the hours that shaped his story and revisits the questions that, two decades later, remain unanswered.",
@@ -794,6 +811,21 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
           "slug": "the-good-daughter",
           "tmdbId": "249565",
+          "type": "series"
+        },
+        {
+          "title": "Milagros en urgencias",
+          "synopsis": "A bold decision brings an average med student to an elite ER team, where he encounters medical crises, ethical dilemmas, and personal growth.",
+          "rating": 8,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "霍建華, 楊謹華, 蔡凡熙, 詹子萱, 彭千祐",
+          "posterUrl": "https://image.tmdb.org/t/p/original/3gbzlTn1cQgc2WXX733c0fgdvyL.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg",
+          "slug": "milagros-en-urgencias",
+          "tmdbId": "312661",
           "type": "series"
         },
         {
@@ -873,36 +905,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
           "slug": "palacio",
           "tmdbId": "297491",
-          "type": "series"
-        },
-        {
-          "title": "Sunshine Through the Rain",
-          "synopsis": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "杨超越, 董思成",
-          "posterUrl": "https://image.tmdb.org/t/p/original/reDzSqynyCv734aXv9NflnpflMo.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
-          "slug": "sunshine-through-the-rain",
-          "tmdbId": "307853",
-          "type": "series"
-        },
-        {
-          "title": "El más grande",
-          "synopsis": "Tras ganar el oro en las Olimpiadas de 1960, el joven boxeador Muhammad Ali (por aquel entonces conocido como Cassius Clay) se propone ganar el título de campeón de los pesos pesados. Debiendo lidiar con su nueva fama, conflictos familiares y la política de EE. UU. el prodigio descubre que su mayor contrincante no será otro púgil, sino una sociedad que no quiere que sea él mismo.",
-          "rating": 5.2,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Jaalen Best, Omari Hardwick, Dana Gourrier, Amin Joseph, Kai Parham",
-          "posterUrl": "https://image.tmdb.org/t/p/original/anGICExgOPbBjobnoJzNrTriEmL.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
-          "slug": "el-mas-grande",
-          "tmdbId": "258989",
           "type": "series"
         }
       ]
