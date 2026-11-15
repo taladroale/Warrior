@@ -12,7 +12,7 @@
       ],
       "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Himesh Patel",
       "posterUrl": "https://image.tmdb.org/t/p/original/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
       "slug": "la-odisea-1368337",
       "tmdbId": "1368337",
       "type": "movie",
@@ -21,77 +21,25 @@
     {
       "title": "Allen",
       "synopsis": "El mejor amigo de la infancia de Petey, un extraterrestre llamado Allen, desapareció sin despedirse. Dos décadas más tarde, Allen regresa con un secreto que podría cambiar el mundo, lo que obliga a Petey a madurar de una vez por todas y ayudar a salvarlo.",
-      "rating": 7,
+      "rating": 7.05,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
         "Aventura",
-        "Comedia",
-        "Familia"
+        "Comedia"
       ],
       "cast": "T.J. Power, Charlotte Nicdao, Josh Helman, Emily Barclay, Benedict Hardie",
       "posterUrl": "https://image.tmdb.org/t/p/original/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/1hQEhz0uMKsEZXWUe7IB1qZoLRs.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
       "slug": "allen",
       "tmdbId": "1518204",
       "type": "movie",
       "duration": "105 min"
     },
     {
-      "title": "Siendo Heumann",
-      "synopsis": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
-      "rating": 8.33,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "cast": "Ruth Madeley, Mark Ruffalo, Dylan O'Brien, Madeline Delp, Rob Delaney",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
-      "slug": "siendo-heumann",
-      "tmdbId": "1050981",
-      "type": "movie",
-      "duration": "127 min"
-    },
-    {
-      "title": "La otra madre",
-      "synopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "rating": 5.8,
-      "year": "2026",
-      "genres": [
-        "Terror"
-      ],
-      "cast": "Jessica Chastain, Jay Duplass, Arabella Olivia Clark, Karen Allen, Arian Moayed",
-      "posterUrl": "https://image.tmdb.org/t/p/original/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "slug": "la-otra-madre",
-      "tmdbId": "1400837",
-      "type": "movie",
-      "duration": "93 min"
-    },
-    {
-      "title": "No nos rendimos",
-      "synopsis": "Un exsoldado y sus nietos luchan contra despiadados criminales en un pueblo aislado. Si quieren sobrevivir, también deben enfrentarse a sus miedos y a los remordimientos.",
-      "rating": 7.75,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspenso"
-      ],
-      "cast": "Lukman Sardi, Callista Arum, Sulthan Hamonangan, Derby Romero, Donny Alamsyah",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
-      "slug": "no-nos-rendimos",
-      "tmdbId": "1616687",
-      "type": "movie",
-      "duration": "137 min"
-    },
-    {
       "title": "Heartland",
       "synopsis": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
-      "rating": 6.71,
+      "rating": 7.27,
       "year": "2026",
       "genres": [
         "Suspenso",
@@ -105,6 +53,57 @@
       "tmdbId": "1543469",
       "type": "movie",
       "duration": "114 min"
+    },
+    {
+      "title": "La otra madre",
+      "synopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "rating": 6.3,
+      "year": "2026",
+      "genres": [
+        "Terror"
+      ],
+      "cast": "Jessica Chastain, Arabella Olivia Clark, Jay Duplass, Karen Allen, Arian Moayed",
+      "posterUrl": "https://image.tmdb.org/t/p/original/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "slug": "la-otra-madre",
+      "tmdbId": "1400837",
+      "type": "movie",
+      "duration": "93 min"
+    },
+    {
+      "title": "No nos rendimos",
+      "synopsis": "Una peligrosa banda irrumpe en la remota casa de un veterano atormentado por la culpa. Para sobrevivir, tendrá que unir fuerzas con unos nietos a los que apenas conoce.",
+      "rating": 7.4,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspenso"
+      ],
+      "cast": "Lukman Sardi, Callista Arum, Sulthan Hamonangan, Derby Romero, Donny Alamsyah",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+      "slug": "no-nos-rendimos",
+      "tmdbId": "1616687",
+      "type": "movie",
+      "duration": "140 min"
+    },
+    {
+      "title": "Siendo Heumann",
+      "synopsis": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
+      "rating": 6.41,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Historia"
+      ],
+      "cast": "Ruth Madeley, Mark Ruffalo, Dylan O'Brien, Madeline Delp, Roberta Colindrez",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
+      "slug": "siendo-heumann",
+      "tmdbId": "1050981",
+      "type": "movie",
+      "duration": "127 min"
     }
   ],
   "seriesHero": [
@@ -129,7 +128,7 @@
     {
       "title": "El Señor de los Anillos: Los Anillos de Poder",
       "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
-      "rating": 7.2,
+      "rating": 7.21,
       "year": "2022",
       "genres": [
         "Acción",
@@ -181,7 +180,7 @@
     {
       "title": "Dexter: Resurrección",
       "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-      "rating": 8.55,
+      "rating": 8.5,
       "year": "2025",
       "genres": [
         "Crimen",
@@ -219,6 +218,58 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Río salvaje",
+          "synopsis": "Con motivo del cumpleaños de su hijo Roarke (Joseph Mazello), sus padres Gail (Streep) y Tom (Strathairn), cuyo matrimonio no pasa por un buen momento, deciden organizar una excursión familiar a las montañas, lejos de la civilización. El plan incluye un emocionante descenso de rafting por un río.",
+          "rating": 6.49,
+          "year": "1994",
+          "genres": [
+            "Aventura",
+            "Suspenso",
+            "Drama"
+          ],
+          "cast": "Meryl Streep, David Strathairn, Kevin Bacon, John C. Reilly, Joseph Mazzello",
+          "posterUrl": "https://image.tmdb.org/t/p/original/obXfrcnYvjPoBGw8thSyPAZOxCy.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8KcvxZCwkahVDphIzRENl7rZECy.jpg",
+          "slug": "rio-salvaje",
+          "tmdbId": "8987",
+          "type": "movie",
+          "duration": "111 min"
+        },
+        {
+          "title": "Come Away With Me",
+          "synopsis": "A chance encounter. An undeniable connection. Natalie Conner never expected a simple meeting to change the course of her life. But when she crosses paths with Luke Williams, their instant connection quickly turns into something neither of them can ignore. As their relationship deepens, Natalie discovers that Luke is hiding a secret that could change everything. Together, they must navigate the challenges that come with opening their hearts and trusting in a love neither saw coming. Come Away With Me is a heartfelt romance about taking a chance on love, embracing the unexpected, and finding the person who feels like home.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Romance"
+          ],
+          "cast": "Natalie Pelletier, Jake B. Miller",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1R2FdGierfRMDA0SEmIEturmUrW.jpg",
+          "backdropUrl": null,
+          "slug": "come-away-with-me",
+          "tmdbId": "1639561",
+          "type": "movie",
+          "duration": "93 min"
+        },
+        {
+          "title": "El grito",
+          "synopsis": "La aparente normalidad de la fachada de una modesta casa de Tokio oculta el horror que se encuentra en su interior. La vivienda está poseída por una violenta plaga que destruye las vidas de todos los que entran en ella.",
+          "rating": 5.93,
+          "year": "2004",
+          "genres": [
+            "Terror",
+            "Misterio",
+            "Suspenso"
+          ],
+          "cast": "Sarah Michelle Gellar, Jason Behr, 藤貴子, 尾関優哉, William Mapother",
+          "posterUrl": "https://image.tmdb.org/t/p/original/qNBzIoK5f5YxroprnnoQvDbN37W.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/yefSD6lp3jOBYkBeY5QxRRKTJME.jpg",
+          "slug": "el-grito",
+          "tmdbId": "1970",
+          "type": "movie",
+          "duration": "92 min"
+        },
         {
           "title": "El albergue de la sexta felicidad",
           "synopsis": "Gladys Aylward, una intrépida misionera británica, creó en China un albergue para acoger a los agotados y hambrientos viajeros que recorrían las montañas. Consiguió, además, ganarse la confianza y la admiración de los hostiles nativos, enamorar a un coronel euro-asiático y convertir al cristianismo a un poderoso mandarín. Pero su mayor hazaña la logró cuando, ante la inminente invasión japonesa, llevó a cien niños sin hogar a través de las montañas a un lugar seguro. (FILMAFFINITY)",
@@ -338,56 +389,6 @@
           "tmdbId": "1617448",
           "type": "movie",
           "duration": "96 min"
-        },
-        {
-          "title": "Peleas a domicilio",
-          "synopsis": "Naim es un encanto en su vida diaria, pero un monstruo cuando se trata de pelear. Para pagar el tratamiento de su perra enferma, se ve obligado a unirse a \"Allo Bagarre\", un grupo de combatientes callejeros que resuelven disputas a puñetazos. Pero el día que descubre que los conflictos se resuelven mediante el diálogo, a Naim le resultará difícil hacerse oír.",
-          "rating": 5.3,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Comedia"
-          ],
-          "cast": "Nassim Lyes, Anaïde Rozam, Ramzy Bedia, Hedi Bouchenafa, Arriles Amrani",
-          "posterUrl": "https://image.tmdb.org/t/p/original/kq5RJr8i0V2Jt8tyGV82mn0BZDc.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/w4ISfPkFLdG0ew07XcrlQSB4O4q.jpg",
-          "slug": "bagarre",
-          "tmdbId": "1418709",
-          "type": "movie",
-          "duration": "98 min"
-        },
-        {
-          "title": "Extra Geography",
-          "synopsis": "In an English girls boarding school, two teenage best friends grapple with the challenges of girlhood — friendship, boys, studies, and growing up — and embark on their school project, falling in love.",
-          "rating": 6.4,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Marni Duggan, Galaxie Clear, Alice Englert, Aoife Riddell, Iyla Sundarsingh McKaig",
-          "posterUrl": "https://image.tmdb.org/t/p/original/yhHRpLhtaFXGYMsE5LuaRvZYs77.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ptLT3O7XmXOLplR8T0e9ykGcw8l.jpg",
-          "slug": "extra-geography",
-          "tmdbId": "1528830",
-          "type": "movie",
-          "duration": "94 min"
-        },
-        {
-          "title": "Avedon",
-          "synopsis": "Desde líderes mundiales e iconos de la cultura popular hasta supermodelos internacionales, Richard Avedon ayudó a sentar las bases del mundo visual en el que vivimos. Sus imágenes no se limitaron a retratar una época: también le dieron forma. ‘Avedon’ recorre la vida y el legado de un artista que se sirvió de la fotografía para reinventar cuanto lo rodeaba. Gracias a un acceso sin precedentes a su archivo personal (instantáneas nunca vistas, material íntimo entre bastidores y nuevas entrevistas con sus colaboradores más cercanos), el documental explora cómo su mirada inconfundible reflejó y transformó el lenguaje visual del siglo XX, y por qué hasta la imagen más emblemática esconde mucho más de lo que muestra.",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
-          "slug": "avedon",
-          "tmdbId": "1666787",
-          "type": "movie",
-          "duration": "104 min"
         }
       ]
     },
@@ -408,7 +409,7 @@
           ],
           "cast": "Miles Teller, Adam Driver, Scarlett Johansson, Gavin Goudey, Roman Engel",
           "posterUrl": "https://image.tmdb.org/t/p/original/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wg4Qr8ppCXDgCEgupW9lNsUijF7.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/6S41dEoKH2cxw20QgLxhnsQoLQF.jpg",
           "slug": "paper-tiger-negocios-de-familia",
           "tmdbId": "1381273",
           "type": "movie",
@@ -417,7 +418,7 @@
         {
           "title": "Heartland",
           "synopsis": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
-          "rating": 6.71,
+          "rating": 7.27,
           "year": "2026",
           "genres": [
             "Suspenso",
@@ -433,27 +434,27 @@
           "duration": "114 min"
         },
         {
-          "title": "No nos rendimos",
-          "synopsis": "Un exsoldado y sus nietos luchan contra despiadados criminales en un pueblo aislado. Si quieren sobrevivir, también deben enfrentarse a sus miedos y a los remordimientos.",
-          "rating": 7.75,
+          "title": "Best Pancakes in the County",
+          "synopsis": "Over the course of one explosive night, a small-town diner becomes the epicenter of a deadly standoff involving rogue federal agents, a fast-talking con man with a dangerous past, and a waitress harboring secrets of her own.",
+          "rating": 4,
           "year": "2026",
           "genres": [
             "Acción",
-            "Crimen",
-            "Suspenso"
+            "Suspenso",
+            "Crimen"
           ],
-          "cast": "Lukman Sardi, Callista Arum, Sulthan Hamonangan, Derby Romero, Donny Alamsyah",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
-          "slug": "no-nos-rendimos",
-          "tmdbId": "1616687",
+          "cast": "Nicolas Cage, Justin Long, Shelley Hennig, Ravi Patel, Brandon Mychal Smith",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
+          "slug": "best-pancakes-in-the-county",
+          "tmdbId": "1615596",
           "type": "movie",
-          "duration": "137 min"
+          "duration": "98 min"
         },
         {
           "title": "El intercambio navideño",
           "synopsis": "Dos hermanas que son como la noche y el día se ven obligadas a intercambiar sus vidas unas semanas antes de Navidad. En su nuevo entorno, ambas lidian con lo que han hecho hasta ahora y encuentran el amor donde menos se lo esperan.",
-          "rating": 7.2,
+          "rating": 6.72,
           "year": "2026",
           "genres": [
             "Romance",
@@ -470,17 +471,16 @@
         {
           "title": "Allen",
           "synopsis": "El mejor amigo de la infancia de Petey, un extraterrestre llamado Allen, desapareció sin despedirse. Dos décadas más tarde, Allen regresa con un secreto que podría cambiar el mundo, lo que obliga a Petey a madurar de una vez por todas y ayudar a salvarlo.",
-          "rating": 7,
+          "rating": 7.05,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
             "Aventura",
-            "Comedia",
-            "Familia"
+            "Comedia"
           ],
           "cast": "T.J. Power, Charlotte Nicdao, Josh Helman, Emily Barclay, Benedict Hardie",
           "posterUrl": "https://image.tmdb.org/t/p/original/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/1hQEhz0uMKsEZXWUe7IB1qZoLRs.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
           "slug": "allen",
           "tmdbId": "1518204",
           "type": "movie",
@@ -489,7 +489,7 @@
         {
           "title": "Snoopy presenta: 12 días para Navidad",
           "synopsis": "Para salir de la lista de los traviesos de Papá Noel, Snoopy hace buenas acciones.",
-          "rating": 7,
+          "rating": 7.25,
           "year": "2026",
           "genres": [
             "Animación",
@@ -497,7 +497,7 @@
           ],
           "cast": "Terry McGurrin, Rob Tinkler, John Legend, Leon Bridges, Laufey",
           "posterUrl": "https://image.tmdb.org/t/p/original/vRgNjtr3TnhnBHqX3b7OdGprMgV.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/AkcxwZUldIwD6JSUknmzEgeoN4.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/a3DzS9AUB6AgYiELaeTn2n8EfNz.jpg",
           "slug": "snoopy-presenta-12-dias-para-navidad",
           "tmdbId": "1780407",
           "type": "movie",
@@ -506,24 +506,43 @@
         {
           "title": "Góspel de Navidad",
           "synopsis": "Un joven pastor, que intenta estar a la altura del legado de su padre, traslada a su esposa e hijos de Georgia a Nueva York para salvar una iglesia moribunda con un poco de ayuda de sus ángeles guardianes.",
-          "rating": 5,
+          "rating": 7.46,
           "year": "2026",
           "genres": [
-            "Drama",
-            "Música"
+            "Música",
+            "Familia",
+            "Drama"
           ],
-          "cast": "Tyler Perry, Tyler Perry",
-          "posterUrl": "https://image.tmdb.org/t/p/original/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
+          "cast": "Tank, Mason Douglas, Fantasia Barrino, Yolanda Adams, Christopher Jensen",
+          "posterUrl": "https://image.tmdb.org/t/p/original/kzTJg0zhWJRDHJPYEpSqxkFigTv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
           "slug": "gospel-de-navidad",
           "tmdbId": "1559980",
           "type": "movie",
           "duration": "103 min"
         },
         {
+          "title": "No nos rendimos",
+          "synopsis": "Una peligrosa banda irrumpe en la remota casa de un veterano atormentado por la culpa. Para sobrevivir, tendrá que unir fuerzas con unos nietos a los que apenas conoce.",
+          "rating": 7.4,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Crimen",
+            "Suspenso"
+          ],
+          "cast": "Lukman Sardi, Callista Arum, Sulthan Hamonangan, Derby Romero, Donny Alamsyah",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+          "slug": "no-nos-rendimos",
+          "tmdbId": "1616687",
+          "type": "movie",
+          "duration": "140 min"
+        },
+        {
           "title": "Scrooge y los fantasmas de la Navidad",
           "synopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-          "rating": 7.77,
+          "rating": 7.89,
           "year": "2026",
           "genres": [
             "Fantasía",
@@ -531,7 +550,7 @@
           ],
           "cast": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen",
           "posterUrl": "https://image.tmdb.org/t/p/original/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/bF6nvHAt2jU7PnkOI4cnaUF2DZn.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
           "slug": "scrooge-y-los-fantasmas-de-la-navidad",
           "tmdbId": "1567605",
           "type": "movie",
@@ -553,24 +572,6 @@
           "tmdbId": "1379486",
           "type": "movie",
           "duration": "102 min"
-        },
-        {
-          "title": "Como robar un banco",
-          "synopsis": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
-          "rating": 6.5,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Crimen",
-            "Suspenso"
-          ],
-          "cast": "Nicholas Hoult, Zoë Kravitz, Pete Davidson, John C. Reilly, Anna Sawai",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
-          "slug": "como-robar-un-banco",
-          "tmdbId": "1437511",
-          "type": "movie",
-          "duration": "122 min"
         }
       ]
     }
