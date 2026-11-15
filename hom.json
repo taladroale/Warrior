@@ -37,6 +37,22 @@
       "duration": "105 min"
     },
     {
+      "title": "La otra madre",
+      "synopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "rating": 6.3,
+      "year": "2026",
+      "genres": [
+        "Terror"
+      ],
+      "cast": "Jessica Chastain, Arabella Olivia Clark, Jay Duplass, Karen Allen, Arian Moayed",
+      "posterUrl": "https://image.tmdb.org/t/p/original/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "slug": "la-otra-madre",
+      "tmdbId": "1400837",
+      "type": "movie",
+      "duration": "93 min"
+    },
+    {
       "title": "Heartland",
       "synopsis": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
       "rating": 7.27,
@@ -55,55 +71,39 @@
       "duration": "114 min"
     },
     {
-      "title": "La otra madre",
-      "synopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "rating": 6.3,
+      "title": "En el corazón de la bestia",
+      "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "rating": 7.56,
       "year": "2026",
       "genres": [
-        "Terror"
-      ],
-      "cast": "Jessica Chastain, Arabella Olivia Clark, Jay Duplass, Karen Allen, Arian Moayed",
-      "posterUrl": "https://image.tmdb.org/t/p/original/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "slug": "la-otra-madre",
-      "tmdbId": "1400837",
-      "type": "movie",
-      "duration": "93 min"
-    },
-    {
-      "title": "No nos rendimos",
-      "synopsis": "Una peligrosa banda irrumpe en la remota casa de un veterano atormentado por la culpa. Para sobrevivir, tendrá que unir fuerzas con unos nietos a los que apenas conoce.",
-      "rating": 7.4,
-      "year": "2026",
-      "genres": [
-        "Acción",
-        "Crimen",
+        "Aventura",
         "Suspenso"
       ],
-      "cast": "Lukman Sardi, Callista Arum, Sulthan Hamonangan, Derby Romero, Donny Alamsyah",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
-      "slug": "no-nos-rendimos",
-      "tmdbId": "1616687",
+      "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+      "slug": "en-el-corazon-de-la-bestia",
+      "tmdbId": "1263337",
       "type": "movie",
-      "duration": "140 min"
+      "duration": "101 min"
     },
     {
-      "title": "Siendo Heumann",
-      "synopsis": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
-      "rating": 6.41,
+      "title": "Resident Evil",
+      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 7.47,
       "year": "2026",
       "genres": [
-        "Drama",
-        "Historia"
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
       ],
-      "cast": "Ruth Madeley, Mark Ruffalo, Dylan O'Brien, Madeline Delp, Roberta Colindrez",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
-      "slug": "siendo-heumann",
-      "tmdbId": "1050981",
+      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "slug": "resident-evil-1423191",
+      "tmdbId": "1423191",
       "type": "movie",
-      "duration": "127 min"
+      "duration": "95 min"
     }
   ],
   "seriesHero": [
@@ -768,6 +768,22 @@
           "type": "series"
         },
         {
+          "title": "Infamia",
+          "synopsis": "Una tenaz abogada en plena crisis existencial se obsesiona con la misteriosa desaparición sin resolver de dos niñas hace veinte años.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama"
+          ],
+          "cast": "Susana Abaitua, Jorge Bosch, Jon Olivares, Ane Gabarain, Iñigo Gastesi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/j1eW6rSf2rpa9FqU6sg3YuUuoqE.jpg",
+          "slug": "infamia-315222",
+          "tmdbId": "315222",
+          "type": "series"
+        },
+        {
           "title": "Valentín: La muerte del Gallo de Oro",
           "synopsis": "Twenty years after the murder of the Mexican regional music icon, the production reconstructs the hours that shaped his story and revisits the questions that, two decades later, remain unanswered.",
           "rating": 0,
@@ -830,15 +846,15 @@
           "type": "series"
         },
         {
-          "title": "La Ley de Alicia",
-          "synopsis": "After her husband, a Supreme Court Justice Minister, is imprisoned for corruption, Alicia must restart her law career to support her children and pay bills as her world crumbles.",
-          "rating": 8.3,
+          "title": "La ley de Alicia",
+          "synopsis": "Alicia retoma la abogacía tras ver que su vida se desmorona, y entonces comprende que, mientras rehace su carrera, se redefine a sí misma.",
+          "rating": 6.75,
           "year": "2026",
           "genres": [
             "Drama"
           ],
-          "cast": "Fernanda Castillo, Michel Brown, Claudio Roca, Alaide, Juan Manuel Bernal",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cQe8MJTa95RWwdJkuSBWFNexP0Y.jpg",
+          "cast": "Fernanda Castillo, Michel Brown, Claudio Roca, Juan Manuel Bernal, Caro Darman",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
           "slug": "la-ley-de-alicia",
           "tmdbId": "338562",
@@ -890,22 +906,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
           "slug": "campus-drivers",
           "tmdbId": "303044",
-          "type": "series"
-        },
-        {
-          "title": "Palacio",
-          "synopsis": "Narra los acontecimientos que tuvieron lugar durante el asedio del Palacio de Justicia de Colombia por parte del grupo guerrillero M-19 en 1985.",
-          "rating": 6.63,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Crimen"
-          ],
-          "cast": "Natalia Reyes, Luna Baxter, Mariana Gómez, Robinson Díaz, Carlos-Manuel Vesga",
-          "posterUrl": "https://image.tmdb.org/t/p/original/w7r5J4JPA0xku3ubCTXlDbuyoFs.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
-          "slug": "palacio",
-          "tmdbId": "297491",
           "type": "series"
         }
       ]
