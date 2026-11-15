@@ -19,24 +19,6 @@
       "duration": "173 min"
     },
     {
-      "title": "Allen",
-      "synopsis": "El mejor amigo de la infancia de Petey, un extraterrestre llamado Allen, desapareció sin despedirse. Dos décadas más tarde, Allen regresa con un secreto que podría cambiar el mundo, lo que obliga a Petey a madurar de una vez por todas y ayudar a salvarlo.",
-      "rating": 7.05,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura",
-        "Comedia"
-      ],
-      "cast": "T.J. Power, Charlotte Nicdao, Josh Helman, Emily Barclay, Benedict Hardie",
-      "posterUrl": "https://image.tmdb.org/t/p/original/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
-      "slug": "allen",
-      "tmdbId": "1518204",
-      "type": "movie",
-      "duration": "105 min"
-    },
-    {
       "title": "La otra madre",
       "synopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
       "rating": 6.3,
@@ -51,24 +33,6 @@
       "tmdbId": "1400837",
       "type": "movie",
       "duration": "93 min"
-    },
-    {
-      "title": "Heartland",
-      "synopsis": "La antigua estrella del country Misty Jones sale de su retiro de 20 años para investigar la desaparición de su sobrina, Charlie Heart, una prometedora cantante, y acaba enfrentándose tanto a su propio pasado como al lado más turbio de Nashville. Su búsqueda la lleva a descubrir una ciudad donde nadie, ni siquiera ella, es quien parece ser.",
-      "rating": 7.27,
-      "year": "2026",
-      "genres": [
-        "Suspenso",
-        "Misterio",
-        "Música"
-      ],
-      "cast": "Jessica Chastain, Garrett Hedlund, Carter Faith, Ross Lynch, Jennifer Nettles",
-      "posterUrl": "https://image.tmdb.org/t/p/original/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-      "slug": "heartland",
-      "tmdbId": "1543469",
-      "type": "movie",
-      "duration": "114 min"
     },
     {
       "title": "En el corazón de la bestia",
@@ -104,9 +68,97 @@
       "tmdbId": "1423191",
       "type": "movie",
       "duration": "95 min"
+    },
+    {
+      "title": "Allen",
+      "synopsis": "El mejor amigo de la infancia de Petey, un extraterrestre llamado Allen, desapareció sin despedirse. Dos décadas más tarde, Allen regresa con un secreto que podría cambiar el mundo, lo que obliga a Petey a madurar de una vez por todas y ayudar a salvarlo.",
+      "rating": 7.05,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Comedia"
+      ],
+      "cast": "T.J. Power, Charlotte Nicdao, Josh Helman, Emily Barclay, Benedict Hardie",
+      "posterUrl": "https://image.tmdb.org/t/p/original/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+      "slug": "allen",
+      "tmdbId": "1518204",
+      "type": "movie",
+      "duration": "105 min"
+    },
+    {
+      "title": "Godzilla Minus Zero",
+      "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+      "rating": 7.78,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
+      ],
+      "cast": "Ryunosuke Kamiki, 浜辺美波, 田中泯, 吉岡秀隆, Masami Nagasawa",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "slug": "godzilla-minus-zero",
+      "tmdbId": "1381071",
+      "type": "movie",
+      "duration": "135 min"
     }
   ],
   "seriesHero": [
+    {
+      "title": "El cuerpo",
+      "synopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
+      "rating": 7.9,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Kristina Bogic, Sara Boustany, Geena Meszaros, Nnamdi Asomugha, Louisa Krause",
+      "posterUrl": "https://image.tmdb.org/t/p/original/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "slug": "el-cuerpo",
+      "tmdbId": "291507",
+      "type": "series"
+    },
+    {
+      "title": "VisionQuest",
+      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "rating": 8.33,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Fantasía",
+        "Drama"
+      ],
+      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+      "slug": "visionquest",
+      "tmdbId": "213375",
+      "type": "series"
+    },
+    {
+      "title": "El Señor de los Anillos: Los Anillos de Poder",
+      "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
+      "rating": 7.2,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Owain Arthur, Sophia Nomvete",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
+      "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
+      "tmdbId": "84773",
+      "type": "series"
+    },
     {
       "title": "12 12 12",
       "synopsis": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales.",
@@ -126,89 +178,36 @@
       "type": "series"
     },
     {
-      "title": "El Señor de los Anillos: Los Anillos de Poder",
-      "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
-      "rating": 7.21,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Owain Arthur, Sophia Nomvete",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-      "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
-      "tmdbId": "84773",
-      "type": "series"
-    },
-    {
-      "title": "VisionQuest",
-      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.34,
+      "title": "Doctora X",
+      "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
+      "rating": 9.1,
       "year": "2026",
       "genres": [
-        "Ciencia ficción",
-        "Fantasía",
-        "Drama"
-      ],
-      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
-      "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
-      "slug": "visionquest",
-      "tmdbId": "213375",
-      "type": "series"
-    },
-    {
-      "title": "El cuerpo",
-      "synopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
-      "rating": 7.9,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Kristina Bogic, Sara Boustany, Geena Meszaros, Nnamdi Asomugha, Louisa Krause",
-      "posterUrl": "https://image.tmdb.org/t/p/original/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-      "slug": "el-cuerpo",
-      "tmdbId": "291507",
-      "type": "series"
-    },
-    {
-      "title": "Dexter: Resurrección",
-      "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-      "rating": 8.5,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Michael C. Hall, Uma Thurman, Jack Alcott, Dan Stevens, Bokeem Woodbine",
-      "posterUrl": "https://image.tmdb.org/t/p/original/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-      "slug": "dexter-resurreccion",
-      "tmdbId": "259909",
-      "type": "series"
-    },
-    {
-      "title": "El crimen de Pazos",
-      "synopsis": "En el tranquilo pueblo de Pazos, Aniceto y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo, lo que le lleva al hospital a luchar por su vida. Elías, un sargento de la Guardia Civil, está convencido de que Aniceto es el autor del crimen.",
-      "rating": 6.5,
-      "year": "2026",
-      "genres": [
-        "Crimen",
         "Misterio",
-        "Drama"
+        "Drama",
+        "Crimen"
       ],
-      "cast": "Tristán Ulloa, Carlos Blanco, Fer Fraga, Miguel Borines, Marta Nieto",
-      "posterUrl": "https://image.tmdb.org/t/p/original/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
-      "slug": "el-crimen-de-pazos",
-      "tmdbId": "303182",
+      "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
+      "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "slug": "doctor-x-mafia-in-white",
+      "tmdbId": "293610",
+      "type": "series"
+    },
+    {
+      "title": "The Chosen (Los elegidos)",
+      "synopsis": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "rating": 8.6,
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Familia"
+      ],
+      "cast": "Jonathan Roumie, Shahar Isaac, Elizabeth Tabish, Paras Patel, Noah James",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qvbFdPvXMliwwrWlfUStcHc96JQ.jpg",
+      "slug": "the-chosen-los-elegidos",
+      "tmdbId": "85077",
       "type": "series"
     }
   ],
@@ -219,176 +218,186 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
-          "title": "Río salvaje",
-          "synopsis": "Con motivo del cumpleaños de su hijo Roarke (Joseph Mazello), sus padres Gail (Streep) y Tom (Strathairn), cuyo matrimonio no pasa por un buen momento, deciden organizar una excursión familiar a las montañas, lejos de la civilización. El plan incluye un emocionante descenso de rafting por un río.",
-          "rating": 6.49,
-          "year": "1994",
-          "genres": [
-            "Aventura",
-            "Suspenso",
-            "Drama"
-          ],
-          "cast": "Meryl Streep, David Strathairn, Kevin Bacon, John C. Reilly, Joseph Mazzello",
-          "posterUrl": "https://image.tmdb.org/t/p/original/obXfrcnYvjPoBGw8thSyPAZOxCy.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8KcvxZCwkahVDphIzRENl7rZECy.jpg",
-          "slug": "rio-salvaje",
-          "tmdbId": "8987",
-          "type": "movie",
-          "duration": "111 min"
-        },
-        {
-          "title": "Come Away With Me",
-          "synopsis": "A chance encounter. An undeniable connection. Natalie Conner never expected a simple meeting to change the course of her life. But when she crosses paths with Luke Williams, their instant connection quickly turns into something neither of them can ignore. As their relationship deepens, Natalie discovers that Luke is hiding a secret that could change everything. Together, they must navigate the challenges that come with opening their hearts and trusting in a love neither saw coming. Come Away With Me is a heartfelt romance about taking a chance on love, embracing the unexpected, and finding the person who feels like home.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Romance"
-          ],
-          "cast": "Natalie Pelletier, Jake B. Miller",
-          "posterUrl": "https://image.tmdb.org/t/p/original/1R2FdGierfRMDA0SEmIEturmUrW.jpg",
-          "backdropUrl": null,
-          "slug": "come-away-with-me",
-          "tmdbId": "1639561",
-          "type": "movie",
-          "duration": "93 min"
-        },
-        {
-          "title": "El grito",
-          "synopsis": "La aparente normalidad de la fachada de una modesta casa de Tokio oculta el horror que se encuentra en su interior. La vivienda está poseída por una violenta plaga que destruye las vidas de todos los que entran en ella.",
-          "rating": 5.93,
+          "title": "Sleepover",
+          "synopsis": "La película se centra en un grupo de jóvenes adolescentes, el verano antes de empezar secundaria. Cuando una de las chicas se prepara para mudarse de la ciudad, su mejor amiga, organiza una fiesta para ella y sus amigas, la misma noche en que las chicas populares tienen su propia fiesta nocturna.",
+          "rating": 6.08,
           "year": "2004",
           "genres": [
-            "Terror",
-            "Misterio",
-            "Suspenso"
+            "Familia",
+            "Comedia"
           ],
-          "cast": "Sarah Michelle Gellar, Jason Behr, 藤貴子, 尾関優哉, William Mapother",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qNBzIoK5f5YxroprnnoQvDbN37W.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/yefSD6lp3jOBYkBeY5QxRRKTJME.jpg",
-          "slug": "el-grito",
-          "tmdbId": "1970",
+          "cast": "Alexa PenaVega, Mika Boorem, Scout Taylor-Compton, Kallie Flynn Childress, Jane Lynch",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jaPVV3JQWpMK3E5MnmUZmKJug0v.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/6alQcAv7ofMudb3ABlJGPztTNJc.jpg",
+          "slug": "sleepover",
+          "tmdbId": "9893",
           "type": "movie",
-          "duration": "92 min"
+          "duration": "97 min"
         },
         {
-          "title": "El albergue de la sexta felicidad",
-          "synopsis": "Gladys Aylward, una intrépida misionera británica, creó en China un albergue para acoger a los agotados y hambrientos viajeros que recorrían las montañas. Consiguió, además, ganarse la confianza y la admiración de los hostiles nativos, enamorar a un coronel euro-asiático y convertir al cristianismo a un poderoso mandarín. Pero su mayor hazaña la logró cuando, ante la inminente invasión japonesa, llevó a cien niños sin hogar a través de las montañas a un lugar seguro. (FILMAFFINITY)",
-          "rating": 6.83,
-          "year": "1958",
+          "title": "Aquí y Ahora",
+          "synopsis": "Vivienne, una cantante de jazz neoyorkina, recibe un nefasto diagnóstico que le hace ver sus sueños y su vida en perspectiva.",
+          "rating": 5.28,
+          "year": "2018",
           "genres": [
-            "Guerra",
+            "Romance",
             "Drama"
           ],
-          "cast": "Ingrid Bergman, Curd Jürgens, Burt Kwouk, Robert Donat, Tsai Chin",
-          "posterUrl": "https://image.tmdb.org/t/p/original/1iL8jxySWUxM3ljQpohue95qACm.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3R8lX1mqTeBFLlFSyfnxRSYiEgk.jpg",
-          "slug": "el-albergue-de-la-sexta-felicidad",
-          "tmdbId": "37451",
-          "type": "movie",
-          "duration": "154 min"
-        },
-        {
-          "title": "Final Girl",
-          "synopsis": "Verónica es la chica nueva de una escuela. Solitaria y tímida, se convierte en el blanco perfecto de cuatro muchachos que se dedican a atraer a chicas jóvenes a los bosques para así matarlas como parte de un ritual de iniciación. Sin embargo, Verónica no es lo que parece, pues sabe cómo defenderse",
-          "rating": 5.25,
-          "year": "2015",
-          "genres": [
-            "Acción",
-            "Drama",
-            "Suspenso"
-          ],
-          "cast": "Abigail Breslin, Alexander Ludwig, Logan Huffman, Cameron Bright, Reece Thompson",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7liOzGi6DNESPv5gFC7g6mpqBSK.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/9gCbfeAs2TbAlEnfSxJrJrZoCj9.jpg",
-          "slug": "final-girl",
-          "tmdbId": "277558",
+          "cast": "Sarah Jessica Parker, Simon Baker, Gus Birney, Jacqueline Bisset, Common",
+          "posterUrl": "https://image.tmdb.org/t/p/original/fJ4MOzwwG37wHtsy4eZKxLavvWZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/tkkxL0ycG0qKMUGSAUmrSNZdciu.jpg",
+          "slug": "aqui-y-ahora-484355",
+          "tmdbId": "484355",
           "type": "movie",
           "duration": "90 min"
         },
         {
-          "title": "Siendo Heumann",
-          "synopsis": "Judy Heumann, luchadora, desafiante y harta de que la traten como a una carga, convierte su indignación en una revolución. En 1977, junto con más de 100 manifestantes por los derechos de las personas con discapacidad, manda un mensaje muy firme: El sistema está dañado, no nosotros.",
-          "rating": 6.41,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Historia"
-          ],
-          "cast": "Ruth Madeley, Mark Ruffalo, Dylan O'Brien, Madeline Delp, Roberta Colindrez",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2NcNYzSD436UlV7Ar8D2Fr5790.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
-          "slug": "siendo-heumann",
-          "tmdbId": "1050981",
-          "type": "movie",
-          "duration": "127 min"
-        },
-        {
-          "title": "El grito 2",
-          "synopsis": "Aubrey (Amber Tamblyn) viajará a Tokio para buscar a su hermana Karen Davis (Sarah Michelle Gellar), que sufrió una misteriosa maldición. Allí tendrá también que enfrentarse a los fantasmas de Kayako y Toshio, que vienen desde el más allá para vengarse de los vivos. Pero no serán las únicas que se enfrentarán a la maldición…",
-          "rating": 5.58,
-          "year": "2006",
-          "genres": [
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Amber Tamblyn, 陳冠希, 藤貴子, 田中碧海, Sarah Michelle Gellar",
-          "posterUrl": "https://image.tmdb.org/t/p/original/9JfMvY6NRQIzSRTXJwvsl7xbeBZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lAp8haqJnLEVrYnSv7FZpwEJ7o4.jpg",
-          "slug": "el-grito-2",
-          "tmdbId": "1975",
-          "type": "movie",
-          "duration": "102 min"
-        },
-        {
-          "title": "El grito 3",
-          "synopsis": "La joven Naoko decide desplazarse a Chicago, la ciudad donde acaban de ocurrir los últimos acontecimientos relacionados con el espíritu de Kayako, su vengativa hermana mayor. Esta vez ha asesinado a toda una familia. Naoko decide que es hora de ponerle fin a esta masacre.",
-          "rating": 5.4,
-          "year": "2009",
-          "genres": [
-            "Misterio",
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Johanna Braddy, 池端えみ, Jadie-Rose Hobson, Gil McKinney, Beau Mirchoff",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xMFs9uSkoo6Oa7U7fBFAxVWjXM9.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lenULbl7U24ZCkqarrwqoYAvh9k.jpg",
-          "slug": "el-grito-3",
-          "tmdbId": "1977",
-          "type": "movie",
-          "duration": "90 min"
-        },
-        {
-          "title": "La maldición del Padre Cardona",
-          "synopsis": "Un sacerdote católico (Padre Geronimo) va a una pequeña ciudad para resolver algunas cosas extrañas que están sucediendo en esa ciudad, cosas que provienen de lo desconocido, y se involucra en una relación romántica con una mujer joven de la aldea.",
-          "rating": 5.3,
-          "year": "2005",
+          "title": "Moonrise Kingdom",
+          "synopsis": "Años 60. La huida de dos jóvenes amantes de su pueblo natal lleva a sus familiares y amigos a salir en su búsqueda. Así, quedarán de manifiesto viejos rencores y ocultas relaciones románticas entre algunos de los personajes que participan en la búsqueda.",
+          "rating": 7.68,
+          "year": "2012",
           "genres": [
             "Comedia",
+            "Drama",
             "Romance"
           ],
-          "cast": "Anthony Alvarez, Freddy Beras Goico, Miguel Bucarelly, Manuela Josefa Cabrera, Sergio Carlo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/pwmmsBrj4y487p2VkyKTFAmQA9o.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/2zLPx6uRsssOo4XpS7yEJYaGRx7.jpg",
-          "slug": "la-maldicion-del-padre-cardona",
-          "tmdbId": "61053",
+          "cast": "Jared Gilman, Kara Hayward, Bruce Willis, Edward Norton, Bill Murray",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rAKTQI0l2tOUylmZutzuypWA1PL.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/bsYv9IFIGfpAV0oUbe7YTiyxhox.jpg",
+          "slug": "moonrise-kingdom",
+          "tmdbId": "83666",
           "type": "movie",
-          "duration": "106 min"
+          "duration": "94 min"
         },
         {
-          "title": "Marrow",
-          "synopsis": "A Vodcast host declining in popularity receives the career opportunity of a lifetime when a mysterious stranger invites her into its dangerous world.",
-          "rating": 4.5,
-          "year": "2026",
+          "title": "Dragon Ball Z: ¡Resistencia Hasta la Desesperación! Los Dos Súper Guerreros Supervivientes, Gohan y Trunks",
+          "synopsis": "Esta es la historia del futuro que pudo ser. Han pasado 13 años desde que Goku murió víctima de un virus y los terribles Androides iniciaron su masacre con el resto de Guerreros Z. Desde entonces, el mundo es un infierno. La única esperanza es el hijo de Goku, Gohan, que convertido en adulto resiste contra los temibles Androides. A su lado cuenta con Bulma y su hijo, Trunks, para encontrar alguna forma de cambiar este terrible y apocalíptico futuro.",
+          "rating": 7.66,
+          "year": "1993",
           "genres": [
-            "Terror"
+            "Animación",
+            "Acción",
+            "Ciencia ficción"
           ],
-          "cast": "Jessica Dawn Willis, Danielle Harris, Michael Ironside, Matthew Tompkins, Phil Harrison",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jBDIainOGJbpjiyCrfRgPvzpiia.jpg",
-          "backdropUrl": null,
-          "slug": "marrow",
-          "tmdbId": "1617448",
+          "cast": "Masako Nozawa, Mayumi Tanaka, Hiromi Tsuru, Ryo Horikawa, Takeshi Kusao",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wmvQymtrEnjuEppy5JIjzlrYcmj.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/o72nw4sK9dmle0bGpHoTIvR5N5y.jpg",
+          "slug": "dragon-ball-z-resistencia-hasta-la-desesperacion-los-dos-super-guerreros-supervivientes-gohan-y-trunks",
+          "tmdbId": "39324",
           "type": "movie",
-          "duration": "96 min"
+          "duration": "48 min"
+        },
+        {
+          "title": "Dragon Ball: La Leyenda de Shenron",
+          "synopsis": "En su búsqueda por las Bolas de Dragón, la joven Bulma se topa por accidente con Son Goku, un niño con cola que ha vivido toda su vida en las montañas. Al regresar a casa de Goku, descubren a dos soldados robando la bola de cuatro estrellas y se inicia a una persecución. Se trata de los esbirros del Rey Gurumes. ¿Coseguirán Goku y Bulma con la ayuda de Mutenroshi y otros nuevos aliados como el bandido Yamcha o el cerdo Oolong recuperar las Bolas de Dragón?",
+          "rating": 6.9,
+          "year": "1986",
+          "genres": [
+            "Acción",
+            "Animación",
+            "Aventura",
+            "Comedia",
+            "Fantasía",
+            "Ciencia ficción"
+          ],
+          "cast": "Masako Nozawa, Hiromi Tsuru, Naoki Tatsuta, Naoko Watanabe, Toru Furuya",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mxDiaqvep05Z9E4nwEzcXDCuAlP.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/trUoQPnQy3cAXDx5TknzuBTFiWX.jpg",
+          "slug": "dragon-ball-la-leyenda-del-dragon-shenron",
+          "tmdbId": "39144",
+          "type": "movie",
+          "duration": "49 min"
+        },
+        {
+          "title": "Dragon Ball Z: ¡Arde! Una Ardiente, Intensa y Súper Feroz Batalla",
+          "synopsis": "Paragus va a la Tierra para pedir a Vegeta que ocupe el trono de su padre. Mientras, Goku es convocado por Kaio para investigar la destrucción del Sur de la Galaxia. Los caminos de ambos les llevan hasta el Planeta Nuevo Vegeta, donde descubren que Paragus y su hijo Broly son más de lo que aparenta. Llevado por el odio hacia Goku, Broly se convierte en el temido Super Saiyan de la leyenda que amenaza la Galaxia. ¿Quién saldrá victorioso de este épico duelo?",
+          "rating": 7.3,
+          "year": "1993",
+          "genres": [
+            "Animación",
+            "Ciencia ficción",
+            "Acción"
+          ],
+          "cast": "Bin Shimada, Masako Nozawa, Ryo Horikawa, Iemasa Kayumi, Takeshi Kusao",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ohLUrudLh5WggTa3f7eb4WyJhMo.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/xrg1pYVPK1yN0UREAzd1ywoVM6m.jpg",
+          "slug": "dragon-ball-z-estalla-el-duelo",
+          "tmdbId": "34433",
+          "type": "movie",
+          "duration": "70 min"
+        },
+        {
+          "title": "Un cuento de navidad de Marvel",
+          "synopsis": "¡Es Nochebuena y Spider-Man está listo para celebrarla con Iron Man y los Vengadores! En esta adaptación de 20 minutos del clásico \"Cuento de Navidad\" de Charles Dickens, Iron Man debe aprender el verdadero significado de las fiestas viajando en el tiempo a sus Navidades pasadas, presentes y futuras con la ayuda de sus compañeros de los Vengadores: el Capitán América, Thor, Hulk y el Doctor Strange. Con tres oportunidades para aprender la lección, ¿logrará Iron Man contagiarse del espíritu festivo antes de Navidad?",
+          "rating": 8,
+          "year": "2025",
+          "genres": [
+            "Animación",
+            "Comedia"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/9RdXKuIoGtG9HcrkLT3GioBBQpU.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mZq8wGmQUdPOf3FICIFOPHyNCdH.jpg",
+          "slug": "un-cuento-de-navidad-de-marvel",
+          "tmdbId": "1823586",
+          "type": "movie",
+          "duration": "22 min"
+        },
+        {
+          "title": "Dragon Ball: Episodio de Bardock",
+          "synopsis": "Tras sobrevivir a la destrucción del Planeta Vegeta, Bardock viaja por accidente al pasado, donde es acogido por los nativos del Planeta Plant. Al enfrentarse al invasor Chilled (un antepasado de Freezer) para proteger a sus nuevos aliados, la furia lo transforma en el primer Super Saiyan. Tras ser derrotado, el tirano advierte a su clan antes de morir, dando origen a la leyenda del guerrero de cabello dorado.",
+          "rating": 7.18,
+          "year": "2011",
+          "genres": [
+            "Acción",
+            "Animación",
+            "Ciencia ficción"
+          ],
+          "cast": "Masako Nozawa, Ryusei Nakao, Houko Kuwashima, Masashi Ebara, 平井啓二",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1xSFEVT24BgOwbZJqAV0EE8mr1g.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/pLctvg69kQGVfqSLqeL55sbWNRr.jpg",
+          "slug": "dragon-ball-episodio-de-bardock",
+          "tmdbId": "120475",
+          "type": "movie",
+          "duration": "20 min"
+        },
+        {
+          "title": "Dragon Ball Z: Vuelven Son Goku y sus amigos",
+          "synopsis": "Dos años después del fin de la saga de Majin Bu en Dragon Ball Z, Mr. Satán es homenajeado nuevamente con la construcción de un hotel, motivo por el cual invita a los guerreros Z que lo ayudaron a vencer a Buu a que compartan su homenaje. Poco después de comenzar un banquete, una esfera espacial aterriza en la tierra y de ella sale Table, el hermano de Vegeta…",
+          "rating": 6.5,
+          "year": "2008",
+          "genres": [
+            "Animación",
+            "Acción",
+            "Aventura",
+            "Ciencia ficción",
+            "Comedia"
+          ],
+          "cast": "Masako Nozawa, Takeshi Kusao, Ryo Horikawa, 沼田祐介, 田中一成",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cXHBTIUYFP5un0ySiMsSHU3alWD.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hk9nHD5SuV3iGbYBubgxx9ZC9jf.jpg",
+          "slug": "dragon-ball-z-vuelven-son-goku-y-sus-amigos",
+          "tmdbId": "38594",
+          "type": "movie",
+          "duration": "35 min"
+        },
+        {
+          "title": "Dragon Ball Z: La Batalla de los Dioses",
+          "synopsis": "Varios años después de la batalla contra Majin Buu, una nueva crisis amenaza la Tierra. El Dios de la Destrucción, Bills, que mantiene el equilibrio en todo el universo, ha despertado de su larga siesta. Al oír los rumores de que un Saiyan ha derrotado a Freezer, Bills acude a su encuentro. Emocionado por encontrar a un enemigo tan fuerte después de tanto tiempo, Goku desafía al Dios de la Destrucción, pero se ve impotente ante su abrumador poder. Entonces, Bills se despide con estas inquietantes palabras: \"Espero que en la Tierra haya alguien que merezca la pena destruir\". ¿Serán capaces Goku, Vegeta, Gohan y los otros guerreros de la Tierra de detener este poder destructivo sin precedentes?",
+          "rating": 6.9,
+          "year": "2013",
+          "genres": [
+            "Animación",
+            "Acción",
+            "Ciencia ficción"
+          ],
+          "cast": "Masako Nozawa, Koichi Yamadera, Masakazu Morita, Ryo Horikawa, Hiromi Tsuru",
+          "posterUrl": "https://image.tmdb.org/t/p/original/cIyPFIeSKNTiWU9Zny0c0IVPQRY.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/felXFRjJXF40NPzK1IPib8ojF2X.jpg",
+          "slug": "dragon-ball-z-la-batalla-de-los-dioses",
+          "tmdbId": "126963",
+          "type": "movie",
+          "duration": "85 min"
         }
       ]
     },
@@ -583,22 +592,6 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
-          "title": "Infamia",
-          "synopsis": "Una tenaz abogada en plena crisis existencial se obsesiona con la misteriosa desaparición sin resolver de dos niñas hace veinte años.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama"
-          ],
-          "cast": "Susana Abaitua, Jorge Bosch, Jon Olivares, Ane Gabarain, Iñigo Gastesi",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/j1eW6rSf2rpa9FqU6sg3YuUuoqE.jpg",
-          "slug": "infamia-315222",
-          "tmdbId": "315222",
-          "type": "series"
-        },
-        {
           "title": "La mesa final",
           "synopsis": "La Mesa: K-chef 2026 reúne a los mejores chefs coreanos para competir por el título de mejor chef. Chris K, misterioso y famosísimo chef, conocido como Kang Han, Song-yi, que quiere salvar su restaurante, Woo-jin, chef estrella perfeccionista, entre otros, se enfrentan en una feroz batalla culinaria. Más allá de la competición, encuentran consuelo en la comida y los unos en los otros.",
           "rating": 8.77,
@@ -616,7 +609,7 @@
         {
           "title": "100 días de engaño",
           "synopsis": "La carterista más consumada de Gyeongseong anhela la libertad. Para lograrla, se infiltra en el Gobierno colonial japonés para robar secretos… y se enamora del hijo de su objetivo.",
-          "rating": 8.8,
+          "rating": 8.89,
           "year": "2026",
           "genres": [
             "Acción",
@@ -628,6 +621,22 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
           "slug": "100-dias-de-engano",
           "tmdbId": "293607",
+          "type": "series"
+        },
+        {
+          "title": "Infamia",
+          "synopsis": "Una tenaz abogada en plena crisis existencial se obsesiona con la misteriosa desaparición sin resolver de dos niñas hace veinte años.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama"
+          ],
+          "cast": "Susana Abaitua, Jorge Bosch, Jon Olivares, Ane Gabarain, Iñigo Gastesi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/j1eW6rSf2rpa9FqU6sg3YuUuoqE.jpg",
+          "slug": "infamia-315222",
+          "tmdbId": "315222",
           "type": "series"
         },
         {
@@ -694,7 +703,7 @@
         {
           "title": "Dexter: Resurrección",
           "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-          "rating": 8.5,
+          "rating": 8.54,
           "year": "2025",
           "genres": [
             "Crimen",
