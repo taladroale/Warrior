@@ -127,7 +127,7 @@
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.33,
+      "rating": 8.34,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -144,7 +144,7 @@
     {
       "title": "El Señor de los Anillos: Los Anillos de Poder",
       "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
-      "rating": 7.2,
+      "rating": 7.22,
       "year": "2022",
       "genres": [
         "Acción",
@@ -157,6 +157,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
       "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
       "tmdbId": "84773",
+      "type": "series"
+    },
+    {
+      "title": "The Chosen (Los elegidos)",
+      "synopsis": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
+      "rating": 8.6,
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Familia"
+      ],
+      "cast": "Jonathan Roumie, Shahar Isaac, Elizabeth Tabish, Paras Patel, Noah James",
+      "posterUrl": "https://image.tmdb.org/t/p/original/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qvbFdPvXMliwwrWlfUStcHc96JQ.jpg",
+      "slug": "the-chosen-los-elegidos",
+      "tmdbId": "85077",
       "type": "series"
     },
     {
@@ -178,36 +194,19 @@
       "type": "series"
     },
     {
-      "title": "Doctora X",
-      "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-      "rating": 9.1,
-      "year": "2026",
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.66,
+      "year": "2025",
       "genres": [
-        "Misterio",
-        "Drama",
-        "Crimen"
+        "Crimen",
+        "Drama"
       ],
-      "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
-      "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-      "slug": "doctor-x-mafia-in-white",
-      "tmdbId": "293610",
-      "type": "series"
-    },
-    {
-      "title": "The Chosen (Los elegidos)",
-      "synopsis": "Por primera vez, la historia más grande jamás contada se presenta en una serie de varias temporadas. Enfocada en los personajes y el contexto histórico de los Evangelios, la primera temporada del mayor proyecto audiovisual producido mediante crowdfunding nos muestra a personas como Pedro, Nicodemo, María Magdalena, Mateo y, por supuesto, Jesús, de una manera nunca vista antes en pantalla. La serie muestra la parte más auténtica e íntima de la vida y el ministerio de una de las figuras más importantes e influyentes de la Historia de la humanidad.",
-      "rating": 8.6,
-      "year": "2019",
-      "genres": [
-        "Drama",
-        "Familia"
-      ],
-      "cast": "Jonathan Roumie, Shahar Isaac, Elizabeth Tabish, Paras Patel, Noah James",
-      "posterUrl": "https://image.tmdb.org/t/p/original/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qvbFdPvXMliwwrWlfUStcHc96JQ.jpg",
-      "slug": "the-chosen-los-elegidos",
-      "tmdbId": "85077",
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     }
   ],
@@ -217,6 +216,24 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "La familia Proud: Especial de navidad",
+          "synopsis": "Tras arruinar accidentalmente la Navidad, Penny Proud debe hacer lo necesario para salvarla en Emilyville y el resto del mundo.",
+          "rating": 4.43,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Comedia",
+            "Música"
+          ],
+          "cast": "Kyla Pratt, Tommy Davidson, Paula Jai Parker, Jo Marie Payton, Cedric the Entertainer",
+          "posterUrl": "https://image.tmdb.org/t/p/original/8JY6G5DSp8NUweUz5xJ5NtyqSp3.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8hp2pULH1tBxYdbrQHkYjo7kffC.jpg",
+          "slug": "la-familia-proud-especial-de-navidad",
+          "tmdbId": "1716604",
+          "type": "movie",
+          "duration": "51 min"
+        },
         {
           "title": "Sleepover",
           "synopsis": "La película se centra en un grupo de jóvenes adolescentes, el verano antes de empezar secundaria. Cuando una de las chicas se prepara para mudarse de la ciudad, su mejor amiga, organiza una fiesta para ella y sus amigas, la misma noche en que las chicas populares tienen su propia fiesta nocturna.",
@@ -380,24 +397,6 @@
           "tmdbId": "38594",
           "type": "movie",
           "duration": "35 min"
-        },
-        {
-          "title": "Dragon Ball Z: La Batalla de los Dioses",
-          "synopsis": "Varios años después de la batalla contra Majin Buu, una nueva crisis amenaza la Tierra. El Dios de la Destrucción, Bills, que mantiene el equilibrio en todo el universo, ha despertado de su larga siesta. Al oír los rumores de que un Saiyan ha derrotado a Freezer, Bills acude a su encuentro. Emocionado por encontrar a un enemigo tan fuerte después de tanto tiempo, Goku desafía al Dios de la Destrucción, pero se ve impotente ante su abrumador poder. Entonces, Bills se despide con estas inquietantes palabras: \"Espero que en la Tierra haya alguien que merezca la pena destruir\". ¿Serán capaces Goku, Vegeta, Gohan y los otros guerreros de la Tierra de detener este poder destructivo sin precedentes?",
-          "rating": 6.9,
-          "year": "2013",
-          "genres": [
-            "Animación",
-            "Acción",
-            "Ciencia ficción"
-          ],
-          "cast": "Masako Nozawa, Koichi Yamadera, Masakazu Morita, Ryo Horikawa, Hiromi Tsuru",
-          "posterUrl": "https://image.tmdb.org/t/p/original/cIyPFIeSKNTiWU9Zny0c0IVPQRY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/felXFRjJXF40NPzK1IPib8ojF2X.jpg",
-          "slug": "dragon-ball-z-la-batalla-de-los-dioses",
-          "tmdbId": "126963",
-          "type": "movie",
-          "duration": "85 min"
         }
       ]
     },
@@ -406,6 +405,24 @@
       "type": "movie",
       "seeMoreSlug": "estrenos",
       "items": [
+        {
+          "title": "La familia Proud: Especial de navidad",
+          "synopsis": "Tras arruinar accidentalmente la Navidad, Penny Proud debe hacer lo necesario para salvarla en Emilyville y el resto del mundo.",
+          "rating": 4.43,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Comedia",
+            "Música"
+          ],
+          "cast": "Kyla Pratt, Tommy Davidson, Paula Jai Parker, Jo Marie Payton, Cedric the Entertainer",
+          "posterUrl": "https://image.tmdb.org/t/p/original/8JY6G5DSp8NUweUz5xJ5NtyqSp3.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8hp2pULH1tBxYdbrQHkYjo7kffC.jpg",
+          "slug": "la-familia-proud-especial-de-navidad",
+          "tmdbId": "1716604",
+          "type": "movie",
+          "duration": "51 min"
+        },
         {
           "title": "Paper Tiger. Negocios de familia",
           "synopsis": "Dos hermanos se ven envueltos en un plan que resulta ser demasiado bueno para ser verdad. Mientras intentan desenvolverse en el peligroso mundo de la mafia rusa, los lazos familiares comienzan a resquebrajarse, con consecuencias que cambiarán sus vidas.",
@@ -564,23 +581,6 @@
           "tmdbId": "1567605",
           "type": "movie",
           "duration": "115 min"
-        },
-        {
-          "title": "Victorian Psycho",
-          "synopsis": "En 1858, la misteriosa institutriz Winifred Notty llega a Ensor House para educar a los hijos de la familia. Su disciplina extrema y su inquietante presencia despiertan sospechas, mientras los empleados de la mansión comienzan a desaparecer sin dejar rastro. Los dueños pronto descubren que tras su apariencia impecable se esconden secretos perturbadores.",
-          "rating": 5,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Maika Monroe, Thomasin McKenzie, Ruth Wilson, Jason Isaacs, Evie Templeton",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2r09thBfqsWkoyGVtrxc00uYpSy.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/84Sh7J9uvMjqEqEyRsKXaiSBcjP.jpg",
-          "slug": "victorian-psycho",
-          "tmdbId": "1379486",
-          "type": "movie",
-          "duration": "102 min"
         }
       ]
     }
@@ -591,6 +591,22 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "La isla del tesoro",
+          "synopsis": "Cuando Jim se hace con un legendario mapa del tesoro, las acciones inteligentes y decididas de su madre, Bess, hacen que él acabe en posesión de una valiosa información que pone en peligro la vida de ambos. A bordo del «Hispaniola», Jim y Bess se ven atrapados entre el encantador y aterrador pirata Long John Silver y el elegante y traicionero agente británico Aaron Graham.",
+          "rating": 6.73,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Aventura"
+          ],
+          "cast": "David Oyelowo, Tom Sweet, תומר קאפון, Craige Els, Neil Pendleton",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rnTcsrrDckwC2QmEQ1M7YfJDMN7.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+          "slug": "la-isla-del-tesoro",
+          "tmdbId": "333101",
+          "type": "series"
+        },
         {
           "title": "La mesa final",
           "synopsis": "La Mesa: K-chef 2026 reúne a los mejores chefs coreanos para competir por el título de mejor chef. Chris K, misterioso y famosísimo chef, conocido como Kang Han, Song-yi, que quiere salvar su restaurante, Woo-jin, chef estrella perfeccionista, entre otros, se enfrentan en una feroz batalla culinaria. Más allá de la competición, encuentran consuelo en la comida y los unos en los otros.",
@@ -732,24 +748,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
           "slug": "doctor-x-mafia-in-white",
           "tmdbId": "293610",
-          "type": "series"
-        },
-        {
-          "title": "Verdades ocultas",
-          "synopsis": "Un librero en Tulsa (Arizona) se convierte en periodista de investigación para destapar la corrupción local. Cuando sus pesquisas dan con conexiones siniestras, tendrá que proteger tanto a su familia como a la verdad.",
-          "rating": 6.95,
-          "year": "2025",
-          "genres": [
-            "Comedia",
-            "Crimen",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Ethan Hawke, JD McPherson, Ethan Hawke",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jgfHT7oLJtBDlRABiTTEp2AEret.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
-          "slug": "the-lowdown",
-          "tmdbId": "273247",
           "type": "series"
         }
       ]
