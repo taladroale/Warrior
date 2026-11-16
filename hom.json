@@ -35,21 +35,39 @@
       "duration": "93 min"
     },
     {
-      "title": "En el corazón de la bestia",
-      "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "rating": 7.56,
+      "title": "Godzilla Minus Zero",
+      "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+      "rating": 7.78,
       "year": "2026",
       "genres": [
-        "Aventura",
-        "Suspenso"
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
       ],
-      "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
-      "slug": "en-el-corazon-de-la-bestia",
-      "tmdbId": "1263337",
+      "cast": "Ryunosuke Kamiki, 浜辺美波, 田中泯, 吉岡秀隆, Masami Nagasawa",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "slug": "godzilla-minus-zero",
+      "tmdbId": "1381071",
       "type": "movie",
-      "duration": "101 min"
+      "duration": "135 min"
+    },
+    {
+      "title": "Scrooge y los fantasmas de la Navidad",
+      "synopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "rating": 7.89,
+      "year": "2026",
+      "genres": [
+        "Fantasía",
+        "Comedia"
+      ],
+      "cast": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen",
+      "posterUrl": "https://image.tmdb.org/t/p/original/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
+      "slug": "scrooge-y-los-fantasmas-de-la-navidad",
+      "tmdbId": "1567605",
+      "type": "movie",
+      "duration": "115 min"
     },
     {
       "title": "Resident Evil",
@@ -70,40 +88,21 @@
       "duration": "95 min"
     },
     {
-      "title": "Allen",
-      "synopsis": "El mejor amigo de la infancia de Petey, un extraterrestre llamado Allen, desapareció sin despedirse. Dos décadas más tarde, Allen regresa con un secreto que podría cambiar el mundo, lo que obliga a Petey a madurar de una vez por todas y ayudar a salvarlo.",
-      "rating": 7.05,
+      "title": "En el corazón de la bestia",
+      "synopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "rating": 7.56,
       "year": "2026",
       "genres": [
-        "Ciencia ficción",
         "Aventura",
-        "Comedia"
+        "Suspenso"
       ],
-      "cast": "T.J. Power, Charlotte Nicdao, Josh Helman, Emily Barclay, Benedict Hardie",
-      "posterUrl": "https://image.tmdb.org/t/p/original/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
-      "slug": "allen",
-      "tmdbId": "1518204",
+      "cast": "Brad Pitt, J.K. Simmons, Anna Lambe, Justin Melnick, Shaun DeZern",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
+      "slug": "en-el-corazon-de-la-bestia",
+      "tmdbId": "1263337",
       "type": "movie",
-      "duration": "105 min"
-    },
-    {
-      "title": "Godzilla Minus Zero",
-      "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
-      "rating": 7.78,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "cast": "Ryunosuke Kamiki, 浜辺美波, 田中泯, 吉岡秀隆, Masami Nagasawa",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-      "slug": "godzilla-minus-zero",
-      "tmdbId": "1381071",
-      "type": "movie",
-      "duration": "135 min"
+      "duration": "101 min"
     }
   ],
   "seriesHero": [
@@ -127,7 +126,7 @@
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.34,
+      "rating": 8.33,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -136,7 +135,7 @@
       ],
       "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
       "posterUrl": "https://image.tmdb.org/t/p/original/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
       "slug": "visionquest",
       "tmdbId": "213375",
       "type": "series"
@@ -144,7 +143,7 @@
     {
       "title": "El Señor de los Anillos: Los Anillos de Poder",
       "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
-      "rating": 7.22,
+      "rating": 7.2,
       "year": "2022",
       "genres": [
         "Acción",
@@ -176,6 +175,23 @@
       "type": "series"
     },
     {
+      "title": "Doctora X",
+      "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
+      "rating": 9.1,
+      "year": "2026",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Crimen"
+      ],
+      "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
+      "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "slug": "doctor-x-mafia-in-white",
+      "tmdbId": "293610",
+      "type": "series"
+    },
+    {
       "title": "12 12 12",
       "synopsis": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales.",
       "rating": 5.3,
@@ -191,22 +207,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/z4yapsAbr8wV7BnMyhB8CzYOevJ.jpg",
       "slug": "12-12-12",
       "tmdbId": "254630",
-      "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.66,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
       "type": "series"
     }
   ],
