@@ -19,22 +19,20 @@
       "duration": "173 min"
     },
     {
-      "title": "Godzilla Minus Zero",
-      "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
-      "rating": 7.78,
+      "title": "La otra madre",
+      "synopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "rating": 6.3,
       "year": "2026",
       "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
+        "Terror"
       ],
-      "cast": "Ryunosuke Kamiki, 浜辺美波, 田中泯, 吉岡秀隆, Masami Nagasawa",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-      "slug": "godzilla-minus-zero",
-      "tmdbId": "1381071",
+      "cast": "Jessica Chastain, Arabella Olivia Clark, Jay Duplass, Karen Allen, Arian Moayed",
+      "posterUrl": "https://image.tmdb.org/t/p/original/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "slug": "la-otra-madre",
+      "tmdbId": "1400837",
       "type": "movie",
-      "duration": "135 min"
+      "duration": "93 min"
     },
     {
       "title": "Scrooge y los fantasmas de la Navidad",
@@ -54,20 +52,22 @@
       "duration": "115 min"
     },
     {
-      "title": "La otra madre",
-      "synopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "rating": 6.3,
+      "title": "Godzilla Minus Zero",
+      "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+      "rating": 7.78,
       "year": "2026",
       "genres": [
-        "Terror"
+        "Ciencia ficción",
+        "Terror",
+        "Acción"
       ],
-      "cast": "Jessica Chastain, Arabella Olivia Clark, Jay Duplass, Karen Allen, Arian Moayed",
-      "posterUrl": "https://image.tmdb.org/t/p/original/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "slug": "la-otra-madre",
-      "tmdbId": "1400837",
+      "cast": "Ryunosuke Kamiki, 浜辺美波, 田中泯, 吉岡秀隆, Masami Nagasawa",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "slug": "godzilla-minus-zero",
+      "tmdbId": "1381071",
       "type": "movie",
-      "duration": "93 min"
+      "duration": "135 min"
     },
     {
       "title": "Spider-Man: Brand New Day",
@@ -127,7 +127,7 @@
     {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.32,
+      "rating": 8.31,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -144,7 +144,7 @@
     {
       "title": "El Señor de los Anillos: Los Anillos de Poder",
       "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
-      "rating": 7.2,
+      "rating": 7.22,
       "year": "2022",
       "genres": [
         "Acción",
@@ -176,20 +176,18 @@
       "type": "series"
     },
     {
-      "title": "Doctora X",
-      "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-      "rating": 9.1,
+      "title": "El sol entre la lluvia",
+      "synopsis": "Zheng Yu es una estudiante de Biología que lucha por conseguir una beca universitaria mientras trabaja para pagar las deudas familiares y el tratamiento médico de su madre. Su vida se complica cuando Chen Yanzhou, un joven reservado que regresa a la universidad tras una enfermedad, consigue superar sus calificaciones. Aunque inicialmente son rivales, ambos se ven obligados a colaborar y, poco a poco, descubren que comparten heridas emocionales y dificultades personales. Entre la rivalidad y el amor, aprenderán a apoyarse para superar los obstáculos de la vida.",
+      "rating": 9.6,
       "year": "2026",
       "genres": [
-        "Misterio",
-        "Drama",
-        "Crimen"
+        "Drama"
       ],
-      "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
-      "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-      "slug": "doctor-x-mafia-in-white",
-      "tmdbId": "293610",
+      "cast": "杨超越, 董思成",
+      "posterUrl": "https://image.tmdb.org/t/p/original/znoLZauHNWfXHq1PcH8wRf42m2e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
+      "slug": "sunshine-through-the-rain",
+      "tmdbId": "307853",
       "type": "series"
     },
     {
@@ -218,179 +216,180 @@
       "seeMoreSlug": "ultimas",
       "items": [
         {
-          "title": "Como robar un banco",
-          "synopsis": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
-          "rating": 6.36,
+          "title": "Verde Brumoso",
+          "synopsis": "Años después de su gran éxito en Hollywood, una actriz talentosa cuya carrera se ha estancado lucha por su segundo acto.",
+          "rating": 6.8,
           "year": "2026",
           "genres": [
-            "Acción",
-            "Crimen",
-            "Suspenso"
-          ],
-          "cast": "Nicholas Hoult, Zoë Kravitz, Pete Davidson, John C. Reilly, Anna Sawai",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
-          "slug": "como-robar-un-banco",
-          "tmdbId": "1437511",
-          "type": "movie",
-          "duration": "122 min"
-        },
-        {
-          "title": "En Ruta de Escape",
-          "synopsis": "Un veterano de guerra adicto convertido en conductor de viajes compartidos intenta ayudar a un pasajero aterrorizado a escapar de una red de trata de personas que atiende a clientes adinerados.",
-          "rating": 7.1,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Crimen",
-            "Suspenso"
-          ],
-          "cast": "Michael Jai White, Dan Bakkedahl, Jim Carlson, Jennifer Bond, Kate Duffy",
-          "posterUrl": "https://image.tmdb.org/t/p/original/27mH567ddebuOOGGsDB8zvGf0x5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8Tw90S4hVrvUoqmQWDoO6U4toZT.jpg",
-          "slug": "en-ruta-de-escape",
-          "tmdbId": "1378742",
-          "type": "movie",
-          "duration": "87 min"
-        },
-        {
-          "title": "Oro sin ley",
-          "synopsis": "Oregón, 1933. Samuel Murphy (Ethan Hawke) es separado de su hija y enviado a un campo de trabajo. Un día, el alcaide Clancy (Russell Crowe) le ofrece la posibilidad de liberarlo si consigue pasar oro de contrabando a través de una peligrosa senda salvaje. ¿Hasta dónde será capaz de llegar Murphy por reencontrarse con su querida hija?",
-          "rating": 6.7,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Suspenso"
-          ],
-          "cast": "Ethan Hawke, Russell Crowe, Julia Jones, Austin Amelio, Avi Nash",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hTT42eBEiYcpgRormrS8re82Nt9.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
-          "slug": "oro-sin-ley",
-          "tmdbId": "1433583",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
-          "title": "Misterio en la morgue",
-          "synopsis": "El cuerpo de Yun Seol-Hee desaparece en el Instituto Nacional de Investigación Científica. La detective Wu Jung-Sik busca pistas sobre su desaparición, mientras que su marido, Park Jin-Han, afirma que está viva. Remake surcoreano de la película española \"El cuerpo\" de Oriol Paulo.",
-          "rating": 7.4,
-          "year": "2018",
-          "genres": [
-            "Suspenso",
-            "Crimen",
-            "Misterio"
-          ],
-          "cast": "김상경, 김강우, 김희애, 한지안, 서현우",
-          "posterUrl": "https://image.tmdb.org/t/p/original/kSfSkI8UvLXykJJWIpQemY1nCNY.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/z3OgVzd06puEx9KD68T5zzFTrdt.jpg",
-          "slug": "misterio-en-la-morgue",
-          "tmdbId": "509467",
-          "type": "movie",
-          "duration": "101 min"
-        },
-        {
-          "title": "Just Friends",
-          "synopsis": "En el décimo aniversario de la muerte de su padre, Joris todavía intenta superar su ausencia cuando conoce a Yad, de espíritu libre, que regresa a casa con su familia después de vivir solo. Aunque muy diferentes, hay una chispa instantánea entre los dos y quieren ser más que \"solo amigos\", pero ambos tienen problemas con sus madres que amenazan con poner en peligro su relación.",
-          "rating": 7.12,
-          "year": "2019",
-          "genres": [
-            "Romance",
             "Drama",
             "Comedia"
           ],
-          "cast": "Josha Stradowski, Majd Mardo, Jenny Arean, Tanja Jess, Nazmiye Oral",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hSNeollK2tu2yKLjsgGVejP4K21.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/nXqfQ1W5ga3Ux02dVtFfd281sgT.jpg",
-          "slug": "just-friends-501902",
-          "tmdbId": "501902",
+          "cast": "Rosalind Eleazar, Adam Driver, Daniel Kaluuya, Anna Kendrick, Chris Rock",
+          "posterUrl": "https://image.tmdb.org/t/p/original/j8NF67FguTCH8tGu7Du6n8DMcSt.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
+          "slug": "verde-brumoso",
+          "tmdbId": "1381221",
           "type": "movie",
-          "duration": "84 min"
+          "duration": "103 min"
         },
         {
-          "title": "Contracted",
-          "synopsis": "Después de una mala noche de alcohol y sexo con un desconocido, Samantha comienza a experimentar síntomas extraños. Su vagina empieza a sangrar, luego su ojo, su piel cae, sus dientes ennegrecen... Y su humor resulta más y más agrio. El médico carece de respuestas claras y su madre, su novia y sus amigos comienzan a preocuparse.",
-          "rating": 5.35,
-          "year": "2013",
+          "title": "Memories of Murder (Crónica de un asesino en serie)",
+          "synopsis": "Corea del Sur, 1986. Una joven aparece brutalmente violada y asesinada. Dos meses después, se producen una serie de violaciones y asesinatos en circunstancias similares. Para buscar al asesino, se organiza un destacamento especial, encabezado por un detective de la policía local (Park Doo-man) y un detective de la policía de Seúl (Seo Tae-yoon), que ha solicitado ser asignado al caso.",
+          "rating": 8.07,
+          "year": "2003",
           "genres": [
-            "Terror",
+            "Crimen",
+            "Drama",
             "Suspenso"
           ],
-          "cast": "Najarra Townsend, Caroline Williams, Katie Stegeman, Alice Macdonald, Matt Mercer",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3Be1XlwkmJ9CLBND35ww2Pg3Qs.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/8xvgP63h10tzaJLX6TAySKxfUk0.jpg",
-          "slug": "contracted",
-          "tmdbId": "204349",
+          "cast": "Song Kang-ho, 김상경, 김뢰하, 송재호, 변희봉",
+          "posterUrl": "https://image.tmdb.org/t/p/original/eq4oNv2fcDw8murQ9RYyCVbhPHC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/6Kn6qW3an3DkPl3MahWemTzrjCt.jpg",
+          "slug": "memories-of-murder-cronica-de-un-asesino-en-serie",
+          "tmdbId": "11423",
           "type": "movie",
-          "duration": "84 min"
+          "duration": "131 min"
         },
         {
-          "title": "The Rocky Horror Picture Show",
-          "synopsis": "Cuando una pareja regresa de la boda de unos amigos, estalla una violenta tormenta y el coche se les avería. Así las cosas, no tienen más remedio que refugiarse en un castillo, donde el doctor Frank-N-Furter vive entregado a la fabricación de una especie de Frankenstein.",
-          "rating": 7.44,
-          "year": "1975",
-          "genres": [
-            "Comedia",
-            "Ciencia ficción",
-            "Terror"
-          ],
-          "cast": "Tim Curry, Susan Sarandon, Barry Bostwick, Richard O'Brien, Patricia Quinn",
-          "posterUrl": "https://image.tmdb.org/t/p/original/6xJuXrwpXHCJW51d3EJHGj3ZbM2.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/54aVU7tnvDKkX6ibzFg6ke03BV.jpg",
-          "slug": "the-rocky-horror-picture-show",
-          "tmdbId": "36685",
-          "type": "movie",
-          "duration": "100 min"
-        },
-        {
-          "title": "Cook up a storm",
-          "synopsis": "Un cocinero cantonés que trabaja en la calle y su principal rival, un chef francés con la estrella Michelín, descubren que tienen mucho en común mientras se preparan para una competencia culinaria mundialmente famosa. Una competencia culinaria internacional se convierte en un campo de batalla entre los cocineros rivales, uno famoso por su comida cantonesa de la calle y el otro un chef con estrellas Michelin entrenado en Francia. Pero su rivalidad toma un giro inesperado cuando descubren un enemigo común y combinan sus habilidades en una fusión de Oriente y Occidente.",
-          "rating": 7.5,
-          "year": "2017",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "謝霆鋒, 정용화, 唐嫣, 白冰, 葛优",
-          "posterUrl": "https://image.tmdb.org/t/p/original/jHMVa4VWLxggvbDo2Ol1ln4obJs.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hy6aXcEGrKf2zhrgV3MwZVMbOIq.jpg",
-          "slug": "cook-up-a-storm",
-          "tmdbId": "438857",
-          "type": "movie",
-          "duration": "96 min"
-        },
-        {
-          "title": "Ellas dan el golpe",
-          "synopsis": "En 1943, mientras los hombres estaban en la guerra, el béisbol estuvo a punto de desaparecer. Se formó entonces una liga femenina que intentaba captar la atención del público. Dottie y Mae formaban parte de uno de esos equipos femeninos que debían demostrar que eran capaces de competir y luchar como hombres. Lo peor era que tenían que soportar a Jimmy, un sarcástico y alcohólico entrenador.",
-          "rating": 7.21,
-          "year": "1992",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Tom Hanks, Geena Davis, Lori Petty, Madonna, Rosie O'Donnell",
-          "posterUrl": "https://image.tmdb.org/t/p/original/qHVHUVhE7RqjtecoSAnqYukiIos.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/kb2FuXGruaPA6ErjOpcifpCyPyY.jpg",
-          "slug": "ellas-dan-el-golpe",
-          "tmdbId": "11287",
-          "type": "movie",
-          "duration": "128 min"
-        },
-        {
-          "title": "Grand Theft Hamlet",
-          "synopsis": "Dos amigos desempleados tienen una nueva idea: quieren representar 'Hamlet' de Shakespeare en Grand Theft Auto. Pero incluso en un mundo virtual, la realidad se entromete en una película salvaje y alucinante filmada íntegramente dentro del videojuego ultraviolento.",
-          "rating": 6.53,
-          "year": "2024",
+          "title": "Los Croods",
+          "synopsis": "La película está ambientada en la prehistoria, donde Crug lidera a su familia más allá de la comodidad de su hogar después de que este sea destruido por un gran terremoto. Mientras intentan viajar por el desconocido y aterrador mundo, se encuentran con un nómada que cautiva a su clan, en especial a su hermana mayor, con su mente moderna.",
+          "rating": 6.95,
+          "year": "2013",
           "genres": [
             "Animación",
-            "Documental"
+            "Aventura",
+            "Familia",
+            "Comedia"
           ],
-          "cast": "Sam Crane, Jen Cohn, Tilly Steele, Dipo Ola, Mark Oosterveen",
-          "posterUrl": "https://image.tmdb.org/t/p/original/61pws82KZEssg883HG3kwN16cRw.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/6QZqB7AjfOaL9WGhu4ZXjGKeRxI.jpg",
-          "slug": "grand-theft-hamlet",
-          "tmdbId": "1234397",
+          "cast": "Nicolas Cage, Emma Stone, Ryan Reynolds, Catherine Keener, Cloris Leachman",
+          "posterUrl": "https://image.tmdb.org/t/p/original/3X3qtBTgKt5mCB30RJwbIjgjzdw.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wFN8llYh215M8i2fqWAcPV8CSyL.jpg",
+          "slug": "los-croods",
+          "tmdbId": "49519",
           "type": "movie",
-          "duration": "89 min"
+          "duration": "99 min"
+        },
+        {
+          "title": "El deshielo",
+          "synopsis": "Chile, 1992. Los padres de Inés, una niña de nueve años, están de viaje de negocios y la dejan al cuidado de sus abuelos, dueños de un hotel a los pies de una estación de esquí. Inés entabla amistad con Hanna, una joven esquiadora europea que ha llegado a Chile para entrenar. Una noche, Hanna desaparece. La búsqueda sacará a la luz una serie de situaciones ocultas.",
+          "rating": 6.4,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama",
+            "Suspenso"
+          ],
+          "cast": "Maya O’Rourke, Maia Domagala, Saskia Rosendahl, Jakub Gierszał, Paulina Urrutia",
+          "posterUrl": "https://image.tmdb.org/t/p/original/sLP4vn5MHnumTozQ699X8vtCOgC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9OGwh7Q3YaggcmJqUSSu6JXhswC.jpg",
+          "slug": "el-deshielo",
+          "tmdbId": "1210268",
+          "type": "movie",
+          "duration": "110 min"
+        },
+        {
+          "title": "La Granja",
+          "synopsis": "Una joven pareja es secuestrada y tratada como animales de granja después de detenerse en un restaurante al borde de la carretera para comer carne.",
+          "rating": 5.35,
+          "year": "2019",
+          "genres": [
+            "Terror"
+          ],
+          "cast": "Nora Yessayan, Alec Gaylord, Ken Volok, Rob Tisdale, Kelly Mis",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7WyvRj7nUQK8SXmQ4zF1u9MurFg.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/7Bl98JC4kGe62ORuFIsFtWtcIA2.jpg",
+          "slug": "la-granja",
+          "tmdbId": "517764",
+          "type": "movie",
+          "duration": "80 min"
+        },
+        {
+          "title": "Encuentros paranormales 2",
+          "synopsis": "Alex Wright es un joven que se encuentra investigando los extraños acontecimientos que vimos en la primera parte y por tanto, la desaparición del protagonista de aquella Sean Rogerson. Un día recibe un misterioso vídeo de un bloguero que firman con el pseudónimo de \"DeathAwaits666\". En ella puede ver como Sean Rogerson sigue vivo pero continúa atrapado en el hospital psiquiátrico Collingwood. Alex y sus amigos deciden quedar con el bloguero para tratar de obtener nueva información y de este modo descubrir qué ha sucedido realmente. Sin embargo, pronto se verán enfrentándose cara a cara con un mal que no puede definirse con palabras. Ahora, deberán ser más listos e inteligentes que lo que fueron Rogerson y sus amigos, y deberán hacer lo posible por salir del hospital antes de que sea demasiado tarde..",
+          "rating": 5.6,
+          "year": "2012",
+          "genres": [
+            "Terror"
+          ],
+          "cast": "Richard Harmon, Stephanie Bennett, Sean Rogerson, Dylan Playfair, Leanne Lapp",
+          "posterUrl": "https://image.tmdb.org/t/p/original/zUhBDAVSudPf8P2fwEp0s8bukW4.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/fNLVYtHuN3QsmG1B0F2xbFACwj7.jpg",
+          "slug": "encuentros-paranormales-2",
+          "tmdbId": "134366",
+          "type": "movie",
+          "duration": "95 min"
+        },
+        {
+          "title": "Esmeralda la Zíngara",
+          "synopsis": "París, Francia, 1482. El juez Frollo, al servicio del benévolo rey Luis XI, se enamora de Esmeralda, una joven gitana. El jorobado Quasimodo, protegido de Frollo y campanero de Notre Dame, vive en paz entre las campanas, en las alturas de la inmensa catedral, hasta que el retorcido magistrado lo involucra en sus maliciosos planes, desesperado por liberarse del supuesto hechizo de Esmeralda, que él cree que es obra del diablo.",
+          "rating": 7.33,
+          "year": "1939",
+          "genres": [
+            "Drama",
+            "Romance",
+            "Terror"
+          ],
+          "cast": "Charles Laughton, Cedric Hardwicke, Thomas Mitchell, Maureen O'Hara, Edmond O'Brien",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xoJpPPaZ0CuGL45IoymWhtvVFlO.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mt1RJGw7LvAoIGflIqYG87u84Xq.jpg",
+          "slug": "esmeralda-la-zingara",
+          "tmdbId": "31685",
+          "type": "movie",
+          "duration": "117 min"
+        },
+        {
+          "title": "Sangre y arena",
+          "synopsis": "Después de muchas dificultades, Juan Gallardo (Tyrone Power) se convierte en la primera figura del toreo. A continuación se casa con Carmen (Darnell), su novia de toda la vida. Pero, cuando todo parecía ir bien, Juan conoce a Sol (Hayworth), una joven, bella y frivola aristócrata con la que mantiene una apasionada relación. A partir de entonces comenzará su declive",
+          "rating": 6.5,
+          "year": "1941",
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "cast": "Tyrone Power, Linda Darnell, Rita Hayworth, Alla Nazimova, Anthony Quinn",
+          "posterUrl": "https://image.tmdb.org/t/p/original/81hPc9Vc1kc8ajUjNH9SemS3Fw9.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/h9qgkNFLDeMqXDwDbBkIvaZ76G0.jpg",
+          "slug": "sangre-y-arena",
+          "tmdbId": "44399",
+          "type": "movie",
+          "duration": "125 min"
+        },
+        {
+          "title": "Idilia",
+          "synopsis": "En un futuro no muy lejano, la humanidad ha suprimido el uso de las inteligencias artificiales. En  este contexto, una mujer llamada Diana Leiva permanece encerrada en su habitación por motivos  desconocidos desde hace más de tres años. El edificio en el que reside Diana pertenece a una misteriosa organización llamada IDILIA.",
+          "rating": 3,
+          "year": "2025",
+          "genres": [
+            "Ciencia ficción",
+            "Suspenso",
+            "Drama"
+          ],
+          "cast": "Norma Ruiz, Andrew Tarbet, Eva Isanta, Raúl Prieto, Alfons Nieto",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yKwefHfqHU9IQ6GMVlSX6UfE7aE.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/6X0Dfa1r7WgH1N8FhKn9BFkgf9r.jpg",
+          "slug": "idilia",
+          "tmdbId": "1465537",
+          "type": "movie",
+          "duration": "73 min"
+        },
+        {
+          "title": "Bandidas",
+          "synopsis": "Sara Sandoval es una bella y altiva aristócrata mexicana que se ha educado en Europa y disfruta de los privilegios de una plácida existencia, sin privaciones de ninguna clase. Al otro extremo del espectro social está María Álvarez. Volcánica y rebelde, ella es la deslumbrante hija de un peón de campo. Ellas provienen de lados opuestos de la escala social y, en circunstancias normales, sus caminos probablemente no se hubiesen cruzado nunca. Pero el destino une a estas dos mujeres cuando una banda de pistoleros a sueldo, que trabajan para unos avariciosos barones del ferrocarril, roba las tierras de sus respectivas familias, atacando y asesinando a sus seres más queridos. Empujadas por la necesidad, María y Sara forman de mala gana una alianza con la intención de hallar cumplida venganza. Al decidir tomar cartas en el asunto, se convierten a su vez en prófugas de la ley y en ladronas de bancos.",
+          "rating": 6.1,
+          "year": "2006",
+          "genres": [
+            "Acción",
+            "Comedia",
+            "Western",
+            "Crimen"
+          ],
+          "cast": "Penélope Cruz, Salma Hayek Pinault, Steve Zahn, Dwight Yoakam, Denis Arndt",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mkSfRjRcld9BULXuxP3eA9cMMs3.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/vmDpLofmDgDx3KXTNzRc6dYROim.jpg",
+          "slug": "bandidas",
+          "tmdbId": "1969",
+          "type": "movie",
+          "duration": "93 min"
         }
       ]
     },
@@ -584,6 +583,88 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "El Instituto",
+          "synopsis": "Luke Ellis, un genio de 14 años, es secuestrado en plena noche y trasladado al Instituto, una instalación en el Maine rural que recluye a niños con habilidades psíquicas. Su directora es la Sra. Sigsby, una sádica y firme defensora de la causa que hará cualquier cosa para llevar a cabo su misión. Sigsby y Luke chocan de inmediato en un letal enfrentamiento de opiniones.",
+          "rating": 7.46,
+          "year": "2025",
+          "genres": [
+            "Misterio",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Ben Barnes, Joe Freeman, Simone Miller, Fionn Laird, Hannah Galway",
+          "posterUrl": "https://image.tmdb.org/t/p/original/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
+          "slug": "el-instituto",
+          "tmdbId": "253372",
+          "type": "series"
+        },
+        {
+          "title": "Un amor infiltrado",
+          "synopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
+          "rating": 9.09,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Yim Si-wan, 설인아, 김정현, 연우",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+          "slug": "un-amor-infiltrado",
+          "tmdbId": "303745",
+          "type": "series"
+        },
+        {
+          "title": "Farsante",
+          "synopsis": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
+          "rating": 7,
+          "year": "2026",
+          "genres": [
+            "Comedia",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Connie Britton, Sam Nivola, Grace Brennan, Maliq Johnson, Meera Syal",
+          "posterUrl": "https://image.tmdb.org/t/p/original/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/roUD5m2nj6k88azMFsiqBae29cr.jpg",
+          "slug": "farsante",
+          "tmdbId": "275139",
+          "type": "series"
+        },
+        {
+          "title": "El sol entre la lluvia",
+          "synopsis": "Zheng Yu es una estudiante de Biología que lucha por conseguir una beca universitaria mientras trabaja para pagar las deudas familiares y el tratamiento médico de su madre. Su vida se complica cuando Chen Yanzhou, un joven reservado que regresa a la universidad tras una enfermedad, consigue superar sus calificaciones. Aunque inicialmente son rivales, ambos se ven obligados a colaborar y, poco a poco, descubren que comparten heridas emocionales y dificultades personales. Entre la rivalidad y el amor, aprenderán a apoyarse para superar los obstáculos de la vida.",
+          "rating": 9.6,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "杨超越, 董思成",
+          "posterUrl": "https://image.tmdb.org/t/p/original/znoLZauHNWfXHq1PcH8wRf42m2e.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
+          "slug": "sunshine-through-the-rain",
+          "tmdbId": "307853",
+          "type": "series"
+        },
+        {
+          "title": "Asesinato en Glitterball City",
+          "synopsis": "La ciudad de Louisville, Kentucky, conocida por su arquitectura victoriana histórica y cuna de la bola de espejos, resulta ser un escenario inesperado para una oscura historia de asesinato. El documental, dividido en dos partes, explora el cambiante panorama de un misterioso asesinato, una relación tóxica, una víctima vulnerable y los testimonios poco fiables de dos ex amantes juzgados por sus vidas.",
+          "rating": 6,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Documental"
+          ],
+          "cast": "",
+          "posterUrl": "https://image.tmdb.org/t/p/original/47vLjLQi3tIspWLs0vdgIxzXeE0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/2Y1sfUem465aPHCnbq5w0wfd1qE.jpg",
+          "slug": "asesinato-en-glitterball-city",
+          "tmdbId": "312530",
+          "type": "series"
+        },
+        {
           "title": "Minami, abogada extraordinaria",
           "synopsis": "Con una memoria prodigiosa y una perspectiva única, Minami se enfrenta a retos dentro y fuera de los tribunales como abogada novata con trastorno del espectro autista",
           "rating": 6.5,
@@ -658,85 +739,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
           "slug": "la-mesa-final",
           "tmdbId": "316702",
-          "type": "series"
-        },
-        {
-          "title": "100 días de engaño",
-          "synopsis": "La carterista más consumada de Gyeongseong anhela la libertad. Para lograrla, se infiltra en el Gobierno colonial japonés para robar secretos… y se enamora del hijo de su objetivo.",
-          "rating": 8.89,
-          "year": "2026",
-          "genres": [
-            "Acción",
-            "Aventura",
-            "Drama"
-          ],
-          "cast": "김유정, Jinyoung, 김현주, 이무생, 진선규",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zOSAKuyQfj3HmnvH4HU6GLu9cU8.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-          "slug": "100-dias-de-engano",
-          "tmdbId": "293607",
-          "type": "series"
-        },
-        {
-          "title": "Infamia",
-          "synopsis": "Una tenaz abogada en plena crisis existencial se obsesiona con la misteriosa desaparición sin resolver de dos niñas hace veinte años.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama"
-          ],
-          "cast": "Susana Abaitua, Jorge Bosch, Jon Olivares, Ane Gabarain, Iñigo Gastesi",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/j1eW6rSf2rpa9FqU6sg3YuUuoqE.jpg",
-          "slug": "infamia-315222",
-          "tmdbId": "315222",
-          "type": "series"
-        },
-        {
-          "title": "Mujeres Asesinas",
-          "synopsis": "Un grupo de mujeres con varios elementos en común. Sus vidas no fueron sencillas, ni serenas, ni felices. Lidiaron con parejas violentas, padres o madres manipuladores, jefes hostiles, situaciones de humillación e historias de venganza.",
-          "rating": 7.32,
-          "year": "2022",
-          "genres": [
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ek71Mmm4QPDGwgp8ar1OWY75KG7.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/7tpSoNdx4mj7upT5JpsIZzvfqN5.jpg",
-          "slug": "mujeres-asesinas",
-          "tmdbId": "213834",
-          "type": "series"
-        },
-        {
-          "title": "Las hijas de la criada",
-          "synopsis": "Galicia, 1900. En el pazo de Espíritu Santo llegan al mundo dos niñas, Clara y Catalina. La primera pertenece a la criada, Renata, mientras que la segunda es hija de los Valdés, don Gustavo y doña Inés. Una venganza inesperada sacudirá la vida de esas niñas y de todos ellos, y hará que doña Inés tenga que sobrevivir al desamor y al dolor del abandono. Y también a las luchas de poder para convertir a su verdadera hija en la heredera de un imperio, en una época en la que a las mujeres no se les permitía ser dueñas de sus vidas.",
-          "rating": 7.3,
-          "year": "2025",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Verónica Sánchez, Carlota Baró, Alain Hernández, Martina Cariddi, Judith Fernández",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wvYndp4ARcTpbsQNHvdbAeeazbE.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/bJAZn4cfhUmLeqsKHjA5grWhFfA.jpg",
-          "slug": "las-hijas-de-la-criada",
-          "tmdbId": "284879",
-          "type": "series"
-        },
-        {
-          "title": "Milagros en urgencias",
-          "synopsis": "A bold decision brings an average med student to an elite ER team, where he encounters medical crises, ethical dilemmas, and personal growth.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "霍建華, 楊謹華, 蔡凡熙, 詹子萱, 彭千祐",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3gbzlTn1cQgc2WXX733c0fgdvyL.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg",
-          "slug": "milagros-en-urgencias",
-          "tmdbId": "312661",
           "type": "series"
         }
       ]
