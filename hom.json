@@ -71,21 +71,22 @@
       "duration": "145 min"
     },
     {
-      "title": "Yo soy Rocky",
-      "synopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
-      "rating": 8.6,
+      "title": "Resident Evil",
+      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "rating": 7.47,
       "year": "2026",
       "genres": [
-        "Drama",
-        "Historia"
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
       ],
-      "cast": "Anthony Ippolito, AnnaSophia Robb, P.J. Byrne, Toby Kebbell, Jay Duplass",
-      "posterUrl": "https://image.tmdb.org/t/p/original/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
-      "slug": "yo-soy-rocky",
-      "tmdbId": "1286656",
+      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
+      "posterUrl": "https://image.tmdb.org/t/p/original/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "slug": "resident-evil-1423191",
+      "tmdbId": "1423191",
       "type": "movie",
-      "duration": "128 min"
+      "duration": "95 min"
     },
     {
       "title": "Godzilla Minus Zero",
@@ -110,7 +111,7 @@
     {
       "title": "El Señor de los Anillos: Los Anillos de Poder",
       "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
-      "rating": 7.22,
+      "rating": 7.2,
       "year": "2022",
       "genres": [
         "Acción",
@@ -143,38 +144,6 @@
       "type": "series"
     },
     {
-      "title": "La emperatriz divorciada",
-      "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
-      "rating": 8.61,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Shin Min-a, Ju Ji-hoon, 이종석, 이세영, Lukáš Tomšík",
-      "posterUrl": "https://image.tmdb.org/t/p/original/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-      "slug": "la-emperatriz-divorciada",
-      "tmdbId": "279246",
-      "type": "series"
-    },
-    {
-      "title": "El sol entre la lluvia",
-      "synopsis": "Zheng Yu es una estudiante de Biología que lucha por conseguir una beca universitaria mientras trabaja para pagar las deudas familiares y el tratamiento médico de su madre. Su vida se complica cuando Chen Yanzhou, un joven reservado que regresa a la universidad tras una enfermedad, consigue superar sus calificaciones. Aunque inicialmente son rivales, ambos se ven obligados a colaborar y, poco a poco, descubren que comparten heridas emocionales y dificultades personales. Entre la rivalidad y el amor, aprenderán a apoyarse para superar los obstáculos de la vida.",
-      "rating": 9.6,
-      "year": "2026",
-      "genres": [
-        "Drama"
-      ],
-      "cast": "杨超越, 董思成",
-      "posterUrl": "https://image.tmdb.org/t/p/original/znoLZauHNWfXHq1PcH8wRf42m2e.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
-      "slug": "sunshine-through-the-rain",
-      "tmdbId": "307853",
-      "type": "series"
-    },
-    {
       "title": "VisionQuest",
       "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
       "rating": 8.26,
@@ -192,20 +161,51 @@
       "type": "series"
     },
     {
-      "title": "Doctora X",
-      "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
-      "rating": 9.1,
+      "title": "Gordon",
+      "synopsis": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
+      "rating": 8.5,
       "year": "2026",
       "genres": [
-        "Misterio",
         "Drama",
         "Crimen"
       ],
-      "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
-      "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
-      "slug": "doctor-x-mafia-in-white",
-      "tmdbId": "293610",
+      "cast": "Rodrigo de la Serna, Matías Recalt, Camila Peralta, Fiorella Bottaioli, Agustín Pardella",
+      "posterUrl": "https://image.tmdb.org/t/p/original/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
+      "slug": "gordon",
+      "tmdbId": "340280",
+      "type": "series"
+    },
+    {
+      "title": "La emperatriz divorciada",
+      "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
+      "rating": 8.61,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Shin Min-a, Ju Ji-hoon, 이종석, 이세영, Lukáš Tomšík",
+      "posterUrl": "https://image.tmdb.org/t/p/original/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+      "slug": "la-emperatriz-divorciada",
+      "tmdbId": "279246",
+      "type": "series"
+    },
+    {
+      "title": "Somos así",
+      "synopsis": "Un grupo de amigos atraviesa un momento en que todo parece desajustarse al mismo tiempo. Trabajos que tambalean, vínculos que se redefinen, citas fallidas y secretos que salen a la luz los llevan a preguntarse quiénes son y qué están dispuestos a sostener. Vivirán situaciones delirantes que amenazan con cambiarlo todo, porque crecer no vino con un manual de instrucciones.",
+      "rating": 10,
+      "year": "2026",
+      "genres": [
+        "Comedia"
+      ],
+      "cast": "Nicolás Occhiato, Flor Jazmín Peña, Momi Giardina, Martín Garabal, Santiago Talledo",
+      "posterUrl": "https://image.tmdb.org/t/p/original/p9dfUH3jSgdpVzrwdGZtBG1TADS.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/fyJ1B8Yj7dFGjG0jfBpsHjBwgvT.jpg",
+      "slug": "somos-asi",
+      "tmdbId": "316752",
       "type": "series"
     }
   ],
