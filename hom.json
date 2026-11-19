@@ -19,6 +19,23 @@
       "duration": "173 min"
     },
     {
+      "title": "Guardaespaldas por navidad",
+      "synopsis": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
+      "rating": 7.4,
+      "year": "2026",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "cast": "Leighton Meester, Jared Padalecki, Andie MacDowell, Walker Hayes, Noah LaLonde",
+      "posterUrl": "https://image.tmdb.org/t/p/original/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "slug": "guardaespaldas-por-navidad",
+      "tmdbId": "1551025",
+      "type": "movie",
+      "duration": "109 min"
+    },
+    {
       "title": "Madden",
       "synopsis": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
       "rating": 0,
@@ -54,55 +71,39 @@
       "duration": "145 min"
     },
     {
-      "title": "La otra madre",
-      "synopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-      "rating": 6.3,
+      "title": "Yo soy Rocky",
+      "synopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
+      "rating": 8.6,
       "year": "2026",
       "genres": [
-        "Terror"
+        "Drama",
+        "Historia"
       ],
-      "cast": "Jessica Chastain, Arabella Olivia Clark, Jay Duplass, Karen Allen, Arian Moayed",
-      "posterUrl": "https://image.tmdb.org/t/p/original/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
-      "slug": "la-otra-madre",
-      "tmdbId": "1400837",
+      "cast": "Anthony Ippolito, AnnaSophia Robb, P.J. Byrne, Toby Kebbell, Jay Duplass",
+      "posterUrl": "https://image.tmdb.org/t/p/original/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+      "slug": "yo-soy-rocky",
+      "tmdbId": "1286656",
       "type": "movie",
-      "duration": "93 min"
+      "duration": "128 min"
     },
     {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.47,
+      "title": "Godzilla Minus Zero",
+      "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+      "rating": 7.78,
       "year": "2026",
       "genres": [
-        "Terror",
         "Ciencia ficción",
-        "Aventura"
+        "Terror",
+        "Acción"
       ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
+      "cast": "Ryunosuke Kamiki, 浜辺美波, 田中泯, 吉岡秀隆, Masami Nagasawa",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+      "slug": "godzilla-minus-zero",
+      "tmdbId": "1381071",
       "type": "movie",
-      "duration": "95 min"
-    },
-    {
-      "title": "Scrooge y los fantasmas de la Navidad",
-      "synopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "rating": 7.89,
-      "year": "2026",
-      "genres": [
-        "Fantasía",
-        "Comedia"
-      ],
-      "cast": "Johnny Depp, Rupert Grint, Daisy Ridley, Tramell Tillman, Ian McKellen",
-      "posterUrl": "https://image.tmdb.org/t/p/original/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
-      "slug": "scrooge-y-los-fantasmas-de-la-navidad",
-      "tmdbId": "1567605",
-      "type": "movie",
-      "duration": "115 min"
+      "duration": "135 min"
     }
   ],
   "seriesHero": [
@@ -119,7 +120,7 @@
       ],
       "cast": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Owain Arthur, Sophia Nomvete",
       "posterUrl": "https://image.tmdb.org/t/p/original/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
       "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
       "tmdbId": "84773",
       "type": "series"
@@ -159,23 +160,6 @@
       "type": "series"
     },
     {
-      "title": "VisionQuest",
-      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.3,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Fantasía",
-        "Drama"
-      ],
-      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
-      "posterUrl": "https://image.tmdb.org/t/p/original/oi9AqvVPEIjuQW3YmoFquoQKllj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "slug": "visionquest",
-      "tmdbId": "213375",
-      "type": "series"
-    },
-    {
       "title": "El sol entre la lluvia",
       "synopsis": "Zheng Yu es una estudiante de Biología que lucha por conseguir una beca universitaria mientras trabaja para pagar las deudas familiares y el tratamiento médico de su madre. Su vida se complica cuando Chen Yanzhou, un joven reservado que regresa a la universidad tras una enfermedad, consigue superar sus calificaciones. Aunque inicialmente son rivales, ambos se ven obligados a colaborar y, poco a poco, descubren que comparten heridas emocionales y dificultades personales. Entre la rivalidad y el amor, aprenderán a apoyarse para superar los obstáculos de la vida.",
       "rating": 9.6,
@@ -191,19 +175,37 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.67,
-      "year": "2025",
+      "title": "VisionQuest",
+      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "rating": 8.26,
+      "year": "2026",
       "genres": [
-        "Crimen",
+        "Ciencia ficción",
+        "Fantasía",
         "Drama"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+      "posterUrl": "https://image.tmdb.org/t/p/original/oi9AqvVPEIjuQW3YmoFquoQKllj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "slug": "visionquest",
+      "tmdbId": "213375",
+      "type": "series"
+    },
+    {
+      "title": "Doctora X",
+      "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
+      "rating": 9.1,
+      "year": "2026",
+      "genres": [
+        "Misterio",
+        "Drama",
+        "Crimen"
+      ],
+      "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
+      "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "slug": "doctor-x-mafia-in-white",
+      "tmdbId": "293610",
       "type": "series"
     }
   ],
@@ -213,6 +215,25 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Las aventuras de Bo Peep",
+          "synopsis": "Bo Peep tiene un gran regreso y finalmente contesta las preguntas sobre dónde ha estado desde la última vez que la vimos en 'Toy Story 2'.",
+          "rating": 7.03,
+          "year": "2020",
+          "genres": [
+            "Aventura",
+            "Animación",
+            "Comedia",
+            "Familia"
+          ],
+          "cast": "Annie Potts, Ally Maki, Jim Hanks, Emily Davis",
+          "posterUrl": "https://image.tmdb.org/t/p/original/kBIkCS3PQlHY86agofKY411jLM7.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/dRPCsvwgB1eyoBEtoGqulNhLd5C.jpg",
+          "slug": "las-aventuras-de-bo-peep",
+          "tmdbId": "594530",
+          "type": "movie",
+          "duration": "38 min"
+        },
         {
           "title": "Mud",
           "synopsis": "En una isla del Mississippi, dos chicos descubren a un fugitivo llamado Mud. Ha matado a un hombre para proteger al amor de su vida, Juniper, y ahora se oculta de los cazadores de recompensas. Los chicos acceden a ayudarle a reunirse con Juniper y preparar su huida juntos, sin saber que la aparición de Mud significará el fin de sus infancias.",
@@ -365,23 +386,6 @@
           "tmdbId": "1314829",
           "type": "movie",
           "duration": "91 min"
-        },
-        {
-          "title": "La barbería 2: Vuelta al negocio",
-          "synopsis": "Calvin (Ice Cube) ha estado a punto de perder su negocio, una barbería que ha pasado por varias generaciones de su familia, debido a las deudas compiladas; sin embargo, un golpe de suerte ha paliado sus vicisitudes económicas y afortunadamente podrá mantener su barbería abierta por más tiempo.  No obstante, la fatalidad parece estar de lado del empresario y, a pesar de haber vencido el riesgo mencionado, una nueva amenaza atenta contra su negocio. La zona donde está ubicada la barbería va a ser regenerada y se van a abrir numerosas franquicias de bares, peluquerías y demás clubes de ocio, con lo que los negocios familiares del lugar corren peligro. A Calvin solo le queda ahora confiar en sus clientes y en el afecto que estos prodigan a su barbería, donde el corte de pelo se convierte en un servicio más, pues en realidad los asiduos a su negocio encuentran aquí un espacio donde desahogar sus penas y alegrías.",
-          "rating": 6.1,
-          "year": "2004",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Ice Cube, Cedric the Entertainer, Eve, Sean Patrick Thomas, Troy Garity",
-          "posterUrl": "https://image.tmdb.org/t/p/original/zmJB61JNKQYuvEgNFtenTbzy0yE.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/pGlgLhYBBiPerXXgERqsEKn7VlP.jpg",
-          "slug": "la-barberia-2-vuelta-al-negocio",
-          "tmdbId": "21301",
-          "type": "movie",
-          "duration": "98 min"
         }
       ]
     },
@@ -406,6 +410,23 @@
           "tmdbId": "1131943",
           "type": "movie",
           "duration": "110 min"
+        },
+        {
+          "title": "Guardaespaldas por navidad",
+          "synopsis": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
+          "rating": 7.4,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Comedia"
+          ],
+          "cast": "Leighton Meester, Jared Padalecki, Andie MacDowell, Walker Hayes, Noah LaLonde",
+          "posterUrl": "https://image.tmdb.org/t/p/original/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+          "slug": "guardaespaldas-por-navidad",
+          "tmdbId": "1551025",
+          "type": "movie",
+          "duration": "109 min"
         },
         {
           "title": "Second Chance Holiday",
@@ -545,24 +566,6 @@
           "tmdbId": "1780407",
           "type": "movie",
           "duration": "33 min"
-        },
-        {
-          "title": "Góspel de Navidad",
-          "synopsis": "Un joven pastor, que intenta estar a la altura del legado de su padre, traslada a su esposa e hijos de Georgia a Nueva York para salvar una iglesia moribunda con un poco de ayuda de sus ángeles guardianes.",
-          "rating": 7.46,
-          "year": "2026",
-          "genres": [
-            "Música",
-            "Familia",
-            "Drama"
-          ],
-          "cast": "Tank, Mason Douglas, Fantasia Barrino, Yolanda Adams, Christopher Jensen",
-          "posterUrl": "https://image.tmdb.org/t/p/original/kzTJg0zhWJRDHJPYEpSqxkFigTv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
-          "slug": "gospel-de-navidad",
-          "tmdbId": "1559980",
-          "type": "movie",
-          "duration": "103 min"
         }
       ]
     }
@@ -573,6 +576,22 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Gordon",
+          "synopsis": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
+          "rating": 8.5,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Rodrigo de la Serna, Matías Recalt, Camila Peralta, Fiorella Bottaioli, Agustín Pardella",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
+          "slug": "gordon",
+          "tmdbId": "340280",
+          "type": "series"
+        },
         {
           "title": "Somos así",
           "synopsis": "Un grupo de amigos atraviesa un momento en que todo parece desajustarse al mismo tiempo. Trabajos que tambalean, vínculos que se redefinen, citas fallidas y secretos que salen a la luz los llevan a preguntarse quiénes son y qué están dispuestos a sostener. Vivirán situaciones delirantes que amenazan con cambiarlo todo, porque crecer no vino con un manual de instrucciones.",
@@ -716,21 +735,6 @@
           "slug": "minami-abogada-extraordinaria",
           "tmdbId": "332713",
           "type": "series"
-        },
-        {
-          "title": "La edad dorada",
-          "synopsis": "La Edad Dorada comienza en 1882 con la mudanza de la joven Marian Brook de la zona rural de Pensilvania a la ciudad de Nueva York después de la muerte de su padre para vivir con sus tías adineradas Agnes van Rhijn y Ada Brook. Acompañada por Peggy Scott, una aspirante a escritora que busca un nuevo comienzo, Marian se ve envuelta de forma inesperada en una guerra social entre una de sus tías, hija de la vieja riqueza, y sus vecinos tremendamente ricos, un magnate ferroviario despiadado y su ambiciosa esposa, George y Bertha Russell. Expuesta a un mundo al borde de la Edad moderna, ¿Marian seguirá las reglas ya establecidas por la sociedad o forjará su propio camino?",
-          "rating": 7.7,
-          "year": "2022",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Carrie Coon, Morgan Spector, Louisa Jacobson, Denée Benton, Taissa Farmiga",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wlvtB6Wn7IwsfcMtL4Sxm93jMGe.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/afUVsProh46h31w2EvL7qyHXrqj.jpg",
-          "slug": "la-edad-dorada",
-          "tmdbId": "81723",
-          "type": "series"
         }
       ]
     },
@@ -740,9 +744,40 @@
       "seeMoreSlug": "estrenos-series",
       "items": [
         {
+          "title": "Somos así",
+          "synopsis": "Un grupo de amigos atraviesa un momento en que todo parece desajustarse al mismo tiempo. Trabajos que tambalean, vínculos que se redefinen, citas fallidas y secretos que salen a la luz los llevan a preguntarse quiénes son y qué están dispuestos a sostener. Vivirán situaciones delirantes que amenazan con cambiarlo todo, porque crecer no vino con un manual de instrucciones.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Nicolás Occhiato, Flor Jazmín Peña, Momi Giardina, Martín Garabal, Santiago Talledo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/p9dfUH3jSgdpVzrwdGZtBG1TADS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/fyJ1B8Yj7dFGjG0jfBpsHjBwgvT.jpg",
+          "slug": "somos-asi",
+          "tmdbId": "316752",
+          "type": "series"
+        },
+        {
+          "title": "Gordon",
+          "synopsis": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
+          "rating": 8.5,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Rodrigo de la Serna, Matías Recalt, Camila Peralta, Fiorella Bottaioli, Agustín Pardella",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
+          "slug": "gordon",
+          "tmdbId": "340280",
+          "type": "series"
+        },
+        {
           "title": "El crimen de Pazos",
           "synopsis": "En el tranquilo pueblo de Pazos, Aniceto y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo, lo que le lleva al hospital a luchar por su vida. Elías, un sargento de la Guardia Civil, está convencido de que Aniceto es el autor del crimen.",
-          "rating": 6.4,
+          "rating": 6.31,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -837,7 +872,7 @@
         {
           "title": "La ley de Alicia",
           "synopsis": "Alicia retoma la abogacía tras ver que su vida se desmorona, y entonces comprende que, mientras rehace su carrera, se redefine a sí misma.",
-          "rating": 6.55,
+          "rating": 6.5,
           "year": "2026",
           "genres": [
             "Drama"
@@ -864,37 +899,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
           "slug": "el-cuerpo",
           "tmdbId": "291507",
-          "type": "series"
-        },
-        {
-          "title": "El claroscuro",
-          "synopsis": "Tras hallarse un cadáver en un museo romano, un experto en arte recurre a su instinto y su talento para ayudar a la policía a resolver un misterio relacionado con su pasado.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Crimen"
-          ],
-          "cast": "Pierpaolo Spollon, Andrea Lattanzi, Romana Maggiora Vergano, Matilde Gioli, Aurora Giovinazzo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg",
-          "slug": "el-claroscuro",
-          "tmdbId": "336243",
-          "type": "series"
-        },
-        {
-          "title": "Campus Drivers",
-          "synopsis": "Loïs llega a Belrose junto a Max, el amor de su vida. Allí conoce a Lane, famoso por no comprometerse con nadie y el creador de Campus Drivers, la aplicación más popular del campus. Sus caminos nunca debieron cruzarse, pero ciertos encuentros lo cambian todo y reabren viejas heridas. Cuando el amor aparece donde menos te lo esperas, nada volverá a ser igual.",
-          "rating": 7.8,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Carmen Kassovitz, Baptiste Masseline, Prune Pauchet, Esteban Vial, Madior Fall",
-          "posterUrl": "https://image.tmdb.org/t/p/original/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-          "slug": "campus-drivers",
-          "tmdbId": "303044",
           "type": "series"
         }
       ]
