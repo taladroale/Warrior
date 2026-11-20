@@ -108,6 +108,22 @@
   ],
   "seriesHero": [
     {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.67,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
       "title": "El Señor de los Anillos: Los Anillos de Poder",
       "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
       "rating": 7.2,
@@ -126,35 +142,39 @@
       "type": "series"
     },
     {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.67,
-      "year": "2025",
+      "title": "Percy Jackson y los dioses del Olimpo",
+      "synopsis": "Percy Jackson emprende una peligrosa misión. Dejando atrás a los monstruos y burlando a los dioses, recorrerá Estados Unidos para devolver el Rayo Maestro de Zeus y evitar la guerra. Con ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo acercará más a las respuestas que busca: cómo encajar en un mundo que le es ajeno y si logrará entender su destino.",
+      "rating": 7.3,
+      "year": "2023",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía",
+        "Drama",
+        "Familia"
       ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Walker Scobell, Leah Sava Jeffries, Aryan Simhadri",
+      "posterUrl": "https://image.tmdb.org/t/p/original/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/sAxx25ijwYQ8xsT56wu2IzvIRss.jpg",
+      "slug": "percy-jackson-y-los-dioses-del-olimpo",
+      "tmdbId": "103540",
       "type": "series"
     },
     {
-      "title": "La ley de las bestias",
-      "synopsis": "La historia comienza tras el brutal asesinato de cuatro niños en Polonia. El caso sitúa a la comandante e investigadora principal Anna Berz y a la psiquiatra Agnieszka Grabska ante la misión de evaluar la salud mental del principal sospechoso, Mariusz Trynkiewicz. Bajo presión, ambas toman una decisión profesional que marcará y fracturará su relación.",
-      "rating": 7.72,
-      "year": "2026",
+      "title": "Yellowjackets",
+      "synopsis": "Después de un accidente de avión en las profundidades de Ontario, los miembros de un equipo de fútbol femenino son los únicos supervivientes del accidente. Las chicas de secundaria tendrán que luchar por su supervivencia contra los clanes caníbales.",
+      "rating": 7.43,
+      "year": "2021",
       "genres": [
-        "Crimen",
-        "Drama"
+        "Drama",
+        "Misterio"
       ],
-      "cast": "Agnieszka Grochowska, Agnieszka Żulewska, Michał Pawlik, Andrzej Chyra, Kamilla Baar",
-      "posterUrl": "https://image.tmdb.org/t/p/original/u7hQSvHz05x3Z6avbLDDhGuKgE8.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
-      "slug": "la-ley-de-las-bestias",
-      "tmdbId": "332839",
+      "cast": "Melanie Lynskey, Tawny Cypress, Sophie Nélisse, Jasmin Savoy Brown, Sophie Thatcher",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+      "slug": "yellowjackets",
+      "tmdbId": "117488",
       "type": "series"
     },
     {
@@ -175,34 +195,20 @@
       "type": "series"
     },
     {
-      "title": "Gordon",
-      "synopsis": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
+      "title": "Dexter: Resurrección",
+      "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
       "rating": 8.5,
-      "year": "2026",
+      "year": "2025",
       "genres": [
+        "Crimen",
         "Drama",
-        "Crimen"
+        "Misterio"
       ],
-      "cast": "Rodrigo de la Serna, Matías Recalt, Camila Peralta, Fiorella Bottaioli, Agustín Pardella",
-      "posterUrl": "https://image.tmdb.org/t/p/original/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
-      "slug": "gordon",
-      "tmdbId": "340280",
-      "type": "series"
-    },
-    {
-      "title": "Vienna Game",
-      "synopsis": "1814. Mientras Napoleón languidece en prisión en la isla de Elba, los monarcas de Europa acuden a Viena para apostar por el futuro del continente, devastado por la guerra. Entre copas de champán, romances y luchas de poder, Wilhelmine von Sagan, maestra de intrigas, monárquica y amante del príncipe Metternich, tiene un encuentro crucial con el barón Amor Łaski, un bonapartista e irremediable seductor. El ministro de Asuntos Exteriores francés Talleyrand manipula a las potencias vencedoras, Austria, Prusia, Rusia e Inglaterra, para que se enfrenten entre sí, mientras que el zar y su hermana conspiran con el rey de Prusia. Cuando Seidl, un burócrata mediocre, falsifica una carta para desacreditar a su rival, desata una cadena de aciagos acontecimientos que obligará a todos a tomar decisiones arriesgadas. ¿Quién ganará la gran partida de la fortuna, el amor y el poder?",
-      "rating": 8.5,
-      "year": "2026",
-      "genres": [
-        "Comedia"
-      ],
-      "cast": "Fritz Karl, Marlene Tanczik, Daniel Donskoy, Alexander Scheer, Vladimir Burlakov",
-      "posterUrl": "https://image.tmdb.org/t/p/original/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg",
-      "slug": "vienna-game",
-      "tmdbId": "288120",
+      "cast": "Michael C. Hall, Uma Thurman, Jack Alcott, Dan Stevens, Bokeem Woodbine",
+      "posterUrl": "https://image.tmdb.org/t/p/original/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "slug": "dexter-resurreccion",
+      "tmdbId": "259909",
       "type": "series"
     }
   ],
@@ -212,6 +218,141 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "La leyenda del pianista en el océano",
+          "synopsis": "Historia de un niño que fue abandonado sobre el piano del Virginia, un enorme trasatlántico. El niño es adoptado por un maquinista y le pone por nombre \"Novecento\", ya que lo encuentra justo en el cambio de siglo. Novecento se convertirá en un fabuloso pianista y amenizará las noches del Virginia. Pero nunca pisará tierra firme, ni tan sólo tras las súplicas de su amigo Max.",
+          "rating": 8.23,
+          "year": "1998",
+          "genres": [
+            "Drama",
+            "Música"
+          ],
+          "cast": "Tim Roth, Pruitt Taylor Vince, Mélanie Thierry, Bill Nunn, Gabriele Lavia",
+          "posterUrl": "https://image.tmdb.org/t/p/original/8rttNpb83qdHFMPMgFlcspVGaio.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
+          "slug": "la-leyenda-del-pianista-en-el-oceano",
+          "tmdbId": "10376",
+          "type": "movie",
+          "duration": "170 min"
+        },
+        {
+          "title": "Los Juegos del Hambre: Amanecer en la cosecha",
+          "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+          "rating": 7.31,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Acción",
+            "Aventura"
+          ],
+          "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close",
+          "posterUrl": "https://image.tmdb.org/t/p/original/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+          "slug": "los-juegos-del-hambre-amanecer-en-la-cosecha",
+          "tmdbId": "1300968",
+          "type": "movie",
+          "duration": "159 min"
+        },
+        {
+          "title": "Perfectos mentirosos",
+          "synopsis": "Bienvenidos a Tagus, donde el poder, el privilegio y los secretos mortales se esconden tras fachadas perfectas. Jude Derry llega a esta exclusiva universidad con una misión oculta: infiltrarse en el círculo de los hermanos Cash para descubrir la verdad sobre la muerte de su hermano. Los tres herederos del imperio familiar, Aegan, el carismático y calculador primogénito, Adrik, el enigmático y misterioso hermano mediano, y Alex, el rebelde e impredecible hermano pequeño, dominan Tagus con un magnetismo al que nadie puede resistirse. Lo que comienza como una venganza personal se transforma en un peligroso triángulo de seducción, atracción prohibida y mentiras cuando Jude queda envuelta en la compleja dinámica familiar de los Cash. Con cada pista que descubre, se acerca más a una verdad que podría no solo destruir a la poderosa familia… sino también desvelar secretos que quizás ella misma no está preparada para enfrentar.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Romance",
+            "Suspenso"
+          ],
+          "cast": "Irene Balmes, Gleb Abrosimov, Pau Simon, Pablo Scapigliati, Asier Etxeandia",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1amYmUeoBi23kGcR2pWQclEzXk2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
+          "slug": "perfectos-mentirosos",
+          "tmdbId": "1568060",
+          "type": "movie",
+          "duration": "103 min"
+        },
+        {
+          "title": "Un monstruo amable",
+          "synopsis": "Lucy y Philip son felices: acaban de mudarse con su hijo a una casa de campo cerca de Múnich. Una mañana, su vida da un vuelco cuando la policía se presenta en su domicilio para detener a Philip y confiscar sus ordenadores. Conmocionada, Lucy busca la verdad sobre su marido. ¿Quién es realmente? ¿Debe alejarlo de su hijo?",
+          "rating": 6.7,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Léa Seydoux, Laurence Rupp, Malo Blanchet, Jella Haase, Catherine Deneuve",
+          "posterUrl": "https://image.tmdb.org/t/p/original/rv3PprTMvEf317skaiTeEYAfJcr.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/bJsIZ6ruMzhs5z1MssENrRpb6uq.jpg",
+          "slug": "un-monstruo-amable",
+          "tmdbId": "1473148",
+          "type": "movie",
+          "duration": "115 min"
+        },
+        {
+          "title": "Los muertos del hambre",
+          "synopsis": "Parodia de \"Los juegos del hambre\" de los creadores de \"Date Movie\" y \"Epic Movie\". También parodiará producciones de éxito recientes como \"Los vengadores\", \"Sherlock Holmes\" o las últimas entregas de \"Harry Potter\".",
+          "rating": 4.24,
+          "year": "2013",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Maiara Walsh, Cody Christian, Brant Daugherty, Diedrich Bader, Ross Wyngaarden",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wf5Pa9avA1tZAdRDAMfFmZF9yXp.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/jNPtcaPcAjPs7azPexyTETWBbjK.jpg",
+          "slug": "los-muertos-del-hambre",
+          "tmdbId": "225703",
+          "type": "movie",
+          "duration": "83 min"
+        },
+        {
+          "title": "Hamlet",
+          "synopsis": "When Hamlet returns for his father’s funeral, he is stunned to discover his uncle Claudius is marrying his newly widowed mother. Visited by his father’s ghost, Hamlet learns his brutal murder was at the hands of Claudius and spirals into a quest for vengeance that exposes the rot at the heart of the family’s empire and threatens his own sanity.",
+          "rating": 5.5,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Riz Ahmed, Morfydd Clark, Timothy Spall, Art Malik, Sheeba Chaddha",
+          "posterUrl": "https://image.tmdb.org/t/p/original/7azHIOSrxo0VC5wYiwtGOnVehsH.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/s8JEKHgD26NaMU20PluSJsZusqu.jpg",
+          "slug": "hamlet-843342",
+          "tmdbId": "843342",
+          "type": "movie",
+          "duration": "113 min"
+        },
+        {
+          "title": "Culpa tuya: Londres",
+          "synopsis": "Noah y Nick regresan más fuertes, unidos y enamorados que nunca. Pero a medida que la vida empieza a tirar de ellos en direcciones diferentes, su relación se enfrenta a su reto más difícil hasta la fecha. Noah se marcha a Oxford para proseguir sus estudios, mientras que Nick se ve consumido por las crecientes exigencias del trabajo. Cuando nuevas personas entran en sus vidas, despertando emociones inesperadas y celos persistentes, empiezan a formarse grietas. La confianza se pone a prueba, las pasiones se desatan y el vínculo que una vez creyeron irrompible empieza a tensarse. Ahora, en una encrucijada, Noah y Nick deben decidir: luchar por el amor que los unió... o arriesgarse a perderlo para siempre.",
+          "rating": 7.4,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Drama"
+          ],
+          "cast": "Asha Banks, Matthew Broome, Eve Macklin, Ray Fearon, Sam Buchanan",
+          "posterUrl": "https://image.tmdb.org/t/p/original/oeOmayFaiGz6km5vShPpDBQnZf1.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
+          "slug": "culpa-tuya-londres",
+          "tmdbId": "1477317",
+          "type": "movie",
+          "duration": "124 min"
+        },
+        {
+          "title": "Hell House LLC",
+          "synopsis": "Cinco años después de una inexplicada tragedia en la noche de apertura de una casa de Halloween (Hell House), un equipo documental viaja de regreso a la escena del desastre, para investigar los eventos de aquella fatídica noche. Durante una entrevista con uno de los miembros del personal original, se les da material gráfico nunca antes visto por el personal de la casa embrujada. Entonces, se revela la terrible verdad sobre lo que realmente sucedió en la noche de apertura de HELL HOUSE.",
+          "rating": 6.5,
+          "year": "2015",
+          "genres": [
+            "Terror",
+            "Misterio"
+          ],
+          "cast": "Ryan Jennifer Jones, Gore Abrams, Jared Hacker, Adam Schneider, Alice Bahlke",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xUSCQEbbAy3Lv6r00RfXtdxhRDX.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/yIxnn3tcSwHe0DXvvQ3dfFVEPSR.jpg",
+          "slug": "hell-house-llc",
+          "tmdbId": "359246",
+          "type": "movie",
+          "duration": "91 min"
+        },
         {
           "title": "A toda marcha",
           "synopsis": "Al comienzo del último año de instituto, el padre de Morgan Hiller ha perdido su empresa, así que la familia se traslada desde Connecticut, donde formaban parte de un club naútico, a un pequeño apartamento en el Valle de San Fernando. Morgan ha crecido a la sombra de su hermano mayor, y parece tener una gran destreza para meterse en líos. Además es muy obstinado, y cuando se siente atraído por Frankie, la novia de Nick, el líder de una banda local de gamberros, no duda en intentar una relación con la joven.",
@@ -247,145 +388,6 @@
           "tmdbId": "11076",
           "type": "movie",
           "duration": "107 min"
-        },
-        {
-          "title": "El monstruo (The Monster)",
-          "synopsis": "Kathy y su hija Lizzy se extravían en el bosque, quedando atrapadas en medio de una tormenta colosal. Por si esto fuera poco, son acechadas por una criatura terrible, que no es humana ni animal. Con The Monster, Bryan Bertino convierte el terror primario en un elemento catártico para redefinir la relación entre una madre y su hija.",
-          "rating": 5.5,
-          "year": "2016",
-          "genres": [
-            "Terror",
-            "Drama"
-          ],
-          "cast": "Zoe Kazan, Ella Ballentine, Aaron Douglas, Christine Ebadi, Marc Hickox",
-          "posterUrl": "https://image.tmdb.org/t/p/original/2wWmKgjwQrA6vtmYILAwzC6vzFJ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ioYtzheqeyVvZE2P1Xw2gFvet4D.jpg",
-          "slug": "el-monstruo-the-monster",
-          "tmdbId": "340103",
-          "type": "movie",
-          "duration": "91 min"
-        },
-        {
-          "title": "Ilusión de Verano",
-          "synopsis": "Hacia el final del verano, una joven pareja, Eric y Anna, toma la drástica decisión de huir de casa y embarcarse en un viaje sin un destino concreto. Lo que inicialmente parece un viaje liberador pronto se convierte en algo opresivo.",
-          "rating": 7.75,
-          "year": "2025",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Claud Hernández, Marc Pineda, Jordi Banacolocha, Helena De la Torre, Paola Soliva",
-          "posterUrl": "https://image.tmdb.org/t/p/original/8xBSgHesGmQKDG8x4PFjelUnDIC.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/h6edYO6f9dCqCz76h9Zo900i3Wt.jpg",
-          "slug": "ilusion-de-verano",
-          "tmdbId": "1136349",
-          "type": "movie",
-          "duration": "90 min"
-        },
-        {
-          "title": "Los Juegos del Hambre: Amanecer en la cosecha",
-          "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-          "rating": 7.5,
-          "year": "2026",
-          "genres": [
-            "Ciencia ficción",
-            "Acción",
-            "Aventura"
-          ],
-          "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close",
-          "posterUrl": "https://image.tmdb.org/t/p/original/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-          "slug": "los-juegos-del-hambre-amanecer-en-la-cosecha",
-          "tmdbId": "1300968",
-          "type": "movie",
-          "duration": "159 min"
-        },
-        {
-          "title": "Talento para matar",
-          "synopsis": "Un joven agente literario (Alden Ehrenreich) es enviado a Suiza para convencer a la famosa escritora Patricia Highsmith (Helen Mirren) de que escriba una última entrega de la antología de Ripley. La confrontación inicial entre la autora y el editor derivará rápidamente en una relación cada vez más extraña y retorcida.",
-          "rating": 6.76,
-          "year": "2026",
-          "genres": [
-            "Suspenso",
-            "Drama",
-            "Crimen"
-          ],
-          "cast": "Helen Mirren, Alden Ehrenreich, Olivia Cooke, Juliet Stevenson, James Faulkner",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
-          "slug": "talento-para-matar",
-          "tmdbId": "1084409",
-          "type": "movie",
-          "duration": "106 min"
-        },
-        {
-          "title": "La última cena",
-          "synopsis": "Bekir está en una misión encubierta, y en su ruta de escape se cruza con una joven pianista, Sebahat. Este es el inicio de los sucesos que unirán sus destinos. Sebahat, años después, invita a sus cuatro vecinas a cenar. Ahí, las invitadas comienzan a escuchar la épica historia de amor de Sebahat, y el doloroso pasado de ella y Bekir resurge. Una relación amorosa que desafía al destino.",
-          "rating": 9,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Drama"
-          ],
-          "cast": "Öykü Karayel, Özcan Deniz, Nejat İşler, Helin Kandemir, Gonca Vuslateri",
-          "posterUrl": "https://image.tmdb.org/t/p/original/gEnlXUpFG2dK8Roakyxcy69yphw.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/u3riq0UYL2aowB6u1xScMfDUFmr.jpg",
-          "slug": "la-ultima-cena-1561834",
-          "tmdbId": "1561834",
-          "type": "movie",
-          "duration": "122 min"
-        },
-        {
-          "title": "La barbería",
-          "synopsis": "Calvin ha heredado el negocio de su padre, y lo considera una carga y una absoluta perdida de tiempo. Tras vender la tienda a un usurero, Calvin comienza a valorar el legado de su padre y se da cuenta de que ha cometido el mayor error de su vida. La Barbería envuelve a un grupo de personajes eclécticos y divertidos que comparten sus historias, chistes y aflicciones. Encontramos a Eddie, un viejo barbero con una fuerte personalidad y ningún cliente. Jimmy, con un alto nivel de educación y un gran complejo de superioridad que no le permite soportar a Isaac, el nuevo barbero de raza blanca cuya única obsesión es que le den la oportunidad de cortar el pelo a alguien. Ricky es un ex-convicto con dos condenas a su espalda que intenta desesperadamente rehacer su vida de forma correcta. Terry es una mujer que a pesar de sus esfuerzos es incapaz de abandonar a su novio infiel.  (FILMAFFINITY)",
-          "rating": 6.45,
-          "year": "2002",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Ice Cube, Anthony Anderson, Cedric the Entertainer, Sean Patrick Thomas, Eve",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ykItJVBuFgGD1e4E5hSmhu5vKBg.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/zsbmsV4XHyJqG5fD7Vdw4NZbT2Y.jpg",
-          "slug": "la-barberia",
-          "tmdbId": "10611",
-          "type": "movie",
-          "duration": "102 min"
-        },
-        {
-          "title": "¿Qué más puede pasar?",
-          "synopsis": "Kevin y Max han forjado sus respectivas carreras a través del robo: Kevin Caffrey (Martin Lawrence) es un ladrón profesional con un gusto por las cosas finas y el billonario Max Fairbanks (Danny DeVito) es un despiadado hombre de negocios acostumbrado a conseguir lo que quiere. Cuando el siguiente objetivo de Kevin, para llevar a cabo un atraco nocturno sin problemas, es la casa de playa supuestamente desocupada de Max, Kevin interrumpe a éste con Miss Septiembre, aparece la policía y Kevin es arrestado. Sin embargo, al estar Kevin esposado, Max le quita a Kevin de la mano su anillo de la suerte y le dice a la policía que es suyo para llevar a cabo su propia venganza. Ahora las líneas de combate han quedado marcadas: El anillo era de la novia de Kevin, y éste hará cualquier cosa por recobrarlo.",
-          "rating": 5.48,
-          "year": "2001",
-          "genres": [
-            "Acción",
-            "Comedia",
-            "Crimen"
-          ],
-          "cast": "Martin Lawrence, Danny DeVito, John Leguizamo, Glenne Headly, Carmen Ejogo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/usOoMEEpVdEtuOqFMmBAOSPisGt.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/tONZXxOfDjYYSeVaGSmLpHpqO5B.jpg",
-          "slug": "que-mas-puede-pasar",
-          "tmdbId": "14034",
-          "type": "movie",
-          "duration": "94 min"
-        },
-        {
-          "title": "Los ríos de color púrpura 2: Los ángeles del apocalipsis",
-          "synopsis": "Para Niemans (Jean Reno) el caso del hombre emparedado en un monasterio de Lorena no es un caso cualquiera, razón por la cual trata de buscar una explicación tanto del rito como de las marcas esotéricas que aparecen alrededor del cadáver. Al mismo tiempo, en la zona se multiplican los asesinatos; los responsabels son unos extraños monjes dotados de una fuerza sobrenatural que desaparecen sin dejar rastro. Niemans empieza a entender algo cuando cae en la cuenta de que todas las víctimas tienen el mismo nombre y el mismo oficio que los apóstoles.",
-          "rating": 6.09,
-          "year": "2004",
-          "genres": [
-            "Acción",
-            "Suspenso",
-            "Crimen"
-          ],
-          "cast": "Jean Reno, Benoît Magimel, Camille Natta, Christopher Lee, Johnny Hallyday",
-          "posterUrl": "https://image.tmdb.org/t/p/original/boOjdZuuUQuXG4nGkhhFqjBkw2L.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/lgml5hKTsTGNqDKKm6UCtY7EqGM.jpg",
-          "slug": "los-rios-de-color-purpura-2-los-angeles-del-apocalipsis",
-          "tmdbId": "60672",
-          "type": "movie",
-          "duration": "97 min"
         }
       ]
     },
@@ -394,6 +396,24 @@
       "type": "movie",
       "seeMoreSlug": "estrenos",
       "items": [
+        {
+          "title": "Perfectos mentirosos",
+          "synopsis": "Bienvenidos a Tagus, donde el poder, el privilegio y los secretos mortales se esconden tras fachadas perfectas. Jude Derry llega a esta exclusiva universidad con una misión oculta: infiltrarse en el círculo de los hermanos Cash para descubrir la verdad sobre la muerte de su hermano. Los tres herederos del imperio familiar, Aegan, el carismático y calculador primogénito, Adrik, el enigmático y misterioso hermano mediano, y Alex, el rebelde e impredecible hermano pequeño, dominan Tagus con un magnetismo al que nadie puede resistirse. Lo que comienza como una venganza personal se transforma en un peligroso triángulo de seducción, atracción prohibida y mentiras cuando Jude queda envuelta en la compleja dinámica familiar de los Cash. Con cada pista que descubre, se acerca más a una verdad que podría no solo destruir a la poderosa familia… sino también desvelar secretos que quizás ella misma no está preparada para enfrentar.",
+          "rating": 0,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Romance",
+            "Suspenso"
+          ],
+          "cast": "Irene Balmes, Gleb Abrosimov, Pau Simon, Pablo Scapigliati, Asier Etxeandia",
+          "posterUrl": "https://image.tmdb.org/t/p/original/1amYmUeoBi23kGcR2pWQclEzXk2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
+          "slug": "perfectos-mentirosos",
+          "tmdbId": "1568060",
+          "type": "movie",
+          "duration": "103 min"
+        },
         {
           "title": "Madden",
           "synopsis": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
@@ -447,8 +467,8 @@
         },
         {
           "title": "Los Juegos del Hambre: Amanecer en la cosecha",
-          "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-          "rating": 7.5,
+          "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+          "rating": 7.31,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
@@ -456,7 +476,7 @@
             "Aventura"
           ],
           "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close",
-          "posterUrl": "https://image.tmdb.org/t/p/original/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
           "slug": "los-juegos-del-hambre-amanecer-en-la-cosecha",
           "tmdbId": "1300968",
@@ -549,23 +569,6 @@
           "tmdbId": "1615596",
           "type": "movie",
           "duration": "98 min"
-        },
-        {
-          "title": "El intercambio navideño",
-          "synopsis": "Dos hermanas que son como la noche y el día se ven obligadas a intercambiar sus vidas unas semanas antes de Navidad. En su nuevo entorno, ambas lidian con lo que han hecho hasta ahora y encuentran el amor donde menos se lo esperan.",
-          "rating": 6.72,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Comedia"
-          ],
-          "cast": "Felice Jankell, Happy Jankell, Christian Fandango Sundgren, Celie Sparre, Anastasios Soulis",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xKhsKS0VY21uHXTBk5Wyrx9VfPZ.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
-          "slug": "el-intercambio-navideno",
-          "tmdbId": "1757174",
-          "type": "movie",
-          "duration": "103 min"
         }
       ]
     }
@@ -576,6 +579,59 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "12 12 12",
+          "synopsis": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales.",
+          "rating": 6.1,
+          "year": "2026",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Anthony Mackie, Jamie Dornan, Jack Kesy, Agathe Rousselle, Sallie Harmsen",
+          "posterUrl": "https://image.tmdb.org/t/p/original/eq473fICspnCtzQfNxVsKgpgf3w.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+          "slug": "12-12-12",
+          "tmdbId": "254630",
+          "type": "series"
+        },
+        {
+          "title": "El Señor de los Anillos: Los Anillos de Poder",
+          "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
+          "rating": 7.22,
+          "year": "2022",
+          "genres": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Owain Arthur, Sophia Nomvete",
+          "posterUrl": "https://image.tmdb.org/t/p/original/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+          "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
+          "tmdbId": "84773",
+          "type": "series"
+        },
+        {
+          "title": "Nocturno",
+          "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
+          "rating": 7.64,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama",
+            "Misterio"
+          ],
+          "cast": "Stephen Graham, Liev Schreiber, Zazie Beetz, Chrissy Metz, Gary Carr",
+          "posterUrl": "https://image.tmdb.org/t/p/original/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+          "slug": "nocturno",
+          "tmdbId": "292741",
+          "type": "series"
+        },
         {
           "title": "Sacrifice",
           "synopsis": "The series follows Daniella Hernandez, a highly sought-after entertainment lawyer in Los Angeles, as she navigates the nefarious lives of her rich and famous clients while dealing with her own complicated personal life as a recovering alcoholic who compensates for her suppressed addiction with men and the adrenaline of defending the worst in the entertainment world against an over-zealous D.A. sworn to bring them all to justice. She is the classic conundrum of doing good for bad reasons and doing bad for good reasons.",
@@ -613,7 +669,7 @@
         {
           "title": "Chicago P.D.",
           "synopsis": "Narra las historias del Distrito 21 del Departamento de Policía de Chicago, hombres y mujeres que lo dan todo para proteger su comunidad El distrito 21 está compuesto por dos grupos, los uniformados que patrullan la ciudad y se enfrentan a los delitos callejeros, y la unidad de inteligencia, que combate los grandes delitos - crimen organizado, tráfico de drogas, asesinatos y más.",
-          "rating": 8.42,
+          "rating": 8.4,
           "year": "2014",
           "genres": [
             "Crimen",
@@ -688,53 +744,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
           "slug": "los-12-signos-de-valentina",
           "tmdbId": "318420",
-          "type": "series"
-        },
-        {
-          "title": "Gordon",
-          "synopsis": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
-          "rating": 8.5,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Crimen"
-          ],
-          "cast": "Rodrigo de la Serna, Matías Recalt, Camila Peralta, Fiorella Bottaioli, Agustín Pardella",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
-          "slug": "gordon",
-          "tmdbId": "340280",
-          "type": "series"
-        },
-        {
-          "title": "Somos así",
-          "synopsis": "Un grupo de amigos atraviesa un momento en que todo parece desajustarse al mismo tiempo. Trabajos que tambalean, vínculos que se redefinen, citas fallidas y secretos que salen a la luz los llevan a preguntarse quiénes son y qué están dispuestos a sostener. Vivirán situaciones delirantes que amenazan con cambiarlo todo, porque crecer no vino con un manual de instrucciones.",
-          "rating": 10,
-          "year": "2026",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Nicolás Occhiato, Flor Jazmín Peña, Momi Giardina, Martín Garabal, Santiago Talledo",
-          "posterUrl": "https://image.tmdb.org/t/p/original/p9dfUH3jSgdpVzrwdGZtBG1TADS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/fyJ1B8Yj7dFGjG0jfBpsHjBwgvT.jpg",
-          "slug": "somos-asi",
-          "tmdbId": "316752",
-          "type": "series"
-        },
-        {
-          "title": "Buscando a Wanda",
-          "synopsis": "Cuando desaparece su hija, los Klatt deciden tomar cartas en el asunto y urden un plan disparatado: espiar al vecindario. A medida que avanzan en esta operación de espionaje de poca monta, van desvelando asombrosos secretos.",
-          "rating": 6.6,
-          "year": "2024",
-          "genres": [
-            "Drama",
-            "Comedia"
-          ],
-          "cast": "Oliver Lansley",
-          "posterUrl": "https://image.tmdb.org/t/p/original/p3T1XtOvwBVaeG5tpB4sfhikng9.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/oWHbBNiTU2vhRSXh0iZ8E7YBUsj.jpg",
-          "slug": "buscando-a-wanda",
-          "tmdbId": "234310",
           "type": "series"
         }
       ]
