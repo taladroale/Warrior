@@ -1,6 +1,24 @@
 {
   "movieHero": [
     {
+      "title": "Los Juegos del Hambre: Amanecer en la cosecha",
+      "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "rating": 7.5,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close",
+      "posterUrl": "https://image.tmdb.org/t/p/original/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "slug": "los-juegos-del-hambre-amanecer-en-la-cosecha",
+      "tmdbId": "1300968",
+      "type": "movie",
+      "duration": "159 min"
+    },
+    {
       "title": "La Odisea",
       "synopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
       "rating": 8,
@@ -53,6 +71,23 @@
       "duration": "110 min"
     },
     {
+      "title": "La última cena",
+      "synopsis": "Bekir está en una misión encubierta, y en su ruta de escape se cruza con una joven pianista, Sebahat. Este es el inicio de los sucesos que unirán sus destinos. Sebahat, años después, invita a sus cuatro vecinas a cenar. Ahí, las invitadas comienzan a escuchar la épica historia de amor de Sebahat, y el doloroso pasado de ella y Bekir resurge. Una relación amorosa que desafía al destino.",
+      "rating": 9,
+      "year": "2026",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "cast": "Öykü Karayel, Özcan Deniz, Nejat İşler, Helin Kandemir, Gonca Vuslateri",
+      "posterUrl": "https://image.tmdb.org/t/p/original/gEnlXUpFG2dK8Roakyxcy69yphw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/u3riq0UYL2aowB6u1xScMfDUFmr.jpg",
+      "slug": "la-ultima-cena-1561834",
+      "tmdbId": "1561834",
+      "type": "movie",
+      "duration": "122 min"
+    },
+    {
       "title": "Spider-Man: Brand New Day",
       "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
       "rating": 8.5,
@@ -69,42 +104,6 @@
       "tmdbId": "969681",
       "type": "movie",
       "duration": "145 min"
-    },
-    {
-      "title": "Resident Evil",
-      "synopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "rating": 7.47,
-      "year": "2026",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
-      ],
-      "cast": "Austin Abrams, Paul Walter Hauser, Kali Reis, Zach Cherry, Johnno Wilson",
-      "posterUrl": "https://image.tmdb.org/t/p/original/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "slug": "resident-evil-1423191",
-      "tmdbId": "1423191",
-      "type": "movie",
-      "duration": "95 min"
-    },
-    {
-      "title": "Godzilla Minus Zero",
-      "synopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
-      "rating": 7.78,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Terror",
-        "Acción"
-      ],
-      "cast": "Ryunosuke Kamiki, 浜辺美波, 田中泯, 吉岡秀隆, Masami Nagasawa",
-      "posterUrl": "https://image.tmdb.org/t/p/original/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-      "slug": "godzilla-minus-zero",
-      "tmdbId": "1381071",
-      "type": "movie",
-      "duration": "135 min"
     }
   ],
   "seriesHero": [
@@ -124,6 +123,38 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
       "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
       "tmdbId": "84773",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.67,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
+      "title": "La ley de las bestias",
+      "synopsis": "La historia comienza tras el brutal asesinato de cuatro niños en Polonia. El caso sitúa a la comandante e investigadora principal Anna Berz y a la psiquiatra Agnieszka Grabska ante la misión de evaluar la salud mental del principal sospechoso, Mariusz Trynkiewicz. Bajo presión, ambas toman una decisión profesional que marcará y fracturará su relación.",
+      "rating": 7.72,
+      "year": "2026",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Agnieszka Grochowska, Agnieszka Żulewska, Michał Pawlik, Andrzej Chyra, Kamilla Baar",
+      "posterUrl": "https://image.tmdb.org/t/p/original/u7hQSvHz05x3Z6avbLDDhGuKgE8.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+      "slug": "la-ley-de-las-bestias",
+      "tmdbId": "332839",
       "type": "series"
     },
     {
@@ -160,53 +191,18 @@
       "type": "series"
     },
     {
-      "title": "La emperatriz divorciada",
-      "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
-      "rating": 8.61,
+      "title": "Vienna Game",
+      "synopsis": "1814. Mientras Napoleón languidece en prisión en la isla de Elba, los monarcas de Europa acuden a Viena para apostar por el futuro del continente, devastado por la guerra. Entre copas de champán, romances y luchas de poder, Wilhelmine von Sagan, maestra de intrigas, monárquica y amante del príncipe Metternich, tiene un encuentro crucial con el barón Amor Łaski, un bonapartista e irremediable seductor. El ministro de Asuntos Exteriores francés Talleyrand manipula a las potencias vencedoras, Austria, Prusia, Rusia e Inglaterra, para que se enfrenten entre sí, mientras que el zar y su hermana conspiran con el rey de Prusia. Cuando Seidl, un burócrata mediocre, falsifica una carta para desacreditar a su rival, desata una cadena de aciagos acontecimientos que obligará a todos a tomar decisiones arriesgadas. ¿Quién ganará la gran partida de la fortuna, el amor y el poder?",
+      "rating": 8.5,
       "year": "2026",
       "genres": [
-        "Drama",
-        "Ciencia ficción",
-        "Fantasía"
+        "Comedia"
       ],
-      "cast": "Shin Min-a, Ju Ji-hoon, 이종석, 이세영, Lukáš Tomšík",
-      "posterUrl": "https://image.tmdb.org/t/p/original/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-      "slug": "la-emperatriz-divorciada",
-      "tmdbId": "279246",
-      "type": "series"
-    },
-    {
-      "title": "VisionQuest",
-      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.25,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Fantasía",
-        "Drama"
-      ],
-      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
-      "posterUrl": "https://image.tmdb.org/t/p/original/oi9AqvVPEIjuQW3YmoFquoQKllj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "slug": "visionquest",
-      "tmdbId": "213375",
-      "type": "series"
-    },
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.7,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
+      "cast": "Fritz Karl, Marlene Tanczik, Daniel Donskoy, Alexander Scheer, Vladimir Burlakov",
+      "posterUrl": "https://image.tmdb.org/t/p/original/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg",
+      "slug": "vienna-game",
+      "tmdbId": "288120",
       "type": "series"
     }
   ],
@@ -216,6 +212,59 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "A toda marcha",
+          "synopsis": "Al comienzo del último año de instituto, el padre de Morgan Hiller ha perdido su empresa, así que la familia se traslada desde Connecticut, donde formaban parte de un club naútico, a un pequeño apartamento en el Valle de San Fernando. Morgan ha crecido a la sombra de su hermano mayor, y parece tener una gran destreza para meterse en líos. Además es muy obstinado, y cuando se siente atraído por Frankie, la novia de Nick, el líder de una banda local de gamberros, no duda en intentar una relación con la joven.",
+          "rating": 5.94,
+          "year": "1985",
+          "genres": [
+            "Drama",
+            "Acción",
+            "Romance"
+          ],
+          "cast": "James Spader, Kim Richards, Paul Mones, Matt Clark, Claudette Nevins",
+          "posterUrl": "https://image.tmdb.org/t/p/original/4dXaGArdTWjIKVDdfEjHjhxTeUg.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ziWL35cQqm8BbFfIcMwQBgaPS5v.jpg",
+          "slug": "a-toda-marcha",
+          "tmdbId": "28410",
+          "type": "movie",
+          "duration": "112 min"
+        },
+        {
+          "title": "Volando libre",
+          "synopsis": "Amy y su padre viven en una pequeña granja en Canadá. En un bosque cercano, Amy descubre un nido de gansos abandonado y decide criarlos. Ambos inician una divertida aventura: enseñan a los gansos a volar y los guían hacia tierras cálidas.",
+          "rating": 6.98,
+          "year": "1996",
+          "genres": [
+            "Aventura",
+            "Drama",
+            "Familia"
+          ],
+          "cast": "Jeff Daniels, Anna Paquin, Dana Delany, Terry Kinney, Holter Graham",
+          "posterUrl": "https://image.tmdb.org/t/p/original/6qHvc2fcTiyqbZgI4p7nzAHCccq.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/gJeF1Pn9nsSsexqaQpS0G840nI2.jpg",
+          "slug": "volando-libre",
+          "tmdbId": "11076",
+          "type": "movie",
+          "duration": "107 min"
+        },
+        {
+          "title": "El monstruo (The Monster)",
+          "synopsis": "Kathy y su hija Lizzy se extravían en el bosque, quedando atrapadas en medio de una tormenta colosal. Por si esto fuera poco, son acechadas por una criatura terrible, que no es humana ni animal. Con The Monster, Bryan Bertino convierte el terror primario en un elemento catártico para redefinir la relación entre una madre y su hija.",
+          "rating": 5.5,
+          "year": "2016",
+          "genres": [
+            "Terror",
+            "Drama"
+          ],
+          "cast": "Zoe Kazan, Ella Ballentine, Aaron Douglas, Christine Ebadi, Marc Hickox",
+          "posterUrl": "https://image.tmdb.org/t/p/original/2wWmKgjwQrA6vtmYILAwzC6vzFJ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/ioYtzheqeyVvZE2P1Xw2gFvet4D.jpg",
+          "slug": "el-monstruo-the-monster",
+          "tmdbId": "340103",
+          "type": "movie",
+          "duration": "91 min"
+        },
         {
           "title": "Ilusión de Verano",
           "synopsis": "Hacia el final del verano, una joven pareja, Eric y Anna, toma la drástica decisión de huir de casa y embarcarse en un viaje sin un destino concreto. Lo que inicialmente parece un viaje liberador pronto se convierte en algo opresivo.",
@@ -337,58 +386,6 @@
           "tmdbId": "60672",
           "type": "movie",
           "duration": "97 min"
-        },
-        {
-          "title": "El secreto",
-          "synopsis": "Documental de ficción que gira alrededor de la supuesta revelación del gran secreto que deben seguir los seres humanos para alcanzar lo deseado. En Estados Unidos llegó a estar en el puesto nº1 de los DVD más vendidos.",
-          "rating": 6.58,
-          "year": "2006",
-          "genres": [
-            "Documental"
-          ],
-          "cast": "Bob Proctor, Joe Vitale, John Assaraf, Loral Langemeier, Marie Diamond",
-          "posterUrl": "https://image.tmdb.org/t/p/original/nScW1nM9IOuTf49Okwy1ZTJf7G7.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/uIjNXtPFIfNX2fxQNP43N3K0n2O.jpg",
-          "slug": "el-secreto",
-          "tmdbId": "26594",
-          "type": "movie",
-          "duration": "90 min"
-        },
-        {
-          "title": "Encuentros paranormales",
-          "synopsis": "Nos muestra un equipo de cazadores de fantasmas en un show televisivo que ruedan un episodio dentro del abandonado hospital psiquiátrico Collingwood, donde durante años se han informado de fenómenos inexplicables. Cualquier cosa en nombre de la televisión vale, así que se encierran durante una noche dentro del lugar. Pero no tardarán en darse cuenta de que el edificio está más que maldito, está vivo, y no tiene la menor intención de dejarles salir de allí con vida. Se encuentran sumidos en un laberinto de pasillos interminables y aterrorizados por los fantasmas de antiguos pacientes. No tardarán en cuestionarse su propia cordura, descubriendo la verdad que esconde el oscuro hospital y grabando lo que será su último episodio.",
-          "rating": 6.34,
-          "year": "2011",
-          "genres": [
-            "Suspenso",
-            "Terror"
-          ],
-          "cast": "Sean Rogerson, Ashleigh Gryzko, Merwin Mondesir, Mackenzie Gray, Juan Riedinger",
-          "posterUrl": "https://image.tmdb.org/t/p/original/b6XxYgUhnlPmBu1miP19pnizWg0.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/mZdvVaC59aYRKKcl96hiia2nQp2.jpg",
-          "slug": "encuentros-paranormales",
-          "tmdbId": "50698",
-          "type": "movie",
-          "duration": "93 min"
-        },
-        {
-          "title": "Las aventuras de Bo Peep",
-          "synopsis": "Bo Peep tiene un gran regreso y finalmente contesta las preguntas sobre dónde ha estado desde la última vez que la vimos en 'Toy Story 2'.",
-          "rating": 7.03,
-          "year": "2020",
-          "genres": [
-            "Aventura",
-            "Animación",
-            "Comedia",
-            "Familia"
-          ],
-          "cast": "Annie Potts, Ally Maki, Jim Hanks, Emily Davis",
-          "posterUrl": "https://image.tmdb.org/t/p/original/kBIkCS3PQlHY86agofKY411jLM7.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/dRPCsvwgB1eyoBEtoGqulNhLd5C.jpg",
-          "slug": "las-aventuras-de-bo-peep",
-          "tmdbId": "594530",
-          "type": "movie",
-          "duration": "38 min"
         }
       ]
     },
@@ -810,9 +807,25 @@
           "type": "series"
         },
         {
+          "title": "La ley de las bestias",
+          "synopsis": "La historia comienza tras el brutal asesinato de cuatro niños en Polonia. El caso sitúa a la comandante e investigadora principal Anna Berz y a la psiquiatra Agnieszka Grabska ante la misión de evaluar la salud mental del principal sospechoso, Mariusz Trynkiewicz. Bajo presión, ambas toman una decisión profesional que marcará y fracturará su relación.",
+          "rating": 7.72,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Agnieszka Grochowska, Agnieszka Żulewska, Michał Pawlik, Andrzej Chyra, Kamilla Baar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/u7hQSvHz05x3Z6avbLDDhGuKgE8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+          "slug": "la-ley-de-las-bestias",
+          "tmdbId": "332839",
+          "type": "series"
+        },
+        {
           "title": "El crimen de Pazos",
           "synopsis": "En el tranquilo pueblo de Pazos, Aniceto y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo, lo que le lleva al hospital a luchar por su vida. Elías, un sargento de la Guardia Civil, está convencido de que Aniceto es el autor del crimen.",
-          "rating": 6.18,
+          "rating": 6.4,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -887,21 +900,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
           "slug": "the-good-daughter",
           "tmdbId": "249565",
-          "type": "series"
-        },
-        {
-          "title": "Milagros en urgencias",
-          "synopsis": "A bold decision brings an average med student to an elite ER team, where he encounters medical crises, ethical dilemmas, and personal growth.",
-          "rating": 8,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "霍建華, 楊謹華, 蔡凡熙, 詹子萱, 彭千祐",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3gbzlTn1cQgc2WXX733c0fgdvyL.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg",
-          "slug": "milagros-en-urgencias",
-          "tmdbId": "312661",
           "type": "series"
         }
       ]
