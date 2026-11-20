@@ -144,23 +144,6 @@
       "type": "series"
     },
     {
-      "title": "VisionQuest",
-      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.26,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Fantasía",
-        "Drama"
-      ],
-      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
-      "posterUrl": "https://image.tmdb.org/t/p/original/oi9AqvVPEIjuQW3YmoFquoQKllj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "slug": "visionquest",
-      "tmdbId": "213375",
-      "type": "series"
-    },
-    {
       "title": "Gordon",
       "synopsis": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
       "rating": 8.5,
@@ -194,18 +177,36 @@
       "type": "series"
     },
     {
-      "title": "Somos así",
-      "synopsis": "Un grupo de amigos atraviesa un momento en que todo parece desajustarse al mismo tiempo. Trabajos que tambalean, vínculos que se redefinen, citas fallidas y secretos que salen a la luz los llevan a preguntarse quiénes son y qué están dispuestos a sostener. Vivirán situaciones delirantes que amenazan con cambiarlo todo, porque crecer no vino con un manual de instrucciones.",
-      "rating": 10,
+      "title": "VisionQuest",
+      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "rating": 8.25,
       "year": "2026",
       "genres": [
-        "Comedia"
+        "Ciencia ficción",
+        "Fantasía",
+        "Drama"
       ],
-      "cast": "Nicolás Occhiato, Flor Jazmín Peña, Momi Giardina, Martín Garabal, Santiago Talledo",
-      "posterUrl": "https://image.tmdb.org/t/p/original/p9dfUH3jSgdpVzrwdGZtBG1TADS.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/fyJ1B8Yj7dFGjG0jfBpsHjBwgvT.jpg",
-      "slug": "somos-asi",
-      "tmdbId": "316752",
+      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+      "posterUrl": "https://image.tmdb.org/t/p/original/oi9AqvVPEIjuQW3YmoFquoQKllj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "slug": "visionquest",
+      "tmdbId": "213375",
+      "type": "series"
+    },
+    {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.7,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
       "type": "series"
     }
   ],
@@ -215,6 +216,161 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Ilusión de Verano",
+          "synopsis": "Hacia el final del verano, una joven pareja, Eric y Anna, toma la drástica decisión de huir de casa y embarcarse en un viaje sin un destino concreto. Lo que inicialmente parece un viaje liberador pronto se convierte en algo opresivo.",
+          "rating": 7.75,
+          "year": "2025",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Claud Hernández, Marc Pineda, Jordi Banacolocha, Helena De la Torre, Paola Soliva",
+          "posterUrl": "https://image.tmdb.org/t/p/original/8xBSgHesGmQKDG8x4PFjelUnDIC.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/h6edYO6f9dCqCz76h9Zo900i3Wt.jpg",
+          "slug": "ilusion-de-verano",
+          "tmdbId": "1136349",
+          "type": "movie",
+          "duration": "90 min"
+        },
+        {
+          "title": "Los Juegos del Hambre: Amanecer en la cosecha",
+          "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+          "rating": 7.5,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Acción",
+            "Aventura"
+          ],
+          "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close",
+          "posterUrl": "https://image.tmdb.org/t/p/original/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+          "slug": "los-juegos-del-hambre-amanecer-en-la-cosecha",
+          "tmdbId": "1300968",
+          "type": "movie",
+          "duration": "159 min"
+        },
+        {
+          "title": "Talento para matar",
+          "synopsis": "Un joven agente literario (Alden Ehrenreich) es enviado a Suiza para convencer a la famosa escritora Patricia Highsmith (Helen Mirren) de que escriba una última entrega de la antología de Ripley. La confrontación inicial entre la autora y el editor derivará rápidamente en una relación cada vez más extraña y retorcida.",
+          "rating": 6.76,
+          "year": "2026",
+          "genres": [
+            "Suspenso",
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Helen Mirren, Alden Ehrenreich, Olivia Cooke, Juliet Stevenson, James Faulkner",
+          "posterUrl": "https://image.tmdb.org/t/p/original/mstDPKNKgSGFvVFVdfzeMNkcyw2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mfpjOQ6hsvMUIFyzWglwerbpgFS.jpg",
+          "slug": "talento-para-matar",
+          "tmdbId": "1084409",
+          "type": "movie",
+          "duration": "106 min"
+        },
+        {
+          "title": "La última cena",
+          "synopsis": "Bekir está en una misión encubierta, y en su ruta de escape se cruza con una joven pianista, Sebahat. Este es el inicio de los sucesos que unirán sus destinos. Sebahat, años después, invita a sus cuatro vecinas a cenar. Ahí, las invitadas comienzan a escuchar la épica historia de amor de Sebahat, y el doloroso pasado de ella y Bekir resurge. Una relación amorosa que desafía al destino.",
+          "rating": 9,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Drama"
+          ],
+          "cast": "Öykü Karayel, Özcan Deniz, Nejat İşler, Helin Kandemir, Gonca Vuslateri",
+          "posterUrl": "https://image.tmdb.org/t/p/original/gEnlXUpFG2dK8Roakyxcy69yphw.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/u3riq0UYL2aowB6u1xScMfDUFmr.jpg",
+          "slug": "la-ultima-cena-1561834",
+          "tmdbId": "1561834",
+          "type": "movie",
+          "duration": "122 min"
+        },
+        {
+          "title": "La barbería",
+          "synopsis": "Calvin ha heredado el negocio de su padre, y lo considera una carga y una absoluta perdida de tiempo. Tras vender la tienda a un usurero, Calvin comienza a valorar el legado de su padre y se da cuenta de que ha cometido el mayor error de su vida. La Barbería envuelve a un grupo de personajes eclécticos y divertidos que comparten sus historias, chistes y aflicciones. Encontramos a Eddie, un viejo barbero con una fuerte personalidad y ningún cliente. Jimmy, con un alto nivel de educación y un gran complejo de superioridad que no le permite soportar a Isaac, el nuevo barbero de raza blanca cuya única obsesión es que le den la oportunidad de cortar el pelo a alguien. Ricky es un ex-convicto con dos condenas a su espalda que intenta desesperadamente rehacer su vida de forma correcta. Terry es una mujer que a pesar de sus esfuerzos es incapaz de abandonar a su novio infiel.  (FILMAFFINITY)",
+          "rating": 6.45,
+          "year": "2002",
+          "genres": [
+            "Comedia",
+            "Drama"
+          ],
+          "cast": "Ice Cube, Anthony Anderson, Cedric the Entertainer, Sean Patrick Thomas, Eve",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ykItJVBuFgGD1e4E5hSmhu5vKBg.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/zsbmsV4XHyJqG5fD7Vdw4NZbT2Y.jpg",
+          "slug": "la-barberia",
+          "tmdbId": "10611",
+          "type": "movie",
+          "duration": "102 min"
+        },
+        {
+          "title": "¿Qué más puede pasar?",
+          "synopsis": "Kevin y Max han forjado sus respectivas carreras a través del robo: Kevin Caffrey (Martin Lawrence) es un ladrón profesional con un gusto por las cosas finas y el billonario Max Fairbanks (Danny DeVito) es un despiadado hombre de negocios acostumbrado a conseguir lo que quiere. Cuando el siguiente objetivo de Kevin, para llevar a cabo un atraco nocturno sin problemas, es la casa de playa supuestamente desocupada de Max, Kevin interrumpe a éste con Miss Septiembre, aparece la policía y Kevin es arrestado. Sin embargo, al estar Kevin esposado, Max le quita a Kevin de la mano su anillo de la suerte y le dice a la policía que es suyo para llevar a cabo su propia venganza. Ahora las líneas de combate han quedado marcadas: El anillo era de la novia de Kevin, y éste hará cualquier cosa por recobrarlo.",
+          "rating": 5.48,
+          "year": "2001",
+          "genres": [
+            "Acción",
+            "Comedia",
+            "Crimen"
+          ],
+          "cast": "Martin Lawrence, Danny DeVito, John Leguizamo, Glenne Headly, Carmen Ejogo",
+          "posterUrl": "https://image.tmdb.org/t/p/original/usOoMEEpVdEtuOqFMmBAOSPisGt.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/tONZXxOfDjYYSeVaGSmLpHpqO5B.jpg",
+          "slug": "que-mas-puede-pasar",
+          "tmdbId": "14034",
+          "type": "movie",
+          "duration": "94 min"
+        },
+        {
+          "title": "Los ríos de color púrpura 2: Los ángeles del apocalipsis",
+          "synopsis": "Para Niemans (Jean Reno) el caso del hombre emparedado en un monasterio de Lorena no es un caso cualquiera, razón por la cual trata de buscar una explicación tanto del rito como de las marcas esotéricas que aparecen alrededor del cadáver. Al mismo tiempo, en la zona se multiplican los asesinatos; los responsabels son unos extraños monjes dotados de una fuerza sobrenatural que desaparecen sin dejar rastro. Niemans empieza a entender algo cuando cae en la cuenta de que todas las víctimas tienen el mismo nombre y el mismo oficio que los apóstoles.",
+          "rating": 6.09,
+          "year": "2004",
+          "genres": [
+            "Acción",
+            "Suspenso",
+            "Crimen"
+          ],
+          "cast": "Jean Reno, Benoît Magimel, Camille Natta, Christopher Lee, Johnny Hallyday",
+          "posterUrl": "https://image.tmdb.org/t/p/original/boOjdZuuUQuXG4nGkhhFqjBkw2L.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/lgml5hKTsTGNqDKKm6UCtY7EqGM.jpg",
+          "slug": "los-rios-de-color-purpura-2-los-angeles-del-apocalipsis",
+          "tmdbId": "60672",
+          "type": "movie",
+          "duration": "97 min"
+        },
+        {
+          "title": "El secreto",
+          "synopsis": "Documental de ficción que gira alrededor de la supuesta revelación del gran secreto que deben seguir los seres humanos para alcanzar lo deseado. En Estados Unidos llegó a estar en el puesto nº1 de los DVD más vendidos.",
+          "rating": 6.58,
+          "year": "2006",
+          "genres": [
+            "Documental"
+          ],
+          "cast": "Bob Proctor, Joe Vitale, John Assaraf, Loral Langemeier, Marie Diamond",
+          "posterUrl": "https://image.tmdb.org/t/p/original/nScW1nM9IOuTf49Okwy1ZTJf7G7.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/uIjNXtPFIfNX2fxQNP43N3K0n2O.jpg",
+          "slug": "el-secreto",
+          "tmdbId": "26594",
+          "type": "movie",
+          "duration": "90 min"
+        },
+        {
+          "title": "Encuentros paranormales",
+          "synopsis": "Nos muestra un equipo de cazadores de fantasmas en un show televisivo que ruedan un episodio dentro del abandonado hospital psiquiátrico Collingwood, donde durante años se han informado de fenómenos inexplicables. Cualquier cosa en nombre de la televisión vale, así que se encierran durante una noche dentro del lugar. Pero no tardarán en darse cuenta de que el edificio está más que maldito, está vivo, y no tiene la menor intención de dejarles salir de allí con vida. Se encuentran sumidos en un laberinto de pasillos interminables y aterrorizados por los fantasmas de antiguos pacientes. No tardarán en cuestionarse su propia cordura, descubriendo la verdad que esconde el oscuro hospital y grabando lo que será su último episodio.",
+          "rating": 6.34,
+          "year": "2011",
+          "genres": [
+            "Suspenso",
+            "Terror"
+          ],
+          "cast": "Sean Rogerson, Ashleigh Gryzko, Merwin Mondesir, Mackenzie Gray, Juan Riedinger",
+          "posterUrl": "https://image.tmdb.org/t/p/original/b6XxYgUhnlPmBu1miP19pnizWg0.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mZdvVaC59aYRKKcl96hiia2nQp2.jpg",
+          "slug": "encuentros-paranormales",
+          "tmdbId": "50698",
+          "type": "movie",
+          "duration": "93 min"
+        },
         {
           "title": "Las aventuras de Bo Peep",
           "synopsis": "Bo Peep tiene un gran regreso y finalmente contesta las preguntas sobre dónde ha estado desde la última vez que la vimos en 'Toy Story 2'.",
@@ -233,159 +389,6 @@
           "tmdbId": "594530",
           "type": "movie",
           "duration": "38 min"
-        },
-        {
-          "title": "Mud",
-          "synopsis": "En una isla del Mississippi, dos chicos descubren a un fugitivo llamado Mud. Ha matado a un hombre para proteger al amor de su vida, Juniper, y ahora se oculta de los cazadores de recompensas. Los chicos acceden a ayudarle a reunirse con Juniper y preparar su huida juntos, sin saber que la aparición de Mud significará el fin de sus infancias.",
-          "rating": 7.06,
-          "year": "2013",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Matthew McConaughey, Reese Witherspoon, Tye Sheridan, Jacob Lofland, Sam Shepard",
-          "posterUrl": "https://image.tmdb.org/t/p/original/hw5hg92EP5hYa2i6UEC6NdylEk1.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/otmqSaptLwYutON1oZEgBLZeBEQ.jpg",
-          "slug": "mud",
-          "tmdbId": "103731",
-          "type": "movie",
-          "duration": "130 min"
-        },
-        {
-          "title": "El último americano virgen",
-          "synopsis": "Gary es un repartidor de pizza de Los Ángeles. Con sus amigos disfruta de todas las locuras de su juventud en la escuela y en las fiestas. Hasta que conoce a Karen, una hermosa niña, que se muda al vecindario, despertando la pasión en Gary. Pero ella se acerca a Rick, el conquistador de la clase.",
-          "rating": 6.6,
-          "year": "1982",
-          "genres": [
-            "Comedia"
-          ],
-          "cast": "Lawrence Monoson, Diane Franklin, Steve Antin, Joe Rubbo, Louisa Moritz",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ttGdSGgYDUGnPpJNyG2qGs4cd3C.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/o5L8YjAV3TpNHD8sPFxSrrAOWhN.jpg",
-          "slug": "el-ultimo-americano-virgen",
-          "tmdbId": "27088",
-          "type": "movie",
-          "duration": "93 min"
-        },
-        {
-          "title": "Guardaespaldas por navidad",
-          "synopsis": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
-          "rating": 7.4,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Comedia"
-          ],
-          "cast": "Leighton Meester, Jared Padalecki, Andie MacDowell, Walker Hayes, Noah LaLonde",
-          "posterUrl": "https://image.tmdb.org/t/p/original/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-          "slug": "guardaespaldas-por-navidad",
-          "tmdbId": "1551025",
-          "type": "movie",
-          "duration": "109 min"
-        },
-        {
-          "title": "Buena suerte, pásalo bien, no mueras",
-          "synopsis": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
-          "rating": 7.11,
-          "year": "2026",
-          "genres": [
-            "Ciencia ficción",
-            "Acción",
-            "Comedia"
-          ],
-          "cast": "Sam Rockwell, Juno Temple, Haley Lu Richardson, Michael Peña, Zazie Beetz",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/drRxbu2OHG0DEENptZ8wI5f0uEU.jpg",
-          "slug": "good-luck-have-fun-dont-die",
-          "tmdbId": "1119449",
-          "type": "movie",
-          "duration": "134 min"
-        },
-        {
-          "title": "Misión a Marte",
-          "synopsis": "En el año 2020 el comandante Luke Graham es seleccionado para dirigir la primera misión tripulada de la NASA a Marte. Una vez en el planeta rojo, descubren una antigua estructura con forma de cúpula que parece ser una especie de baliza. La cúpula mata a la tripulación y deja herido a Luke. El coronel Jim McConnell, recientemente enviudado, encabezará la misión de rescate.",
-          "rating": 6.03,
-          "year": "2000",
-          "genres": [
-            "Ciencia ficción",
-            "Aventura",
-            "Drama"
-          ],
-          "cast": "Gary Sinise, Tim Robbins, Don Cheadle, Connie Nielsen, Jerry O'Connell",
-          "posterUrl": "https://image.tmdb.org/t/p/original/fQM0eyV5b7jQefpSLvQS6b0e1yc.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/qurwfjYAzSgSsQl99IY6ttZ0S7P.jpg",
-          "slug": "mision-a-marte",
-          "tmdbId": "2067",
-          "type": "movie",
-          "duration": "114 min"
-        },
-        {
-          "title": "Madden",
-          "synopsis": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Historia"
-          ],
-          "cast": "Nicolas Cage, Christian Bale, John Mulaney, Kathryn Hahn, Sienna Miller",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
-          "slug": "madden",
-          "tmdbId": "1131943",
-          "type": "movie",
-          "duration": "110 min"
-        },
-        {
-          "title": "La barbería 3: Todo el mundo necesita un corte",
-          "synopsis": "Han pasado más de diez años desde la última cita en la Barbería de Calvin. Calvin (Ice Cube) y su equipo de toda la vida incluyendo a Eddie (Cedric the Entertainer), siguen ahí, pero la barbería ha sufrido algunos cambios importantes. El más destacado, es que el sitio una vez dominado por hombres ahora es mixto. Las damas traen su propio sabor, drama y chisme a la barbería, desafiando a sus compañeros a cada paso. A pesar de los buenos tiempos y camaradería dentro de la barbería, la comunidad circundante ha dado un giro para peor, obligando a Calvin y a su equipo a reunirse no sólo para salvar la tienda, sino también a su barrio.",
-          "rating": 6.3,
-          "year": "2016",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Ice Cube, Cedric the Entertainer, Regina Hall, Sean Patrick Thomas, Eve",
-          "posterUrl": "https://image.tmdb.org/t/p/original/mS02PgUL6vYn1yhJJuWbcLpYDj2.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/iI8okuTbcf6JCyBM3oLcneW6bDF.jpg",
-          "slug": "la-barberia-3-todo-el-mundo-necesita-un-corte",
-          "tmdbId": "326423",
-          "type": "movie",
-          "duration": "112 min"
-        },
-        {
-          "title": "Cadillac Records",
-          "synopsis": "\"Cadillac Records\" es una historia sobre sexo, violencia, raza y rock and roll en el Chicago de los 50, y cuenta la vida excitante y turbulenta de algunas de las leyendas de la música de Estados Unidos, incluyendo a Muddy Waters, Leonard Chess, Little Walter, Howlin 'Wolf, Etta James y Chuck Berry.",
-          "rating": 7.08,
-          "year": "2008",
-          "genres": [
-            "Drama",
-            "Historia",
-            "Música"
-          ],
-          "cast": "Adrien Brody, Jeffrey Wright, Gabrielle Union, Columbus Short, Cedric the Entertainer",
-          "posterUrl": "https://image.tmdb.org/t/p/original/71SDc1iIAK3mv0PDl4eoD2O5eCd.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ubgl0v0crnOGYPGkR2hhIwv7Chm.jpg",
-          "slug": "cadillac-records",
-          "tmdbId": "14299",
-          "type": "movie",
-          "duration": "109 min"
-        },
-        {
-          "title": "Monkey’s Magic Merry Go Round",
-          "synopsis": "Monkey's Magic Merry Go Round es un thriller psicológico de terror y comedia oscura sobre James Jensen, un querido presentador de un programa infantil de televisión. Tras sufrir amnesia y no recordar su vida antes del show, sus alegres marionetas (lideradas por un mono) muestran intenciones siniestras, convirtiendo el set en una pesadilla sangrienta mientras él revive un trauma de su infancia.",
-          "rating": 7.55,
-          "year": "2026",
-          "genres": [
-            "Terror"
-          ],
-          "cast": "Frank Cesario, Jackie Shook, Connar Brown Sprenger, Rob Chesler, Erick Heyer-Fogelberg",
-          "posterUrl": "https://image.tmdb.org/t/p/original/g1v1ogfa8PCvcYJ1JSmrqbcHMAP.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
-          "slug": "monkeys-magic-merry-go-round",
-          "tmdbId": "1314829",
-          "type": "movie",
-          "duration": "91 min"
         }
       ]
     },
@@ -427,6 +430,41 @@
           "tmdbId": "1551025",
           "type": "movie",
           "duration": "109 min"
+        },
+        {
+          "title": "La última cena",
+          "synopsis": "Bekir está en una misión encubierta, y en su ruta de escape se cruza con una joven pianista, Sebahat. Este es el inicio de los sucesos que unirán sus destinos. Sebahat, años después, invita a sus cuatro vecinas a cenar. Ahí, las invitadas comienzan a escuchar la épica historia de amor de Sebahat, y el doloroso pasado de ella y Bekir resurge. Una relación amorosa que desafía al destino.",
+          "rating": 9,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Drama"
+          ],
+          "cast": "Öykü Karayel, Özcan Deniz, Nejat İşler, Helin Kandemir, Gonca Vuslateri",
+          "posterUrl": "https://image.tmdb.org/t/p/original/gEnlXUpFG2dK8Roakyxcy69yphw.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/u3riq0UYL2aowB6u1xScMfDUFmr.jpg",
+          "slug": "la-ultima-cena-1561834",
+          "tmdbId": "1561834",
+          "type": "movie",
+          "duration": "122 min"
+        },
+        {
+          "title": "Los Juegos del Hambre: Amanecer en la cosecha",
+          "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+          "rating": 7.5,
+          "year": "2026",
+          "genres": [
+            "Ciencia ficción",
+            "Acción",
+            "Aventura"
+          ],
+          "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close",
+          "posterUrl": "https://image.tmdb.org/t/p/original/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+          "slug": "los-juegos-del-hambre-amanecer-en-la-cosecha",
+          "tmdbId": "1300968",
+          "type": "movie",
+          "duration": "159 min"
         },
         {
           "title": "Second Chance Holiday",
@@ -531,41 +569,6 @@
           "tmdbId": "1757174",
           "type": "movie",
           "duration": "103 min"
-        },
-        {
-          "title": "Allen",
-          "synopsis": "El mejor amigo de la infancia de Petey, un extraterrestre llamado Allen, desapareció sin despedirse. Dos décadas más tarde, Allen regresa con un secreto que podría cambiar el mundo, lo que obliga a Petey a madurar de una vez por todas y ayudar a salvarlo.",
-          "rating": 7.05,
-          "year": "2026",
-          "genres": [
-            "Ciencia ficción",
-            "Aventura",
-            "Comedia"
-          ],
-          "cast": "T.J. Power, Charlotte Nicdao, Josh Helman, Emily Barclay, Benedict Hardie",
-          "posterUrl": "https://image.tmdb.org/t/p/original/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
-          "slug": "allen",
-          "tmdbId": "1518204",
-          "type": "movie",
-          "duration": "105 min"
-        },
-        {
-          "title": "Snoopy presenta: 12 días para Navidad",
-          "synopsis": "Para salir de la lista de los traviesos de Papá Noel, Snoopy hace buenas acciones.",
-          "rating": 7.25,
-          "year": "2026",
-          "genres": [
-            "Animación",
-            "Familia"
-          ],
-          "cast": "Terry McGurrin, Rob Tinkler, John Legend, Leon Bridges, Laufey",
-          "posterUrl": "https://image.tmdb.org/t/p/original/vRgNjtr3TnhnBHqX3b7OdGprMgV.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/a3DzS9AUB6AgYiELaeTn2n8EfNz.jpg",
-          "slug": "snoopy-presenta-12-dias-para-navidad",
-          "tmdbId": "1780407",
-          "type": "movie",
-          "duration": "33 min"
         }
       ]
     }
@@ -576,6 +579,120 @@
       "type": "series",
       "seeMoreSlug": "ultimas-series",
       "items": [
+        {
+          "title": "Sacrifice",
+          "synopsis": "The series follows Daniella Hernandez, a highly sought-after entertainment lawyer in Los Angeles, as she navigates the nefarious lives of her rich and famous clients while dealing with her own complicated personal life as a recovering alcoholic who compensates for her suppressed addiction with men and the adrenaline of defending the worst in the entertainment world against an over-zealous D.A. sworn to bring them all to justice. She is the classic conundrum of doing good for bad reasons and doing bad for good reasons.",
+          "rating": 7.33,
+          "year": "2021",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Paula Patton",
+          "posterUrl": "https://image.tmdb.org/t/p/original/wo272z8k2OBJu8j4vjxJovCEAcZ.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/5tMQYIpLEnzzCtEybLY9LdSlqnP.jpg",
+          "slug": "sacrifice",
+          "tmdbId": "137948",
+          "type": "series"
+        },
+        {
+          "title": "Dragon Ball Super: Beerus",
+          "synopsis": "Años después de la derrota de Majin Buu, la Tierra ha recuperado la paz. Sin embargo, cuando Beerus, el Dios de la Destrucción, despierta, dicha paz se ve truncada. Atraído a la Tierra por los rumores sobre el Saiyan que derrotó a Freezer, Beerus busca desafiar a Goku con un poder capaz de destruir planetas enteros. Ahora, Goku y sus aliados deben enfrentarse a Beerus en una batalla que sacudirá el universo.",
+          "rating": 9.6,
+          "year": "2026",
+          "genres": [
+            "Animación",
+            "Acción",
+            "Aventura",
+            "Ciencia ficción",
+            "Fantasía"
+          ],
+          "cast": "Masako Nozawa, Ryo Horikawa, Naoko Watanabe, Unsho Ishizuka, Koichi Yamadera",
+          "posterUrl": "https://image.tmdb.org/t/p/original/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+          "slug": "dragon-ball-super-beerus",
+          "tmdbId": "312359",
+          "type": "series"
+        },
+        {
+          "title": "Chicago P.D.",
+          "synopsis": "Narra las historias del Distrito 21 del Departamento de Policía de Chicago, hombres y mujeres que lo dan todo para proteger su comunidad El distrito 21 está compuesto por dos grupos, los uniformados que patrullan la ciudad y se enfrentan a los delitos callejeros, y la unidad de inteligencia, que combate los grandes delitos - crimen organizado, tráfico de drogas, asesinatos y más.",
+          "rating": 8.42,
+          "year": "2014",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Jason Beghe, Marina Squerciati, Patrick John Flueger, Benjamin Levy Aguilar, Arienne Mandi",
+          "posterUrl": "https://image.tmdb.org/t/p/original/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/18KSsDgcGQds7yOMC6MVRTbVJwt.jpg",
+          "slug": "chicago-pd",
+          "tmdbId": "58841",
+          "type": "series"
+        },
+        {
+          "title": "La ley de las bestias",
+          "synopsis": "La historia comienza tras el brutal asesinato de cuatro niños en Polonia. El caso sitúa a la comandante e investigadora principal Anna Berz y a la psiquiatra Agnieszka Grabska ante la misión de evaluar la salud mental del principal sospechoso, Mariusz Trynkiewicz. Bajo presión, ambas toman una decisión profesional que marcará y fracturará su relación.",
+          "rating": 7.72,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Drama"
+          ],
+          "cast": "Agnieszka Grochowska, Agnieszka Żulewska, Michał Pawlik, Andrzej Chyra, Kamilla Baar",
+          "posterUrl": "https://image.tmdb.org/t/p/original/u7hQSvHz05x3Z6avbLDDhGuKgE8.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+          "slug": "la-ley-de-las-bestias",
+          "tmdbId": "332839",
+          "type": "series"
+        },
+        {
+          "title": "Doctora X",
+          "synopsis": "En un hospital marcado por los egos y la corrupción, una enigmática y brillante cirujana asume casos que parecen imposibles pese a la férrea oposición.",
+          "rating": 8.7,
+          "year": "2026",
+          "genres": [
+            "Misterio",
+            "Drama",
+            "Crimen"
+          ],
+          "cast": "Kim Ji-won, Lee Jung-eun, 손현주, 김우석, 이진희",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+          "slug": "doctor-x-mafia-in-white",
+          "tmdbId": "293610",
+          "type": "series"
+        },
+        {
+          "title": "Vienna Game",
+          "synopsis": "1814. Mientras Napoleón languidece en prisión en la isla de Elba, los monarcas de Europa acuden a Viena para apostar por el futuro del continente, devastado por la guerra. Entre copas de champán, romances y luchas de poder, Wilhelmine von Sagan, maestra de intrigas, monárquica y amante del príncipe Metternich, tiene un encuentro crucial con el barón Amor Łaski, un bonapartista e irremediable seductor. El ministro de Asuntos Exteriores francés Talleyrand manipula a las potencias vencedoras, Austria, Prusia, Rusia e Inglaterra, para que se enfrenten entre sí, mientras que el zar y su hermana conspiran con el rey de Prusia. Cuando Seidl, un burócrata mediocre, falsifica una carta para desacreditar a su rival, desata una cadena de aciagos acontecimientos que obligará a todos a tomar decisiones arriesgadas. ¿Quién ganará la gran partida de la fortuna, el amor y el poder?",
+          "rating": 8.5,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Fritz Karl, Marlene Tanczik, Daniel Donskoy, Alexander Scheer, Vladimir Burlakov",
+          "posterUrl": "https://image.tmdb.org/t/p/original/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg",
+          "slug": "vienna-game",
+          "tmdbId": "288120",
+          "type": "series"
+        },
+        {
+          "title": "Los 12 signos de Valentina",
+          "synopsis": "v‌e‌r‌cineo.net – Películas y series HD, Gratis\n\nValentina, a quien su novio le es infiel y a quien le dicen que su problema se debe a una incompatibilidad astronómica, decide salir con hombres de todos los signos del zodiaco y compartir sus experiencias en un videopodcast.",
+          "rating": 5.5,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Giovanna Grigio, Lucas Leto, José Condessa, Jéssica Marques, Larissa Bocchino",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
+          "slug": "los-12-signos-de-valentina",
+          "tmdbId": "318420",
+          "type": "series"
+        },
         {
           "title": "Gordon",
           "synopsis": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
@@ -622,119 +739,6 @@
           "slug": "buscando-a-wanda",
           "tmdbId": "234310",
           "type": "series"
-        },
-        {
-          "title": "Sticks: Cracks del golf",
-          "synopsis": "Pryce Cahill estaba destinado al olimpo del golf, pero una crisis en pleno partido acabó con su carrera. Ahora sobrevive como puede y se entrega en cuerpo y alma para entrenar a Santi, un genio adolescente con un potencial inmenso... y quizá salvarse a sí mismo.",
-          "rating": 7.34,
-          "year": "2025",
-          "genres": [
-            "Comedia",
-            "Drama"
-          ],
-          "cast": "Owen Wilson, Peter Dager, Lilli Kay, Mariana Treviño, Timothy Olyphant",
-          "posterUrl": "https://image.tmdb.org/t/p/original/h2eNJ4FaLhBIMoFbqrYID3BPyc5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/2Bt2uXrIOQASBAsni2AGGqCCF14.jpg",
-          "slug": "sticks-cracks-del-golf",
-          "tmdbId": "248830",
-          "type": "series"
-        },
-        {
-          "title": "El Instituto",
-          "synopsis": "Luke Ellis, un genio de 14 años, es secuestrado en plena noche y trasladado al Instituto, una instalación en el Maine rural que recluye a niños con habilidades psíquicas. Su directora es la Sra. Sigsby, una sádica y firme defensora de la causa que hará cualquier cosa para llevar a cabo su misión. Sigsby y Luke chocan de inmediato en un letal enfrentamiento de opiniones.",
-          "rating": 7.46,
-          "year": "2025",
-          "genres": [
-            "Misterio",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Ben Barnes, Joe Freeman, Simone Miller, Fionn Laird, Hannah Galway",
-          "posterUrl": "https://image.tmdb.org/t/p/original/nuJzSRiz3zEbxeRie4ldgkKMm8l.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wWleS7DxsoGCkOPisNf8OZ2udiD.jpg",
-          "slug": "el-instituto",
-          "tmdbId": "253372",
-          "type": "series"
-        },
-        {
-          "title": "Un amor infiltrado",
-          "synopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
-          "rating": 9.09,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama",
-            "Crimen"
-          ],
-          "cast": "Yim Si-wan, 설인아, 김정현, 연우",
-          "posterUrl": "https://image.tmdb.org/t/p/original/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
-          "slug": "un-amor-infiltrado",
-          "tmdbId": "303745",
-          "type": "series"
-        },
-        {
-          "title": "Farsante",
-          "synopsis": "La serie sigue a Sonny, un adolescente que despierta en el hospital después de sufrir un accidente de coche y descubre que su madre, su única figura parental y su mejor amiga, parece haber sido sustituida por una impostora.",
-          "rating": 7,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Drama",
-            "Misterio"
-          ],
-          "cast": "Connie Britton, Sam Nivola, Grace Brennan, Maliq Johnson, Meera Syal",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bTVmNxsVAKzZVx6nU2KEJ3ulHS.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/roUD5m2nj6k88azMFsiqBae29cr.jpg",
-          "slug": "farsante",
-          "tmdbId": "275139",
-          "type": "series"
-        },
-        {
-          "title": "El sol entre la lluvia",
-          "synopsis": "Zheng Yu es una estudiante de Biología que lucha por conseguir una beca universitaria mientras trabaja para pagar las deudas familiares y el tratamiento médico de su madre. Su vida se complica cuando Chen Yanzhou, un joven reservado que regresa a la universidad tras una enfermedad, consigue superar sus calificaciones. Aunque inicialmente son rivales, ambos se ven obligados a colaborar y, poco a poco, descubren que comparten heridas emocionales y dificultades personales. Entre la rivalidad y el amor, aprenderán a apoyarse para superar los obstáculos de la vida.",
-          "rating": 9.6,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "杨超越, 董思成",
-          "posterUrl": "https://image.tmdb.org/t/p/original/znoLZauHNWfXHq1PcH8wRf42m2e.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
-          "slug": "sunshine-through-the-rain",
-          "tmdbId": "307853",
-          "type": "series"
-        },
-        {
-          "title": "Asesinato en Glitterball City",
-          "synopsis": "La ciudad de Louisville, Kentucky, conocida por su arquitectura victoriana histórica y cuna de la bola de espejos, resulta ser un escenario inesperado para una oscura historia de asesinato. El documental, dividido en dos partes, explora el cambiante panorama de un misterioso asesinato, una relación tóxica, una víctima vulnerable y los testimonios poco fiables de dos ex amantes juzgados por sus vidas.",
-          "rating": 6,
-          "year": "2026",
-          "genres": [
-            "Crimen",
-            "Documental"
-          ],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/47vLjLQi3tIspWLs0vdgIxzXeE0.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/2Y1sfUem465aPHCnbq5w0wfd1qE.jpg",
-          "slug": "asesinato-en-glitterball-city",
-          "tmdbId": "312530",
-          "type": "series"
-        },
-        {
-          "title": "Minami, abogada extraordinaria",
-          "synopsis": "Con una memoria prodigiosa y una perspectiva única, Minami se enfrenta a retos dentro y fuera de los tribunales como abogada novata con trastorno del espectro autista",
-          "rating": 6.5,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "芦田愛菜, Fumiya Takahashi, 細田佳央太, 久保史緒里, 柿原りんか",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ax4KpZOjZ59hp6IjYNOfJMAYge0.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/w7p0SUuixmEyf5a5wVKAgHNkh8e.jpg",
-          "slug": "minami-abogada-extraordinaria",
-          "tmdbId": "332713",
-          "type": "series"
         }
       ]
     },
@@ -775,9 +779,40 @@
           "type": "series"
         },
         {
+          "title": "Los 12 signos de Valentina",
+          "synopsis": "v‌e‌r‌cineo.net – Películas y series HD, Gratis\n\nValentina, a quien su novio le es infiel y a quien le dicen que su problema se debe a una incompatibilidad astronómica, decide salir con hombres de todos los signos del zodiaco y compartir sus experiencias en un videopodcast.",
+          "rating": 5.5,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Comedia"
+          ],
+          "cast": "Giovanna Grigio, Lucas Leto, José Condessa, Jéssica Marques, Larissa Bocchino",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
+          "slug": "los-12-signos-de-valentina",
+          "tmdbId": "318420",
+          "type": "series"
+        },
+        {
+          "title": "Vienna Game",
+          "synopsis": "1814. Mientras Napoleón languidece en prisión en la isla de Elba, los monarcas de Europa acuden a Viena para apostar por el futuro del continente, devastado por la guerra. Entre copas de champán, romances y luchas de poder, Wilhelmine von Sagan, maestra de intrigas, monárquica y amante del príncipe Metternich, tiene un encuentro crucial con el barón Amor Łaski, un bonapartista e irremediable seductor. El ministro de Asuntos Exteriores francés Talleyrand manipula a las potencias vencedoras, Austria, Prusia, Rusia e Inglaterra, para que se enfrenten entre sí, mientras que el zar y su hermana conspiran con el rey de Prusia. Cuando Seidl, un burócrata mediocre, falsifica una carta para desacreditar a su rival, desata una cadena de aciagos acontecimientos que obligará a todos a tomar decisiones arriesgadas. ¿Quién ganará la gran partida de la fortuna, el amor y el poder?",
+          "rating": 8.5,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Fritz Karl, Marlene Tanczik, Daniel Donskoy, Alexander Scheer, Vladimir Burlakov",
+          "posterUrl": "https://image.tmdb.org/t/p/original/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg",
+          "slug": "vienna-game",
+          "tmdbId": "288120",
+          "type": "series"
+        },
+        {
           "title": "El crimen de Pazos",
           "synopsis": "En el tranquilo pueblo de Pazos, Aniceto y su mujer Irene parecen ser la pareja perfecta hasta que, una noche, ella sufre un brutal ataque como resultado de un presunto robo, lo que le lleva al hospital a luchar por su vida. Elías, un sargento de la Guardia Civil, está convencido de que Aniceto es el autor del crimen.",
-          "rating": 6.31,
+          "rating": 6.18,
           "year": "2026",
           "genres": [
             "Crimen",
@@ -867,38 +902,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg",
           "slug": "milagros-en-urgencias",
           "tmdbId": "312661",
-          "type": "series"
-        },
-        {
-          "title": "La ley de Alicia",
-          "synopsis": "Alicia retoma la abogacía tras ver que su vida se desmorona, y entonces comprende que, mientras rehace su carrera, se redefine a sí misma.",
-          "rating": 6.5,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Fernanda Castillo, Michel Brown, Claudio Roca, Juan Manuel Bernal, Caro Darman",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
-          "slug": "la-ley-de-alicia",
-          "tmdbId": "338562",
-          "type": "series"
-        },
-        {
-          "title": "El cuerpo",
-          "synopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
-          "rating": 7.9,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Ciencia ficción",
-            "Fantasía"
-          ],
-          "cast": "Kristina Bogic, Sara Boustany, Geena Meszaros, Nnamdi Asomugha, Louisa Krause",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-          "slug": "el-cuerpo",
-          "tmdbId": "291507",
           "type": "series"
         }
       ]
