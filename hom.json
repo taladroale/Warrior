@@ -2,8 +2,8 @@
   "movieHero": [
     {
       "title": "Los Juegos del Hambre: Amanecer en la cosecha",
-      "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "rating": 7.5,
+      "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "rating": 7.31,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -11,7 +11,7 @@
         "Aventura"
       ],
       "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close",
-      "posterUrl": "https://image.tmdb.org/t/p/original/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/original/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/original/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "slug": "los-juegos-del-hambre-amanecer-en-la-cosecha",
       "tmdbId": "1300968",
@@ -35,6 +35,24 @@
       "tmdbId": "1368337",
       "type": "movie",
       "duration": "173 min"
+    },
+    {
+      "title": "Perfectos mentirosos",
+      "synopsis": "Bienvenidos a Tagus, donde el poder, el privilegio y los secretos mortales se esconden tras fachadas perfectas. Jude Derry llega a esta exclusiva universidad con una misión oculta: infiltrarse en el círculo de los hermanos Cash para descubrir la verdad sobre la muerte de su hermano. Los tres herederos del imperio familiar, Aegan, el carismático y calculador primogénito, Adrik, el enigmático y misterioso hermano mediano, y Alex, el rebelde e impredecible hermano pequeño, dominan Tagus con un magnetismo al que nadie puede resistirse. Lo que comienza como una venganza personal se transforma en un peligroso triángulo de seducción, atracción prohibida y mentiras cuando Jude queda envuelta en la compleja dinámica familiar de los Cash. Con cada pista que descubre, se acerca más a una verdad que podría no solo destruir a la poderosa familia… sino también desvelar secretos que quizás ella misma no está preparada para enfrentar.",
+      "rating": 0,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Suspenso"
+      ],
+      "cast": "Irene Balmes, Gleb Abrosimov, Pau Simon, Pablo Scapigliati, Asier Etxeandia",
+      "posterUrl": "https://image.tmdb.org/t/p/original/1amYmUeoBi23kGcR2pWQclEzXk2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
+      "slug": "perfectos-mentirosos",
+      "tmdbId": "1568060",
+      "type": "movie",
+      "duration": "103 min"
     },
     {
       "title": "Guardaespaldas por navidad",
@@ -86,24 +104,6 @@
       "tmdbId": "1561834",
       "type": "movie",
       "duration": "122 min"
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.5,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ],
-      "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
-      "posterUrl": "https://image.tmdb.org/t/p/original/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/dzeCorl61ZdxbzfnciUkrc8JSZj.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681",
-      "type": "movie",
-      "duration": "145 min"
     }
   ],
   "seriesHero": [
@@ -121,24 +121,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "slug": "mobland",
       "tmdbId": "247718",
-      "type": "series"
-    },
-    {
-      "title": "El Señor de los Anillos: Los Anillos de Poder",
-      "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
-      "rating": 7.2,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Owain Arthur, Sophia Nomvete",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-      "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
-      "tmdbId": "84773",
       "type": "series"
     },
     {
@@ -178,20 +160,21 @@
       "type": "series"
     },
     {
-      "title": "El cuerpo",
-      "synopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
-      "rating": 7.9,
-      "year": "2026",
+      "title": "El Señor de los Anillos: Los Anillos de Poder",
+      "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
+      "rating": 7.22,
+      "year": "2022",
       "genres": [
-        "Drama",
+        "Acción",
+        "Aventura",
         "Ciencia ficción",
         "Fantasía"
       ],
-      "cast": "Kristina Bogic, Sara Boustany, Geena Meszaros, Nnamdi Asomugha, Louisa Krause",
-      "posterUrl": "https://image.tmdb.org/t/p/original/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-      "slug": "el-cuerpo",
-      "tmdbId": "291507",
+      "cast": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Owain Arthur, Sophia Nomvete",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+      "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
+      "tmdbId": "84773",
       "type": "series"
     },
     {
@@ -209,6 +192,23 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
       "slug": "dexter-resurreccion",
       "tmdbId": "259909",
+      "type": "series"
+    },
+    {
+      "title": "El cuerpo",
+      "synopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
+      "rating": 7.9,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Kristina Bogic, Sara Boustany, Geena Meszaros, Nnamdi Asomugha, Louisa Krause",
+      "posterUrl": "https://image.tmdb.org/t/p/original/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "slug": "el-cuerpo",
+      "tmdbId": "291507",
       "type": "series"
     }
   ],
@@ -880,7 +880,7 @@
         {
           "title": "12 12 12",
           "synopsis": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales.",
-          "rating": 6.2,
+          "rating": 6.1,
           "year": "2026",
           "genres": [
             "Acción",
