@@ -55,23 +55,6 @@
       "duration": "103 min"
     },
     {
-      "title": "Guardaespaldas por navidad",
-      "synopsis": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
-      "rating": 7.4,
-      "year": "2026",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "cast": "Leighton Meester, Jared Padalecki, Andie MacDowell, Walker Hayes, Noah LaLonde",
-      "posterUrl": "https://image.tmdb.org/t/p/original/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-      "slug": "guardaespaldas-por-navidad",
-      "tmdbId": "1551025",
-      "type": "movie",
-      "duration": "109 min"
-    },
-    {
       "title": "Madden",
       "synopsis": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
       "rating": 0,
@@ -89,21 +72,39 @@
       "duration": "110 min"
     },
     {
-      "title": "La última cena",
-      "synopsis": "Bekir está en una misión encubierta, y en su ruta de escape se cruza con una joven pianista, Sebahat. Este es el inicio de los sucesos que unirán sus destinos. Sebahat, años después, invita a sus cuatro vecinas a cenar. Ahí, las invitadas comienzan a escuchar la épica historia de amor de Sebahat, y el doloroso pasado de ella y Bekir resurge. Una relación amorosa que desafía al destino.",
-      "rating": 9,
+      "title": "Guardaespaldas por navidad",
+      "synopsis": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
+      "rating": 7.4,
       "year": "2026",
       "genres": [
         "Romance",
-        "Drama"
+        "Comedia"
       ],
-      "cast": "Öykü Karayel, Özcan Deniz, Nejat İşler, Helin Kandemir, Gonca Vuslateri",
-      "posterUrl": "https://image.tmdb.org/t/p/original/gEnlXUpFG2dK8Roakyxcy69yphw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/u3riq0UYL2aowB6u1xScMfDUFmr.jpg",
-      "slug": "la-ultima-cena-1561834",
-      "tmdbId": "1561834",
+      "cast": "Leighton Meester, Jared Padalecki, Andie MacDowell, Walker Hayes, Noah LaLonde",
+      "posterUrl": "https://image.tmdb.org/t/p/original/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "slug": "guardaespaldas-por-navidad",
+      "tmdbId": "1551025",
       "type": "movie",
-      "duration": "122 min"
+      "duration": "109 min"
+    },
+    {
+      "title": "The Last Temptation of Becky",
+      "synopsis": "Now working as a field agent for the CIA, Becky is sent undercover to Poland to infiltrate a family of innkeepers running a tourist venture at The Wolf's Lair, Hitler's WWII bunker. After learning that the father, Wilhelm Reuss, is on a mission to bring about the Fourth Reich, Becky takes matters into her own hands.",
+      "rating": 4.5,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Terror",
+        "Suspenso"
+      ],
+      "cast": "Lulu Wilson, Neil Patrick Harris, James Urbaniak, Kate Siegel, Desmond Eastwood",
+      "posterUrl": "https://image.tmdb.org/t/p/original/dS2EUbnMyfv1bWsGa6GBgzwp5cF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/9o9ITSmTuI3Lof4ayV1dQUEez4k.jpg",
+      "slug": "the-last-temptation-of-becky",
+      "tmdbId": "1642568",
+      "type": "movie",
+      "duration": "89 min"
     }
   ],
   "seriesHero": [
@@ -160,6 +161,23 @@
       "type": "series"
     },
     {
+      "title": "Dexter: Resurrección",
+      "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
+      "rating": 8.5,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Michael C. Hall, Uma Thurman, Jack Alcott, Dan Stevens, Bokeem Woodbine",
+      "posterUrl": "https://image.tmdb.org/t/p/original/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+      "slug": "dexter-resurreccion",
+      "tmdbId": "259909",
+      "type": "series"
+    },
+    {
       "title": "El Señor de los Anillos: Los Anillos de Poder",
       "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
       "rating": 7.22,
@@ -175,23 +193,6 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
       "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
       "tmdbId": "84773",
-      "type": "series"
-    },
-    {
-      "title": "Dexter: Resurrección",
-      "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-      "rating": 8.5,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Michael C. Hall, Uma Thurman, Jack Alcott, Dan Stevens, Bokeem Woodbine",
-      "posterUrl": "https://image.tmdb.org/t/p/original/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-      "slug": "dexter-resurreccion",
-      "tmdbId": "259909",
       "type": "series"
     },
     {
