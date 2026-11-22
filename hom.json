@@ -73,23 +73,6 @@
       "duration": "103 min"
     },
     {
-      "title": "Guardaespaldas por navidad",
-      "synopsis": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
-      "rating": 7.4,
-      "year": "2026",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "cast": "Leighton Meester, Jared Padalecki, Andie MacDowell, Walker Hayes, Noah LaLonde",
-      "posterUrl": "https://image.tmdb.org/t/p/original/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-      "slug": "guardaespaldas-por-navidad",
-      "tmdbId": "1551025",
-      "type": "movie",
-      "duration": "109 min"
-    },
-    {
       "title": "Madden",
       "synopsis": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
       "rating": 0,
@@ -105,6 +88,23 @@
       "tmdbId": "1131943",
       "type": "movie",
       "duration": "110 min"
+    },
+    {
+      "title": "Guardaespaldas por navidad",
+      "synopsis": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
+      "rating": 7.4,
+      "year": "2026",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "cast": "Leighton Meester, Jared Padalecki, Andie MacDowell, Walker Hayes, Noah LaLonde",
+      "posterUrl": "https://image.tmdb.org/t/p/original/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+      "slug": "guardaespaldas-por-navidad",
+      "tmdbId": "1551025",
+      "type": "movie",
+      "duration": "109 min"
     }
   ],
   "seriesHero": [
@@ -179,7 +179,7 @@
     {
       "title": "Dexter: Resurrección",
       "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-      "rating": 8.54,
+      "rating": 8.5,
       "year": "2025",
       "genres": [
         "Crimen",
@@ -801,14 +801,14 @@
         {
           "title": "Gordon",
           "synopsis": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
-          "rating": 8.5,
+          "rating": 6.8,
           "year": "2026",
           "genres": [
             "Drama",
             "Crimen"
           ],
           "cast": "Rodrigo de la Serna, Matías Recalt, Camila Peralta, Fiorella Bottaioli, Agustín Pardella",
-          "posterUrl": "https://image.tmdb.org/t/p/original/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
+          "posterUrl": "https://image.tmdb.org/t/p/original/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
           "backdropUrl": "https://image.tmdb.org/t/p/original/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
           "slug": "gordon",
           "tmdbId": "340280",
