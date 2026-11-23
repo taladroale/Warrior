@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T20:38:15Z",
+  "updatedAt": "2026-11-23T15:09:10Z",
   "source": "cine",
   "peliculas": {
     "11": {"slug": "la-guerra-de-las-galaxias"},
@@ -8202,6 +8202,7 @@
     "77866-": {"slug": "contrabando"}
   },
   "series": {
+    "387": {"slug": "bob-esponja"},
     "456": {"slug": "los-simpson"},
     "580": {"slug": "viaje-a-las-estrellas-espacio-profundo-nueve"},
     "607": {"slug": "las-chicas-superpoderosas"},
@@ -8222,8 +8223,10 @@
     "1422": {"slug": "the-middle"},
     "1434": {"slug": "padre-de-familia"},
     "1480": {"slug": "ally-mcbeal"},
+    "1620": {"slug": "csi-miami"},
     "1622": {"slug": "supernatural"},
     "1719": {"slug": "gargolas"},
+    "1781": {"slug": "la-familia-ingalls"},
     "1835": {"slug": "kenan-y-kel"},
     "1855": {"slug": "star-trek-voyager"},
     "1981": {"slug": "hechiceras"},
@@ -8412,6 +8415,7 @@
     "80307": {"slug": "guardaespaldas"},
     "80336": {"slug": "little-america"},
     "80626": {"slug": "samantha"},
+    "80748": {"slug": "f-b-i"},
     "80752": {"slug": "see-online-gratis-en-cinecalidad"},
     "80968": {"slug": "narcos-mexico"},
     "81290": {"slug": "el-metodo-kominsky"},
