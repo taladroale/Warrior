@@ -55,6 +55,41 @@
       "duration": "107 min"
     },
     {
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 8.5,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
+      "posterUrl": "https://image.tmdb.org/t/p/original/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dzeCorl61ZdxbzfnciUkrc8JSZj.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681",
+      "type": "movie",
+      "duration": "145 min"
+    },
+    {
+      "title": "El Precio de la Red",
+      "synopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
+      "rating": 7,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Suspenso"
+      ],
+      "cast": "Mikey Madison, Jeremy Allen White, Jeremy Strong, Betty Gilpin, Bill Burr",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+      "slug": "el-precio-de-la-red",
+      "tmdbId": "1281331",
+      "type": "movie",
+      "duration": "113 min"
+    },
+    {
       "title": "Perfectos mentirosos",
       "synopsis": "Bienvenidos a Tagus, donde el poder, el privilegio y los secretos mortales se esconden tras fachadas perfectas. Jude Derry llega a esta exclusiva universidad con una misión oculta: infiltrarse en el círculo de los hermanos Cash para descubrir la verdad sobre la muerte de su hermano. Los tres herederos del imperio familiar, Aegan, el carismático y calculador primogénito, Adrik, el enigmático y misterioso hermano mediano, y Alex, el rebelde e impredecible hermano pequeño, dominan Tagus con un magnetismo al que nadie puede resistirse. Lo que comienza como una venganza personal se transforma en un peligroso triángulo de seducción, atracción prohibida y mentiras cuando Jude queda envuelta en la compleja dinámica familiar de los Cash. Con cada pista que descubre, se acerca más a una verdad que podría no solo destruir a la poderosa familia… sino también desvelar secretos que quizás ella misma no está preparada para enfrentar.",
       "rating": 0,
@@ -71,77 +106,9 @@
       "tmdbId": "1568060",
       "type": "movie",
       "duration": "103 min"
-    },
-    {
-      "title": "Guardaespaldas por navidad",
-      "synopsis": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
-      "rating": 7.4,
-      "year": "2026",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "cast": "Leighton Meester, Jared Padalecki, Andie MacDowell, Walker Hayes, Noah LaLonde",
-      "posterUrl": "https://image.tmdb.org/t/p/original/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-      "slug": "guardaespaldas-por-navidad",
-      "tmdbId": "1551025",
-      "type": "movie",
-      "duration": "109 min"
-    },
-    {
-      "title": "Madden",
-      "synopsis": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
-      "rating": 0,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Historia"
-      ],
-      "cast": "Nicolas Cage, Christian Bale, John Mulaney, Kathryn Hahn, Sienna Miller",
-      "posterUrl": "https://image.tmdb.org/t/p/original/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
-      "slug": "madden",
-      "tmdbId": "1131943",
-      "type": "movie",
-      "duration": "110 min"
     }
   ],
   "seriesHero": [
-    {
-      "title": "Tierra de mafiosos",
-      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
-      "rating": 8.68,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama"
-      ],
-      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "slug": "mobland",
-      "tmdbId": "247718",
-      "type": "series"
-    },
-    {
-      "title": "El Señor de los Anillos: Los Anillos de Poder",
-      "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
-      "rating": 7.2,
-      "year": "2022",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Owain Arthur, Sophia Nomvete",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
-      "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
-      "tmdbId": "84773",
-      "type": "series"
-    },
     {
       "title": "El camino azul",
       "synopsis": "Dos inspectores colaboran tras una oleada de asesinatos brutales y mensajes en clave que trascienden fronteras. La verdad, sin embargo, acecha peligrosamente cerca.",
@@ -159,6 +126,22 @@
       "type": "series"
     },
     {
+      "title": "Tierra de mafiosos",
+      "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
+      "rating": 8.68,
+      "year": "2025",
+      "genres": [
+        "Crimen",
+        "Drama"
+      ],
+      "cast": "Tom Hardy, Pierce Brosnan, Paddy Considine, Joanne Froggatt, Lara Pulver",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "slug": "mobland",
+      "tmdbId": "247718",
+      "type": "series"
+    },
+    {
       "title": "El cuerpo",
       "synopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
       "rating": 7.9,
@@ -173,6 +156,24 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
       "slug": "el-cuerpo",
       "tmdbId": "291507",
+      "type": "series"
+    },
+    {
+      "title": "El Señor de los Anillos: Los Anillos de Poder",
+      "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
+      "rating": 7.22,
+      "year": "2022",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Owain Arthur, Sophia Nomvete",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+      "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
+      "tmdbId": "84773",
       "type": "series"
     },
     {
@@ -196,20 +197,19 @@
       "type": "series"
     },
     {
-      "title": "VisionQuest",
-      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
-      "rating": 8.24,
-      "year": "2026",
+      "title": "Yellowjackets",
+      "synopsis": "Después de un accidente de avión en las profundidades de Ontario, los miembros de un equipo de fútbol femenino son los únicos supervivientes del accidente. Las chicas de secundaria tendrán que luchar por su supervivencia contra los clanes caníbales.",
+      "rating": 7.4,
+      "year": "2021",
       "genres": [
-        "Ciencia ficción",
-        "Fantasía",
-        "Drama"
+        "Drama",
+        "Misterio"
       ],
-      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
-      "posterUrl": "https://image.tmdb.org/t/p/original/oi9AqvVPEIjuQW3YmoFquoQKllj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "slug": "visionquest",
-      "tmdbId": "213375",
+      "cast": "Melanie Lynskey, Tawny Cypress, Sophie Nélisse, Jasmin Savoy Brown, Sophie Thatcher",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+      "slug": "yellowjackets",
+      "tmdbId": "117488",
       "type": "series"
     }
   ],
@@ -219,6 +219,56 @@
       "type": "movie",
       "seeMoreSlug": "ultimas",
       "items": [
+        {
+          "title": "Rammstein: Live in Mexico City",
+          "synopsis": "Una recopilación de tres noches que captura sus espectaculares conciertos de octubre de 2022 en el estadio Foro Sol de Ciudad de México, durante la etapa del *Stadium Tour*. Esta actuación en vivo se ha convertido en la más multitudinaria y extensa de toda la carrera de la banda.",
+          "rating": 9,
+          "year": "2026",
+          "genres": [
+            "Música",
+            "Documental"
+          ],
+          "cast": "Till Lindemann, Richard Kruspe, Christoph Schneider, Paul Landers, Oliver Riedel",
+          "posterUrl": "https://image.tmdb.org/t/p/original/jWASRyL51gUMeQJuZLdgDC3rTKa.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/3lmCHJoL2qtohUPEZLC5PdwA558.jpg",
+          "slug": "rammstein-live-in-mexico-city",
+          "tmdbId": "1753205",
+          "type": "movie",
+          "duration": "148 min"
+        },
+        {
+          "title": "Pacífico",
+          "synopsis": "A group of young travelers are stranded on an island in the Pacific where they struggle to escape an evil presence kept hidden from mankind for centuries.",
+          "rating": 10,
+          "year": "2026",
+          "genres": [
+            "Terror",
+            "Ciencia ficción"
+          ],
+          "cast": "María Gabriela de Faría, Manolo Cardona, Claudio Cataño, Ricardo Abarca, Diana Neira",
+          "posterUrl": "https://image.tmdb.org/t/p/original/nB1Hq2Gz8Q5lUQAGDHNdXbyfoIF.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/g8RivCxBNzYeouwqUe15gmKWt3T.jpg",
+          "slug": "pacifico",
+          "tmdbId": "890216",
+          "type": "movie",
+          "duration": "105 min"
+        },
+        {
+          "title": "La última semana de Jesús",
+          "synopsis": "Un retrato íntimo y profundamente humano de la última semana de Jesús en Jerusalén, siguiendo los acontecimientos desde su llegada triunfal hasta los días que condujeron a su crucifixión.",
+          "rating": 7,
+          "year": "2026",
+          "genres": [
+            "Drama"
+          ],
+          "cast": "Marc Clotet, Sonya Smith, Carlos Acosta-Milian, Arap Bethke, Juan Pablo Llano",
+          "posterUrl": "https://image.tmdb.org/t/p/original/vyydLcjP4KJqeQENYmcajZ2bfIN.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/r7ORSooNJYsL4sfNKkAbtMDuLMm.jpg",
+          "slug": "la-ultima-semana-de-jesus",
+          "tmdbId": "1792069",
+          "type": "movie",
+          "duration": "81 min"
+        },
         {
           "title": "Vino para robar",
           "synopsis": "Sebastián y Natalia son dos ladrones profesionales que se conocieron mientras intentaban, cada uno por su cuenta, robar una importante pieza de arte de un museo. Ahora tendrán que trabajar juntos en contra de su voluntad, para llevar adelante un robo mucho más complejo. Tienen que sacar de la bóveda de un banco mendocino, una valiosa y única botella de Malbec de mediados del siglo XIX. No pueden fallar, ya que su vida depende de ello.",
@@ -340,57 +390,6 @@
           "tmdbId": "858",
           "type": "movie",
           "duration": "104 min"
-        },
-        {
-          "title": "Unbearable Christmas",
-          "synopsis": "Out-of-work weatherman Troy Tipton has one Christmas mission: retrieve the beloved teddy bear he pawned for holiday cash. With wife Becca, mother-in-law Dawn, and the kids in tow, Troy hits the road from Ohio to Florida in his old news van. But the family road trip gets even wilder when they discover the cherished bear is actually a priceless Teddy Roosevelt antique worth millions.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Comedia",
-            "Familia"
-          ],
-          "cast": "Julia Stiles, Alex Moffat, Caroline Rhea, Kennedy Moyer, Ben Lewis Doherty",
-          "posterUrl": "https://image.tmdb.org/t/p/original/8GFwwkwj4X7a5ejPlsRGuWSZ6PU.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/l5F9srTwYesGHzhPdBZDrktWYk1.jpg",
-          "slug": "unbearable-christmas",
-          "tmdbId": "1458249",
-          "type": "movie"
-        },
-        {
-          "title": "Breeder",
-          "synopsis": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
-          "rating": 5.8,
-          "year": "2026",
-          "genres": [
-            "Terror",
-            "Suspenso"
-          ],
-          "cast": "Daniel Doheny, Dot-Marie Jones, Maddie Phillips, Tanaya Beatty, Paige McGarvin",
-          "posterUrl": "https://image.tmdb.org/t/p/original/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
-          "slug": "breeder",
-          "tmdbId": "1496696",
-          "type": "movie",
-          "duration": "97 min"
-        },
-        {
-          "title": "Noroi (La maldición)",
-          "synopsis": "Masafumi Kobayashi es un reportero de lo sobrenatural. Su último documental nunca fue mostrado al publico por ser considerado demasiado perturbador para la televisión, ese famoso y ultrasecreto documental es Noroi, La maldición.",
-          "rating": 6.89,
-          "year": "2005",
-          "genres": [
-            "Terror",
-            "Misterio",
-            "Suspenso"
-          ],
-          "cast": "村木仁, 松本まりか, Satoru Jitsunashi, Rio Kanno, Tomono Kuga",
-          "posterUrl": "https://image.tmdb.org/t/p/original/7u7ajjFOCtbCDb6PEcEakve9hdH.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/9gF8o7nNCWtzYiiAkvPNGw4yxsg.jpg",
-          "slug": "noroi-la-maldicion",
-          "tmdbId": "21506",
-          "type": "movie",
-          "duration": "115 min"
         }
       ]
     },
