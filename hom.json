@@ -1,6 +1,40 @@
 {
   "movieHero": [
     {
+      "title": "El Precio de la Red",
+      "synopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
+      "rating": 7,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Suspenso"
+      ],
+      "cast": "Mikey Madison, Jeremy Allen White, Jeremy Strong, Wunmi Mosaku, Betty Gilpin",
+      "posterUrl": "https://image.tmdb.org/t/p/original/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+      "slug": "el-precio-de-la-red",
+      "tmdbId": "1281331",
+      "type": "movie",
+      "duration": "113 min"
+    },
+    {
+      "title": "Bronca Navidad",
+      "synopsis": "Dos editores rivales, Ryan Michell y Hannah Hendricks, se quedan tirados por una nevada navideña y se ven obligados a alquilar un coche para viajar a Nueva York, donde podrán salvar su carrera. Conforme se acumulan los percances en carretera y los desvíos hacia pueblecitos, el espíritu navideño consigue que su gran rivalidad se convierta en algo inesperado.",
+      "rating": 7.11,
+      "year": "2026",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ],
+      "cast": "Christopher Briney, Michelle Randolph, Lukas Gage, Paris Hilton, Julia Fox",
+      "posterUrl": "https://image.tmdb.org/t/p/original/ftCr0HXk945B19kJw3fO2L9n8yI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+      "slug": "bronca-navidad",
+      "tmdbId": "1611767",
+      "type": "movie",
+      "duration": "110 min"
+    },
+    {
       "title": "Los Juegos del Hambre: Amanecer en la cosecha",
       "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
       "rating": 7.31,
@@ -35,40 +69,6 @@
       "tmdbId": "1368337",
       "type": "movie",
       "duration": "173 min"
-    },
-    {
-      "title": "Bronca Navidad",
-      "synopsis": "Dos editores rivales, Ryan Michell y Hannah Hendricks, se quedan tirados por una nevada navideña y se ven obligados a alquilar un coche para viajar a Nueva York, donde podrán salvar su carrera. Conforme se acumulan los percances en carretera y los desvíos hacia pueblecitos, el espíritu navideño consigue que su gran rivalidad se convierta en algo inesperado.",
-      "rating": 7.11,
-      "year": "2026",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ],
-      "cast": "Christopher Briney, Michelle Randolph, Lukas Gage, Paris Hilton, Julia Fox",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ftCr0HXk945B19kJw3fO2L9n8yI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
-      "slug": "bronca-navidad",
-      "tmdbId": "1611767",
-      "type": "movie",
-      "duration": "110 min"
-    },
-    {
-      "title": "El Precio de la Red",
-      "synopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
-      "rating": 7,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Suspenso"
-      ],
-      "cast": "Mikey Madison, Jeremy Allen White, Jeremy Strong, Wunmi Mosaku, Betty Gilpin",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-      "slug": "el-precio-de-la-red",
-      "tmdbId": "1281331",
-      "type": "movie",
-      "duration": "113 min"
     },
     {
       "title": "Hermanastras",
@@ -109,6 +109,21 @@
   ],
   "seriesHero": [
     {
+      "title": "Dig",
+      "synopsis": "Sigue la historia de cuatro mujeres que trabajan en una excavación arqueológica en Grecia. Cuando el equipo descubre un secreto enterrado hace mucho tiempo con el potencial de reescribir la historia, se ven envueltas en una peligrosa conspiración internacional.",
+      "rating": 7.1,
+      "year": "2026",
+      "genres": [
+        "Comedia"
+      ],
+      "cast": "Amy Poehler, Hugh Laurie, Geraldine Viswanathan, Antonia Thomas, Fina Strazza",
+      "posterUrl": "https://image.tmdb.org/t/p/original/l44uAt5yfDOxJeiB0t3B6xNlbxu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/8onvZbxTmP3XpuzKfLsBSm3WXMg.jpg",
+      "slug": "dig",
+      "tmdbId": "290826",
+      "type": "series"
+    },
+    {
       "title": "Tierra de mafiosos",
       "synopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo.",
       "rating": 8.7,
@@ -122,6 +137,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
       "slug": "mobland",
       "tmdbId": "247718",
+      "type": "series"
+    },
+    {
+      "title": "El camino azul",
+      "synopsis": "Dos inspectores colaboran tras una oleada de asesinatos brutales y mensajes en clave que trascienden fronteras. La verdad, sin embargo, acecha peligrosamente cerca.",
+      "rating": 7.8,
+      "year": "2026",
+      "genres": [
+        "Crimen",
+        "Misterio"
+      ],
+      "cast": "손석구, 永山瑛太",
+      "posterUrl": "https://image.tmdb.org/t/p/original/knb9JmYjCpBfMxFRfGhslV8fzxV.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+      "slug": "el-camino-azul",
+      "tmdbId": "300523",
       "type": "series"
     },
     {
@@ -160,56 +191,20 @@
       "type": "series"
     },
     {
-      "title": "El camino azul",
-      "synopsis": "Dos inspectores colaboran tras una oleada de asesinatos brutales y mensajes en clave que trascienden fronteras. La verdad, sin embargo, acecha peligrosamente cerca.",
-      "rating": 7.8,
+      "title": "VisionQuest",
+      "synopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "rating": 8.2,
       "year": "2026",
       "genres": [
-        "Crimen",
-        "Misterio"
-      ],
-      "cast": "손석구, 永山瑛太",
-      "posterUrl": "https://image.tmdb.org/t/p/original/knb9JmYjCpBfMxFRfGhslV8fzxV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
-      "slug": "el-camino-azul",
-      "tmdbId": "300523",
-      "type": "series"
-    },
-    {
-      "title": "Percy Jackson y los dioses del Olimpo",
-      "synopsis": "Percy Jackson emprende una peligrosa misión. Dejando atrás a los monstruos y burlando a los dioses, recorrerá Estados Unidos para devolver el Rayo Maestro de Zeus y evitar la guerra. Con ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo acercará más a las respuestas que busca: cómo encajar en un mundo que le es ajeno y si logrará entender su destino.",
-      "rating": 7.3,
-      "year": "2023",
-      "genres": [
-        "Acción",
-        "Aventura",
         "Ciencia ficción",
         "Fantasía",
-        "Drama",
-        "Familia"
+        "Drama"
       ],
-      "cast": "Walker Scobell, Leah Sava Jeffries, Aryan Simhadri, Charlie Bushnell, Tamara Smart",
-      "posterUrl": "https://image.tmdb.org/t/p/original/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
-      "slug": "percy-jackson-y-los-dioses-del-olimpo",
-      "tmdbId": "103540",
-      "type": "series"
-    },
-    {
-      "title": "Dexter: Resurrección",
-      "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
-      "rating": 8.5,
-      "year": "2025",
-      "genres": [
-        "Crimen",
-        "Drama",
-        "Misterio"
-      ],
-      "cast": "Michael C. Hall, Uma Thurman, Jack Alcott, Dan Stevens, Bokeem Woodbine",
-      "posterUrl": "https://image.tmdb.org/t/p/original/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-      "slug": "dexter-resurreccion",
-      "tmdbId": "259909",
+      "cast": "Paul Bettany, James Spader, Ruaridh Mollica, Todd Stashwick, Lauren Morais",
+      "posterUrl": "https://image.tmdb.org/t/p/original/oi9AqvVPEIjuQW3YmoFquoQKllj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "slug": "visionquest",
+      "tmdbId": "213375",
       "type": "series"
     }
   ],
@@ -577,6 +572,21 @@
       "seeMoreSlug": "ultimas-series",
       "items": [
         {
+          "title": "Dig",
+          "synopsis": "Sigue la historia de cuatro mujeres que trabajan en una excavación arqueológica en Grecia. Cuando el equipo descubre un secreto enterrado hace mucho tiempo con el potencial de reescribir la historia, se ven envueltas en una peligrosa conspiración internacional.",
+          "rating": 7.1,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Amy Poehler, Hugh Laurie, Geraldine Viswanathan, Antonia Thomas, Fina Strazza",
+          "posterUrl": "https://image.tmdb.org/t/p/original/l44uAt5yfDOxJeiB0t3B6xNlbxu.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8onvZbxTmP3XpuzKfLsBSm3WXMg.jpg",
+          "slug": "dig",
+          "tmdbId": "290826",
+          "type": "series"
+        },
+        {
           "title": "Los juicios de Karen Read",
           "synopsis": "An accident, a deadly fight or an elaborate cover-up? This true-crime series digs into the murder trials of Karen Read that sparked viral conspiracies.",
           "rating": 7,
@@ -725,21 +735,6 @@
           "slug": "yellowjackets",
           "tmdbId": "117488",
           "type": "series"
-        },
-        {
-          "title": "Ravalear",
-          "synopsis": "En el barrio barcelonés del Raval, un restaurante centenario, Can Moscas, está a punto de caer a manos de un fondo de inversión.",
-          "rating": 8.8,
-          "year": "2026",
-          "genres": [
-            "Drama"
-          ],
-          "cast": "Enric Auquer, Maria Rodríguez Soto, Quim Àvila Conde, Sergi López, Francesc Orella",
-          "posterUrl": "https://image.tmdb.org/t/p/original/xjsyBzXvR4b53yCodADzcLLAprs.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/wddfitFEskYIdbtN3bPss2ZFd2C.jpg",
-          "slug": "ravalear",
-          "tmdbId": "282696",
-          "type": "series"
         }
       ]
     },
@@ -748,6 +743,38 @@
       "type": "series",
       "seeMoreSlug": "estrenos-series",
       "items": [
+        {
+          "title": "Los juicios de Karen Read",
+          "synopsis": "An accident, a deadly fight or an elaborate cover-up? This true-crime series digs into the murder trials of Karen Read that sparked viral conspiracies.",
+          "rating": 7,
+          "year": "2026",
+          "genres": [
+            "Crimen",
+            "Documental",
+            "Drama"
+          ],
+          "cast": "Karen Read",
+          "posterUrl": "https://image.tmdb.org/t/p/original/876SDnMg7mRIgG1HEH1EtZ7ec9D.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg",
+          "slug": "los-juicios-de-karen-read",
+          "tmdbId": "340615",
+          "type": "series"
+        },
+        {
+          "title": "Dig",
+          "synopsis": "Sigue la historia de cuatro mujeres que trabajan en una excavación arqueológica en Grecia. Cuando el equipo descubre un secreto enterrado hace mucho tiempo con el potencial de reescribir la historia, se ven envueltas en una peligrosa conspiración internacional.",
+          "rating": 7.1,
+          "year": "2026",
+          "genres": [
+            "Comedia"
+          ],
+          "cast": "Amy Poehler, Hugh Laurie, Geraldine Viswanathan, Antonia Thomas, Fina Strazza",
+          "posterUrl": "https://image.tmdb.org/t/p/original/l44uAt5yfDOxJeiB0t3B6xNlbxu.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/8onvZbxTmP3XpuzKfLsBSm3WXMg.jpg",
+          "slug": "dig",
+          "tmdbId": "290826",
+          "type": "series"
+        },
         {
           "title": "El camino azul",
           "synopsis": "Dos inspectores colaboran tras una oleada de asesinatos brutales y mensajes en clave que trascienden fronteras. La verdad, sin embargo, acecha peligrosamente cerca.",
@@ -798,7 +825,7 @@
         {
           "title": "Gordon",
           "synopsis": "Aníbal Gordon, un ladrón de poca monta, termina convertido en asesino múltiple en la Argentina de la década de 1970. Una serie dramática basada en el libro de Marcelo Larraquy.",
-          "rating": 6.71,
+          "rating": 6.96,
           "year": "2026",
           "genres": [
             "Drama",
@@ -873,35 +900,6 @@
           "backdropUrl": "https://image.tmdb.org/t/p/original/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
           "slug": "el-crimen-de-pazos",
           "tmdbId": "303182",
-          "type": "series"
-        },
-        {
-          "title": "Infamia",
-          "synopsis": "Una tenaz abogada en plena crisis existencial se obsesiona con la misteriosa desaparición sin resolver de dos niñas hace veinte años.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Misterio",
-            "Drama"
-          ],
-          "cast": "Susana Abaitua, Jorge Bosch, Jon Olivares, Ane Gabarain, Iñigo Gastesi",
-          "posterUrl": "https://image.tmdb.org/t/p/original/ngq8DgkTahjjMM4UGbfmPIopjUX.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/j1eW6rSf2rpa9FqU6sg3YuUuoqE.jpg",
-          "slug": "infamia-315222",
-          "tmdbId": "315222",
-          "type": "series"
-        },
-        {
-          "title": "Valentín: La muerte del Gallo de Oro",
-          "synopsis": "Twenty years after the murder of the Mexican regional music icon, the production reconstructs the hours that shaped his story and revisits the questions that, two decades later, remain unanswered.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [],
-          "cast": "",
-          "posterUrl": "https://image.tmdb.org/t/p/original/3g4YJsWrUZ5tB3F3g99pcPHCCIX.jpg",
-          "backdropUrl": null,
-          "slug": "valentin-la-muerte-del-gallo-de-oro",
-          "tmdbId": "341769",
           "type": "series"
         }
       ]
