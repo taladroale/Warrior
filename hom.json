@@ -52,6 +52,24 @@
       "duration": "175 min"
     },
     {
+      "title": "Los Juegos del Hambre: Amanecer en la cosecha",
+      "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "rating": 7.31,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close",
+      "posterUrl": "https://image.tmdb.org/t/p/original/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "slug": "los-juegos-del-hambre-amanecer-en-la-cosecha",
+      "tmdbId": "1300968",
+      "type": "movie",
+      "duration": "159 min"
+    },
+    {
       "title": "Wicker",
       "synopsis": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella.",
       "rating": 7.5,
@@ -85,31 +103,13 @@
       "tmdbId": "1281331",
       "type": "movie",
       "duration": "113 min"
-    },
-    {
-      "title": "Los Juegos del Hambre: Amanecer en la cosecha",
-      "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "rating": 7.31,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ],
-      "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close",
-      "posterUrl": "https://image.tmdb.org/t/p/original/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-      "slug": "los-juegos-del-hambre-amanecer-en-la-cosecha",
-      "tmdbId": "1300968",
-      "type": "movie",
-      "duration": "159 min"
     }
   ],
   "seriesHero": [
     {
       "title": "El Señor de los Anillos: Los Anillos de Poder",
       "synopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición.",
-      "rating": 7.22,
+      "rating": 7.2,
       "year": "2022",
       "genres": [
         "Acción",
@@ -119,7 +119,7 @@
       ],
       "cast": "Charlie Vickers, Morfydd Clark, Robert Aramayo, Owain Arthur, Sophia Nomvete",
       "posterUrl": "https://image.tmdb.org/t/p/original/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/i1phX1JpaqSnHBBGta6LBFYVCZq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
       "slug": "el-senor-de-los-anillos-los-anillos-de-poder",
       "tmdbId": "84773",
       "type": "series"
@@ -158,23 +158,6 @@
       "type": "series"
     },
     {
-      "title": "Un amor infiltrado",
-      "synopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?",
-      "rating": 9,
-      "year": "2026",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Crimen"
-      ],
-      "cast": "Yim Si-wan, 설인아, 김정현, 연우",
-      "posterUrl": "https://image.tmdb.org/t/p/original/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
-      "slug": "un-amor-infiltrado",
-      "tmdbId": "303745",
-      "type": "series"
-    },
-    {
       "title": "12 12 12",
       "synopsis": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales.",
       "rating": 6.3,
@@ -205,6 +188,23 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/8onvZbxTmP3XpuzKfLsBSm3WXMg.jpg",
       "slug": "dig",
       "tmdbId": "290826",
+      "type": "series"
+    },
+    {
+      "title": "El cuerpo",
+      "synopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
+      "rating": 7.9,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Ciencia ficción",
+        "Fantasía"
+      ],
+      "cast": "Kristina Bogic, Sara Boustany, Geena Meszaros, Nnamdi Asomugha, Louisa Krause",
+      "posterUrl": "https://image.tmdb.org/t/p/original/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "slug": "el-cuerpo",
+      "tmdbId": "291507",
       "type": "series"
     }
   ],
@@ -605,7 +605,7 @@
         {
           "title": "Nocturno",
           "synopsis": "Cuando una víctima del famoso asesino en serie Jurek Walter reaparece viva de manera inesperada, el inspector Jonah Lynn inicia una carrera contrarreloj para encontrar a la única persona que sigue desaparecida, mientras que su protegida, Saga Bauer, se infiltra para obtener respuestas directamente del asesino.",
-          "rating": 7.65,
+          "rating": 7.67,
           "year": "2026",
           "genres": [
             "Crimen",
