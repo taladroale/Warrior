@@ -19,6 +19,23 @@
       "duration": "128 min"
     },
     {
+      "title": "Street Fighter",
+      "synopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+      "rating": 6.34,
+      "year": "2026",
+      "genres": [
+        "Acción",
+        "Fantasía"
+      ],
+      "cast": "Andrew Koji, Noah Centineo, Callina Liang, David Dastmalchian, Andrew Schulz",
+      "posterUrl": "https://image.tmdb.org/t/p/original/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+      "slug": "street-fighter-1153576",
+      "tmdbId": "1153576",
+      "type": "movie",
+      "duration": "120 min"
+    },
+    {
       "title": "El camino del pequeño guerrero",
       "synopsis": "Jake es un SEAL de la Marina herido que se convierte en el mentor de su tímido sobrino Marc. Utilizando los principios de su formación militar, Jake enseña a Marc a ser un pequeño guerrero cuando empieza el instituto.",
       "rating": 8.3,
@@ -54,6 +71,24 @@
       "duration": "159 min"
     },
     {
+      "title": "Spider-Man: Brand New Day",
+      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "rating": 8.5,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
+      "posterUrl": "https://image.tmdb.org/t/p/original/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dzeCorl61ZdxbzfnciUkrc8JSZj.jpg",
+      "slug": "spider-man-brand-new-day",
+      "tmdbId": "969681",
+      "type": "movie",
+      "duration": "145 min"
+    },
+    {
       "title": "Puedes verlo todo",
       "synopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
       "rating": 8.7,
@@ -68,48 +103,13 @@
       "tmdbId": "1765072",
       "type": "movie",
       "duration": "175 min"
-    },
-    {
-      "title": "Wicker",
-      "synopsis": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella.",
-      "rating": 7.5,
-      "year": "2026",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
-      ],
-      "cast": "Olivia Colman, Alexander Skarsgård, Peter Dinklage, Elizabeth Debicki, Marli Siu",
-      "posterUrl": "https://image.tmdb.org/t/p/original/ewPz6uvKrbKlQrLRi1r9NTZQLzN.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
-      "slug": "wicker",
-      "tmdbId": "1195803",
-      "type": "movie",
-      "duration": "105 min"
-    },
-    {
-      "title": "El Precio de la Red",
-      "synopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
-      "rating": 7,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Suspenso"
-      ],
-      "cast": "Mikey Madison, Jeremy Allen White, Jeremy Strong, Wunmi Mosaku, Betty Gilpin",
-      "posterUrl": "https://image.tmdb.org/t/p/original/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-      "slug": "el-precio-de-la-red",
-      "tmdbId": "1281331",
-      "type": "movie",
-      "duration": "113 min"
     }
   ],
   "seriesHero": [
     {
       "title": "Blade Runner 2099",
       "synopsis": "Cora, una fugitiva convertida en Blade Runner, se alía con Olwen, una replicante moribunda, para dar caza a un fugitivo en un Los Ángeles renacido. Juntas descubren una verdad que amenaza con destruir su frágil ciudad.",
-      "rating": 5.3,
+      "rating": 5.28,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -121,6 +121,22 @@
       "backdropUrl": "https://image.tmdb.org/t/p/original/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
       "slug": "blade-runner-2099",
       "tmdbId": "171802",
+      "type": "series"
+    },
+    {
+      "title": "Las esposas cazadoras",
+      "synopsis": "Sophie O'Neil se traslada al profundo este de Texas y sucumbe a los encantos de Margo, una socialité de la zona. Su vida pronto se ve consumida por la obsesión, la seducción y el asesinato",
+      "rating": 7,
+      "year": "2025",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ],
+      "cast": "Brittany Snow, Malin Akerman, Dermot Mulroney, Jaime Ray Newman, George Ferrier",
+      "posterUrl": "https://image.tmdb.org/t/p/original/1HaPE9JjSjwQpXunsq5otOA8Hdj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
+      "slug": "las-esposas-cazadoras",
+      "tmdbId": "244447",
       "type": "series"
     },
     {
@@ -142,25 +158,25 @@
       "type": "series"
     },
     {
-      "title": "Las esposas cazadoras",
-      "synopsis": "Sophie O'Neil se traslada al profundo este de Texas y sucumbe a los encantos de Margo, una socialité de la zona. Su vida pronto se ve consumida por la obsesión, la seducción y el asesinato",
-      "rating": 7,
-      "year": "2025",
+      "title": "Sweetpea",
+      "synopsis": "La chica que todos pasan por alto podría salir impune de un asesinato.",
+      "rating": 7.6,
+      "year": "2024",
       "genres": [
-        "Drama",
-        "Misterio"
+        "Comedia",
+        "Drama"
       ],
-      "cast": "Brittany Snow, Malin Akerman, Dermot Mulroney, Jaime Ray Newman, George Ferrier",
-      "posterUrl": "https://image.tmdb.org/t/p/original/1HaPE9JjSjwQpXunsq5otOA8Hdj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
-      "slug": "las-esposas-cazadoras",
-      "tmdbId": "244447",
+      "cast": "Ella Purnell, Nicôle Lecky, Jon Pointing, Calam Lynch, Leah Harvey",
+      "posterUrl": "https://image.tmdb.org/t/p/original/n89Fg4T6qrBuSBr2stIPWfgAq1F.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rT4wofiMisPvUq411oKw0PUp0iN.jpg",
+      "slug": "sweetpea",
+      "tmdbId": "218347",
       "type": "series"
     },
     {
       "title": "La emperatriz divorciada",
       "synopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental.",
-      "rating": 8.68,
+      "rating": 8.72,
       "year": "2026",
       "genres": [
         "Drama",
@@ -175,36 +191,19 @@
       "type": "series"
     },
     {
-      "title": "El cuerpo",
-      "synopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
-      "rating": 7.9,
-      "year": "2026",
-      "genres": [
-        "Drama",
-        "Ciencia ficción",
-        "Fantasía"
-      ],
-      "cast": "Kristina Bogic, Sara Boustany, Geena Meszaros, Nnamdi Asomugha, Louisa Krause",
-      "posterUrl": "https://image.tmdb.org/t/p/original/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-      "slug": "el-cuerpo",
-      "tmdbId": "291507",
-      "type": "series"
-    },
-    {
-      "title": "Sweetpea",
-      "synopsis": "La chica que todos pasan por alto podría salir impune de un asesinato.",
-      "rating": 7.6,
-      "year": "2024",
+      "title": "South Park",
+      "synopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park.",
+      "rating": 8.3,
+      "year": "1997",
       "genres": [
         "Comedia",
-        "Drama"
+        "Animación"
       ],
-      "cast": "Ella Purnell, Nicôle Lecky, Jon Pointing, Calam Lynch, Leah Harvey",
-      "posterUrl": "https://image.tmdb.org/t/p/original/n89Fg4T6qrBuSBr2stIPWfgAq1F.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rT4wofiMisPvUq411oKw0PUp0iN.jpg",
-      "slug": "sweetpea",
-      "tmdbId": "218347",
+      "cast": "Matt Stone, Mona Marshall, Jennifer Howell, John Hansen, Adrien Beard",
+      "posterUrl": "https://image.tmdb.org/t/p/original/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
+      "slug": "south-park",
+      "tmdbId": "2190",
       "type": "series"
     }
   ],
@@ -398,6 +397,24 @@
       "seeMoreSlug": "estrenos",
       "items": [
         {
+          "title": "Hershey",
+          "synopsis": "Based on the life of Milton Hershey, founder of the iconic Hershey chocolate company. Milton's grit and determination to conquer the world of candy-making propel him from bankruptcy to monumental success, and the love of his life, Kitty, helps him build a legacy sweeter than any candy bar. But when Kitty falls ill, Milton’s wild optimism teeters on the edge of destruction, and she sparks an even bolder dream: to leave their fortune in the hands of America’s children in need.",
+          "rating": 8.8,
+          "year": "2026",
+          "genres": [
+            "Drama",
+            "Historia",
+            "Romance"
+          ],
+          "cast": "Finn Wittrock, Alexandra Daddario, Alan Ruck, Richard Kind, David Costabile",
+          "posterUrl": "https://image.tmdb.org/t/p/original/ojd8Gu2bPsOzdMz6Ip5AYDu4Vki.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/mFAalGTR6PBJPPNbjVklMJ6OhSB.jpg",
+          "slug": "hershey",
+          "tmdbId": "1461490",
+          "type": "movie",
+          "duration": "110 min"
+        },
+        {
           "title": "El camino del pequeño guerrero",
           "synopsis": "Jake es un SEAL de la Marina herido que se convierte en el mentor de su tímido sobrino Marc. Utilizando los principios de su formación militar, Jake enseña a Marc a ser un pequeño guerrero cuando empieza el instituto.",
           "rating": 8.3,
@@ -413,6 +430,23 @@
           "tmdbId": "1280115",
           "type": "movie",
           "duration": "107 min"
+        },
+        {
+          "title": "All for Christmas",
+          "synopsis": "Podcaster Winona is forced to test love online by a holiday dating-app partnership, connecting with a mystery man who feels like everything she’s been missing. What she doesn’t know is that he’s Luke, the rugged renovator transforming her grandmother’s Christmas Eve venue — and the last guy she’d ever expect to fall for in real life.",
+          "rating": 5.5,
+          "year": "2026",
+          "genres": [
+            "Romance",
+            "Comedia"
+          ],
+          "cast": "Whitney Leavitt, Jesse Kove, Whitney Leavitt, Ansley Gordon, Ansley Gordon",
+          "posterUrl": "https://image.tmdb.org/t/p/original/nTGaI42KKPH8qongGzygDFcQriS.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/umIrgCdfDgZXXlzMCkLk38CURs.jpg",
+          "slug": "all-for-christmas",
+          "tmdbId": "1599329",
+          "type": "movie",
+          "duration": "87 min"
         },
         {
           "title": "Bronca Navidad",
@@ -532,40 +566,6 @@
           "tmdbId": "1299329",
           "type": "movie",
           "duration": "119 min"
-        },
-        {
-          "title": "Madden",
-          "synopsis": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial.",
-          "rating": 0,
-          "year": "2026",
-          "genres": [
-            "Drama",
-            "Historia"
-          ],
-          "cast": "Nicolas Cage, Christian Bale, John Mulaney, Kathryn Hahn, Sienna Miller",
-          "posterUrl": "https://image.tmdb.org/t/p/original/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
-          "slug": "madden",
-          "tmdbId": "1131943",
-          "type": "movie",
-          "duration": "110 min"
-        },
-        {
-          "title": "Guardaespaldas por navidad",
-          "synopsis": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real.",
-          "rating": 7.4,
-          "year": "2026",
-          "genres": [
-            "Romance",
-            "Comedia"
-          ],
-          "cast": "Leighton Meester, Jared Padalecki, Andie MacDowell, Walker Hayes, Noah LaLonde",
-          "posterUrl": "https://image.tmdb.org/t/p/original/baYwDjfwRQud2Eibpay4XgvYSmv.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
-          "slug": "guardaespaldas-por-navidad",
-          "tmdbId": "1551025",
-          "type": "movie",
-          "duration": "109 min"
         }
       ]
     }
@@ -661,7 +661,7 @@
         {
           "title": "Blade Runner 2099",
           "synopsis": "Cora, una fugitiva convertida en Blade Runner, se alía con Olwen, una replicante moribunda, para dar caza a un fugitivo en un Los Ángeles renacido. Juntas descubren una verdad que amenaza con destruir su frágil ciudad.",
-          "rating": 5.3,
+          "rating": 5.28,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
@@ -767,7 +767,7 @@
         {
           "title": "Blade Runner 2099",
           "synopsis": "Cora, una fugitiva convertida en Blade Runner, se alía con Olwen, una replicante moribunda, para dar caza a un fugitivo en un Los Ángeles renacido. Juntas descubren una verdad que amenaza con destruir su frágil ciudad.",
-          "rating": 5.3,
+          "rating": 5.28,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
