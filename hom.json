@@ -18,6 +18,41 @@
       "duration": "120 min"
     },
     {
+      "title": "Quasimodo, el alma de París",
+      "synopsis": "París, 1830. Mientras el cólera se extiende, un jorobado al que persiguen para hacer experimentos médicos con él se ve atrapado entre la inestabilidad política y un amor imposible.",
+      "rating": 8.6,
+      "year": "2026",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "cast": "Vincent Cassel, Karim Leklou, Daphné Patakia, Benjamin Voisin, Noémie Lvovsky",
+      "posterUrl": "https://image.tmdb.org/t/p/original/4EEuqprSmPmQhgRfGlqzlL97R2b.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/fILFJb7okqkNdzAataH4CxywwZX.jpg",
+      "slug": "quasimodo-el-alma-de-paris",
+      "tmdbId": "1480665",
+      "type": "movie",
+      "duration": "106 min"
+    },
+    {
+      "title": "Los Juegos del Hambre: Amanecer en la cosecha",
+      "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "rating": 7.31,
+      "year": "2026",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close",
+      "posterUrl": "https://image.tmdb.org/t/p/original/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "slug": "los-juegos-del-hambre-amanecer-en-la-cosecha",
+      "tmdbId": "1300968",
+      "type": "movie",
+      "duration": "159 min"
+    },
+    {
       "title": "Mosquito Bowl: Un partido en plena guerra",
       "synopsis": "Tras el ataque a Pearl Harbor, cuatro estrellas del fútbol americano renuncian a la fama para alistarse en el cuerpo de Marines. Durante la preparación de la brutal invasión de Okinawa, juegan un mítico partido en el que participan algunos de los mejores jugadores de la historia. Un partido que, para muchos, será el último de sus vidas.",
       "rating": 7.11,
@@ -69,49 +104,13 @@
       "tmdbId": "1280115",
       "type": "movie",
       "duration": "107 min"
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "synopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "rating": 8.5,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ],
-      "cast": "Tom Holland, Sadie Sink, Tramell Tillman, Zendaya, Jacob Batalon",
-      "posterUrl": "https://image.tmdb.org/t/p/original/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/dzeCorl61ZdxbzfnciUkrc8JSZj.jpg",
-      "slug": "spider-man-brand-new-day",
-      "tmdbId": "969681",
-      "type": "movie",
-      "duration": "145 min"
-    },
-    {
-      "title": "Los Juegos del Hambre: Amanecer en la cosecha",
-      "synopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "rating": 7.31,
-      "year": "2026",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ],
-      "cast": "Joseph Zada, Mckenna Grace, Ralph Fiennes, Jesse Plemons, Glenn Close",
-      "posterUrl": "https://image.tmdb.org/t/p/original/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-      "slug": "los-juegos-del-hambre-amanecer-en-la-cosecha",
-      "tmdbId": "1300968",
-      "type": "movie",
-      "duration": "159 min"
     }
   ],
   "seriesHero": [
     {
       "title": "Blade Runner 2099",
       "synopsis": "Cora, una fugitiva convertida en Blade Runner, se alía con Olwen, una replicante moribunda, para dar caza a un fugitivo en un Los Ángeles renacido. Juntas descubren una verdad que amenaza con destruir su frágil ciudad.",
-      "rating": 5.28,
+      "rating": 5.42,
       "year": "2026",
       "genres": [
         "Ciencia ficción",
@@ -120,7 +119,7 @@
       ],
       "cast": "Michelle Yeoh, Hunter Schafer, Dimitri Abold, Lewis Gribben, Cynthia Sikes Yorkin",
       "posterUrl": "https://image.tmdb.org/t/p/original/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/nuLUxzJ4bVVxafru5lgWfmcPOm7.jpg",
       "slug": "blade-runner-2099",
       "tmdbId": "171802",
       "type": "series"
@@ -128,7 +127,7 @@
     {
       "title": "Las esposas cazadoras",
       "synopsis": "Sophie O'Neil se traslada al profundo este de Texas y sucumbe a los encantos de Margo, una socialité de la zona. Su vida pronto se ve consumida por la obsesión, la seducción y el asesinato",
-      "rating": 7,
+      "rating": 6.97,
       "year": "2025",
       "genres": [
         "Drama",
@@ -160,22 +159,6 @@
       "type": "series"
     },
     {
-      "title": "Sweetpea",
-      "synopsis": "La chica que todos pasan por alto podría salir impune de un asesinato.",
-      "rating": 7.6,
-      "year": "2024",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ],
-      "cast": "Ella Purnell, Nicôle Lecky, Jon Pointing, Calam Lynch, Leah Harvey",
-      "posterUrl": "https://image.tmdb.org/t/p/original/n89Fg4T6qrBuSBr2stIPWfgAq1F.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/rT4wofiMisPvUq411oKw0PUp0iN.jpg",
-      "slug": "sweetpea",
-      "tmdbId": "218347",
-      "type": "series"
-    },
-    {
       "title": "Dexter: Resurrección",
       "synopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar.",
       "rating": 8.53,
@@ -193,20 +176,39 @@
       "type": "series"
     },
     {
-      "title": "El cuerpo",
-      "synopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal.",
-      "rating": 7.9,
-      "year": "2026",
+      "title": "Sweetpea",
+      "synopsis": "La chica que todos pasan por alto podría salir impune de un asesinato.",
+      "rating": 7.6,
+      "year": "2024",
       "genres": [
-        "Drama",
-        "Ciencia ficción",
-        "Fantasía"
+        "Comedia",
+        "Drama"
       ],
-      "cast": "Kristina Bogic, Sara Boustany, Geena Meszaros, Nnamdi Asomugha, Louisa Krause",
-      "posterUrl": "https://image.tmdb.org/t/p/original/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/original/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-      "slug": "el-cuerpo",
-      "tmdbId": "291507",
+      "cast": "Ella Purnell, Nicôle Lecky, Jon Pointing, Calam Lynch, Leah Harvey",
+      "posterUrl": "https://image.tmdb.org/t/p/original/n89Fg4T6qrBuSBr2stIPWfgAq1F.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/rT4wofiMisPvUq411oKw0PUp0iN.jpg",
+      "slug": "sweetpea",
+      "tmdbId": "218347",
+      "type": "series"
+    },
+    {
+      "title": "Percy Jackson y los dioses del Olimpo",
+      "synopsis": "Percy Jackson emprende una peligrosa misión. Dejando atrás a los monstruos y burlando a los dioses, recorrerá Estados Unidos para devolver el Rayo Maestro de Zeus y evitar la guerra. Con ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo acercará más a las respuestas que busca: cómo encajar en un mundo que le es ajeno y si logrará entender su destino.",
+      "rating": 7.27,
+      "year": "2023",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción",
+        "Fantasía",
+        "Drama",
+        "Familia"
+      ],
+      "cast": "Walker Scobell, Leah Sava Jeffries, Aryan Simhadri, Charlie Bushnell, Tamara Smart",
+      "posterUrl": "https://image.tmdb.org/t/p/original/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/original/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
+      "slug": "percy-jackson-y-los-dioses-del-olimpo",
+      "tmdbId": "103540",
       "type": "series"
     }
   ],
@@ -821,7 +823,7 @@
         {
           "title": "Blade Runner 2099",
           "synopsis": "Cora, una fugitiva convertida en Blade Runner, se alía con Olwen, una replicante moribunda, para dar caza a un fugitivo en un Los Ángeles renacido. Juntas descubren una verdad que amenaza con destruir su frágil ciudad.",
-          "rating": 5.2,
+          "rating": 5.42,
           "year": "2026",
           "genres": [
             "Ciencia ficción",
@@ -830,7 +832,7 @@
           ],
           "cast": "Michelle Yeoh, Hunter Schafer, Dimitri Abold, Lewis Gribben, Cynthia Sikes Yorkin",
           "posterUrl": "https://image.tmdb.org/t/p/original/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
-          "backdropUrl": "https://image.tmdb.org/t/p/original/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
+          "backdropUrl": "https://image.tmdb.org/t/p/original/nuLUxzJ4bVVxafru5lgWfmcPOm7.jpg",
           "slug": "blade-runner-2099",
           "tmdbId": "171802",
           "type": "series"
